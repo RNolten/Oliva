@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva & Marina Alta",
+    "datum": "2026-05-22",
+    "regio": "Marina Alta / La Safor (rond Oliva, Spanje)",
+    "run_type": "Dagelijkse run - focus op Ondara, Pedreguer, Els Poblets, Denia/Jesus Pobre",
+    "aantal": 5,
+    "marktcontext": "In de Marina Alta zijn vandaag 521 te renoveren woningen actief op Idealista. Ondara (14 listings) en Pedreguer (23 listings) bieden de scherpste prijs/m2-verhouding voor flip-objecten in het inland, met laag overstromingsrisico en voorspelbare vergunningstrajecten. Denia heeft 113 herbestemmingsobjecten en ligt bovenaan qua waarde (gem. 2.782 eur/m2). Els Poblets heeft een specifiek horeca-object met directe cashflow. Meerdere objecten zijn actief verlaagd (4-18%), wat duidt op een beweeglijke markt.",
+    "disclaimer": "Alle bedragen voor verbouwing, marge en rendement zijn schattingen op basis van regionale kengetallen (verbouwing 2026: 700-1.100 euro/m2; ITP 10%; ICIO 4% van de bouwbegroting). Vraagprijzen en beschikbaarheid wijzigen dagelijks. Dit is geen financieel of juridisch advies - laat elk object voor een bod controleren door een lokale arquitecto, gestor en abogado."
+  },
+  "kansen": [
+    {
+      "id": "denia-jesuspobre-vergunning-2026-05-22",
+      "titel": "Dorpshuis met goedgekeurd renovatieproject en bouwvergunning in Jesus Pobre",
+      "type": "Te flippen pand / instapklare renovatie",
+      "type_kort": "Flip-pand",
+      "plaats": "Jesus Pobre (Denia)",
+      "regio": "Marina Alta",
+      "vraagprijs": 299000,
+      "prijs_status": "Exacte vraagprijs",
+      "prijs_notitie": "299.000 euro voor een dorpshuis van 183 m2 inclusief een goedgekeurd renovatieproject en verleende bouwvergunning van de gemeente. Dat is uitzonderlijk: de vergunning vertegenwoordigt 3-6 maanden wachttijd die je niet meer hoeft door te maken.",
+      "kerngegevens": [
+        {"label": "Bebouwd oppervlak", "waarde": "183 m2"},
+        {"label": "Slaapkamers", "waarde": "4"},
+        {"label": "Bouwlagen", "waarde": "2"},
+        {"label": "Status vergunning", "waarde": "Goedgekeurd renovatieproject + bouwvergunning KLAAR"},
+        {"label": "Locatie", "waarde": "Calle Pare Pere, Jesus Pobre (gemeente Denia)"},
+        {"label": "Prijs per m2 bebouwd", "waarde": "1.634 eur/m2 - marktconform voor Denia"}
+      ],
+      "score": 84,
+      "score_label": "Sterk",
+      "strategie": "Renovatie-flip met voorsprong: de bouwvergunning is al binnen, je hoeft alleen nog de aannemer te starten. Na renovatie doorverkopen aan de sterke internationale kopersmarkt in de Denia-regio.",
+      "samenvatting": "Een dorpshuis van 183 m2 in Jesus Pobre, een rustig bergdorpje op 10 km van Denia en Javea, dat de zeldzame combinatie biedt van een volledig uitgewerkt renovatieproject en een al verleende bouwvergunning. Dat is de bottleneck van iedere flip gepasseerd voordat je begint. Jesus Pobre trekt expats die rust, privacy en natuur zoeken op loopafstand van de Costa Blanca.",
+      "voors": [
+        "Bouwvergunning KLAAR: de vergunningsfase (normaal 1-3 maanden wachten) is al doorlopen - je kunt direct aanbesteden.",
+        "Volledig uitgewerkt renovatieproject bespaart ook architectenkosten en planningsonzekerheid.",
+        "Denia/Jesus Pobre is een van de sterkste markten in de regio met hoge vraag van internationale kopers.",
+        "Jesus Pobre ligt op een helling - laag overstromingsrisico, ver van de marjal.",
+        "4 slaapkamers en 183 m2 is precies de gewenste maat voor de expat-koper die een volledig ingericht gezinshuis zoekt."
+      ],
+      "tegens": [
+        "299.000 euro is al een flinke instap; totaal project met verbouwing overschrijdt snel 450.000 euro.",
+        "Jesus Pobre is een kleine gemeente: de markt is smaller dan Denia centrum of de kust.",
+        "Verbouwing op basis van een andermans project vraagt kritische review door eigen aannemer.",
+        "Controleer dat de vergunning nog geldig is (Spaanse bouwvergunningen vervallen doorgaans na 2 jaar zonder start).",
+        "Precieze details over het project en de scope van de vergunde werkzaamheden moeten worden nagevraagd."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "299.000 euro"},
+          {"label": "Kosten koper (ITP 10% + notaris/registratie ca. 2,5%)", "waarde": "+/- 37.400 euro"},
+          {"label": "Verbouwingskosten (183 m2 x 700-1.100 eur/m2)", "waarde": "128.000 - 201.000 euro"},
+          {"label": "Totale investering", "waarde": "+/- 464.000 - 537.000 euro"},
+          {"label": "Verwachte verkoopwaarde (gerenoveerd, Jesus Pobre/Denia)", "waarde": "530.000 - 650.000 euro"},
+          {"label": "Indicatieve brutomarge", "waarde": "+/- 50.000 - 150.000 euro (10-28%)"}
+        ],
+        "conclusie": "De al verleende bouwvergunning is de echte waarde van dit object - dat versnelt de doorlooptijd fors en verlaagt het vergunningsrisico tot nul. De marge is reeel maar staat of valt met verbouwbudget. Controleer als eerste de geldigheid van de vergunning en de scope van het project."
+      },
+      "vergunning": "Volledig vergund renovatieproject - dit is het grootste concurrentievoordeel. Controleer: (1) de vervaldatum van de vergunning (doorgaans 2 jaar, verlengbaar), (2) of de vergunde scope aansluit bij jouw wensen, en (3) of er geen onverwachte voorwaarden aan de vergunning zijn gesteld. Vraag het projectdossier op via de makelaar.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Jesus Pobre ligt op een helling in het bergachtige achterland van Denia, ver van de laaggelegen marjal en de kuststrook. Het overstromingsrisico is hier aanzienlijk lager dan aan de kust of in de vallei. Verifieer altijd het exacte perceel op de PATRICOVA-visor."
+      },
+      "demografie": "Jesus Pobre is een rustig bergdorpje van ca. 600 inwoners in de gemeente Denia. Populair bij Britse, Nederlandse en Belgische expats die de rust van het binnenland verkiezen boven de drukte van de kust. 10 km van Denia centrum en Javea, vlak bij het Montgo-natuurpark. Jaarronde vraag van expats die hier willen wonen.",
+      "ideeen": [
+        "Direct beginnen met de vergunde aannemer - geen verloren wachttijd.",
+        "Verkopen aan een expat-koper die op zoek is naar een turn-key bergvilla dicht bij Denia.",
+        "Bij gunstig marktmoment: na renovatie verhuren als vakantie- of langetermijnhuurwoning.",
+        "Het vergunde project als verkoopargument inzetten bij expats die de rompslomp van vergunningen willen vermijden."
+      ],
+      "due_diligence": [
+        "Vraag het volledige vergunningsdossier op en controleer vervaldatum en scope.",
+        "Laat een onafhankelijke aannemer de bouwbegroting uit het project beoordelen.",
+        "Controleer de PATRICOVA-overstromingsband van het exacte perceel.",
+        "Vraag de nota simple op bij Registro de la Propiedad (eigendom, lasten, hypotheken).",
+        "Check via catastro of alle m2 legaal zijn geregistreerd."
+      ],
+      "eerlijk_oordeel": "Dit is de meest bijzondere kans van vandaag: niet vanwege de prijs, maar vanwege de al verleende bouwvergunning. Dat haalt de grootste onzekerheid uit een flip. De locatie is sterk, de markt is actief en de marge is reeel. Valkuil: controleer de vergunning minutieus voordat je enthousiast wordt.",
+      "contact": {
+        "bron": "Idealista (meerdere makelaars actief in Jesus Pobre)",
+        "telefoon": "Via makelaar op te vragen",
+        "email": "Via makelaar op te vragen",
+        "url": "https://www.idealista.com/inmueble/111077405/",
+        "referentie": "Ref. 111077405 (Idealista)",
+        "opmerking": "Woning aan Calle Pare Pere, Jesus Pobre (La Xara - La Sella - Jesus Pobre zone, gemeente Denia). Bel direct voor het projectdossier."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Casa pueblo Jesus Pobre con licencia (ref 111077405)", "url": "https://www.idealista.com/inmueble/111077405/"},
+        {"titel": "Idealista - Te renoveren huizen Denia La Xara/Jesus Pobre", "url": "https://www.idealista.com/venta-viviendas/denia/la-xara-la-sella-jesus-pobre/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "ondara-casa-santdomenec-2026-05-22",
+      "titel": "Ruime woning met dubbele straattoegang en splitsingspotentie in centrum Ondara",
+      "type": "Te flippen pand - herindeling meerdere wooneenheden",
+      "type_kort": "Flip-pand",
+      "plaats": "Ondara",
+      "regio": "Marina Alta",
+      "vraagprijs": 139000,
+      "prijs_status": "Exacte vraagprijs",
+      "prijs_notitie": "Vraagprijs verlaagd van 145.000 naar 139.000 euro (-4%), bijgewerkt op 18 mei 2026. Prijs per m2 bebouwd: 891 euro - opmerkelijk laag voor een casco urbano in de Marina Alta.",
+      "kerngegevens": [
+        {"label": "Bebouwd oppervlak", "waarde": "156 m2 (137 m2 nuttig)"},
+        {"label": "Perceel", "waarde": "156 m2"},
+        {"label": "Slaapkamers", "waarde": "5"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Bouwjaar", "waarde": "1940"},
+        {"label": "Extras", "waarde": "Garage, terraza, patio prive, 2 straattoegangen"},
+        {"label": "Prijs per m2 bebouwd", "waarde": "891 eur/m2 (laag)"}
+      ],
+      "score": 78,
+      "score_label": "Sterk",
+      "strategie": "Splitsingsflip: de dubbele straattoegang maakt het technisch en planologisch goed mogelijk om 2 zelfstandige woningen te creeren - een per straatkant. Beide verkopen of een verhuren en een verkopen.",
+      "samenvatting": "Een vrijstaande woning uit 1940 in het centrum van Ondara, met vijf slaapkamers, een garage, terraza en patio, bereikbaar via twee verschillende straten. De makelaar vermeldt expliciet dat deze dubbele toegang de deur opent voor het creeren van meerdere zelfstandige woningen of aparte gebruiksvormen. De lage instapprijs van 891 eur/m2 in combinatie met splitsingspotentie is het kernthema van deze kans.",
+      "voors": [
+        "Prijs recent verlaagd (-4%), verkoper is aantoonbaar beweeglijk.",
+        "891 eur/m2 is extreem laag voor casco urbano Marina Alta - biedt flipmarge.",
+        "Dubbele straattoegang maakt splitsing in 2 onafhankelijke units logistiek en juridisch haalbaar.",
+        "Casco urbano Ondara: bouwvergunning voor verbouwing/herindeling is een relatief voorspelbaar traject.",
+        "Ondara is inland, ver van de marjal: laag overstromingsrisico.",
+        "Centrumligging met alle voorzieningen op loopafstand, 10 min van kust."
+      ],
+      "tegens": [
+        "Slechts 1 badkamer voor 5 slaapkamers: ingrijpende herindeling nodig.",
+        "Bouwjaar 1940: mogelijke problemen met fundering, dak, vocht en elektra.",
+        "Ondara is geen premium locatie - verkoopprijs per m2 na renovatie is lager dan in Denia of Javea.",
+        "Energielabel niet beschikbaar (nog in aanvraag).",
+        "Splitsing vereist goedkeuring als kadastrale scheiding - plan dit vantevoren met gemeente."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "139.000 euro (verlaagd van 145.000)"},
+          {"label": "Kosten koper (ITP 10% + notaris/registratie ca. 2,5%)", "waarde": "+/- 17.400 euro"},
+          {"label": "Verbouwing tot 2 units (156 m2 x 800-1.000 eur/m2)", "waarde": "125.000 - 156.000 euro"},
+          {"label": "Totale investering", "waarde": "+/- 281.000 - 312.000 euro"},
+          {"label": "Verwachte verkoopwaarde 2 gerenoveerde woningen in Ondara", "waarde": "300.000 - 370.000 euro"},
+          {"label": "Indicatieve brutomarge", "waarde": "+/- 20.000 - 90.000 euro (7-29%)"}
+        ],
+        "conclusie": "Een compacte flip met ruime margebreedte: aan de onderkant is de marge mager (7%), aan de bovenkant aantrekkelijk (29%). Sleutelrisico is verbouwbudget van een pand uit 1940. Laat voor een bod een bouwkundige de structuur, fundering en dak beoordelen."
+      },
+      "vergunning": "Ligging in de casco urbano van Ondara maakt een verbouwvergunning (obra mayor) relatief voorspelbaar. Splitsing in twee kadastrale eenheden vereist een extra procedure (division horizontal) en goedkeuring van de gemeente; dit is haalbaar maar neem het mee in je tijdsplanning. ICIO van 4% over de bouwbegroting is verschuldigd.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Ondara ligt in het heuvelachtige binnenland van de Marina Alta, ruim buiten de laaggelegen Marjal de Pego-Oliva. Het overstromingsrisico is hier aanzienlijk lager dan in de kustgemeenten. Verifieer altijd het exacte adres op de PATRICOVA-visor."
+      },
+      "demografie": "Ondara telt circa 6.000 inwoners en is een actief servicedorp in de Marina Alta, met een zakelijk centrum (meubelmarkt, N-332-corridor), medische voorzieningen en goed onderwijs. De bevolking is gemengd Spaans en internationaal. Redelijk jaarronde huurmarkt; minder toeristisch dan de kust maar stabiel.",
+      "ideeen": [
+        "Pand splitsen in 2 zelfstandige wooneenheden via dubbele straattoegang en afzonderlijk verkopen.",
+        "Een unit zelf verkopen en de andere verhuren als langetermijn- of toeristische verhuur.",
+        "Als de split te complex blijkt: renoveren als groot gezinshuis en doorverkopen aan een lokale of internationale koper.",
+        "Vraag de gemeente vantevoren naar de mogelijkheid van division horizontal."
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring: fundering, dak, vocht en elektra van een pand uit 1940.",
+        "Vraag gemeente Ondara naar haalbaarheid van division horizontal (splitsing in 2 units).",
+        "Controleer de nota simple (eigendom, lasten, hypotheken).",
+        "Controleer via catastro of alle m2 legaal zijn geregistreerd.",
+        "Vraag een verbouwofferte aan met 15% marge voor onvoorzien."
+      ],
+      "eerlijk_oordeel": "Een interessant, laagdrempelig instapobject met een duidelijk splitsingsthema. De prijs is scherp, de locatie is veilig voor overstroming, en de makelaar heeft de splitsingspotentie al uitgelicht. Het risico zit in de leeftijd van het pand (1940) en in het verbouwbudget. Een grondige bouwkundige keuring is hier geen luxe maar een must.",
+      "contact": {
+        "bron": "Huspy Valencia (inmobiliaria)",
+        "telefoon": "Via Idealista of chat op te vragen",
+        "email": "Via Huspy Valencia platform",
+        "url": "https://www.idealista.com/inmueble/111001813/",
+        "referentie": "Ref. b954083b-d4a5-475f-869e-cd03170e288a (Huspy); Calle Sant Domenec, Ondara",
+        "opmerking": "3D-tour en video beschikbaar via Idealista. Makelaar reageert doorgaans binnen 8 uur via chat."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Casa Sant Domenec Ondara (ref 111001813)", "url": "https://www.idealista.com/inmueble/111001813/"},
+        {"titel": "Idealista - Te renoveren huizen Ondara", "url": "https://www.idealista.com/venta-viviendas/ondara-alicante/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "pedreguer-2units-centrum-2026-05-22",
+      "titel": "Dorpshuis in twee onafhankelijke eenheden in centrum Pedreguer",
+      "type": "Te flippen pand - 2 onafhankelijke wooneenheden",
+      "type_kort": "Flip-pand",
+      "plaats": "Pedreguer (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 199950,
+      "prijs_status": "Exacte vraagprijs",
+      "prijs_notitie": "199.950 euro voor 290 m2 geconstrueerd, verdeeld in 2 onafhankelijke wooneenheden. Prijs per m2: 689 eur/m2 - bijzonder laag voor een centrumlocatie in de Marina Alta. Structureel beschreven als goed.",
+      "kerngegevens": [
+        {"label": "Bebouwd oppervlak", "waarde": "290 m2"},
+        {"label": "Bouwlagen", "waarde": "3 bouwlagen"},
+        {"label": "Slaapkamers", "waarde": "6"},
+        {"label": "Structurele staat", "waarde": "Goed (volledige renovatie nodig)"},
+        {"label": "Bijzonderheid", "waarde": "Al verdeeld in 2 onafhankelijke wooneenheden met aparte toegang"},
+        {"label": "Prijs per m2 bebouwd", "waarde": "689 eur/m2 (zeer laag voor Marina Alta)"}
+      ],
+      "score": 74,
+      "score_label": "Sterk",
+      "strategie": "Klaar-voor-split flip: het pand is al feitelijk verdeeld in twee zelfstandige woningen met eigen toegang - geen extra splitsingsprocedure nodig. Beide units na renovatie afzonderlijk verkopen of verhuren.",
+      "samenvatting": "Een dorpshuis in het centrum van Pedreguer van 290 m2 over drie bouwlagen, verdeeld in twee zelfstandige wooneenheden met ieder een eigen straattoegang. De makelaar beschrijft de structurele staat als goed; een volledige renovatie is nodig maar er zijn geen structurele verrassingen te verwachten. De prijs van 689 eur/m2 is voor casco urbano Marina Alta opmerkelijk laag.",
+      "voors": [
+        "Al gesplitst in 2 onafhankelijke eenheden: geen extra splitsingsprocedure nodig.",
+        "689 eur/m2 is een van de laagste prijzen per m2 van het actuele aanbod in de Marina Alta.",
+        "Structureel goede staat verlaagt het risico op kostbare fundamentele problemen.",
+        "Centrumligging Pedreguer: goede bereikbaarheid, alle voorzieningen, populair bij expats en lokale families.",
+        "Pedreguer ligt inland: laag overstromingsrisico.",
+        "Vlak bij La Sella golfbaan (4 km) en Denia (8 km)."
+      ],
+      "tegens": [
+        "Volledige renovatie is nodig: significante investering per unit.",
+        "290 m2 totaal betekent ook grotere verbouwkosten dan een klein object.",
+        "Pedreguer is geen kustplaats: verkoopprijzen per m2 zijn lager dan aan zee of in Denia.",
+        "Twee units verkopen duurt langer dan een enkele verkoop.",
+        "Buurt en specifiek adres zijn niet vermeld - locatie in het centrum te verifiëren."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "199.950 euro"},
+          {"label": "Kosten koper (ITP 10% + notaris/registratie ca. 2,5%)", "waarde": "+/- 24.900 euro"},
+          {"label": "Verbouwing 2 units (290 m2 x 750-1.000 eur/m2)", "waarde": "218.000 - 290.000 euro"},
+          {"label": "Totale investering", "waarde": "+/- 443.000 - 515.000 euro"},
+          {"label": "Verwachte verkoopwaarde 2 gerenoveerde units, centrum Pedreguer", "waarde": "480.000 - 560.000 euro"},
+          {"label": "Indicatieve brutomarge", "waarde": "+/- 37.000 - 117.000 euro (8-23%)"}
+        ],
+        "conclusie": "Solide flip-potentie dankzij de al doorgevoerde splitsing en de lage instapprijs. De verbouwingskosten zijn de grootste variabele. Begin met een gedetailleerde offerte per unit om te bepalen of beide units tegelijk of gefaseerd worden aangepakt."
+      },
+      "vergunning": "Beide wooneenheden bevinden zich al in casco urbano Pedreguer en zijn al als zelfstandige eenheden onderscheiden. Volledige renovatie vereist een obra mayor; ICIO 4% over de bouwbegroting. Verifieer of de division horizontal al notarieel is vastgelegd of nog informeel is - dit heeft invloed op de verkoopstrategie.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Pedreguer ligt in het heuvelachtige binnenland van de Marina Alta, ruim boven de laaggelegen kust en de marjal. Het overstromingsrisico is hier structureel laag. Verifieer het exacte perceel op de PATRICOVA-visor."
+      },
+      "demografie": "Pedreguer telt circa 8.000 inwoners en is een levendig Spaans servicedorp met wekelijkse markt, medische voorzieningen, scholen en een actief verenigingsleven. Het dorp trekt steeds meer Nederlandse, Belgische en Britse expats aan, mede door de nabijheid van de La Sella golfbaan en de goede verbinding via N-332/AP-7. Stabiele jaarronde markt.",
+      "ideeen": [
+        "Unit 1 renoveren en verkopen, met de opbrengst unit 2 afmaken - gefaseerde aanpak vermindert kapitaalbeslag.",
+        "Een unit verhuren als langetermijnhuur tijdens het renovatieproces van de andere unit.",
+        "Beide units na renovatie als pakket verkopen aan een investeerder die op zoek is naar twee huurwoningen.",
+        "Vergelijk de twee units op indeling en staat: pak de kwalitatief beste eerst aan voor de snelste verkoop."
+      ],
+      "due_diligence": [
+        "Controleer of de division horizontal al notarieel is vastgelegd of alleen feitelijk bestaat.",
+        "Bouwkundige keuring van de structuur, fundering, dak en installaties.",
+        "Vraag de nota simple op voor beide kadastrale eenheden afzonderlijk.",
+        "Verbouwofferte per unit bij een lokale aannemer.",
+        "Verifieer het exacte adres en de ligging op de PATRICOVA-visor."
+      ],
+      "eerlijk_oordeel": "Een van de sterkste waarde-per-euro-aanbiedingen op de lijst vandaag. De al bestaande splitsing is een groot voordeel dat tijd en juridische kosten bespaart. De marge is reeel als de verbouwing strak gestuurd wordt. Het grootste risico is budgetoverschrijding bij zo'n grote totale oppervlakte. Begin met een gedetailleerde offerte.",
+      "contact": {
+        "bron": "Idealista (diverse bureaus centrum Pedreguer)",
+        "telefoon": "Per advertentie op te vragen",
+        "email": "Per advertentie op te vragen",
+        "url": "https://www.idealista.com/inmueble/102345173/",
+        "referentie": "Ref. 102345173 (Idealista)",
+        "opmerking": "Centrum Pedreguer. Vraag het exacte adres en de kadastrale situatie op bij het aanbiedende bureau."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Casa pueblo centrum Pedreguer 2 units (ref 102345173)", "url": "https://www.idealista.com/inmueble/102345173/"},
+        {"titel": "Idealista - Te renoveren huizen Pedreguer", "url": "https://www.idealista.com/venta-viviendas/pedreguer-alicante/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "elspoblets-restaurant-2026-05-22",
+      "titel": "Draaiend restaurant volledig uitgerust met zonnig terras in Els Poblets",
+      "type": "Horeca - instapklaar verhuurobject",
+      "type_kort": "Horeca",
+      "plaats": "Els Poblets",
+      "regio": "Marina Alta",
+      "vraagprijs": 315000,
+      "prijs_status": "Exacte vraagprijs",
+      "prijs_notitie": "315.000 euro voor 147 m2 plus een terras van 35 m2. Prijs per m2 bebouwd: 2.143 eur/m2 - marktconform voor een volledig uitgerust en vergund horecapand in actieve exploitatie.",
+      "kerngegevens": [
+        {"label": "Bebouwd oppervlak", "waarde": "147 m2"},
+        {"label": "Terras", "waarde": "35 m2 zonnig (vergund)"},
+        {"label": "Toiletten", "waarde": "2"},
+        {"label": "Keuken", "waarde": "Volledig professioneel uitgerust"},
+        {"label": "Status", "waarde": "Draaiend bedrijf, licencia actief"},
+        {"label": "Uitrusting", "waarde": "Rookafvoer, airco, alarmsysteem, alle keukenapparatuur"},
+        {"label": "Bouwlaag", "waarde": "Begane grond"}
+      ],
+      "score": 72,
+      "score_label": "Sterk",
+      "strategie": "Direct rendementsobject: draaiend restaurant met actieve vergunning overnemen voor directe cashflow, of opwaarderen en na 2-3 sterke seizoenen doorverkopen met bewezen omzetcijfers als vliegwiel.",
+      "samenvatting": "Een volledig operationeel bar-restaurant in Els Poblets, een populair kustdorp tussen Denia en Oliva met een sterke internationale bevolking. Het pand heeft 147 m2 plus een vergund zonnig terras van 35 m2, een professionele keuken met rookafvoer, airco en alarmsysteem. De vergunning is actief - je kunt de volgende dag openen. Denialara, een bekende makelaar in de regio, biedt het aan.",
+      "voors": [
+        "Actieve licencia: direct starten zonder vergunningsrisico.",
+        "Professionele keuken met rookafvoer al aanwezig - dit is moeilijk en duur om nieuw te verkrijgen.",
+        "Vergund terras van 35 m2 vergroot het bediend oppervlak significant.",
+        "Els Poblets heeft een stabiele internationale woongemeenschap plus zomerse toeristen.",
+        "Volledig uitgerust: geen investering in apparatuur nodig."
+      ],
+      "tegens": [
+        "Eigendomsvorm te bevestigen: gaat het om volle eigendom of een traspaso (huurovername)? Cruciaal verschil voor flip-logica.",
+        "Horeca is seizoensgebonden; zomermaanden zijn sterk, winter rustiger in Els Poblets.",
+        "2.143 eur/m2 is hoog - marge bij doorverkoop als pand is kleiner dan bij een goedkoop te renoveren object.",
+        "Kustnauw pand: controleer PATRICOVA en eventueel Ley de Costas.",
+        "Horeca vergt actief beheer of een betrouwbare uitbater."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "315.000 euro"},
+          {"label": "Kosten koper (ITP 10% + notaris ca. 2,5% - bij volle eigendom)", "waarde": "+/- 39.400 euro"},
+          {"label": "Opknapbeurt/opwaardering concept", "waarde": "10.000 - 30.000 euro"},
+          {"label": "Totale investering", "waarde": "+/- 354.000 - 384.000 euro"},
+          {"label": "Indicatief huurrendement (restaurant verhuren)", "waarde": "2.500 - 3.500 eur/maand = 30.000 - 42.000 eur/jaar"},
+          {"label": "Indicatief bruto huurrendement", "waarde": "8 - 12% op investering"},
+          {"label": "Meerwaarde bij doorverkoop na verbeterd concept (2-3 jaar)", "waarde": "Te bepalen o.b.v. bewijsbare omzet"}
+        ],
+        "conclusie": "Als verhuurobject biedt dit een aantrekkelijk bruto rendement van 8-12%. Als flip is de marge bescheidener: waarde zit in de cashflow, niet in een bouwkundige meerwaarde. Eerst eigendomsvorm bevestigen - alles valt of staat daarmee."
+      },
+      "vergunning": "De licencia is actief en de rookafvoer is aanwezig - dat zijn de twee duurste en moeilijkste vergunningsstukken. Controleer of de vergunning overdraagbaar is bij eigendomsoverdracht (standaard in Spanje, maar bevestig dit bij de gemeente Els Poblets). Vraag ook of het terras volledig gelegaliseerd is.",
+      "overstroming": {
+        "niveau": "Midden",
+        "kleur": "amber",
+        "toelichting": "Els Poblets ligt vlak bij de kust, tussen Denia en Oliva. De dorpskern ligt op iets hogere grond dan de laaggelegen marjalstrook, maar voor kustnauw aanbod geldt altijd: controleer het exacte adres op de PATRICOVA-visor en beoordeel de afwatering na de herziene kaarten post-DANA 2024."
+      },
+      "demografie": "Els Poblets telt circa 3.500 inwoners en heeft een hoog percentage internationale (vnl. Britse, Nederlandse, Belgische) vaste bewoners. Het dorp heeft een actief jaarrond leven met lokale bar- en restaurantcultuur, en profiteert van de nabijheid van het strand van Denia (Les Marines). De internationale bevolking zorgt voor stabiele horeca-vraag.",
+      "ideeen": [
+        "Restaurant overnemen met bestaand personeel en direct kasstroom genereren.",
+        "Concept opwaarderen (interieur, menukaart, online aanwezigheid) en na 2 seizoenen met aantoonbare omzetstijging doorverkopen.",
+        "Verhuren aan een professionele horeca-uitbater met een meerjarig contract als passief rendementsobject.",
+        "Terrasvergunning uitbreiden of de inrichting aanpassen voor een jaarrond concept."
+      ],
+      "due_diligence": [
+        "Bevestig eigendomsvorm: volle eigendom of traspaso - dit bepaalt alles.",
+        "Vraag jaarcijfers (omzet, winst/verlies) van de laatste 2-3 jaar op.",
+        "Controleer overdraagbaarheid van de licencia en de terrasvergunning.",
+        "Controleer PATRICOVA-band van het exacte adres.",
+        "Beoordeel staat van de keuken en installaties met een horeca-adviseur."
+      ],
+      "eerlijk_oordeel": "Een aantrekkelijk direct-rendement object in een stabiele internationale markt. De actieve vergunning met rookafvoer is de kern van de waarde. Minder een klassieke flip, meer een rendementsbelegging. Eerste vraag: is dit volle eigendom of traspaso?",
+      "contact": {
+        "bron": "Denialara Servicios Inmobiliarios",
+        "telefoon": "Op te vragen via Idealista of denialara.com",
+        "email": "info@denialara.com (te bevestigen)",
+        "url": "https://www.idealista.com/inmueble/110523095/",
+        "referentie": "Ref. 4035 (Denialara)",
+        "opmerking": "Advertentie bijgewerkt op 9 mei 2026. Locatie niet exact op kaart weergegeven - vraag het adres op bij Denialara."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Restaurant Els Poblets ref 110523095 (Denialara)", "url": "https://www.idealista.com/inmueble/110523095/"},
+        {"titel": "Denialara - Restaurant Els Poblets ref 4035", "url": "https://www.denialara.com/propiedad/restaurante-en-venta-en-els-pobles-totalmente-equipado-y-en-pleno-funcionamiento-4035/"}
+      ]
+    },
+    {
+      "id": "ondara-nave-fleming-2026-05-22",
+      "titel": "Voormalige garagewerkplaats met woning op de drukste commerciele straat van Ondara",
+      "type": "Bedrijfspand met herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Ondara",
+      "regio": "Marina Alta",
+      "vraagprijs": 330000,
+      "prijs_status": "Exacte vraagprijs",
+      "prijs_notitie": "330.000 euro voor een bedrijfspand van 374 m2 met dubbele toegang op de Avenida Dr. Fleming nr. 8. Prijs per m2: 883 eur/m2 - laag voor een commercieel pand met zoveel volume op een drukke straat.",
+      "kerngegevens": [
+        {"label": "Bebouwd oppervlak", "waarde": "374 m2"},
+        {"label": "Locatie", "waarde": "Avenida Dr. Fleming 8, Ondara (voormalige comarcaalweg)"},
+        {"label": "Toegang", "waarde": "Vanuit 2 straten (Avda Dr. Fleming + achterstraat)"},
+        {"label": "Huidig gebruik", "waarde": "Voormalig automechanisch werkplaats (begane grond) + woning (boven)"},
+        {"label": "Bouwlagen", "waarde": "Begane grond (nave) + bovenverdieping (woning apart)"},
+        {"label": "Prijs per m2", "waarde": "883 eur/m2 (laag voor commercieel vastgoed)"}
+      ],
+      "score": 68,
+      "score_label": "Interessant",
+      "strategie": "Herbestemming of modernisering: ofwel renoveren als moderne bedrijfsruimte (showroom, werkplaats, magazijn) en verhuren, ofwel cambio de uso naar wonen als het bestemmingsplan dit toestaat. De dubbele straattoegang geeft flexibiliteit.",
+      "samenvatting": "Een groot voormalig garagepand van 374 m2 op de Avenida Dr. Fleming 8, een van de commercieel sterkste straten van Ondara (de voormalige comarcaalweg). De benedenverdieping was een automechanische werkplaats; bovenin zit al een zelfstandige woning. Dubbele toegang vanuit twee straten geeft planologische flexibiliteit. 374 m2 voor 330.000 is een lage prijs per m2, maar het vergunningsvraagstuk (herbestemming naar wonen) is een reele onzekerheid.",
+      "voors": [
+        "374 m2 is veel volume voor 330.000 euro op een drukke commerciele straat.",
+        "Dubbele straattoegang vergroot herbestemmings- en gebruiksmogelijkheden.",
+        "Woning op de bovenverdieping al aanwezig als woonoption of verhuurunit.",
+        "Ondara heeft laag overstromingsrisico (inland).",
+        "De Avda Dr. Fleming is de drukste ader van Ondara - sterke passerende stroom."
+      ],
+      "tegens": [
+        "Voormalige garagewerkplaats: mogelijke bodemverontreiniging door olie - verplicht bodemonderzoek bij herbestemming naar wonen.",
+        "Herbestemming naar wonen op begane grond in een commerciele zone is niet vanzelfsprekend.",
+        "Hogere verbouwkosten bij een industrieel pand (isolatie, indeling, installaties).",
+        "Vergunningsrisico voor herbestemming hoger dan bij casco urbano woningen.",
+        "Totaalproject kan snel richting 500.000+ euro gaan."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "330.000 euro"},
+          {"label": "Kosten koper (ITP 10% + ca. 2,5%)", "waarde": "+/- 41.200 euro"},
+          {"label": "Verbouwing/herbestemming (374 m2, afhankelijk van route)", "waarde": "200.000 - 370.000 euro"},
+          {"label": "Totale investering", "waarde": "+/- 571.000 - 741.000 euro"},
+          {"label": "Route A: moderniseren als bedrijfspand + verhuur woning boven", "waarde": "Huurinkomsten: 1.500 - 3.000 eur/maand"},
+          {"label": "Route B: herbestemming naar 3-4 woningen (als bestemmingsplan het toestaat)", "waarde": "Verkoopwaarde: 600.000 - 800.000 euro (indicatief)"}
+        ],
+        "conclusie": "Het grote risico zit in de herbestemming: pas als de gemeente bevestigt dat wonen op de begane grond van Avda Dr. Fleming is toegestaan, wordt route B interessant. Zonder die bevestiging is dit een niche bedrijfsvastgoedinvestering."
+      },
+      "vergunning": "Voor voortzetting als bedrijfspand (werkplaats, showroom) is de drempel laag. Voor cambio de uso naar wonen is een informe de compatibilidad urbanistica bij gemeente Ondara de eerste stap (ca. 50 euro, 2-4 weken doorlooptijd). Let ook op: bij een voormalige garagewerkplaats is een bodemonderzoek (estudio de suelos) verplicht voor residentieel herbestemming. Vraag dit VOOR een bod.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Ondara ligt in het heuvelachtige binnenland van de Marina Alta, ruim buiten de laaggelegen marjal en de kuststrook. Laag overstromingsrisico. Verifieer altijd het exacte perceel."
+      },
+      "demografie": "Ondara is een levendig servicedorp van ca. 6.000 inwoners met een actieve commerciele as (de Avda Dr. Fleming is de meubelmarkt-corridor van de Marina Alta). De lokale bevolking is gemengd Spaans en internationaal. De commerciele functie van het dorp geeft een stabiele vraag naar bedrijfsruimte.",
+      "ideeen": [
+        "Informe de compatibilidad aanvragen en DAARNA beslissen of herbestemming kansrijk is.",
+        "Als herbestemming niet haalbaar: moderniseren als bedrijfspand en verhuren aan een garage, autohandel of showroom.",
+        "Woning bovenin apart verkopen of verhuren als de begane grond commercieel blijft.",
+        "Bij positief bestemmingsplan: 3-4 compacte appartementen van elk 80-100 m2 creëren."
+      ],
+      "due_diligence": [
+        "EERSTE STAP: informe de compatibilidad urbanistica aanvragen bij gemeente Ondara.",
+        "Bodemonderzoek laten uitvoeren (verplicht bij voormalige garagewerkplaats en herbestemming naar wonen).",
+        "Controleer de nota simple en eigendomsvorm.",
+        "Vraag een aannemer een offerte voor beide routes (A en B).",
+        "Controleer of de woning op de bovenverdieping legaal is geregistreerd bij catastro."
+      ],
+      "eerlijk_oordeel": "Veel volume voor weinig geld en een strategische locatie - maar dit is een project met meerdere onzekerheden. Het bodemonderzoek en de informe de compatibilidad zijn de twee vragen die vantevoren beantwoord moeten worden; zonder die feiten is dit geen beslisbare kans. Zet dit op de lijst voor nadere verkenning, niet voor een direct bod.",
+      "contact": {
+        "bron": "Idealista (diverse adverteerders - zelfde pand dubbel aangeboden)",
+        "telefoon": "Per advertentie op te vragen",
+        "email": "Per advertentie op te vragen",
+        "url": "https://www.idealista.com/inmueble/106666410/",
+        "referentie": "Ref. 106666410 (en duplicate 109969658), Avenida Dr. Fleming 8, Ondara",
+        "opmerking": "Pand is twee keer aangeboden onder andere categorien maar betreft hetzelfde object. Verifieer bij contact."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Nave comercial Avda Dr. Fleming Ondara (ref 106666410)", "url": "https://www.idealista.com/inmueble/106666410/"},
+        {"titel": "Idealista - Locales en naves Ondara", "url": "https://www.idealista.com/venta-locales/ondara-alicante/"}
+      ]
+    }
+  ]
+}
