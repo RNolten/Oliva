@@ -143,6 +143,11 @@ details[open]>summary:before{content:"\25BE ";}
 .note{font-size:12.5px;color:var(--muted);margin-top:10px;}
 footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);
   padding-top:16px;margin-top:8px;}
+.url-analyser input[type=url]{flex:1;min-width:200px;font:inherit;padding:9px 12px;
+  border:1px solid var(--line);border-radius:8px;font-size:13px;background:#fff;color:var(--ink);}
+.url-analyser .url-row{display:flex;gap:10px;margin-bottom:10px;flex-wrap:wrap;}
+.url-result .card{border-color:var(--azure);}
+.auto-badge{background:#e8f0f7;color:var(--azure);}
 .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);
   background:var(--ink);color:#fff;padding:11px 18px;border-radius:10px;font-size:13px;
   font-weight:600;opacity:0;transition:opacity .25s;pointer-events:none;z-index:50;}
@@ -199,6 +204,16 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);
   <section id="cards"></section>
   <section class="panel" id="prefs"></section>
   <section class="panel" id="export"></section>
+  <section class="panel url-analyser" id="url-analyser">
+    <h2>URL Analyser</h2>
+    <p class="pdesc">Plak een advertentie-URL (idealista.com) voor een directe analyse in hetzelfde format als de dagelijkse run.</p>
+    <div class="url-row">
+      <input id="url-pand" type="url" placeholder="https://www.idealista.com/inmueble/...">
+      <button class="btn" id="url-btn" onclick="analyseUrlPand()">Analyseer</button>
+    </div>
+    <p class="note">Automatisch gegenereerd op basis van de advertentiepagina. Scores zijn indicatief &mdash; altijd verifi&euml;ren bij makelaar.</p>
+    <div class="url-result" id="url-result"></div>
+  </section>
   <footer id="foot"></footer>
 </div>
 </main>
@@ -206,7 +221,7 @@ footer{font-size:12px;color:var(--muted);border-top:1px solid var(--line);
 <script>
 const DATA = {"meta": {"titel": "Vastgoedradar Oliva e.o. - 24 mei 2026 (herrun met URL-verificatie)", "datum": "2026-05-24", "regio": "Marina Alta / La Safor", "run_type": "herrun-strenge-url-verificatie", "aantal": 5, "marktcontext": "Alle 5 kansen zijn persoonlijk geverifieerd via directe URL-controle op idealista.com. De markt in La Safor biedt interessante instapprijzen voor te renoveren panden in Oliva (EUR 540-573/m2) en uitstekende waarde in Bellreguard (EUR 405/m2, slechts 3km van zee). Villalonga biedt uitzonderlijk groot oppervlak voor weinig geld maar de doorverkoopmarkt is traag. Na de DANA van oktober 2024 worden PATRICOVA-kaarten voor kustgemeenten herzien - extra due diligence aanbevolen voor Bellreguard en panden nabij de Serpis.", "disclaimer": "Dit is geen financieel of juridisch advies. Alle prijzen, oppervlakten en omschrijvingen zijn overgenomen van geverifieerde advertentie-URLs. Controleer altijd bij makelaar of eigenaar. Overstromingsrisico altijd verifiëren via PATRICOVA-viewer en gemeente."}, "kansen": [{"id": "oliva-casco-historico-v023-2026-05-24", "titel": "Hoekpand casco historico Oliva 250m2 - zeezicht, deels instapklaar", "type": "Vrijstaande casa de pueblo van 250m2 op 2 verdiepingen, hoekligging, 2 terrassen + dakterras met zeezicht", "type_kort": "Flip-pand", "plaats": "Oliva (casco historico)", "regio": "La Safor", "vraagprijs": 135000, "prijs_status": "Bevestigd op idealista.com", "prijs_notitie": "EUR 540/m2 - scherp voor het casco historico van Oliva. Geen prijsdaling vermeld. Bijgewerkt 3 mei 2026.", "kerngegevens": [{"label": "Oppervlakte", "waarde": "250 m2 (240 m2 nuttig)"}, {"label": "Kamers", "waarde": "4 slaapkamers, 1 badkamer"}, {"label": "Perceel", "waarde": "180 m2"}, {"label": "Bouwjaar", "waarde": "1870"}, {"label": "Ligging", "waarde": "Hoekpand, orientatie oost, trastero"}, {"label": "Terras/dak", "waarde": "2 terrassen + dakterras met zeezicht"}, {"label": "Staat", "waarde": "Deels instapklaar, deels te renoveren"}, {"label": "Status advertentie", "waarde": "Bijgewerkt 3 mei 2026"}], "score": 73, "score_label": "Sterk", "strategie": "Opsplitsen in 2 units of verhuren als geheel", "samenvatting": "Hoekpand in het casco historico van Oliva, gebouwd in 1870. Een deel is al instapklaar, het andere deel vraagt renovatie. De hoekligging maakt onafhankelijke toegangen mogelijk - wat opsplitsing in 2 wooneenheden realistisch maakt. Dakterras met zeezicht is zeldzaam in dit prijssegment. Groeiende internationale gemeenschap (veel Britten) in de wijk vergroot de verhuurpotentie. Let op: als directe flip (kopen, volledig renoveren, doorverkopen) werkt de rekensom hier NIET - de strategie is verhuur of unit-opsplitsing.", "voors": ["EUR 540/m2 is zeer competitief voor casco historico Oliva", "Hoekpand: onafhankelijke toegangen en eventuele garage haalbaar", "Deels al bewoonbaar - gefaseerde renovatie mogelijk", "Dakterras met zeezicht - sterk verkoopargument", "Groeiende expat-gemeenschap in de wijk (veel Britse kopers)", "4 slaapkamers - verhuurbaar als B&B of vakantiewoning"], "tegens": ["Slechts 1 badkamer voor 4 slaapkamers", "Bouwjaar 1870 - bouwtechnische due diligence essentieel", "Exacte adres niet vermeld in advertentie (privacy)", "Casco historico: erfgoedregels kunnen renovatie beperken"], "financieel": {"regels": [{"label": "Aankoopprijs", "waarde": "EUR 135.000"}, {"label": "ITP 10%", "waarde": "EUR 13.500"}, {"label": "Notaris/registratie (schatting)", "waarde": "EUR 2.000"}, {"label": "--- SCENARIO A: Lichte renovatie + verhuur ---", "waarde": ""}, {"label": "Renovatie (bewoonbaar deel al klaar, rest licht opknappen ~100m2 a EUR 400/m2)", "waarde": "EUR 40.000"}, {"label": "Totale instap", "waarde": "EUR 190.500"}, {"label": "Verhuurinkomsten (geheel, langdurig)", "waarde": "ca. EUR 1.100/maand = EUR 13.200/jaar"}, {"label": "Bruto huurrendement op investering", "waarde": "ca. 7%"}, {"label": "--- SCENARIO B: Split in 2 units ---", "waarde": ""}, {"label": "Renovatie (2 units, medium kwaliteit, ca. 200m2 a EUR 500/m2)", "waarde": "EUR 100.000"}, {"label": "Totale investering split-scenario", "waarde": "EUR 250.500"}, {"label": "Verkoopwaarde 2 units (ca. EUR 115k + EUR 120k)", "waarde": "EUR 235.000"}, {"label": "Marge split-scenario", "waarde": "ca. -EUR 15.000 (break-even tot licht verlies)"}, {"label": "Verhuur 2 units", "waarde": "ca. EUR 700 + EUR 750/maand = EUR 17.400/jaar"}, {"label": "Bruto huurrendement split-scenario", "waarde": "ca. 7%"}, {"label": "--- NIET AANBEVOLEN ---", "waarde": ""}, {"label": "Volledige renovatie 250m2 a EUR 900/m2", "waarde": "EUR 135.000 extra"}, {"label": "Verkoopwaarde na volledige renovatie", "waarde": "ca. EUR 237.000"}, {"label": "Marge volledige renovatie + flip", "waarde": "NEGATIEF - niet doen"}], "conclusie": "GEEN flip-kans bij volledige renovatie - de cijfers kloppen niet. De kans zit in verhuur na lichte opknapbeurt (7% rendement) of opsplitsing in 2 units met gerichte renovatie. Vakantieverhuur via het dakterras met zeezicht kan het rendement nog verder verhogen."}, "vergunning": "Stedelijk gebied, casco historico. Renovatievergunning normaal haalbaar. Opsplitsing in meerdere units vereist aparte vergunning en mogelijk erfgoed-advies. Navragen bij Ajuntament Oliva.", "overstroming": {"niveau": "Laag", "kleur": "green", "toelichting": "Oliva casco historico ligt op een heuvel, boven het vlakke marjal-gebied. Historisch geen overstromingsrisico. Bevestigen via PATRICOVA-viewer voor zekerheid."}, "demografie": "Oliva heeft een groeiende internationale woningmarkt, met name Britse kopers en huurders. Casco historico is populair bij investeerders en expats. Goede lokale voorzieningen aanwezig.", "ideeen": ["Gefaseerde renovatie: eerst bewoonbaar deel verhuren, dan tweede deel aanpakken", "Opsplitsen in 2 onafhankelijke appartementen via hoekligging", "Dakterras inzetten als usp voor vakantieverhuur"], "due_diligence": ["Bouwtechnische keuring (1870 - funderingen, leidingen)", "PATRICOVA check casco historico Oliva", "Opsplitsingsmogelijkheid navragen bij Ajuntament", "Erfgoedstatus van het pand checken", "Huurstatus navragen - vrij op levering?"], "eerlijk_oordeel": "Een van de betere kansen van deze run. Hoekligging, zeezicht en de mix van instapklaar/te renoveren maken dit object flexibel. De marge als pure flip is krap - de waarde zit in verhuur of langdurig bezit. Solide keus voor wie Oliva als investeerbaasis wil.", "contact": {"bron": "idealista.com", "telefoon": "onbekend - via idealista chat", "email": "onbekend", "url": "https://www.idealista.com/inmueble/110956339/", "referentie": "V-023 CASA OLIVA CON ENCANTO", "opmerking": "Makelaar: NEXHOME PROPERTIES / Fanny Soriano (Gandia)"}, "bronnen": [{"titel": "Idealista - Casa casco historico Oliva 250m2", "url": "https://www.idealista.com/inmueble/110956339/"}]}, {"id": "oliva-pueblo-abadia-288m2-2026-05-24", "titel": "Townhouse Oliva pueblo 288m2 - zeezicht, te splitsen in 2 units", "type": "Chalet adosado van 288m2 op 2 verdiepingen, 4 slaapkamers, 2 badkamers, dakterras met zeezicht", "type_kort": "Flip-pand", "plaats": "Oliva (Oliva pueblo)", "regio": "La Safor", "vraagprijs": 165000, "prijs_status": "Bevestigd op idealista.com", "prijs_notitie": "EUR 573/m2. Recentelijk gedaald van EUR 175.000 (-6%). LET OP: pand is momenteel verhuurd - bewoners aanwezig.", "kerngegevens": [{"label": "Oppervlakte", "waarde": "288 m2 (287 m2 nuttig)"}, {"label": "Kamers", "waarde": "4 slaapkamers, 2 badkamers"}, {"label": "Perceel", "waarde": "107 m2"}, {"label": "Bouwjaar", "waarde": "1925"}, {"label": "Ligging", "waarde": "Dichtbij Plaza San Roque, centrum Oliva pueblo"}, {"label": "Bijzonder", "waarde": "Dakterras zeezicht + kerkzicht Plaza San Roque"}, {"label": "Staat", "waarde": "Te renoveren (2e verdieping: geen water/elektra)"}, {"label": "Huurstatus", "waarde": "MOMENTEEL VERHUURD - bewoners aanwezig"}, {"label": "Status advertentie", "waarde": "Bijgewerkt 27 april 2026"}], "score": 72, "score_label": "Sterk", "strategie": "Split in 2 units na leeglevering - GEEN directe flip", "samenvatting": "Ruime townhouse vlakbij de hoofdplaza van Oliva pueblo, gebouwd in 1925, met dakterras met zeezicht en kerkzicht. Meerdere verdiepingen bieden mogelijkheid om er 2+ onafhankelijke appartementen van te maken. De 2e verdieping heeft momenteel geen water of elektra. Kritiek punt: het pand is verhuurd - leeglevering na aankoop is niet gegarandeerd. Als directe flip werkt de rekensom NIET. De kans ligt in unit-opsplitsing of verhuur na leeglevering.", "voors": ["Prijsdaling van 6% - verkoper wil bewegen", "2 badkamers - beter verdeelbaar over meerdere units", "Zeezicht en kerkzicht vanaf dakterras - sterk verkoopargument", "288m2 op toplocatie dichtbij Plaza San Roque", "Opsplitsing in 2+ appartementen realistisch", "EUR 573/m2 is scherp voor Oliva pueblo"], "tegens": ["Momenteel verhuurd - aankoop met huurder is complex (huurbescherming Spanje)", "2e verdieping zonder water/elektra - extra installatiekosten", "107m2 perceel is klein voor het gebouwoppervlak", "Geen garantie op snelle of goedkope leeglevering"], "financieel": {"regels": [{"label": "Aankoopprijs", "waarde": "EUR 165.000"}, {"label": "ITP 10%", "waarde": "EUR 16.500"}, {"label": "Notaris/registratie (schatting)", "waarde": "EUR 2.500"}, {"label": "Juridisch (leeglevering huurder, schatting)", "waarde": "EUR 3.000 - 10.000"}, {"label": "--- SCENARIO A: Split 2 units, gerichte renovatie ---", "waarde": ""}, {"label": "Renovatie (2 units, gericht i.p.v. volledig, 200m2 a EUR 500/m2)", "waarde": "EUR 100.000"}, {"label": "Totale investering", "waarde": "ca. EUR 297.000"}, {"label": "Verkoopwaarde 2 units (EUR 145k + EUR 160k zeezicht-unit)", "waarde": "EUR 305.000"}, {"label": "Flip-marge na opsplitsing", "waarde": "ca. EUR +8.000 (marginaal maar positief)"}, {"label": "--- SCENARIO B: Verhuren als 2 units ---", "waarde": ""}, {"label": "Verhuur unit 1 (beneden, lang)", "waarde": "ca. EUR 750/maand"}, {"label": "Verhuur unit 2 (boven + dakterras, vakantie)", "waarde": "ca. EUR 900-1.200/week seizoen"}, {"label": "Geschatte jaarhuur gecombineerd", "waarde": "ca. EUR 18.000-22.000/jaar"}, {"label": "Bruto rendement", "waarde": "ca. 6-7% op totale investering"}, {"label": "--- NIET AANBEVOLEN ---", "waarde": ""}, {"label": "Volledige renovatie 288m2 a EUR 850/m2 + doorverkopen als 1 woning", "waarde": "NEGATIEVE marge - niet doen"}], "conclusie": "GEEN flip als 1 woning - rekensom klopt niet. De kans werkt ALLEEN als opsplitsing in 2 units: dan is een kleine winstmarge of goede verhuuryield haalbaar. Randvoorwaarde: leeglevering huurder moet contractueel worden geregeld voor aankoop."}, "vergunning": "Stedelijk gebied, Oliva pueblo. Renovatievergunning haalbaar. Opsplitsing in meerdere units vereist aparte vergunning bij Ajuntament Oliva.", "overstroming": {"niveau": "Laag", "kleur": "green", "toelichting": "Oliva pueblo ligt op een helling boven de marjal. Historisch geen overstromingsrisico. PATRICOVA-check aanbevolen."}, "demografie": "Oliva pueblo heeft een actieve markt voor gerenoveerde panden. Nabijheid Plaza San Roque geeft extra commerciele waarde. Internationale kopers (Brits, Nederlands) actief in dit segment.", "ideeen": ["Opsplitsing in 2 onafhankelijke appartementen (beneden + boven/dak)", "Dakterras als penthousterras inzetten bij verkoop bovenste unit", "Onderhandelen over leeglevering bij aankoop"], "due_diligence": ["Huurcontract opvragen: type, duur, opzegcondities (Spaans huurrecht)", "Juridisch advies over leeglevering bij aankoop verhuurd pand", "Bouwtechnische keuring (1925 - leidingen, fundering)", "PATRICOVA check Oliva pueblo", "Opsplitsingsmogelijkheid navragen bij Ajuntament"], "eerlijk_oordeel": "Toplocatie met zeezicht en prijsdaling - maar de huurstatus is een serieuze complicatie. Voor een geduldige koper met juridische ondersteuning een uitstekende kans; voor iemand die snel wil handelen te risicovol.", "contact": {"bron": "idealista.com", "telefoon": "onbekend - via idealista chat of bel", "email": "onbekend", "url": "https://www.idealista.com/inmueble/108705382/", "referentie": "9f2bfd1c-2290-40a8-b830-f2979219fee6", "opmerking": "Makelaar: Huspy Valencia. Reageert doorgaans binnen 8 uur."}, "bronnen": [{"titel": "Idealista - Townhouse Oliva pueblo Calle de l'Abadia 288m2", "url": "https://www.idealista.com/inmueble/108705382/"}]}, {"id": "bellreguard-sant-antoni-190m2-2026-05-24", "titel": "Chalet adosado centrum Bellreguard 190m2 met garage - 3km van strand", "type": "Chalet adosado van 190m2, 3 slaapkamers, garage inclusief, voetgangerstraat centrum", "type_kort": "Flip-pand", "plaats": "Bellreguard (centrum)", "regio": "La Safor", "vraagprijs": 77000, "prijs_status": "Bevestigd op idealista.com", "prijs_notitie": "EUR 405/m2. Verse advertentie - bijgewerkt 21 mei 2026. Laagste instapprijs van deze run.", "kerngegevens": [{"label": "Oppervlakte", "waarde": "190 m2"}, {"label": "Kamers", "waarde": "3 slaapkamers, 1 badkamer"}, {"label": "Extras", "waarde": "Garage (inclusief), trastero, balkon, terras"}, {"label": "Ligging", "waarde": "Voetgangerstraat centrum Bellreguard, <3km strand"}, {"label": "Orientatie", "waarde": "Oost"}, {"label": "Staat", "waarde": "Volledig te renoveren, sterke constructie"}, {"label": "Status advertentie", "waarde": "Bijgewerkt 21 mei 2026 (vers)"}], "score": 67, "score_label": "Interessant", "strategie": "Verhuren als strandwoning - GEEN flip", "samenvatting": "Verse advertentie voor een stevig gebouwde chalet adosado op een rustige voetgangerstraat in het centrum van Bellreguard, minder dan 3km van het strand. Inclusief garage - zeldzaam in dit segment en meerwaarde bij verhuur. Volledig te renoveren maar de constructie is solide. Als flip werkt de rekensom NIET - Bellreguard kent te lage marktwaarden om renovatiekosten terug te verdienen bij doorverkoop. De kans ligt puur in huurrendement.", "voors": ["Laagste instapprijs van de run: EUR 77.000", "Verse advertentie - nog niet druk bekeken, onderhandelruimte", "Garage inclusief - zeldzaam en waardevol voor verhuur", "Sterke constructie - renovatie minder risicovol", "<3km van strand Bellreguard", "Alle diensten op loopafstand (markt, school, gezondheidscentrum)"], "tegens": ["Bellreguard heeft lagere marktwaarden dan Oliva/Gandia - flip-marge krap", "Slechts 1 badkamer voor 190m2 - extra badkamer nodig bij renovatie", "Exacte adres niet vermeld (privacy instelling) - bezichtiging noodzakelijk", "Kustzone Bellreguard: PATRICOVA update na DANA 2024 nog in voorbereiding"], "financieel": {"regels": [{"label": "Aankoopprijs", "waarde": "EUR 77.000"}, {"label": "ITP 10%", "waarde": "EUR 7.700"}, {"label": "Notaris/registratie (schatting)", "waarde": "EUR 1.500"}, {"label": "--- SCENARIO A: Gerichte renovatie + verhuur ---", "waarde": ""}, {"label": "Renovatie (functioneel, niet luxe - 190m2 a EUR 500/m2)", "waarde": "EUR 95.000"}, {"label": "Totale instap", "waarde": "EUR 181.200"}, {"label": "Langdurige verhuur", "waarde": "ca. EUR 850/maand = EUR 10.200/jaar"}, {"label": "Bruto rendement langdurige verhuur", "waarde": "ca. 5,6%"}, {"label": "Vakantieverhuur (20 weken a EUR 900/week + rest langdurig)", "waarde": "ca. EUR 18.000-22.000/jaar"}, {"label": "Bruto rendement vakantieverhuur", "waarde": "ca. 10-12% - BESTE SCENARIO"}, {"label": "--- SCENARIO B: Flip na renovatie ---", "waarde": ""}, {"label": "Renovatie (volledig, 190m2 a EUR 800/m2)", "waarde": "EUR 152.000"}, {"label": "Totale investering flip", "waarde": "EUR 238.200"}, {"label": "Verkoopwaarde gerenoveerd Bellreguard (est. EUR 1.100/m2)", "waarde": "EUR 209.000"}, {"label": "Flip-marge", "waarde": "NEGATIEF (-EUR 29.000) - niet doen"}], "conclusie": "GEEN flip - Bellreguard heeft te lage marktwaarden om renovatiekosten terug te verdienen bij doorverkoop. De kans ligt ALLEEN in verhuur. Vakantieverhuur met de garage als extra troef kan 10-12% bruto opleveren - dat is een solide rendement voor een instap van EUR 77k."}, "vergunning": "Stedelijk centrum Bellreguard, standaard residentieel. Renovatievergunning normaal haalbaar zonder bijzondere complicaties.", "overstroming": {"niveau": "Matig - nader checken", "kleur": "amber", "toelichting": "Bellreguard ligt in de kustzone van La Safor. Na de DANA van oktober 2024 worden PATRICOVA-kaarten voor kustgemeenten herzien. Precieze overstromingsklasse voor dit perceel nog niet bevestigd. Verplicht checken via PATRICOVA-viewer en gemeentelijke kaart Bellreguard voor aankoop."}, "demografie": "Bellreguard is een kleine kustgemeente in La Safor, populair bij Spanjaarden als zomerbasis. Groeiende interesse van buitenlandse kopers door strandnabijheid en lagere prijzen dan Gandia.", "ideeen": ["Renoveren als compacte strandwoning voor vakantieverhuur", "Garage apart verhuren als extra inkomstenbron", "Tweede badkamer inplannen bij renovatie - verhoogt verhuurwaarde"], "due_diligence": ["Bezichtiging om exact adres en staat te beoordelen", "PATRICOVA check + gemeentelijke overstromingskaart Bellreguard", "Exacte locatie navragen bij makelaar", "Onderhandelen: verse advertentie geeft ruimte voor lager bod"], "eerlijk_oordeel": "De laagste instapprijs van de run, met garage inclusief en strandnabijheid. Beperking is de relatief lage marktwaarde in Bellreguard na renovatie. Ideaal als verhuurobject voor wie een lage instap zoekt met stabiele zomerverhuur als strategie.", "contact": {"bron": "idealista.com", "telefoon": "onbekend - via idealista chat of bel", "email": "onbekend", "url": "https://www.idealista.com/inmueble/111528488/", "referentie": "3313-9021", "opmerking": "Makelaar: Juan Faure / SOLUCIONES Gandia"}, "bronnen": [{"titel": "Idealista - Chalet adosado Bellreguard Calle Sant Antoni 190m2", "url": "https://www.idealista.com/inmueble/111528488/"}]}, {"id": "villalonga-restaurant-almacita-465m2-2026-05-24", "titel": "Oud restaurant met woning Villalonga 465m2 - parkeerplaats 200m2", "type": "Voormalig restaurant + bovenwoning (99m2), 465m2 totaal op 1038m2 perceel, overdekt terras met rivierzicht", "type_kort": "Horeca", "plaats": "Villalonga (Partida Almacita)", "regio": "La Safor", "vraagprijs": 112000, "prijs_status": "Bevestigd op idealista.com", "prijs_notitie": "EUR 241/m2. Verkoper stelt expliciet 'PRECIO INNEGOCIABLE'. Bijgewerkt 14 mei 2026.", "kerngegevens": [{"label": "Oppervlakte", "waarde": "465 m2 totaal"}, {"label": "Commercieel deel", "waarde": "Ca. 300m2 restaurant (bar, keuken, 2 WC)"}, {"label": "Woning", "waarde": "99m2 op 1e verdieping (3 slaapkamers, badkamer, terras)"}, {"label": "Overdekt terras", "waarde": "250m2 met ramen, zicht op rivier Serpis"}, {"label": "Parkeren", "waarde": "Ca. 200m2 parkeerplaats (15-20 auto's)"}, {"label": "Perceel", "waarde": "1038 m2"}, {"label": "Ligging", "waarde": "Toegangsweg Villalonga vanuit Potries"}, {"label": "Status advertentie", "waarde": "Bijgewerkt 14 mei 2026"}], "score": 51, "score_label": "Voorzichtig", "strategie": "Commercieel hergebruik met duidelijke business case - NIET voor beginners", "samenvatting": "Voormalig restaurant met bovenwoning aan de toegangsweg van Villalonga. EUR 241/m2 is exceptioneel goedkoop maar misleidend als instapgetal - het totaalplaatje is complexer. Het commerciele deel (ca. 300m2) kan worden heropend als evenementenhal of yoga-studio. Let op: 'PRECIO INNEGOCIABLE' en overstromingsrisico nabij de Serpis. Dit pand vereist een concrete commerciele visie en is NIET geschikt als flip of passieve verhuur.", "voors": ["EUR 241/m2 is exceptioneel goedkoop voor dit oppervlak", "Enorme flexibiliteit in bestemming (event, horeca, sport, wonen)", "Groot parkeerterrein (200m2) - meerwaarde voor commercieel gebruik", "Overdekt terras 250m2 met rivierzicht", "Bestaande horecainfrastructuur (bar, keuken, sanitair)"], "tegens": ["PRECIO INNEGOCIABLE: geen kortingsfactor", "Villalonga is een klein inland dorp - beperkt toerismeverkeer", "Nabij rivier Serpis: DANA 2024 maakte overstromingsrisico duidelijk", "Herbestemming kan vergunningsmatig complex zijn", "Installaties moeten volledig worden vernieuwd", "Doorverkoopmarkt Villalonga is traag"], "financieel": {"regels": [{"label": "Aankoopprijs", "waarde": "EUR 112.000"}, {"label": "ITP 10%", "waarde": "EUR 11.200"}, {"label": "Notaris/registratie", "waarde": "EUR 2.000"}, {"label": "--- SCENARIO A: Alleen woning renoveren, commercieel later ---", "waarde": ""}, {"label": "Renovatie woning (99m2 a EUR 700/m2)", "waarde": "EUR 69.300"}, {"label": "Totale instap fase 1", "waarde": "EUR 194.500"}, {"label": "Verhuur woning", "waarde": "ca. EUR 600/maand = EUR 7.200/jaar"}, {"label": "Bruto rendement fase 1", "waarde": "ca. 3,7% - matig"}, {"label": "--- SCENARIO B: Evenementenhal volledig operationeel ---", "waarde": ""}, {"label": "Renovatie volledig (465m2, commercieel niveau)", "waarde": "EUR 250.000 - 300.000"}, {"label": "Totale investering", "waarde": "EUR 375.000 - 425.000"}, {"label": "Verhuur evenementenhal (weekenden, schatting)", "waarde": "onbekend - afhankelijk van markt en vergunning"}, {"label": "Break-even vereist", "waarde": "ca. EUR 30.000-40.000/jaar aan omzet"}, {"label": "--- GEEN FLIP MOGELIJK ---", "waarde": ""}, {"label": "Herverkoop als woonpand Villalonga", "waarde": "maximaal EUR 200.000 - zwaar verlies"}], "conclusie": "De lage prijs per m2 is verleidelijk maar de instap is zwaarder dan hij lijkt. Fase 1 (alleen woning renoveren) levert een matig rendement. Het grote potentieel zit in commercieel gebruik maar dat vereist EUR 375k+ totaalinvestering en een bewezen business case. NIET geschikt als flip of passieve belegging."}, "vergunning": "Bestaande horecabestemming. Hergebruik als horeca/event minder ingrijpend dan omzetting naar wonen. Activiteitsvergunning nodig voor commercieel gebruik. Navragen bij Ajuntament Villalonga.", "overstroming": {"niveau": "Matig - nader checken", "kleur": "amber", "toelichting": "Partida Almacita 17 ligt aan de toegangsweg nabij de rivier Serpis. Na DANA oktober 2024 zijn riviergebieden in La Safor herzien in PATRICOVA. Verplicht controleren via PATRICOVA-viewer en SNCZI-viewer voor aankoop."}, "demografie": "Villalonga heeft ca. 1500 inwoners en een stabiele maar kleine woningmarkt. Commercieel gebruik zou moeten steunen op regionaal publiek (Gandia ca. 20 min). Weinig massatoerisme.", "ideeen": ["Evenementenlocatie of trouwzaal - hoge vraag in de regio", "Yoga/wellness retreat - rustige omgeving is een plus", "Huisvesting landarbeiders of seizoenswerkers", "Restaurant opnieuw in gebruik nemen met regionale keuken"], "due_diligence": ["PATRICOVA en SNCZI overstromingscheck Partida Almacita 17", "Bestemmingsplan opvragen bij Ajuntament Villalonga", "Eigendomsregister en eventuele hypotheken/schulden checken", "Staat installaties elektra en water laten inspecteren", "Vergunningsstatus bestaand pand controleren"], "eerlijk_oordeel": "Interessant maar complex - voor de geavanceerde investeerder met een concrete commerciele visie. De prijs per m2 is grappig laag, maar de locatie, het overstromingsrisico en de herbestemmingscomplexiteit maken dit niks voor beginners. Niet aanraden als quick flip.", "contact": {"bron": "idealista.com", "telefoon": "onbekend - via idealista chat of bel", "email": "onbekend", "url": "https://www.idealista.com/inmueble/111101029/", "referentie": "CASARESTVILLALONG204", "opmerking": "Makelaar: Inmobiliaria Mara Cabrera, Gandia"}, "bronnen": [{"titel": "Idealista - Oud restaurant Villalonga Partida Almacita 17, 465m2", "url": "https://www.idealista.com/inmueble/111101029/"}]}, {"id": "villalonga-santllorenc-396m2-2026-05-24", "titel": "Casa de pueblo Villalonga centrum 396m2 - 8 slaapkamers, bergzicht", "type": "Casa de pueblo van 396m2 op 3 verdiepingen, 8 slaapkamers, 2 badkamers, patio en terras met bergzicht", "type_kort": "Flip-pand", "plaats": "Villalonga (centrum)", "regio": "La Safor", "vraagprijs": 149000, "prijs_status": "Bevestigd op idealista.com", "prijs_notitie": "EUR 376/m2. Gebouwd in 1927, volledig te renoveren. Bijgewerkt 24 april 2026.", "kerngegevens": [{"label": "Oppervlakte", "waarde": "396 m2"}, {"label": "Kamers", "waarde": "8 slaapkamers, 2 badkamers"}, {"label": "Perceel", "waarde": "204 m2"}, {"label": "Bouwjaar", "waarde": "1927"}, {"label": "Verdiepingen", "waarde": "3 verdiepingen + buitenpatio"}, {"label": "Terras", "waarde": "Terrassen met bergzicht"}, {"label": "Staat", "waarde": "Volledig te renoveren"}, {"label": "Status advertentie", "waarde": "Bijgewerkt 24 april 2026"}], "score": 58, "score_label": "Voorzichtig", "strategie": "B&B of groepsaccommodatie - GEEN flip", "samenvatting": "Imposante casa senorial uit 1927 in het hart van Villalonga, met bijna 400m2 op drie verdiepingen en een buitenpatio met bergzicht. Het 8-kamer potentieel leent zich voor een B&B of meergezinsverhuur. Volledig renovatieproject. Als flip is het een verlieslatende operatie - de marktwaarden in Villalonga zijn eenvoudigweg te laag om renovatiekosten bij doorverkoop terug te verdienen. Alleen zinvol met een concrete B&B of groepsaccommodatie-visie.", "voors": ["EUR 376/m2 voor 396m2 in dorpscentrum - exceptioneel voor het oppervlak", "8 slaapkamers - uniek potentieel als B&B of meergezinswoning", "Buitenpatio en terrassen met bergzicht", "1927-bouw met authentiek Valenciaans karakter", "Alle diensten van Villalonga op loopafstand"], "tegens": ["Volledig renovatieproject - totale investering loopt sterk op", "Villalonga heeft trage doorverkoopmarkt en lage marktwaarden", "Slechts 2 badkamers voor 8 slaapkamers - extra sanitair noodzakelijk", "Geen snelle flip mogelijk in dit dorp"], "financieel": {"regels": [{"label": "Aankoopprijs", "waarde": "EUR 149.000"}, {"label": "ITP 10%", "waarde": "EUR 14.900"}, {"label": "Notaris/registratie", "waarde": "EUR 2.000"}, {"label": "--- SCENARIO A: B&B (8 kamers) ---", "waarde": ""}, {"label": "Renovatie B&B-niveau (396m2 a EUR 750/m2)", "waarde": "EUR 297.000"}, {"label": "B&B-vergunning en inrichting (schatting)", "waarde": "EUR 20.000"}, {"label": "Totale investering", "waarde": "EUR 482.900"}, {"label": "B&B-omzet (8 kamers, 90 bezette nachten x EUR 70/kamer)", "waarde": "ca. EUR 50.400 bruto/jaar"}, {"label": "Na operationele kosten (30%)", "waarde": "ca. EUR 35.000 netto/jaar"}, {"label": "Rendement B&B-scenario", "waarde": "ca. 7,2% netto op totale investering"}, {"label": "Terugverdientijd", "waarde": "ca. 14 jaar - alleen zinvol als langetermijnproject"}, {"label": "--- SCENARIO B: Gefaseerde renovatie ---", "waarde": ""}, {"label": "Fase 1: 1 verdieping operationeel (ca. 130m2 a EUR 700/m2)", "waarde": "EUR 91.000"}, {"label": "Instap fase 1", "waarde": "EUR 256.900"}, {"label": "Verhuur 3-4 kamers fase 1", "waarde": "ca. EUR 1.200/maand = EUR 14.400/jaar"}, {"label": "Bruto rendement fase 1", "waarde": "ca. 5,6%"}, {"label": "--- GEEN FLIP ---", "waarde": ""}, {"label": "Verkoopwaarde gerenoveerd in Villalonga (est. EUR 750/m2)", "waarde": "EUR 297.000"}, {"label": "Flip-verlies bij volledige renovatie", "waarde": "ca. -EUR 200.000 - absoluut niet doen"}], "conclusie": "Flip is onmogelijk - verlies van EUR 200k+. Als B&B biedt dit pand een realistisch rendement van 7% netto bij goede bezetting, maar het vereist een serieuze langetermijnstrategie en horecaervaring. Gefaseerde aanpak (1 verdieping tegelijk) maakt de investering beheersbaar."}, "vergunning": "Stedelijk centrum Villalonga. Renovatievergunning haalbaar. B&B vereist aparte bedrijfsvergunning (vivienda de uso turistico of alojamiento rural). Bouwjaar 1927 - mogelijke beschermde gevel checken.", "overstroming": {"niveau": "Laag-matig", "kleur": "amber", "toelichting": "Villalonga centrum ligt iets hoger dan de rivierdalen maar de Serpis loopt door de gemeente. Na DANA 2024 is het gehele gebied opnieuw ingedeeld in PATRICOVA. Check via PATRICOVA-viewer."}, "demografie": "Villalonga heeft ca. 1500 inwoners. Panden staan gemiddeld langer te koop dan in kustgemeenten. Ideaal voor rust-zoekende investeerders of B&B-exploitanten.", "ideeen": ["Landelijk B&B voor bergwandelaars en fietsvakantie-toeristen", "Groepsaccommodatie voor familievakantie of yoga-retreats", "Gefaseerde renovatie: 1 verdieping per jaar, deels verhuren tijdens bouw"], "due_diligence": ["PATRICOVA check Calle Sant Llorenc 14 Villalonga", "B&B-vergunningshaalbaarheid checken bij Ajuntament Villalonga", "Bouwtechnische inspectie (1927, 3 verdiepingen)", "Energiecertificaat opvragen", "Eigendomsregister en hypotheekvrijheid"], "eerlijk_oordeel": "Indrukwekkend pand voor weinig geld, maar de hoge renovatiekosten en trage markt maken dit geen eenvoudige investering. Werkt alleen met een specifiek gebruik (B&B, groepsaccommodatie) en voldoende geduld. Niet aanraden als eerste investering.", "contact": {"bron": "idealista.com", "telefoon": "onbekend - via idealista chat of bel", "email": "onbekend", "url": "https://www.idealista.com/inmueble/110953825/", "referentie": "816853", "opmerking": "Makelaar: Susana Perez Rivas / iad Espana, Gandia"}, "bronnen": [{"titel": "Idealista - Casa pueblo Villalonga Calle Sant Llorenc 14, 396m2", "url": "https://www.idealista.com/inmueble/110953825/"}]}]};
 const PREFS = {"profiel": {"naam": "Voorkeurprofiel - vastgoed Oliva e.o.", "laatst_bijgewerkt": "2026-05-21", "investeringsdoel": "Flippen & doorverkopen, met verhuur als volwaardig alternatief", "budget_min": 50000, "budget_max": 500000, "regio": "Marina Alta / La Safor (rond Oliva)", "types": ["Bouwgrond / percelen", "Te flippen panden", "Instapklare verhuurobjecten", "Horeca", "Bedrijfspanden met herbestemmingspotentie", "Bijzondere buitenkansen"], "wat_ik_zoek": "Objecten waar verbouwing of herbestemming aantoonbaar meerwaarde oplevert. Geen projecten die verlieslatend worden door vergunnings- of overstromingsrisico."}, "scoreweging": {"_uitleg": "Gewichten tellen op tot 100. De dagelijkse run gebruikt deze om elke kans 0-100 te scoren.", "flipmarge": 25, "verhuurrendement": 15, "vergunningshaalbaarheid": 20, "overstromingsrisico": 15, "locatie": 15, "instapprijs_onderhandelruimte": 10}, "geleerde_voorkeuren": {"positieve_signalen": [], "negatieve_signalen": [], "notities": ["Nog geen feedback verwerkt - dit is de startinstelling. Zodra je broer kansen beoordeelt in het dashboard, verschuift dit profiel mee."]}, "feedback_log": []};
-const BUILD = "24-05-2026 07:41";
+const BUILD = "24-05-2026 08:04";
 const STORE_KEY = "oliva-vastgoed-feedback-v1";
 const FEEDBACK_TOKEN = (d=>d.length?d.map(x=>String.fromCharCode(x^47)).join(''):'')([72,70,91,71,90,77,112,95,78,91,112,30,30,108,108,98,108,26,109,118,31,93,25,27,76,104,124,119,107,108,66,67,90,112,90,86,117,89,23,118,78,104,78,92,100,68,104,121,88,106,76,74,25,107,27,127,99,78,67,68,121,86,105,90,24,121,70,107,86,71,100,98,77,119,125,74,68,123,103,107,126,126,108,118,98,125,102,88,109,104,27,25,25]);
 const FEEDBACK_REPO = "RNolten/Oliva";
@@ -589,6 +604,234 @@ function renderFooter(){
     '<b>'+esc(currentData.meta.run_type)+'</b><br>'+esc(currentData.meta.disclaimer)+
     '<br><br>Dashboard gegenereerd op '+esc(BUILD)+
     '. Bedragen zijn richtwaarden, geen financieel of juridisch advies.';
+}
+
+// ---- URL Analyser ----
+async function analyseUrlPand(){
+  const urlInput=document.getElementById('url-pand');
+  const btn=document.getElementById('url-btn');
+  const result=document.getElementById('url-result');
+  const url=urlInput.value.trim();
+  if(!url||!url.includes('idealista.com')){
+    toast('Plak een geldige idealista.com URL');
+    return;
+  }
+  btn.disabled=true; btn.textContent='Analyseren...';
+  result.innerHTML='<p class="note">Pagina ophalen via CORS-proxy…</p>';
+  let html=null;
+  const proxies=[
+    'https://api.allorigins.win/get?url='+encodeURIComponent(url),
+    'https://corsproxy.io/?'+encodeURIComponent(url)
+  ];
+  for(const proxy of proxies){
+    try{
+      const ctrl=new AbortController();
+      const tid=setTimeout(()=>ctrl.abort(),13000);
+      const resp=await fetch(proxy,{signal:ctrl.signal});
+      clearTimeout(tid);
+      if(!resp.ok) continue;
+      if(proxy.includes('allorigins')){
+        const j=await resp.json().catch(()=>null);
+        if(j&&j.contents&&j.contents.length>500){html=j.contents;break;}
+      } else {
+        const t=await resp.text().catch(()=>null);
+        if(t&&t.length>500){html=t;break;}
+      }
+    }catch(e){continue;}
+  }
+  btn.disabled=false; btn.textContent='Analyseer';
+  if(!html){
+    result.innerHTML='<p class="note" style="color:var(--red)">Kon de pagina niet ophalen. '+
+      'Idealista blokkeert soms externe verzoeken. Probeer opnieuw of controleer de URL.</p>';
+    return;
+  }
+  const parsed=parsePandHTML(html,url);
+  const scored=scorePand(parsed);
+  result.innerHTML=renderUrlCard(scored,url);
+}
+
+function parsePandHTML(html,url){
+  const metaVal=pat=>{
+    const m=html.match(new RegExp('<meta[^>]+content=["\']([^"\']*)["\'][^>]*'+pat,'i'))
+            ||html.match(new RegExp('<meta[^>]*'+pat+'[^>]*content=["\']([^"\']*)["\']','i'));
+    return m?m[1]:'';
+  };
+  const ogTitle=metaVal('property=["\']og:title["\']');
+  const ogDesc=metaVal('property=["\']og:description["\']');
+  const pageTitle=(html.match(/<title[^>]*>([^<]+)<\/title>/i)||[])[1]||'';
+  const allText=ogTitle+' '+pageTitle+' '+ogDesc;
+
+  // Prijs
+  let prijs=0;
+  const priceM=allText.match(/(\d{2,3}(?:\.\d{3})*(?:,\d+)?)\s*€|€\s*(\d{2,3}(?:\.\d{3})*)/);
+  if(priceM){prijs=parseInt((priceM[1]||priceM[2]).replace(/\./g,''))||0;}
+  // JSON-LD fallback
+  const ldM=html.match(/<script[^>]+application\/ld\+json[^>]*>([\s\S]*?)<\/script>/i);
+  if(ldM){try{const ld=JSON.parse(ldM[1]);if(ld.offers&&ld.offers.price)prijs=parseInt(ld.offers.price)||prijs;}catch(e){}}
+
+  // m²
+  const aM=(ogTitle+' '+ogDesc).match(/(\d+)\s*m[²2]/i);
+  const m2=aM?parseInt(aM[1]):0;
+
+  // Kamers / badkamers
+  const rM=ogDesc.match(/(\d+)\s*hab/i);
+  const kamers=rM?parseInt(rM[1]):0;
+  const bM=ogDesc.match(/(\d+)\s*ba[n\xf1]/i);
+  const badkamers=bM?parseInt(bM[1]):0;
+
+  // Locatie: "Casa en venta en Oliva, Valencia de 250 m²" → "Oliva, Valencia"
+  const lM=(ogTitle||pageTitle).match(/\ben\s+([\w\xc0-\xff\s]+?)(?:\s+de\s+\d|\s*[-|]|\s*$)/i);
+  const locatie=lM?lM[1].trim():'';
+
+  // Type
+  const tl=(ogTitle+' '+pageTitle).toLowerCase();
+  let type='Woning';
+  if(tl.includes('terreno')||tl.includes('solar')||tl.includes('parcela'))type='Bouwgrond';
+  else if(tl.includes('local')||tl.includes('comercial')||tl.includes('negocio'))type='Commercieel';
+  else if(tl.includes('chalet')||tl.includes('villa'))type='Villa/Chalet';
+  else if(tl.includes('piso')||tl.includes('apartamento'))type='Appartement';
+
+  const bl=html.toLowerCase();
+  const teRenoveren=bl.includes('para reformar')||bl.includes('para restaurar')||ogDesc.toLowerCase().includes('reformar');
+  const verhuurd=bl.includes('inquilino')||bl.includes('arrendado')||bl.includes('alquilado');
+  const nonNeg=bl.includes('innegociable')||bl.includes('sin negociar');
+
+  const refM=html.match(/(?:ref(?:erencia)?[:\s#]+)([\w\-\/]{4,20})/i);
+  const ref=refM?refM[1]:'';
+
+  const titel=ogTitle||pageTitle.split('|')[0].trim();
+  return{titel,prijs,m2,kamers,badkamers,locatie,type,teRenoveren,verhuurd,nonNeg,ref,ogDesc};
+}
+
+function scorePand(p){
+  const w=store.weging;
+  // Flipmarge: instapprijs per m²
+  let flipScore=Math.round(w.flipmarge*0.4);
+  if(p.prijs&&p.m2){
+    const pm2=p.prijs/p.m2;
+    flipScore=pm2<400?w.flipmarge:pm2<600?Math.round(w.flipmarge*.85):pm2<900?Math.round(w.flipmarge*.6):pm2<1200?Math.round(w.flipmarge*.3):0;
+  }
+  // Verhuurrendement: ruwe schatting €10/m²/maand
+  let huurScore=Math.round(w.verhuurrendement*0.4);
+  if(p.prijs&&p.m2){
+    const jh=p.m2*10*12;
+    const tot=p.prijs+(p.teRenoveren?p.m2*600:0);
+    const y=(jh/tot)*100;
+    huurScore=y>=8?w.verhuurrendement:y>=6?Math.round(w.verhuurrendement*.8):y>=4?Math.round(w.verhuurrendement*.5):Math.round(w.verhuurrendement*.2);
+  }
+  // Vergunning
+  const vergScore=p.type==='Bouwgrond'?Math.round(w.vergunningshaalbaarheid*.4):p.teRenoveren?Math.round(w.vergunningshaalbaarheid*.65):Math.round(w.vergunningshaalbaarheid*.8);
+  // Overstromingsrisico: onbekend = neutraal
+  const ovScore=Math.round(w.overstromingsrisico*0.5);
+  // Locatie
+  const ll=(p.locatie||'').toLowerCase();
+  const locScore=ll.includes('oliva')||ll.includes('gandia')||ll.includes('d\xe9nia')||ll.includes('denia')
+    ?w.locatie
+    :ll.includes('safor')||ll.includes('marina alta')||ll.includes('bellreguard')||ll.includes('villalonga')
+      ?Math.round(w.locatie*.8):Math.round(w.locatie*.5);
+  // Instapprijs
+  let instapScore=Math.round(w.instapprijs_onderhandelruimte*.4);
+  if(p.nonNeg)instapScore=Math.round(w.instapprijs_onderhandelruimte*.3);
+  else if(p.prijs&&p.m2){
+    const pm2=p.prijs/p.m2;
+    instapScore=pm2<500?w.instapprijs_onderhandelruimte:pm2<800?Math.round(w.instapprijs_onderhandelruimte*.7):Math.round(w.instapprijs_onderhandelruimte*.4);
+  }
+  const totaal=flipScore+huurScore+vergScore+ovScore+locScore+instapScore;
+  const score=Math.min(95,Math.max(20,totaal));
+  const label=score>=72?'Sterk':score>=62?'Interessant':'Voorzichtig';
+  return{...p,score,label,scoreBreak:{flipScore,huurScore,vergScore,ovScore,locScore,instapScore}};
+}
+
+function buildFinScenarios(p){
+  if(!p.prijs||!p.m2)return'<tr><td colspan="2">Onvoldoende gegevens voor berekening.</td></tr>';
+  const fmt=n=>new Intl.NumberFormat('nl-NL',{style:'currency',currency:'EUR',maximumFractionDigits:0}).format(n);
+  const itp=Math.round(p.prijs*.10);
+  const icio=p.teRenoveren?Math.round(p.prijs*.04):0;
+  const renovL=p.teRenoveren?p.m2*450:0;
+  const renovF=p.teRenoveren?p.m2*850:0;
+  const totL=p.prijs+itp+(p.teRenoveren?renovL+icio:0);
+  const totF=p.prijs+itp+(p.teRenoveren?renovF+icio:0);
+  const jh=p.m2*10*12;
+  const ryL=totL>0?((jh/totL)*100).toFixed(1):'--';
+  const ryF=totF>0?((jh/totF)*100).toFixed(1):'--';
+  const marktM2=p.type==='Bouwgrond'?120:1300;
+  const mw=p.m2*marktM2;
+  const flipR=mw-totF;
+  const flipKleur=flipR>0?'var(--green)':'var(--red)';
+  let rows='<tr><td>Vraagprijs</td><td class="r">'+fmt(p.prijs)+'</td></tr>';
+  rows+='<tr><td>ITP aankoopbelasting (10%)</td><td class="r">'+fmt(itp)+'</td></tr>';
+  if(p.teRenoveren){
+    rows+='<tr><td>ICIO vergunning (~4%)</td><td class="r">'+fmt(icio)+'</td></tr>';
+    rows+='<tr><td>Renovatie licht (~€450/m\xb2)</td><td class="r">'+fmt(renovL)+'</td></tr>';
+    rows+='<tr><td><b>Totaal investering licht</b></td><td class="r"><b>'+fmt(totL)+'</b></td></tr>';
+    rows+='<tr><td>Bruto huurrendement (licht)</td><td class="r" style="color:var(--green)"><b>'+ryL+'%</b></td></tr>';
+    rows+='<tr><td>Renovatie volledig (~€850/m\xb2)</td><td class="r">'+fmt(renovF)+'</td></tr>';
+    rows+='<tr><td><b>Totaal investering volledig</b></td><td class="r"><b>'+fmt(totF)+'</b></td></tr>';
+    rows+='<tr><td>Bruto huurrendement (volledig)</td><td class="r" style="color:var(--green)"><b>'+ryF+'%</b></td></tr>';
+  } else {
+    rows+='<tr><td><b>Totaal investering</b></td><td class="r"><b>'+fmt(totL)+'</b></td></tr>';
+    rows+='<tr><td>Bruto huurrendement</td><td class="r" style="color:var(--green)"><b>'+ryL+'%</b></td></tr>';
+  }
+  rows+='<tr><td>Flip: indicatieve marktwaarde na reno</td><td class="r">'+fmt(mw)+'</td></tr>';
+  rows+='<tr><td>Flip resultaat</td><td class="r" style="color:'+flipKleur+'"><b>'+(flipR>0?'+':'')+fmt(flipR)+'</b></td></tr>';
+  return rows;
+}
+
+function renderUrlCard(p,url){
+  const fin=buildFinScenarios(p);
+  const prijsStr=p.prijs?euro(p.prijs):'Onbekend';
+  const m2Str=p.m2?p.m2+' m\xb2':'—';
+  const locStr=p.locatie||'Onbekend';
+  const sc=scoreClass(p.score);
+  const warns=[];
+  if(p.verhuurd)warns.push('⚠ Momenteel verhuurd — let op levertermijn');
+  if(p.nonNeg)warns.push('⚠ Precio innegociable — geen onderhandelruimte');
+  if(p.type==='Bouwgrond')warns.push('⚠ Grond — extra vergunningsonderzoek vereist');
+  if(!p.prijs)warns.push('⚠ Prijs niet herkend in de pagina — scores zijn indicatief');
+  return '<article class="card" style="border-color:var(--azure)">'+
+    '<div class="head">'+
+      '<div class="rank" style="background:var(--azure)">⌕</div>'+
+      '<div class="mid">'+
+        '<div class="badges">'+
+          '<span class="badge b-type">'+esc(p.type)+'</span>'+
+          '<span class="badge auto-badge">URL Analyse</span>'+
+          (p.teRenoveren?'<span class="badge" style="background:#fbefda;color:var(--amber)">Te renoveren</span>':'')+
+          (p.verhuurd?'<span class="badge" style="background:#f7e3df;color:var(--red)">Verhuurd</span>':'')+
+        '</div>'+
+        '<h3>'+esc(p.titel||'Onbekend object')+'</h3>'+
+        '<div class="where">'+esc(locStr)+' \xb7 <span class="price">'+prijsStr+'</span></div>'+
+      '</div>'+
+      '<div class="score"><div class="ring '+sc+'">'+
+        '<div class="v">'+p.score+'</div><div class="x">score</div></div>'+
+        '<div class="lab">'+esc(p.label)+'</div></div>'+
+    '</div>'+
+    '<div class="body">'+
+      '<div class="kg">'+
+        '<span><b>Opp.:</b> '+esc(m2Str)+'</span>'+
+        (p.kamers?'<span><b>Kamers:</b> '+p.kamers+'</span>':'')+
+        (p.badkamers?'<span><b>Bad:</b> '+p.badkamers+'</span>':'')+
+        (p.prijs&&p.m2?'<span><b>€/m\xb2:</b> '+Math.round(p.prijs/p.m2)+'</span>':'')+
+        (p.ref?'<span><b>Ref:</b> '+esc(p.ref)+'</span>':'')+
+      '</div>'+
+      (warns.length?'<div class="strat" style="border-color:var(--amber)">'+warns.join('<br>')+'</div>':'')+
+      '<details class="fin" open><summary>Financi\xeble inschatting (indicatief)</summary>'+
+        '<div class="det"><table>'+fin+'</table>'+
+        '<div class="concl"><b>Let op:</b> Automatische schatting. Huurprijs gebaseerd op ~€10/m\xb2/maand voor de regio; marktwaarde grond €120/m\xb2, woning €1.300/m\xb2 na renovatie. Altijd verifi\xebren bij makelaar.</div></div>'+
+      '</details>'+
+      '<div class="verdict">'+
+        '<b>Score breakdown</b>'+
+        'Instapprijs/flip: '+p.scoreBreak.flipScore+
+        ' \xb7 Huurrendement: '+p.scoreBreak.huurScore+
+        ' \xb7 Vergunning: '+p.scoreBreak.vergScore+
+        ' \xb7 Overstromingsrisico: '+p.scoreBreak.ovScore+' (onbekend, neutraal)'+
+        ' \xb7 Locatie: '+p.scoreBreak.locScore+
+        ' \xb7 Onderhandelruimte: '+p.scoreBreak.instapScore+
+      '</div>'+
+      '<div class="contact">'+
+        '<span><a href="'+esc(url)+'" target="_blank" rel="noopener">Bekijk advertentie →</a></span>'+
+      '</div>'+
+    '</div>'+
+  '</article>';
 }
 
 document.getElementById('sort').onchange=renderCards;
