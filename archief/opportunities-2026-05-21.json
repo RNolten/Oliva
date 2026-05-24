@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva & Marina Alta",
+    "datum": "2026-05-21",
+    "regio": "Marina Alta / La Safor (rond Oliva, Spanje)",
+    "run_type": "Eerste selectie - handmatig samengesteld op basis van actueel webonderzoek",
+    "aantal": 5,
+    "marktcontext": "Voor 2026 wordt in de Marina Alta / La Safor circa +8% woningwaardestijging en circa +5% meer transacties verwacht, gedreven door sterke internationale vraag en krap aanbod aan kwaliteitspanden. Oliva is duidelijk goedkoper dan buurplaats Denia (gemiddeld ruim 2.000 euro/m2), wat instapvoordeel en inhaalpotentieel geeft. Oliva telt 26.813 inwoners (INE 2025) en de bevolking verdubbelt tot verdrievoudigt in juli en augustus naar 50.000-75.000 door toerisme, dat 70% van de seizoenspiek uitmaakt.",
+    "disclaimer": "Alle bedragen voor verbouwing, marge en rendement zijn schattingen op basis van regionale kengetallen (verbouwing 2026: 700-1.100 euro/m2; cambio de uso lokaal naar woning: 25.000-70.000 euro; ICIO-bouwbelasting 4% van de begroting). Vraagprijzen en beschikbaarheid wijzigen dagelijks. Dit is geen financieel of juridisch advies - laat elk object vóór een bod controleren door een lokale arquitecto, gestor en abogado."
+  },
+  "kansen": [
+    {
+      "id": "gandia-local-armada-2026-05",
+      "titel": "Restaurant-pand op de boulevard van Playa de Gandia",
+      "type": "Horeca / bedrijfspand met herbestemming",
+      "type_kort": "Horeca",
+      "plaats": "Playa de Gandia",
+      "regio": "La Safor",
+      "vraagprijs": 210000,
+      "prijs_status": "Exacte vraagprijs",
+      "prijs_notitie": "Recent verlaagd van 230.000 naar 210.000 euro - de verkoper beweegt al, wat onderhandelruimte suggereert.",
+      "kerngegevens": [
+        {"label": "Totale oppervlakte", "waarde": "250 m2"},
+        {"label": "Indeling", "waarde": "150 m2 zaal + 100 m2 overdekt terras"},
+        {"label": "Nuttig oppervlak", "waarde": "240 m2"},
+        {"label": "Verdieping", "waarde": "Begane grond, hoekligging, buitenkant"},
+        {"label": "Voorzieningen", "waarde": "Water, licht, rookafvoer aanwezig"}
+      ],
+      "score": 76,
+      "score_label": "Sterk",
+      "strategie": "Twee routes: (A) verhuren als kant-en-klaar restaurant voor direct rendement, of (B) cambio de uso naar 1-2 strandappartementen voor flipmarge.",
+      "samenvatting": "Een ruim commercieel pand op de begane grond aan de Calle Armada Española, op loopafstand van het 3 km lange strand van Gandia, de jachthaven en de universiteitscampus. Het is officieel geclassificeerd voor restaurantgebruik en heeft een werkende rookafvoer - precies de vergunning die nieuwe horeca tegenwoordig moeilijk los krijgt.",
+      "voors": [
+        "Al vergund als restaurant inclusief salida de humos (rookafvoer) - dit vertegenwoordigt veel verborgen waarde.",
+        "Prijs is al met 20.000 euro verlaagd; verkoper is aantoonbaar bewegelijk.",
+        "Toplocatie: strandboulevard met hoge zomerse voetgangersstroom en horeca-clustering.",
+        "Twee verdienmodellen mogelijk vanuit één aankoop (verhuur of herbestemming)."
+      ],
+      "tegens": [
+        "Seizoensgebonden: Playa de Gandia is buiten de zomer aanzienlijk rustiger.",
+        "Cambio de uso op een begane grond vlak bij zee hangt af van het gemeentelijk bestemmingsplan; sommige gemeenten beperken wonen op de begane grond.",
+        "Vlak kustgebied - controleer afwatering en overstromingsband (zie hieronder).",
+        "Bij verhuur ben je afhankelijk van de kwaliteit en het doorzettingsvermogen van de horeca-huurder."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "210.000 euro (al 20.000 verlaagd)"},
+          {"label": "Kosten koper (ITP 10% + notaris/registratie ca. 2,5%)", "waarde": "± 26.000 euro"},
+          {"label": "Route A - opfrisbudget verhuurklaar", "waarde": "15.000 - 40.000 euro"},
+          {"label": "Route A - totale investering", "waarde": "± 251.000 - 276.000 euro"},
+          {"label": "Route A - bruto huurinkomsten restaurant", "waarde": "24.000 - 33.000 euro/jaar"},
+          {"label": "Route A - indicatief bruto huurrendement", "waarde": "± 9 - 12%"},
+          {"label": "Route B - verbouwing + legalisatie naar 2 woningen", "waarde": "120.000 - 190.000 euro"},
+          {"label": "Route B - totale investering", "waarde": "± 356.000 - 426.000 euro"},
+          {"label": "Route B - verwachte verkoopwaarde 2 strandappartementen", "waarde": "380.000 - 500.000 euro"}
+        ],
+        "conclusie": "De grootste waarde zit in de bestaande restaurantvergunning plus rookafvoer. Route A (horeca verhuren) geeft direct en relatief veilig rendement met weinig kapitaalinleg. Route B (cambio de uso) geeft meer flipmarge maar staat of valt met het gemeentelijk bestemmingsplan - check dat eerst."
+      },
+      "vergunning": "Het pand is al geclassificeerd voor horeca en beschikt over een rookafvoer; voor voortzetting als restaurant is dus nauwelijks vergunningsrisico. Voor herbestemming naar wonen is een licencia de obra mayor met cambio de uso nodig (doorlooptijd doorgaans 1-3 maanden, projectkosten 2.500-6.000 euro, plus ICIO van 4% over de bouwbegroting). Vraag eerst een informe de compatibilidad urbanística (ca. 50 euro) aan bij de gemeente Gandia om te bevestigen dat wonen op deze begane grond is toegestaan.",
+      "overstroming": {
+        "niveau": "Midden",
+        "kleur": "amber",
+        "toelichting": "Playa de Gandia is vlak kustgebied met afwaterings- en overstromingsgevoeligheid bij hevige regen. Controleer de PATRICOVA-band van dit exacte adres en houd rekening met strengere kaarten na de DANA van oktober 2024."
+      },
+      "demografie": "Gandia is met circa 75.000 inwoners de hoofdstad van La Safor en het commerciële hart van de regio; Playa de Gandia trekt 's zomers honderdduizenden bezoekers. De universiteitscampus en jachthaven geven ook buiten het hoogseizoen enige reuring. Horeca-omzet is hier sterk seizoensgebonden.",
+      "ideeen": [
+        "Verhuren aan een ervaren horeca-uitbater met een meerjarig huurcontract en huurindexatie.",
+        "Zelf laten exploiteren als tapasbar/strandrestaurant en na 2-3 jaar bewezen omzet het pand mét lopend contract doorverkopen aan een belegger.",
+        "Bij gunstig bestemmingsplan: opdelen in twee compacte strandappartementen voor de verhuur- of verkoopmarkt.",
+        "Combinatie: horeca op het terrasdeel, een kleine woning achterin - mits planologisch toegestaan."
+      ],
+      "due_diligence": [
+        "Vraag bij gemeente Gandia een informe de compatibilidad urbanística aan voor zowel horeca als wonen.",
+        "Controleer de PATRICOVA-overstromingsband van het exacte adres (Calle Armada Española).",
+        "Laat de geldigheid en overdraagbaarheid van de horecavergunning en de rookafvoer juridisch checken.",
+        "Vraag de nota simple op bij het Registro de la Propiedad (eigendom, lasten, hypotheken).",
+        "Beoordeel de staat van installaties (afzuiging, elektra, sanitair) met een bouwkundige."
+      ],
+      "eerlijk_oordeel": "Dit is de meest veelzijdige kans van vandaag. De al aanwezige restaurantvergunning mét rookafvoer is goud waard en verlaagt het risico flink. Als pure flip is de marge bescheiden; als rendementsobject (horecaverhuur) is het sterk. Begin met het opvragen van het compatibilidad-rapport - dat bepaalt of route B überhaupt open ligt.",
+      "contact": {
+        "bron": "Safor Mar (inmobiliaria, Gandia)",
+        "telefoon": "+34 693 766 918 / +34 695 213 186",
+        "email": "inmosaformar@gmail.com",
+        "url": "https://www.saformar.com/detalle/inmueble/60008195565.997486",
+        "referentie": "Ref. 2359",
+        "opmerking": "Adres volgens advertentie: Calle Armada Española, Playa de Gandia."
+      },
+      "bronnen": [
+        {"titel": "Safor Mar - Local comercial Playa de Gandia (ref 2359)", "url": "https://www.saformar.com/detalle/inmueble/60008195565.997486"},
+        {"titel": "Idealista - locales o naves con salida de humos, Safor", "url": "https://www.idealista.com/venta-locales/valencia/safor/con-salida-de-humos/"}
+      ]
+    },
+    {
+      "id": "elverger-casapueblo-l4253-2026-05",
+      "titel": "Groot dorpshuis om te verbouwen in El Verger",
+      "type": "Te flippen pand",
+      "type_kort": "Flip-pand",
+      "plaats": "El Verger (Vergel)",
+      "regio": "Marina Alta",
+      "vraagprijs": 189000,
+      "prijs_status": "Exacte vraagprijs",
+      "prijs_notitie": "Advertentie vermeldt 'rebajado' (verlaagd) - er is mogelijk verdere onderhandelruimte.",
+      "kerngegevens": [
+        {"label": "Bebouwd oppervlak", "waarde": "529 m2"},
+        {"label": "Perceel", "waarde": "380 m2"},
+        {"label": "Kamers", "waarde": "10 slaapkamers, 1 badkamer"},
+        {"label": "Bouwlagen", "waarde": "2, met garage en binnenpatio"},
+        {"label": "Prijs per m2 bebouwd", "waarde": "± 357 euro/m2 (zeer laag)"}
+      ],
+      "score": 74,
+      "score_label": "Sterk",
+      "strategie": "Waardecreatie door herindeling: ofwel opdelen in 2-3 wooneenheden, ofwel ombouwen tot klein boetiekhotel. Eventueel een 'project-flip': met vergunde verbouwplannen doorverkopen.",
+      "samenvatting": "Een imposant dorpshuis van twee verdiepingen in de kern van El Verger, met garage en binnenpatio. De makelaar noemt het zelf geschikt voor een groot familiehuis of een klein boetiekhotel. De extreem lage prijs per vierkante meter is de motor van deze deal - de uitdaging is de indeling van 10 slaapkamers met slechts 1 badkamer.",
+      "voors": [
+        "Zeer lage instapprijs per m2 (± 357 euro/m2 bebouwd) - veel volume voor weinig geld.",
+        "Casco urbano: geconsolideerd stedelijk gebied, waardoor een verbouwvergunning relatief voorspelbaar is.",
+        "Flexibel: groot genoeg om op te delen in meerdere eenheden of een boetiekhotel.",
+        "Garage, binnenpatio en goede basisstructuur al aanwezig; aangesloten op nutsvoorzieningen.",
+        "10 minuten van winkelcentrum La Marina en ruim een uur van de luchthavens Alicante en Valencia."
+      ],
+      "tegens": [
+        "Kapitaalintensief: een volledige verbouwing van 529 m2 is een fors en langlopend project.",
+        "Indeling 10 slaapkamers / 1 badkamer vraagt ingrijpende herindeling - de verbouwing is veruit de grootste risicofactor.",
+        "Energielabel staat 'en tramite' (nog niet afgegeven).",
+        "El Verger is een doorsnee dorp, geen premium locatie - dat begrenst de verkoopwaarde per m2.",
+        "El Verger valt onder het overstromingsgebied Marjal de Pego-Oliva (zie hieronder)."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "189.000 euro (verlaagd)"},
+          {"label": "Kosten koper (ITP 10% + notaris/registratie ca. 2,5%)", "waarde": "± 23.600 euro"},
+          {"label": "Verbouwing (grootste variabele)", "waarde": "300.000 - 470.000 euro"},
+          {"label": "Totale investering", "waarde": "± 513.000 - 683.000 euro"},
+          {"label": "Verwachte verkoopwaarde (3 wooneenheden of boetiekhotel)", "waarde": "620.000 - 800.000 euro"},
+          {"label": "Indicatieve brutomarge", "waarde": "50.000 - 170.000 euro (± 10 - 25%)"}
+        ],
+        "conclusie": "De lage instapprijs is aantrekkelijk, maar de verbouwkosten bepalen of dit winst of verlies wordt. Een interessante risico-arme variant is de 'project-flip': koop het pand, laat een verbouwproject mét vergunning goedkeuren voor 3 woningen of een hotel, en verkoop door aan een ontwikkelaar - dan vang je meerwaarde zonder de volledige bouwrisico's te dragen."
+      },
+      "vergunning": "Ligging in de casco urbano maakt een licencia de obra mayor voor structurele verbouwing en/of cambio de uso relatief voorspelbaar (doorlooptijd doorgaans 1-3 maanden). Opdelen in meerdere woningen of ombouw tot hotel vereist een architectenproject (honorarium ± 1.500-3.000 euro) plus ICIO van 4% over de bouwbegroting. Voor een boetiekhotel is daarnaast een toeristische exploitatievergunning nodig. Vraag vooraf een cedula urbanistica op om de toegestane gebruiken en dichtheid te bevestigen.",
+      "overstroming": {
+        "niveau": "Midden",
+        "kleur": "amber",
+        "toelichting": "El Verger is een van de vier gemeenten die in PATRICOVA zijn aangemerkt voor het overstromingsgebied Marjal de Pego-Oliva (zone AC01, risiconiveau 3 - het hoogste). De dorpskern is geconsolideerd stedelijk gebied en doorgaans minder kwetsbaar dan de marjalvelden, maar na de DANA van oktober 2024 worden de kaarten herzien. Controleer dit specifieke perceel op de PATRICOVA-visor vóór aankoop."
+      },
+      "demografie": "El Verger telt circa 5.000 inwoners en ligt centraal in de Marina Alta, dicht bij Denia (8 km) en het strand. De plaats heeft een vaste, deels internationale bevolking en is minder seizoensafhankelijk dan de kustplaatsen - gunstig voor verhuur het hele jaar door.",
+      "ideeen": [
+        "Opdelen in 3 zelfstandige woningen en afzonderlijk verkopen - spreidt het verkooprisico.",
+        "Ombouw tot boetiekhotel of casa rural; speelt in op de groeiende toeristenstroom in de Marina Alta.",
+        "Project-flip: enkel vergunde plannen toevoegen en doorverkopen, met beperkt eigen bouwrisico.",
+        "Gefaseerd verbouwen en de eerste afgewerkte eenheid alvast verhuren om kasstroom te genereren."
+      ],
+      "due_diligence": [
+        "Controleer het perceel op de PATRICOVA-overstromingsviser (zone Marjal de Pego-Oliva).",
+        "Vraag een cedula urbanistica / informe urbanistico op bij gemeente El Verger over toegestaan gebruik en dichtheid.",
+        "Laat een bouwkundige de structuur, fundering, dak en vocht beoordelen vóór een bod.",
+        "Vraag een verbouwofferte met realistische marge voor onvoorzien (minstens 15%).",
+        "Controleer de nota simple en of het volledige pand legaal geregistreerd is (529 m2 op catastro)."
+      ],
+      "eerlijk_oordeel": "Veel huis voor weinig geld, met echte meerwaarde-potentie - maar dit is geen snelle of makkelijke flip. De marge is reëel maar gevoelig voor budgetoverschrijdingen op een verbouwing van deze omvang. Sterk voor wie de verbouwing strak kan managen of de project-flip-route kiest; minder geschikt als eerste, eenvoudige opknapper.",
+      "contact": {
+        "bron": "Habitat Denia (inmobiliaria)",
+        "telefoon": "+34 966 934 130 / +34 609 759 637",
+        "email": "info@habitatdenia.com",
+        "url": "https://www.habitatdenia.com/venta/casa-de-pueblo-para-reformar-en-el-verger-l-4253/",
+        "referentie": "Ref. L-4253",
+        "opmerking": "Kantoor: Ctra. Las Marinas Km 3, Denia. WhatsApp: +34 609 759 637."
+      },
+      "bronnen": [
+        {"titel": "Habitat Denia - Casa de pueblo para reformar en El Verger (L-4253)", "url": "https://www.habitatdenia.com/venta/casa-de-pueblo-para-reformar-en-el-verger-l-4253/"},
+        {"titel": "Idealista - casas y pisos a reformar en Marina Alta", "url": "https://www.idealista.com/en/venta-viviendas/alicante/marina-alta/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "olivanova-bar-restaurante-2026-05",
+      "titel": "Draaiend strandrestaurant met woning in Oliva Nova",
+      "type": "Horeca / instapklaar verhuurobject",
+      "type_kort": "Horeca",
+      "plaats": "Oliva Nova",
+      "regio": "Marina Alta-grens / Oliva",
+      "vraagprijs": null,
+      "prijs_status": "Op aanvraag - nog te bevestigen",
+      "prijs_notitie": "Vraagprijs en eigendomsvorm (volle eigendom versus traspaso/huurovername) zijn niet bevestigd. Dit zijn de eerste twee feiten om op te halen.",
+      "kerngegevens": [
+        {"label": "Totale oppervlakte", "waarde": "115 m2 over 2 bouwlagen"},
+        {"label": "Indeling", "waarde": "Restaurant beneden + woning boven"},
+        {"label": "Terras", "waarde": "± 100 m2"},
+        {"label": "Capaciteit", "waarde": "80 couverts"},
+        {"label": "Staat", "waarde": "Volledig operationeel en uitgerust"}
+      ],
+      "score": 69,
+      "score_label": "Interessant",
+      "strategie": "Instapklaar rendementsobject: draaiend horecabedrijf overnemen, woning erboven zelf gebruiken of verhuren. Op termijn het geheel opgewaardeerd doorverkopen.",
+      "samenvatting": "Een volledig werkende bar/restaurant (tapas en cervecería) op slechts 50 meter van het strand van Oliva Nova, een exclusieve golf- en strandzone. Het pand telt 115 m2 over twee lagen: horeca beneden, een woning erboven. De keuken is compleet uitgerust en het bedrijf draait.",
+      "voors": [
+        "Operationeel bedrijf mét bestaande vergunningen - nauwelijks vergunningsrisico bij voortzetting.",
+        "Topligging: 50 meter van het strand in de exclusieve zone Oliva Nova.",
+        "Inclusief woning boven de zaak: geschikt voor zelf wonen/werken of als extra verhuurinkomen.",
+        "Direct kasstroom vanaf dag één; geen verbouwperiode nodig.",
+        "Combineert het flip- én verhuurdoel: opwaarderen kan, maar het object verdient ook zonder ingreep."
+      ],
+      "tegens": [
+        "Vraagprijs en eigendomsvorm onbekend - zonder die gegevens is dit nog geen harde casus.",
+        "Bij een traspaso (huurovername) koop je een bedrijf, geen vastgoed - dan vervalt de flip-logica.",
+        "Sterk seizoensgebonden omzet; wintermaanden zijn rustig in Oliva Nova.",
+        "Horeca-exploitatie vraagt tijd en aansturing, of een betrouwbare bedrijfsleider.",
+        "Kustligging: controleer overstromingsband en kustservituut (Ley de Costas)."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "Onbekend - eerst opvragen"},
+          {"label": "Eigendomsvorm", "waarde": "Niet bevestigd: volle eigendom of traspaso - cruciaal verschil"},
+          {"label": "Indicatie volle eigendom (pand + woning + bedrijf)", "waarde": "grofweg 200.000 - 320.000 euro (te verifiëren)"},
+          {"label": "Kosten koper bij vastgoedaankoop", "waarde": "± 10% ITP + ca. 2,5% bijkomend"},
+          {"label": "Horeca-omzetpotentie", "waarde": "Sterk in zomer; opvragen: omzet- en winstcijfers laatste 2 jaar"}
+        ],
+        "conclusie": "Zonder bevestigde prijs en eigendomsvorm is een betrouwbare rekensom niet te maken. Het fundament is sterk - draaiend bedrijf, vergunningen, woning, toplocatie - maar de eerste stap is puur informatie verzamelen, geen bod."
+      },
+      "vergunning": "Een werkend horecabedrijf beschikt in de regel al over de licencia de actividad en, indien aanwezig, een terrasvergunning - dat verlaagt het vergunningsrisico aanzienlijk. Belangrijk: laat controleren of de vergunningen overdraagbaar zijn en of het terras van 100 m2 volledig gelegaliseerd is. Bij een traspaso gaat het om overname van een huurcontract en bedrijfsmiddelen, niet om eigendom - laat dat onderscheid juridisch vastleggen.",
+      "overstroming": {
+        "niveau": "Midden",
+        "kleur": "amber",
+        "toelichting": "Oliva Nova ligt direct aan zee - kust- en afwateringsrisico. Verifieer de PATRICOVA-overstromingsband en de eventuele kustservituut volgens de Ley de Costas, die bebouwing en verbouwing dicht bij de kustlijn kan beperken."
+      },
+      "demografie": "Oliva Nova is een planmatig ontwikkelde golf- en strandresortzone aan de zuidkant van Oliva, met een sterk internationaal en welgesteld publiek. De zone leunt zwaar op zomertoerisme en golfgasten; daarbuiten is het rustig. Oliva als geheel telt 26.813 inwoners en verveelvoudigt 's zomers.",
+      "ideeen": [
+        "Bedrijf overnemen met bestaand personeel en de woning verhuren voor extra inkomen.",
+        "Concept opwaarderen (interieur, menukaart, online reputatie) en na 2 sterke seizoenen doorverkopen met aantoonbaar hogere omzet.",
+        "Woning boven inrichten als toeristische verhuur (mits VT-vergunning) voor jaarrond rendement.",
+        "Bij volle eigendom: het geheel op termijn als belegging met huurcontract verkopen aan een passieve investeerder."
+      ],
+      "due_diligence": [
+        "Vraag de vraagprijs én de eigendomsvorm op (volle eigendom of traspaso).",
+        "Vraag de jaarcijfers (omzet, winst, huurlasten) van de laatste 2-3 jaar op.",
+        "Controleer of horeca- en terrasvergunning overdraagbaar en volledig gelegaliseerd zijn.",
+        "Verifieer overstromingsband (PATRICOVA) en kustservituut (Ley de Costas).",
+        "Vraag de nota simple op om eigendom en lasten te bevestigen."
+      ],
+      "eerlijk_oordeel": "Een sterk fundament: een draaiend bedrijf met vergunningen, een woning erboven en een toplocatie. Maar het is nog geen beslisbare kans - prijs en eigendomsvorm ontbreken. Behandel dit als 'verder uitzoeken': haal eerst die feiten op. Pas dan blijkt of het een echte flip of vooral een rendementsobject is.",
+      "contact": {
+        "bron": "Diverse makelaars (Oliva Nova / Oliva); exacte aanbieder te verifiëren",
+        "telefoon": "Op te vragen",
+        "email": "Op te vragen",
+        "url": "https://www.idealista.com/venta-locales/oliva/oliva-nova/",
+        "referentie": "Nog te bevestigen",
+        "opmerking": "Het object is gesignaleerd via aanbod voor Oliva Nova; benader lokale makelaars in Oliva voor de actuele advertentie en exacte gegevens."
+      },
+      "bronnen": [
+        {"titel": "Idealista - locales o naves en Oliva Nova", "url": "https://www.idealista.com/venta-locales/oliva/oliva-nova/"},
+        {"titel": "Idealista - traspasos met venta de negocio, provincie Valencia", "url": "https://www.idealista.com/en/traspasos/valencia-provincia/con-venta-negocio/?ordenado-por=precios-asc"}
+      ]
+    },
+    {
+      "id": "oliva-bouwgrond-playa-2026-05",
+      "titel": "Stedelijk bouwperceel op 400 m van het strand van Oliva",
+      "type": "Bouwgrond / perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "Platja de Oliva",
+      "regio": "La Safor / Oliva",
+      "vraagprijs": 130000,
+      "prijs_status": "Indicatief - op basis van vergelijkbare percelen",
+      "prijs_notitie": "Richtprijs voor een stedelijk perceel van circa 591 m2 op loopafstand van het strand. Vergelijkbare percelen in Platja de Oliva variëren sterk; exacte vraagprijs van een concrete kavel nog te bevestigen.",
+      "kerngegevens": [
+        {"label": "Oppervlakte perceel", "waarde": "± 591 m2"},
+        {"label": "Bestemming", "waarde": "Stedelijk (terreno urbano)"},
+        {"label": "Max. bebouwing", "waarde": "65% bezettingsgraad"},
+        {"label": "Ligging", "waarde": "± 400 m van het strand"},
+        {"label": "Markt", "waarde": "24+ percelen in Platja de Oliva, vanaf ± 27.000 euro"}
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Nieuwbouw-flip: een villa bouwen en verkopen aan de sterke internationale kopersmarkt nabij het strand.",
+      "samenvatting": "Een stedelijk bouwperceel van circa 591 m2 op zo'n 400 meter van het strand van Oliva, met een toegestane bezettingsgraad van 65%. Dat geeft ruimte voor een royale villa. Stedelijke grond betekent dat een bouwvergunning in principe haalbaar is - mits het perceel volledig bouwrijp (solar) is en buiten de overstromingsband valt.",
+      "voors": [
+        "Stedelijke bestemming: bouwvergunning veel eenvoudiger dan op rustieke grond.",
+        "Loopafstand tot het strand - sterke vraag van internationale kopers naar nieuwbouwvilla's.",
+        "Nieuwbouw kent geen verrassingen van een bestaande constructie (geen verborgen gebreken).",
+        "Goede potentiële marge bij een efficiënt bouwtraject.",
+        "Ruim aanbod aan percelen in Platja de Oliva geeft onderhandel- en keuzeruimte."
+      ],
+      "tegens": [
+        "Exacte vraagprijs en de precieze juridische status (solar versus nog te ontwikkelen) moeten bevestigd worden.",
+        "Kustnabije percelen in Oliva kunnen in een overstromingsband vallen - na de DANA een breekpunt.",
+        "Bouwtraject duurt lang (vergunning + bouw al snel 12-18 maanden); rentelasten en marktrisico lopen mee.",
+        "Bouwkosten zijn de afgelopen jaren fors gestegen; calculeer ruim.",
+        "Mogelijke kustservituut (Ley de Costas) afhankelijk van exacte afstand tot de kustlijn."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Indicatieve grondprijs (± 591 m2 stedelijk)", "waarde": "95.000 - 160.000 euro"},
+          {"label": "Kosten koper", "waarde": "± 12.000 - 20.000 euro"},
+          {"label": "Bouwkosten villa (± 180 - 220 m2)", "waarde": "270.000 - 400.000 euro"},
+          {"label": "Totale ontwikkeling", "waarde": "± 377.000 - 580.000 euro"},
+          {"label": "Verwachte verkoopwaarde nieuwbouwvilla nabij strand", "waarde": "500.000 - 720.000 euro"},
+          {"label": "Indicatieve brutomarge", "waarde": "120.000 - 200.000 euro"}
+        ],
+        "conclusie": "Een nieuwbouw-flip met aantrekkelijke marge - maar de hele casus staat of valt met twee feiten: is het perceel echt 'solar' (volledig bouwrijp stedelijk) en valt het buiten de overstromingsband? Beide moeten vóór een bod hard geverifieerd worden."
+      },
+      "vergunning": "Op stedelijke grond (suelo urbano) die als solar is geclassificeerd, is een licencia de obra mayor voor nieuwbouw een voorspelbaar traject, mits het bouwplan binnen het bestemmingsplan past (hier 65% bezetting). Reken op een architectenproject, ICIO van 4% over de bouwbegroting en gemeentelijke leges. Bevestig vóór aankoop dat het perceel daadwerkelijk solar is en niet 'urbanizable' waarvoor nog gebiedsontwikkeling en kosten nodig zijn.",
+      "overstroming": {
+        "niveau": "Te verifiëren (mogelijk Midden-Hoog)",
+        "kleur": "red",
+        "toelichting": "Percelen nabij het strand van Oliva en de rand van de marjal kunnen in een PATRICOVA-overstromingsband vallen. Na de DANA van oktober 2024 is dit een hard breekpunt: laat de overstromingsclassificatie en de herziene post-DANA-kaarten controleren vóór elk bod. Een perceel in een overstromingsband kan onbebouwbaar of onverzekerbaar zijn."
+      },
+      "demografie": "Platja de Oliva is de strandzone van Oliva: circa 10 km goudkleurig strand met duinen, populair bij Spaanse en internationale (veel Nederlandse, Belgische, Duitse) zomerbewoners. De vraag naar kwaliteitsnieuwbouw nabij het strand is structureel sterk, met een verwachte waardestijging van circa 8% in 2026 voor de regio.",
+      "ideeen": [
+        "Een energiezuinige villa bouwen gericht op de internationale kopersmarkt (Nederlands/Belgisch/Duits).",
+        "Bouwen mét toeristische verhuurvergunning als verkoopargument - rendement voor de koper.",
+        "Perceel kopen inclusief een al vergund bouwproject (sommige percelen worden zo aangeboden) om tijd en risico te besparen.",
+        "Twee compacte woningen in plaats van één villa, als het bestemmingsplan dat toelaat - betere prijs/m2."
+      ],
+      "due_diligence": [
+        "Bevestig dat het perceel 'solar' is (volledig bouwrijp) en niet nog te ontwikkelen urbanizable.",
+        "Controleer de PATRICOVA-overstromingsband en de post-DANA-kaarten - dit is doorslaggevend.",
+        "Vraag een cedula urbanistica op: toegestane bouwhoogte, bezetting, rooilijnen.",
+        "Check de afstand tot de kustlijn i.v.m. mogelijke servidumbre de costas.",
+        "Laat een lokale aannemer een actuele bouwbegroting maken met marge voor onvoorzien."
+      ],
+      "eerlijk_oordeel": "De marge op nieuwbouw nabij het strand kan goed zijn, en stedelijke grond verlaagt het vergunningsrisico flink. Maar de overstromingsvraag is na de DANA geen formaliteit meer - dit is precies het type perceel dat onbebouwbaar kan blijken. Score gematigd tot de twee kernfeiten (solar-status en overstromingsband) bevestigd zijn.",
+      "contact": {
+        "bron": "Diverse portals en makelaars; concrete kavel te selecteren",
+        "telefoon": "Per advertentie",
+        "email": "Per advertentie",
+        "url": "https://www.idealista.com/en/venta-terrenos/oliva/platja-de-oliva/",
+        "referentie": "Categorie - te koppelen aan concrete kavel",
+        "opmerking": "Vergelijk het aanbod op Idealista, Fotocasa en yaencontre; vraag bij voorkeur percelen op die als solar zijn geclassificeerd."
+      },
+      "bronnen": [
+        {"titel": "Idealista - terrenos en Platja de Oliva", "url": "https://www.idealista.com/en/venta-terrenos/oliva/platja-de-oliva/"},
+        {"titel": "Fotocasa - terrenos en Oliva", "url": "https://www.fotocasa.es/en/buy/lands/oliva/all-zones/l"},
+        {"titel": "yaencontre - terrenos en Oliva Playa", "url": "https://www.yaencontre.com/venta/terrenos/oliva/distrito-oliva-playa"}
+      ]
+    },
+    {
+      "id": "pego-oliva-finca-rustica-2026-05",
+      "titel": "Rustieke finca met sinaasappelgaard tussen Pego en Oliva",
+      "type": "Bijzondere buitenkans",
+      "type_kort": "Buitenkans",
+      "plaats": "Pego / Oliva (landelijk gebied)",
+      "regio": "Marina Alta / La Safor",
+      "vraagprijs": 150000,
+      "prijs_status": "Indicatief - op basis van vergelijkbare percelen",
+      "prijs_notitie": "Casas de campo met sinaasappelgaard in het gebied Pego-Oliva liggen doorgaans tussen 130.000 en 170.000 euro; de gemiddelde rustieke finca in Oliva ligt rond 170.000 euro.",
+      "kerngegevens": [
+        {"label": "Type grond", "waarde": "Rustiek / niet-bebouwbaar (suelo no urbanizable)"},
+        {"label": "Perceel", "waarde": "Vaak 4.000 - 10.000 m2"},
+        {"label": "Beplanting", "waarde": "Sinaasappelbomen in productie, druppelirrigatie"},
+        {"label": "Opstal", "waarde": "Doorgaans een te renoveren landhuis"},
+        {"label": "Voorzieningen", "waarde": "Eigen water, elektra, vaak omheind"}
+      ],
+      "score": 54,
+      "score_label": "Voorzichtig",
+      "strategie": "Lifestyle- en opbrengstobject, geen bouwkundige flip. Waarde zit in sinaasappelopbrengst en een eventuele renovatie van een bestaand legaal landhuis.",
+      "samenvatting": "Een landelijke finca met een producerende sinaasappelgaard in het gebied tussen Pego en Oliva. Romantisch en relatief betaalbaar - maar met een belangrijke kanttekening: dit is rustieke, niet-bebouwbare grond, deels in of nabij het beschermde natuurpark en overstromingsgebied Marjal de Pego-Oliva. Dat beperkt de mogelijkheden om via bouw waarde toe te voegen aanzienlijk.",
+      "voors": [
+        "Lage instapprijs voor veel grond; sinaasappelgaard kan jaarlijkse opbrengst geven.",
+        "Eigen water en irrigatie vaak al aanwezig; bomen in productie.",
+        "Schaars en gewild bij liefhebbers van een rustiek buitenleven - duurzame onderliggende vraag.",
+        "Een bestaand, legaal geregistreerd landhuis mag doorgaans wél gerenoveerd worden."
+      ],
+      "tegens": [
+        "Rustieke grond (suelo no urbanizable): nieuwbouw en uitbreiding zijn vrijwel uitgesloten.",
+        "De Marjal de Pego-Oliva is beschermd natuurpark met streng beschermingsregime.",
+        "Hoogste overstromingsrisico van de selectie (zie hieronder) - met gevolgen voor verzekerbaarheid.",
+        "Flip-potentieel beperkt: je kunt nauwelijks bouwkundige meerwaarde creëren.",
+        "Risico op niet-gelegaliseerde bijbouw die niet alsnog te legaliseren is."
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Indicatieve vraagprijs", "waarde": "130.000 - 170.000 euro"},
+          {"label": "Kosten koper", "waarde": "± 15.000 - 21.000 euro"},
+          {"label": "Renovatie bestaand (legaal) landhuis", "waarde": "700 - 1.100 euro/m2"},
+          {"label": "Mogelijke jaaropbrengst sinaasappels", "waarde": "Bescheiden - opvragen per perceel"},
+          {"label": "Flip-marge via bouw", "waarde": "Sterk beperkt door bouwrestricties"}
+        ],
+        "conclusie": "Financieel is dit geen klassieke flip. Je kunt nauwelijks bouwen of uitbreiden, dus de meerwaarde moet komen uit een nette renovatie van een bestaand legaal pand, uit de agrarische opbrengst, of uit pure lifestyle-vraag. Reken niet op een bouwgedreven winst."
+      },
+      "vergunning": "Op suelo no urbanizable is nieuwbouw in principe verboden; uitzonderingen vergen een declaracion de interes comunitario, een zwaar en onzeker traject. Een bestaand, legaal geregistreerd landhuis mag doorgaans gerenoveerd worden, maar niet of nauwelijks uitgebreid. Cruciaal: laat via catastro en Registro de la Propiedad controleren of alle opstallen legaal zijn - niet-gelegaliseerde bouw in een natuurpark is vrijwel onmogelijk recht te trekken.",
+      "overstroming": {
+        "niveau": "Hoog",
+        "kleur": "red",
+        "toelichting": "De laaggelegen Marjal de Pego-Oliva heeft het hoogste PATRICOVA-risiconiveau (3) en is beschermd natuurpark. Bebouwing en verzekerbaarheid zijn er beperkt. De helling van Monte Pego ligt hoger en droger, maar verifieer altijd per perceel op de PATRICOVA-viser; na de DANA van 2024 worden de overstromingsgebieden bovendien uitgebreid."
+      },
+      "demografie": "Het landelijke gebied tussen Pego (circa 10.000 inwoners) en Oliva is van oudsher agrarisch - citrus en het natuurpark domineren. De vaste bevolking is beperkt; kopers zijn vooral liefhebbers van rust en ruimte, deels internationaal. Geen toeristische voetgangersstroom zoals aan de kust.",
+      "ideeen": [
+        "Een bestaand legaal landhuis renoveren als rustieke woning en met nette afwerking doorverkopen.",
+        "Verhuren als landelijke vakantiewoning (mits het pand legaal is en een VT-vergunning haalbaar).",
+        "Sinaasappelopbrengst en irrigatie op orde brengen als bescheiden extra inkomstenbron.",
+        "Alleen kopen als lifestyle-investering met lange horizon - niet als snelle flip."
+      ],
+      "due_diligence": [
+        "Controleer via catastro en Registro de la Propiedad of álle opstallen legaal zijn geregistreerd.",
+        "Verifieer de PATRICOVA-overstromingsband en de status binnen het natuurpark Marjal de Pego-Oliva.",
+        "Vraag de gemeente naar wat exact is toegestaan qua renovatie van het bestaande pand.",
+        "Onderzoek de verzekerbaarheid tegen overstroming vóór aankoop.",
+        "Beoordeel de staat van de sinaasappelgaard en de irrigatierechten."
+      ],
+      "eerlijk_oordeel": "Mooi om te bezitten, lastig om mee te flippen. De combinatie van niet-bebouwbare grond, natuurparkbescherming en het hoogste overstromingsrisico maakt bouwkundige meerwaarde vrijwel onmogelijk. Bewust opgenomen als eerlijk tegenwicht: dit is het type 'buitenkans' dat aantrekkelijk oogt maar zelden bij een flip-doel past. Alleen interessant als bewuste lifestyle-keuze met lange horizon.",
+      "contact": {
+        "bron": "Diverse portals en makelaars (Pego / Oliva)",
+        "telefoon": "Per advertentie",
+        "email": "Per advertentie",
+        "url": "https://www.thinkspain.com/property-for-sale/pego/fincas-country-houses",
+        "referentie": "Categorie - te koppelen aan concrete finca",
+        "opmerking": "Vergelijk aanbod op Idealista, Fotocasa, Kyero en thinkspain; focus op percelen met een legaal geregistreerd landhuis."
+      },
+      "bronnen": [
+        {"titel": "thinkSpain - fincas en country houses in Pego", "url": "https://www.thinkspain.com/property-for-sale/pego/fincas-country-houses"},
+        {"titel": "Fotocasa - fincas rusticas en Oliva", "url": "https://www.fotocasa.es/en/buy/rural-properties/oliva/all-zones/l"},
+        {"titel": "Generalitat Valenciana - PATRICOVA (overstromingsrisico)", "url": "https://mediambient.gva.es/es/web/planificacion-territorial-e-infraestructura-verde/cartografia-del-patricova"}
+      ]
+    }
+  ]
+}
