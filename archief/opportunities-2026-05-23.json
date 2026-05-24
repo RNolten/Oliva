@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-05-23",
+    "regio": "Marina Alta / La Safor",
+    "run_type": "dagelijks-geautomatiseerd",
+    "aantal": 5,
+    "marktcontext": "De markt in de regio blijft actief. Gemiddelde prijs in Oliva lag begin 2026 op ca. 1.593 euro/m2 voor woningen. In Pego zijn opvallend veel grote dorpswoningen beschikbaar voor ver onder die prijs, wat flip-mogelijkheden biedt. In La Safor (Piles, Miramar) is er commercieel aanbod vanuit banken. Na de DANA van oktober 2024 verdienen overstromingskaarten extra aandacht in kustgebieden en moerasranden.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle gegevens zijn indicatief en gebaseerd op openbare bronnen. Verifieer altijd prijs, kadastrale situatie, vergunningen en PATRICOVA-status voor u een bod doet."
+  },
+  "kansen": [
+    {
+      "id": "pego-senorial-840m2-multiunit-2026-05-23",
+      "titel": "Herenhuis casco historico Pego: 840m2 - 3 aparte wooneenheden",
+      "type": "Groot herenhuis te flippen als multi-unit project",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego (casco historico)",
+      "regio": "Marina Alta",
+      "vraagprijs": 320000,
+      "prijs_status": "Vraagprijs op yaencontre - te bevestigen bij makelaar",
+      "prijs_notitie": "Vraagprijs 320.000 euro voor 840m2 gebouwd, 381 euro/m2. Recentelijk 2% gedaald (eerder 325.500 euro). Vertegenwoordigd door Aramar Inmobiliaria.",
+      "kerngegevens": [
+        {"label": "Oppervlak gebouwd", "waarde": "840 m2"},
+        {"label": "Slaapkamers", "waarde": "9"},
+        {"label": "Badkamers", "waarde": "3"},
+        {"label": "Verdiepingen", "waarde": "3"},
+        {"label": "Eenheden", "waarde": "3 woningen samen te voegen of afzonderlijk te verkopen"},
+        {"label": "Prijs per m2", "waarde": "381 euro/m2 (vraagprijs)"},
+        {"label": "Prijsdaling recent", "waarde": "Van 325.500 naar 320.000 euro (-2%)"},
+        {"label": "Locatie", "waarde": "Hoekpand casco historico Pego, centrumstraat"}
+      ],
+      "score": 82,
+      "score_label": "Sterk",
+      "strategie": "Flip / multi-unit splitsing",
+      "samenvatting": "Hoekpand in het historische centrum van Pego, drie verdiepingen, drie afzonderlijke wooneenheden die samengevoegd of apart verkocht kunnen worden. Met 840 m2 gebouwd voor 381 euro/m2 is dit een van de goedkoopste grote panden in de regio. Na renovatie en splitsing in drie verkoopeenheden is de marktwaarde potentieel 500.000 tot 600.000 euro. De eenheden zijn ook goed verhuurbaar aan langetermijnhuurders.",
+      "voors": [
+        "840 m2 voor slechts 320.000 euro - prijs per m2 is uitzonderlijk laag",
+        "Drie afzonderlijke wooneenheden geven flexibiliteit bij exit: apart verkopen of samen",
+        "Hoekpand in het centrum van Pego met zichtbaarheid op twee straten",
+        "Recent prijsverlaging van 2% geeft onderhandelruimte",
+        "Pego is een actief dorp met goede diensten en groeiende vraag van buitenlandse kopers"
+      ],
+      "tegens": [
+        "Casco historico: mogelijke beperking op gevelwijzigingen of structurele ingrepen",
+        "Totale verbouwingskost voor 840 m2 kan snel 500.000 euro bereiken (700-1100 euro/m2)",
+        "Drie units tegelijk renoveren en verkopen is een complex project",
+        "Houten balken kunnen verborgen gebreken bevatten - bouwkundige keuring essentieel",
+        "Pego heeft een kleinere koopmarkt dan Denia of Gandia - doorlooptijd kan lang zijn"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs (indicatief)", "waarde": "310.000 euro (na onderhandeling)"},
+          {"label": "ITP overdrachtsbelasting (10%)", "waarde": "31.000 euro"},
+          {"label": "Notaris + inschrijving (indicatief)", "waarde": "4.000 euro"},
+          {"label": "Verbouwing 840 m2 x 850 euro/m2 (schatting)", "waarde": "714.000 euro"},
+          {"label": "Totale investering (schatting)", "waarde": "1.059.000 euro"},
+          {"label": "Verkoopwaarde 3 units (indicatief 650 euro/m2 gemid.)", "waarde": "546.000 euro"}
+        ],
+        "conclusie": "LET OP: Volledige renovatie van 840 m2 maakt dit project financieel risicovol als flip tenzij u selectief renoveert (bijv. eerst 1 unit afronden en verkopen). Partieel renoveren of splitsing in 2 units van hoge kwaliteit kan de cijfers beter maken. Grondige berekening per eenheid is essentieel voordat u een bod doet. Als verhuurobject over langere termijn zijn de cijfers gunstiger."
+      },
+      "vergunning": "Bestaand pand in casco historico - splitsing in afzonderlijke kadastrale eenheden vereist een notariele splitsingsakte en goedkeuring van het kadaster. Gevelwijzigingen in historisch centrum kunnen extra toetsing vereisen bij de gemeente Pego. Controleer of het pand in een beschermd stadsbeeldgebied staat (Catalogo de Bienes Protegidos).",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Pego centrum ligt op hogere grond dan de marjal. Geen aanwijzingen van hoog PATRICOVA-risico in de historische kern. Wel controleren of het perceel op de bijgewerkte kaarten na DANA 2024 is gewijzigd."
+      },
+      "demografie": "Pego heeft ca. 10.000 inwoners, overwegend Spaans maar met groeiend aandeel Noord-Europese kopers. Actieve weekmarkt, goede voorzieningen. Vraag naar renovatiewoningen is aanwezig maar minder competitief dan in Denia.",
+      "ideeen": [
+        "Verbouw als eerste stap alleen de beste eenheid (bijv. begane grond) en verhuur die voor cashflow terwijl u de rest uitwerkt",
+        "Verkoop het pand na lichte opknapbeurt als turn-key renovatieproject aan andere investeerders",
+        "Gebruik de 3-unit structuur voor een gemengde strategie: 1 verkopen, 2 verhuren"
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring op alle verdiepingen, met nadruk op dak en houten balken",
+        "Navraag bij gemeente Pego: splitsbaarheid in afzonderlijke kadastrale nummers",
+        "Controleer PATRICOVA 2024 kaart voor dit specifieke perceel",
+        "Vraag naar actuele servicekosten en eventuele achterstallige schulden op het pand",
+        "Onderhandel over 5-10% korting op huidige vraagprijs"
+      ],
+      "eerlijk_oordeel": "Het volume is verleidelijk, maar reken nuchter: 840 m2 volledig renoveren is een project van meer dan een miljoen euro in totaal. Interessant als u een team van aannemers heeft en ervaring met grotere projecten. Voor een eerste flip is dit risicovol. Sterker als u het deels renoveert of als buy-and-hold met verhuur.",
+      "contact": {
+        "bron": "yaencontre.com via Aramar Inmobiliaria",
+        "telefoon": null,
+        "email": null,
+        "url": "https://www.yaencontre.com/venta/casa/inmueble-37083-111375519",
+        "referentie": "Aramar Inmobiliaria - casco historico Pego 840m2",
+        "opmerking": "Neem rechtstreeks contact op met Aramar Inmobiliaria Real Estate voor bezichtiging"
+      },
+      "bronnen": [
+        {"titel": "Listing yaencontre - Casa senorial Pego 840m2", "url": "https://www.yaencontre.com/venta/casa/inmueble-37083-111375519"},
+        {"titel": "Marktoverzicht Pego - yaencontre", "url": "https://www.yaencontre.com/venta/casas/pego"}
+      ]
+    },
+    {
+      "id": "pego-adosada-508m2-3verdiep-2026-05-23",
+      "titel": "Dorpswoning Pego: 508m2 gebouwd op 200m2 perceel - 3 verdiepingen te renoveren",
+      "type": "Grote dorpswoning met meerdere verdiepingen voor renovatie",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 250000,
+      "prijs_status": "Vraagprijs op yaencontre - te bevestigen bij makelaar",
+      "prijs_notitie": "Vraagprijs 250.000 euro voor 508m2 gebouwd, slechts 492 euro/m2. Vertegenwoordigd door Ortola Inmobiliaria.",
+      "kerngegevens": [
+        {"label": "Oppervlak gebouwd", "waarde": "508 m2"},
+        {"label": "Perceeloppervlak", "waarde": "200 m2"},
+        {"label": "Slaapkamers", "waarde": "6"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Verdiepingen", "waarde": "3"},
+        {"label": "Prijs per m2", "waarde": "492 euro/m2"},
+        {"label": "Verdeling", "waarde": "Woning begane grond + 2 etages"},
+        {"label": "Staat", "waarde": "Te renoveren"}
+      ],
+      "score": 84,
+      "score_label": "Sterk",
+      "strategie": "Flip met meerdere units",
+      "samenvatting": "Een dorpswoning van 508m2 verdeeld over 3 verdiepingen in het centrum van Pego. De vraagprijs van 492 euro/m2 is uitzonderlijk laag voor dit type object in de regio. Na grondige renovatie per verdieping en eventuele splitsing in 3 afzonderlijke appartementen liggen de verkoopkansen goed. Alternatief is het hele pand als vakantiegroepswoning verhuren.",
+      "voors": [
+        "492 euro/m2 is een van de laagste m2-prijzen in de regio voor stadscentrum",
+        "Drie verdiepingen geven flexibiliteit: stapsgewijs renoveren en verkopen",
+        "Centrumlocatie Pego met alle voorzieningen op loopafstand",
+        "Groot volume biedt opties als groepsvakantiewoning of meergezinswoning",
+        "Ortola Inmobiliaria is een bekende lokale makelaar in de regio"
+      ],
+      "tegens": [
+        "Slechts 1 badkamer voor 508m2 - grote investering in sanitaire installatie nodig",
+        "Perceel van 200m2 bij 508m2 gebouw geeft weinig buitenruimte",
+        "Renovatiekosten kunnen oplopen tot 400.000-500.000 euro bij volledige aanpak",
+        "Verkoopmarkt in Pego centrum is kleiner dan aan de kust",
+        "Bouwkundige staat onbekend tot bezichtiging"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs (indicatief)", "waarde": "240.000 euro (na onderhandeling)"},
+          {"label": "ITP 10%", "waarde": "24.000 euro"},
+          {"label": "Notaris + inschrijving", "waarde": "3.500 euro"},
+          {"label": "Renovatie 508m2 x 850 euro/m2 (schatting)", "waarde": "431.800 euro"},
+          {"label": "Totale investering", "waarde": "699.300 euro"},
+          {"label": "Verkoopwaarde 3 appartementen x 130m2 x 1.200 euro/m2 (indicatief)", "waarde": "468.000 - 560.000 euro"}
+        ],
+        "conclusie": "Bij volledige renovatie zijn de cijfers krap. Aanpak per verdieping verlaagt het risico. Overweeg te beginnen met 1 verdieping renoveren, verhuren voor cashflow, en daarna de volgende aanpakken. Of koop voor laag bod, doe lichte opknapbeurt en verkoop door als renovatieproject aan een andere investeerder."
+      },
+      "vergunning": "Drie verdiepingen in bestaand stedelijk pand. Splitsing in afzonderlijke appartementen vergt een bouwvergunning en eventueel een horizontale eigendomsakte. Controleer bij gemeente Pego of splitsing in het bestemmingsplan past. Geen aanwijzingen van catalogeringsstatus, maar controleer dit bij de gemeente.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Pego centrum ligt niet in de marjal en heeft historisch geen overstroming gehad in de historische kern. Controleer altijd de bijgewerkte PATRICOVA kaart."
+      },
+      "demografie": "Pego centrum, goede bereikbaarheid, lokale bevolking met groeiend aantal Noord-Europese inwoners. Vraag naar ruime dorpswoningen is stabiel.",
+      "ideeen": [
+        "Renoveer de begane grond als eerste en verhuur als woning - gebruik huur voor financiering van de verdiepingen",
+        "Gebruik het grote volume als bijzondere bed-and-breakfast of rural guesthouse voor groepen",
+        "Verkoop na minimale opknapbeurt als bouwproject aan een andere investeerder"
+      ],
+      "due_diligence": [
+        "Laat een bouwkundig inspecteur alle 3 verdiepingen en het dak inspecteren",
+        "Vraag bij gemeente Pego naar splitsbaarheid en bouwvergunningshistorie",
+        "Controleer of er achterstallig onderhoud of schulden op het pand rusten",
+        "Navraag naar gemiddelde verkoopprijs per m2 in Pego centrum voor appartementen"
+      ],
+      "eerlijk_oordeel": "Een van de beste prijs-per-m2 kansen in de regio op dit moment. Maar de renovatiescope is groot. Sterk voor een ervaren flipper met aannemerservaring. Kansrijker als gedeeltelijk project of doorverkoop als bouwopportuniteit.",
+      "contact": {
+        "bron": "yaencontre.com via Ortola Inmobiliaria",
+        "telefoon": null,
+        "email": null,
+        "url": "https://www.yaencontre.com/venta/casa/inmueble-37083-111375656",
+        "referentie": "Ortola Inmobiliaria - Pego dorpswoning 508m2",
+        "opmerking": "Ortola Inmobiliaria is een gerenommeerde lokale makelaar in de regio Pego-Denia"
+      },
+      "bronnen": [
+        {"titel": "Listing yaencontre - Pego adosada 508m2", "url": "https://www.yaencontre.com/venta/casa/inmueble-37083-111375656"},
+        {"titel": "Marktoverzicht Pego - yaencontre", "url": "https://www.yaencontre.com/venta/casas/pego"}
+      ]
+    },
+    {
+      "id": "piles-local-cambio-uso-woning-2026-05-23",
+      "titel": "Piles: Leegstaand lokaal 138m2 met GOEDGEKEURD cambio de uso naar woning",
+      "type": "Commercieel pand met vergunning voor omzetting naar woning, nabij strand Piles",
+      "type_kort": "Buitenkans",
+      "plaats": "Piles (Playa de Piles)",
+      "regio": "La Safor",
+      "vraagprijs": 69000,
+      "prijs_status": "Vraagprijs op idealista - te bevestigen bij makelaar",
+      "prijs_notitie": "Vraagprijs 69.000 euro voor 138m2, 500 euro/m2. Cambio de uso naar woning reeds GOEDGEKEURD - een zeldzame situatie. Intern binnenplaats aanwezig voor daglicht.",
+      "kerngegevens": [
+        {"label": "Oppervlak", "waarde": "138 m2"},
+        {"label": "Staat", "waarde": "Volledig leeg (diafano), klaar voor aanpassing"},
+        {"label": "Cambio de uso", "waarde": "GOEDGEKEURD - van commercieel naar woning"},
+        {"label": "Bijzonderheid", "waarde": "Binnenplaats voor daglicht"},
+        {"label": "Prijs per m2", "waarde": "500 euro/m2"},
+        {"label": "Afstand tot strand", "waarde": "Playa de Piles - loopafstand"},
+        {"label": "Type pand", "waarde": "Gelijkvloerse straatruimte"}
+      ],
+      "score": 76,
+      "score_label": "Sterk",
+      "strategie": "Omzetting naar verhuurwoning of doorverkoop na verbouwing",
+      "samenvatting": "Een volledig leeg en open pand van 138m2 in Piles met een binnenplaats voor daglicht, en een reeds goedgekeurde bestemmingswijziging naar woning. De vergunningsprocedure is al doorlopen - dat scheelt 3 tot 6 maanden en juridisch risico. Na renovatie is dit een aantrekkelijke strandhuurwoning op de populaire Playa de Piles. Laag instapbedrag van 69.000 euro.",
+      "voors": [
+        "Cambio de uso naar woning al GOEDGEKEURD - spaart tijd en juridisch risico",
+        "Uitzonderlijk lage instapprijs: 500 euro/m2 nabij de kust van La Safor",
+        "138m2 is ruim genoeg voor een comfortabele woning met 3 slaapkamers",
+        "Playa de Piles is populair bij surfers en strandtoeristen - hoge verhuurvraag",
+        "Binnenplaats zorgt voor daglicht zonder grote gevelingreep"
+      ],
+      "tegens": [
+        "Kustlocatie Piles: PATRICOVA check is noodzakelijk - kan een risicozône zijn",
+        "Verbouwingskost woning 138m2 circa 100.000-150.000 euro - totaal circa 180-220k",
+        "Gelijkvloers pand zonder uitzicht of dakterras - minder premium als vakantieverhuur",
+        "Staat van de constructie en fundering onbekend tot bezichtiging"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs", "waarde": "69.000 euro"},
+          {"label": "ITP 10%", "waarde": "6.900 euro"},
+          {"label": "Notaris + inschrijving", "waarde": "2.000 euro"},
+          {"label": "Verbouwing naar woning 138m2 x 950 euro/m2 + ICIO 4%", "waarde": "ca. 136.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 214.000 euro"},
+          {"label": "Verwachte verkoopwaarde woning Piles strand (indicatief)", "waarde": "220.000 - 280.000 euro"},
+          {"label": "Verhuurinkomsten zomer (indicatief)", "waarde": "1.200 - 1.800 euro per week in seizoen"}
+        ],
+        "conclusie": "De vergunning is al geregeld. Bij verkoopstrategie is de marge beperkt maar aanwezig. Als verhuurobject nabij het strand van Piles is dit goed: in het zomerseizoen zijn 8-10 weken volboeken realistisch voor dit type pand."
+      },
+      "vergunning": "Cambio de uso naar woonfunctie is GOEDGEKEURD. Controleer of de goedkeuring gebonden is aan een specifiek bouwplan en of dat plan overdraagbaar is bij eigendomsoverdracht. Bouwvergunning voor de daadwerkelijke verbouwingswerken is nog apart aan te vragen.",
+      "overstroming": {
+        "niveau": "Matig",
+        "kleur": "amber",
+        "toelichting": "Piles is een kustgemeente in La Safor. Lage kustgebieden kunnen een PATRICOVA-risico hebben. Na de DANA van 2024 zijn kaarten herzien. Controleer de actuele PATRICOVA 2024 kaart voor dit perceel voor u een bod doet."
+      },
+      "demografie": "Piles is een kleine kustgemeente met sterk seizoensgebonden toerisme. Playa de Piles staat bekend als een van de schoonste stranden in La Safor en is populair bij surfers. Lage permanente bevolking, hoge zomerbezetting.",
+      "ideeen": [
+        "Maak er een surf- en strandwoning van: verhoog huurwaarde door inrichting op die doelgroep",
+        "Bouw 3 slaapkamers en een open leefruimte, check haalbaarheid voor dakterras",
+        "Verkoop na verbouwing als instapklare vakantiewoning aan Noord-Europese koper"
+      ],
+      "due_diligence": [
+        "Vraag een kopie op van de goedkeuringsbrief cambio de uso bij de makelaar",
+        "Controleer PATRICOVA kaart gemeente Piles voor dit exacte perceel",
+        "Laat een bouwkundig inspecteur de constructiestaat en fundering beoordelen",
+        "Navraag gemeente Piles: welke bouwvoorschriften gelden bij de omzetting?"
+      ],
+      "eerlijk_oordeel": "De goedgekeurde bestemmingswijziging maakt dit object bijzonder en zeldzaam. Het overstromingsrisico is het grootste vraagteken - check dat eerst. Als dat meevalt, is dit een sterke kans om in te stappen voor weinig geld in een gewilde kustlocatie.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": null,
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/111330856/",
+        "referentie": "Idealista advertentie 111330856 - Local Piles cambio uso vivienda",
+        "opmerking": "Neem contact op via de idealista-advertentie voor telefoonnummer en bezichtiging"
+      },
+      "bronnen": [
+        {"titel": "Idealista listing - Local Piles cambio de uso", "url": "https://www.idealista.com/inmueble/111330856/"},
+        {"titel": "Locales La Safor Miramar-Piles - idealista", "url": "https://www.idealista.com/venta-locales/valencia/safor/miramar-piles/con-locales/?ordenado-por=precios-asc"}
+      ]
+    },
+    {
+      "id": "miramar-bar-restaurant-strand-2026-05-23",
+      "titel": "Miramar: Bar-restaurant 274m2 - 150 meter van Playa de la Safor",
+      "type": "Draaiend horeca-pand nabij strand, met herbestemmingspotentie",
+      "type_kort": "Horeca",
+      "plaats": "Playa de Miramar",
+      "regio": "La Safor",
+      "vraagprijs": 259000,
+      "prijs_status": "Vraagprijs op idealista - te bevestigen bij makelaar",
+      "prijs_notitie": "Vraagprijs 259.000 euro voor 274m2, 945 euro/m2. Hoekpand, volledig uitgerust als bar-restaurant met professionele keuken.",
+      "kerngegevens": [
+        {"label": "Oppervlak", "waarde": "274 m2"},
+        {"label": "Prijs per m2", "waarde": "945 euro/m2"},
+        {"label": "Staat", "waarde": "Volledig ingericht en uitgerust"},
+        {"label": "Type", "waarde": "Hoekpand met goede zichtbaarheid op twee straten"},
+        {"label": "Keuken", "waarde": "Professionele keuken aanwezig"},
+        {"label": "Afstand tot strand", "waarde": "Ca. 150 meter"},
+        {"label": "Locatie", "waarde": "Playa de Miramar, La Safor"}
+      ],
+      "score": 72,
+      "score_label": "Sterk",
+      "strategie": "Lopend horecabedrijf overnemen of pand verhuren aan exploitant",
+      "samenvatting": "Een volledig ingericht hoekpand van 274m2 op 150 meter van het strand van Miramar. Professionele keuken aanwezig. Wordt aangeboden als bar-restaurant. Playa de Miramar is een populair zomerstrand in La Safor met groeiend toerisme. Alternatief voor herbestemming naar appartementen is ook denkbaar maar vereist een nieuwe vergunningsprocedure.",
+      "voors": [
+        "Volledig ingericht, inclusief professionele keuken - geen startkost voor apparatuur",
+        "274m2 hoekpand op 150m van het strand is een toplocatie voor horeca",
+        "Zomerseizoen aan de Safor kust is druk en consistent",
+        "Groot volume geeft optie voor meerdere functies tegelijk (cafe, terras, zaal)",
+        "Alternatief herbestemming naar woning is in Miramar al precedent"
+      ],
+      "tegens": [
+        "Buiten het zomerseizoen is horeca in Miramar stiller - cashflow seizoensgebonden",
+        "Horecaexploitatie vereist Spaanse vergunningen en marktkennis",
+        "Overstromingsrisico kustzone Miramar check nodig via PATRICOVA 2024",
+        "Bij 259.000 euro aankoopprijs is onderhandelruimte beperkt"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs", "waarde": "259.000 euro"},
+          {"label": "ITP 10%", "waarde": "25.900 euro"},
+          {"label": "Notaris + inschrijving", "waarde": "3.500 euro"},
+          {"label": "Kleine opknapbeurt of rebranding", "waarde": "10.000 - 25.000 euro"},
+          {"label": "Totale instapkost", "waarde": "ca. 298.000 - 313.000 euro"},
+          {"label": "Huurinkomsten bij exploitatie (zomerseizoen)", "waarde": "3.000 - 5.000 euro per maand"},
+          {"label": "Huurwaarde bij verhuur aan exploitant", "waarde": "2.000 - 3.500 euro per maand"}
+        ],
+        "conclusie": "Als u zelf exploiteert of verhuurt aan een horecaondernemer, is het rendement in het hoogseizoen goed. Bij jaarrond verhuur is het rendement beperkt door het seizoenskarakter. Herbestemming naar woning zou waarde toevoegen maar vereist een vergunningsprocedure."
+      },
+      "vergunning": "Bestaande horecabestemming en vergunning aanwezig. Bij voortzetting van de activiteit is geen nieuwe bestemming nodig. Bij herbestemming naar woning of ander gebruik moet een cambio de uso worden aangevraagd bij gemeente Miramar. Professionele begeleiding aanbevolen.",
+      "overstroming": {
+        "niveau": "Matig",
+        "kleur": "amber",
+        "toelichting": "Miramar is gelegen aan de kust van La Safor, een laagliggend kustgebied. Controleer de PATRICOVA 2024 kaart voor dit perceel. Na de herziening na de DANA van oktober 2024 kunnen kustgebieden in La Safor een hogere risicoklasse hebben gekregen."
+      },
+      "demografie": "Miramar is een kleine gemeente in La Safor met grote zomerse toerismepiek. Playa de la Safor is een rustig strand, populair bij Spaanse en Noord-Europese bezoekers. Winters is het dorp rustig.",
+      "ideeen": [
+        "Verhuur het pand aan een Spaanse horecaondernemer die het seizoenswerk aankan",
+        "Positioneer als strandrestaurant voor dagtoeristen vanuit Gandia - grote markt",
+        "Bekijk mogelijkheden voor een terras op het dak als extra zitruimte in de zomer"
+      ],
+      "due_diligence": [
+        "Controleer actuele horecavergunningen en of er geen openstaande sancties zijn",
+        "PATRICOVA check voor perceel Miramar bij de gemeente",
+        "Navraag naar actuele omzetcijfers als het bedrijf in werking is",
+        "Bouwkundige keuring van het pand, met name dak en gevels als hoekpand"
+      ],
+      "eerlijk_oordeel": "Een volledig uitgeruste horecalocatie op 150m van het strand voor 259.000 euro is marktconform. De kans zit in een sterke exploitatie of verhuur. Geen spraakmakende flip-marge, maar als cashflow-asset in een groeiend toeristengebied interessant voor de geduldige investeerder.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": null,
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/111516674/",
+        "referentie": "Idealista advertentie 111516674 - Bar restaurant Playa de Miramar",
+        "opmerking": "Neem contact op via de idealista-advertentie voor bezichtiging en details"
+      },
+      "bronnen": [
+        {"titel": "Idealista listing - Bar restaurant Miramar strand", "url": "https://www.idealista.com/inmueble/111516674/"},
+        {"titel": "Locales La Safor overzicht idealista", "url": "https://www.idealista.com/venta-locales/valencia/safor/miramar-piles/con-locales/?ordenado-por=precios-asc"}
+      ]
+    },
+    {
+      "id": "beniarbeig-casapueblo-vergunning-2026-05-23",
+      "titel": "Beniarbeig: Dorpswoning centrum met GOEDGEKEURDE bouwvergunning (140m2)",
+      "type": "Hoekpand centrum met bouwproject en vergunning gereed - te personaliseren",
+      "type_kort": "Flip-pand",
+      "plaats": "Beniarbeig",
+      "regio": "Marina Alta",
+      "vraagprijs": null,
+      "prijs_status": "Op aanvraag - nog te bevestigen",
+      "prijs_notitie": "Prijs niet beschikbaar in de openbare listing. Denia Investissement vraagprijs te bevestigen via direct contact. Vergelijkbare panden in Beniarbeig liggen tussen 80.000 en 160.000 euro voor dit type volume.",
+      "kerngegevens": [
+        {"label": "Oppervlak (project)", "waarde": "140 m2 (mogelijkheid tot 162 m2 via uitbreiding)"},
+        {"label": "Bouwvergunning", "waarde": "GOEDGEKEURD door gemeente Beniarbeig"},
+        {"label": "Type", "waarde": "Hoekpand met 2 ingangen"},
+        {"label": "Verdiepingen", "waarde": "2"},
+        {"label": "Slaapkamers (project)", "waarde": "3 (gelijkvloers: woonruimte en badkamer; 1e etage: 3 slaapkamers + badkamer)"},
+        {"label": "Bijzonderheid", "waarde": "Dak volledig vernieuwd"},
+        {"label": "Locatie", "waarde": "Centrum Beniarbeig, nabij gemeentehuis"}
+      ],
+      "score": 68,
+      "score_label": "Interessant",
+      "strategie": "Renovatie op basis van bestaand vergund bouwplan - flip of verhuur",
+      "samenvatting": "Een hoekpand in het centrum van Beniarbeig waarbij de eigenaar al een bouwproject heeft laten goedkeuren bij de gemeente. Het dak is reeds vernieuwd. De koper kan het pand inrichten op basis van het goedgekeurde plan (140m2) of een uitbreiding aanvragen tot 162m2. Twee ingangen geven flexibiliteit. De prijs moet nog worden nagevraagd, maar vergelijkbare panden in Beniarbeig liggen tussen 80.000 en 160.000 euro. Beniarbeig ligt vlak aan de N-332, goed bereikbaar tussen Denia en Gandia.",
+      "voors": [
+        "Bouwvergunning al goedgekeurd - bespaar 3 tot 6 maanden procedure en onzekerheid",
+        "Dak vernieuwd - een van de duurste onderdelen is al gedaan",
+        "Hoekpand met 2 ingangen - ideaal voor doorloopverkeer of aparte toegang",
+        "Centrum Beniarbeig, op 10 minuten van Denia en 15 minuten van Gandia",
+        "Mogelijkheid tot uitbreiding naar 162m2 via extra aanvraag",
+        "Geen overstromingsrisico in dit binnendorp"
+      ],
+      "tegens": [
+        "Prijs nog niet publiek - kan buiten budget vallen als eigenaar hoog vraagt",
+        "Beniarbeig is een klein dorp met beperkte koopmarkt voor doorverkoop",
+        "Verhuurmarkt is minder actief dan aan de kust",
+        "140m2 is kleiner dan de andere kansen in deze run - beperktere flip-marge"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Indicatieve aankoopprijs (schatting o.b.v. markt)", "waarde": "90.000 - 130.000 euro"},
+          {"label": "ITP 10%", "waarde": "9.000 - 13.000 euro"},
+          {"label": "Bouwkosten 140m2 x 950 euro/m2 (dak al gedaan, korting)", "waarde": "100.000 - 133.000 euro"},
+          {"label": "Totale investering (schatting)", "waarde": "200.000 - 280.000 euro"},
+          {"label": "Verwachte marktwaarde na afwerking", "waarde": "200.000 - 260.000 euro"}
+        ],
+        "conclusie": "Marge is beperkt bij doorverkoop in Beniarbeig zelf. Sterker als langetermijn verhuurinvestering of als persoonlijk woonproject. Prijsonderhandeling is cruciaal: vraag de exacte prijs op voor u een berekening maakt."
+      },
+      "vergunning": "Bouwvergunning goedgekeurd voor 140m2. Vraag een kopie op van de vergunning en het bijbehorend bouwplan. Controleer of de vergunning overdraagbaar is bij eigendomsoverdracht en of er een vervalterm op zit (normaal 4 jaar in de Comunitat Valenciana).",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Beniarbeig ligt in het binnenland van Marina Alta, ver van de marjal en de kust. Geen aanwijzingen van PATRICOVA-risico. Controleer altijd bij het kadaster voor zekerheid."
+      },
+      "demografie": "Beniarbeig heeft ca. 3.000 inwoners, ligt op de N-332 tussen Denia en Gandia. Rustig woongebied met goede bereikbaarheid. Vraag naar gerenoveerde woningen van Europeanen groeit langzaam.",
+      "ideeen": [
+        "Gebruik het goedgekeurde bouwplan als basis, personaliseer de afwerking naar eigen smaak",
+        "Vraag gelijk uitbreidingsvergunning aan voor 162m2 voor hogere eindwaarde",
+        "Verhuur als langetermijn woning aan lokale huurder na afwerking"
+      ],
+      "due_diligence": [
+        "Vraag de vergunningsdocumenten op bij makelaar: referentienummer, datum, vervalterm",
+        "Controleer of de vergunning overdraagbaar is bij verkoop aan een nieuwe koper",
+        "Laat een lokale aannemer de bouwstaat en resterende werken inschatten",
+        "Vraag de prijs op via Denia Investissement - referentie DI17295"
+      ],
+      "eerlijk_oordeel": "De goedgekeurde vergunning is een echte troef die tijd en onzekerheid scheelt. Maar de flip-marge in Beniarbeig is beperkt. Het is interessanter als woonproject of als eerste investering met laag risico. Vraag de prijs op voor u verder gaat.",
+      "contact": {
+        "bron": "Denia Investissement",
+        "telefoon": null,
+        "email": null,
+        "url": "https://www.deniainvestissement.com/venta/casa-de-pueblo-a-beniarbeig-di17295/",
+        "referentie": "Ref: DI17295",
+        "opmerking": "Neem contact op via de website van Denia Investissement voor de actuele prijs"
+      },
+      "bronnen": [
+        {"titel": "Denia Investissement - Casa pueblo Beniarbeig DI17295", "url": "https://www.deniainvestissement.com/venta/casa-de-pueblo-a-beniarbeig-di17295/"},
+        {"titel": "Ortola Inmobiliaria - woningaanbod Beniarbeig", "url": "https://www.ortolainmobiliaria.com/en/property-beniarbeig/"},
+        {"titel": "Casas Beniarbeig yaencontre", "url": "https://www.yaencontre.com/venta/casas/beniarbeig"}
+      ]
+    }
+  ]
+}
