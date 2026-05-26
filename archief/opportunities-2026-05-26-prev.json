@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - 26 mei 2026",
+    "datum": "2026-05-26",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "dagelijks",
+    "aantal": 5,
+    "marktcontext": "Marktgemiddelde te renoveren woningen Oliva: ca 988 euro/m2. Platja de Oliva kustzone: 2.400-4.000 euro/m2. Aanbod stabiel met 51 panden te renoveren in Oliva. Na feedback run 24/5: zoekgebied aangepast (Villalonga verwijderd, casco historico kritischer beoordeeld).",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Prijzen zijn vraagprijzen. PATRICOVA, vergunningen en bestemmingsplan altijd zelfstandig verifiëren."
+  },
+  "kansen": [
+    {
+      "id": "oliva-raconada-alonso-380m2-2026-05-26",
+      "titel": "Ruim woonhuis met commercieel lokaal Oliva pueblo 380m2 - garage, 6 slaapkamers",
+      "type": "Flip-pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (Oliva pueblo - centrum)",
+      "regio": "La Safor",
+      "vraagprijs": 207000,
+      "prijs_status": "Bevestigd",
+      "prijs_notitie": "Vraagprijs 207.000 euro (545 euro/m2). Marktgemiddelde 988 euro/m2. Aanzienlijk onder markt.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "380 m2 (340 m2 bruikbaar)"},
+        {"label": "Verdiepingen", "waarde": "2 + buhardilla/zolder"},
+        {"label": "Slaapkamers", "waarde": "6"},
+        {"label": "Badkamers", "waarde": "3"},
+        {"label": "Garage", "waarde": "Ja, inpandig"},
+        {"label": "Commercial lokaal", "waarde": "Ja, begane grond met eigen opgang"},
+        {"label": "Bouwjaar", "waarde": "1985"},
+        {"label": "Prijs per m2", "waarde": "545 euro/m2"},
+        {"label": "Makelaar", "waarde": "Percent Servicios Inmobiliarios, ref 103-01-1058"},
+        {"label": "Platform", "waarde": "Idealista"}
+      ],
+      "score": 80,
+      "score_label": "Sterk",
+      "strategie": "Flip of gemengd gebruik. Renoveer woning + commercial lokaal. Verhuur commercial apart (600-800 euro/maand) terwijl woning wordt verkocht of verhuurd.",
+      "samenvatting": "Ruim pand in centrum Oliva met 6 slaapkamers, 3 badkamers, inpandige garage en commercieel lokaal op begane grond met eigen straatopgang. Bouwjaar 1985 (geen casco historico problematiek). Vraagprijs 545 euro/m2 is ver onder marktgemiddelde. Sterkste flip-kandidaat van deze batch.",
+      "voors": [
+        "Prijs ver onder marktgemiddelde (545 vs 988 euro/m2)",
+        "Commercial lokaal met eigen opgang = extra inkomstenstroom",
+        "Garage inpandig = zeldzaam in centrum Oliva",
+        "Bouwjaar 1985 = geen casco historico splitsbelemmeringen",
+        "6 slaapkamers + zolder = flexibele indeling",
+        "Centrum Oliva, 10 min van het grootste strand van CV",
+        "Ruimte voor onderhandeling"
+      ],
+      "tegens": [
+        "Exacte locatie niet vermeld - bezichtiging nodig",
+        "Omvang renovatie onbekend zonder inspectie",
+        "Buhardilla als woning vereist aparte vergunning"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "207.000 euro"},
+          {"label": "ITP (10%) + notaris/register (~2%)", "waarde": "ca 24.800 euro"},
+          {"label": "Renovatie 340m2 x 800 euro/m2", "waarde": "ca 272.000 euro"},
+          {"label": "Totale investering (schatting)", "waarde": "ca 503.000 euro"},
+          {"label": "Lichte renovatie totaal (340m2 x 500 euro/m2)", "waarde": "ca 401.800 euro"},
+          {"label": "Verkoopwaarde na renovatie (1.600 euro/m2 x 340m2)", "waarde": "ca 544.000 euro"},
+          {"label": "Verkoopwaarde na renovatie (1.800 euro/m2 x 340m2)", "waarde": "ca 612.000 euro"},
+          {"label": "Bruto flipmarge (voorzichtig scenario)", "waarde": "ca 40.000 - 110.000 euro"},
+          {"label": "Huurrendement commercial (800 euro/maand)", "waarde": "9.600 euro/jaar"},
+          {"label": "Huurrendement woning (1.200 euro/maand)", "waarde": "14.400 euro/jaar"}
+        ],
+        "conclusie": "Business case aantrekkelijk bij beperkte renovatie of deels bewoonbaar pand. Commercial unit verbetert totaalplaatje. Goede onderhandelruimte."
+      },
+      "vergunning": "Bouwjaar 1985, suelo urbano Oliva pueblo (buiten casco historico). Renovatievergunning vereist. Geen verwachte splitsbelemmeringen - commercial lokaal bestaat al.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo op hoger gelegen terrein, ver van Marjal de Pego-Oliva. Geen PATRICOVA-risicozone verwacht."
+      },
+      "demografie": "Oliva ca 28.000 inwoners, groeiende internationale gemeenschap. Commercial lokaal profiteert van centrumverkeer.",
+      "ideeen": [
+        "Renoveer commercial lokaal als eerste stap en verhuur direct",
+        "Verkoop woning als luxe gezinswoning (5+ slaapk, garage = zeldzaam)",
+        "Buhardilla als studio",
+        "Onderhandel op 180-190k"
+      ],
+      "due_diligence": [
+        "Kadastraal register: commercial lokaal apart geregistreerd?",
+        "Staat installaties (electra, water, riolering)",
+        "Huurders/bewoners aanwezig?",
+        "Gemeentelijk bestemmingsplan buhardilla",
+        "Bouwkundige inspectie"
+      ],
+      "eerlijk_oordeel": "Sterkste kandidaat van batch. Combinatie lage prijs, centrale ligging, inpandige garage en commercial unit is zeldzaam. Business case werkt bij beperkte renovatie. Snel handelen aanbevolen.",
+      "contact": {
+        "bron": "Idealista",
+        "telefoon": "Niet publiek vermeld",
+        "email": "Niet publiek vermeld",
+        "url": "https://www.idealista.com/inmueble/109960293/",
+        "referentie": "103-01-1058",
+        "opmerking": "Via Percent Servicios Inmobiliarios, Valencia"
+      },
+      "bronnen": [
+        {"titel": "Idealista advertentie 109960293", "url": "https://www.idealista.com/inmueble/109960293/"}
+      ]
+    },
+    {
+      "id": "oliva-platja-figuera-128m2-2026-05-26",
+      "titel": "Strandwoning Platja de Oliva 128m2 - 100m van zee, tuin, zwembad, garage",
+      "type": "Verhuur",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva (Platja de Oliva)",
+      "regio": "La Safor",
+      "vraagprijs": 309000,
+      "prijs_status": "Bevestigd",
+      "prijs_notitie": "Vraagprijs 309.000 euro (2.414 euro/m2). Voor strandpand 100m van zee realistisch instapniveau.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "128 m2 (90 m2 bruikbaar)"},
+        {"label": "Verdiepingen", "waarde": "1 (gelijkvloers)"},
+        {"label": "Slaapkamers", "waarde": "4"},
+        {"label": "Badkamers", "waarde": "1 + aparte douche"},
+        {"label": "Perceel", "waarde": "200 m2"},
+        {"label": "Tuin", "waarde": "Ja, met moestuinzone en barbecue"},
+        {"label": "Zwembad", "waarde": "Klein zwembad aanwezig"},
+        {"label": "Terrassen", "waarde": "2 (voor- en achterkant)"},
+        {"label": "Garage", "waarde": "2 parkeerplaatsen met oprit"},
+        {"label": "Afstand zee", "waarde": "100 meter"},
+        {"label": "Bouwjaar", "waarde": "1975"},
+        {"label": "Makelaar", "waarde": "Serrano Intermedia, ref 111133498"},
+        {"label": "Platform", "waarde": "Idealista"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Primair verhuurobject (vakantieverhuur). Secundair: flip na renovatie.",
+      "samenvatting": "Gelijkvloerse woning 100 meter van strand, Platja de Oliva. 4 slaapkamers, 200m2 perceel, zwembad, 2 terrassen, 2 parkeerplaatsen. Te renoveren (1975). Sterke vakantieverhuurmarkt. Overstromingsrisico kustzone is aandachtspunt.",
+      "voors": [
+        "100m van strand = toplocatie vakantieverhuur",
+        "4 slaapkamers = hogere bezettingsgraad",
+        "Zwembad en tuin sterke troeven voor Airbnb/Booking",
+        "2 parkeerplaatsen inbegrepen",
+        "Gelijkvloers = toegankelijk",
+        "Groeiende Nederlandse/Noord-Europese markt"
+      ],
+      "tegens": [
+        "Kustzone 100m zee: Ley de Costas beperkingen mogelijk, PATRICOVA kustrisico",
+        "Bouwjaar 1975: volledige renovatie noodzakelijk",
+        "Flip-marge dun",
+        "1 badkamer voor 4 slaapkamers"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "309.000 euro"},
+          {"label": "ITP + kosten (~12%)", "waarde": "ca 37.100 euro"},
+          {"label": "Renovatie 90m2 x 900 euro/m2", "waarde": "ca 81.000 euro"},
+          {"label": "Totale investering", "waarde": "ca 427.000 euro"},
+          {"label": "Vakantieverhuur (16-20 weken x 1.800-2.500 euro/week)", "waarde": "28.000 - 50.000 euro/jaar bruto"},
+          {"label": "Bruto verhuurrendement", "waarde": "6,5% - 11,7%"},
+          {"label": "Verkoopwaarde na renovatie (4.000 euro/m2 x 128m2)", "waarde": "ca 512.000 euro"}
+        ],
+        "conclusie": "Solide als verhuurobject met goede bezetting. Flip-marge dun. Primair verhuurinvestering."
+      },
+      "vergunning": "Bestaand pand 1975, suelo urbano. Renovatievergunning vereist. Ley de Costas 100m zone controleren bij Demarcacion de Costas Valencia. VUT aanvragen na renovatie.",
+      "overstroming": {
+        "niveau": "Matig-Hoog",
+        "kleur": "amber",
+        "toelichting": "Platja de Oliva kustzone. PATRICOVA-verificatie vereist voor dit specifieke perceel. DANA 2024 heeft kustrisico's aangescherpt."
+      },
+      "demografie": "Internationaal toerisme (NL, BE, DE, VK). 11km strand. Sterk seizoen mei-oktober.",
+      "ideeen": [
+        "VUT aanvragen na renovatie, verhuren via Airbnb/Booking",
+        "Tweede badkamer toevoegen",
+        "Biedt 15-20k onder vraagprijs"
+      ],
+      "due_diligence": [
+        "Verificeer positie tov Ley de Costas 100m zone",
+        "Check PATRICOVA voor dit perceel",
+        "Inspecteer zwembad en installaties",
+        "VUT-vergunning mogelijkheden nagaan"
+      ],
+      "eerlijk_oordeel": "Solide verhuurkans in toplocatie. Kust-/overstromingsrisico is grootste onzekerheid. Niet kopen zonder PATRICOVA-check.",
+      "contact": {
+        "bron": "Idealista",
+        "telefoon": "Niet publiek vermeld",
+        "email": "Niet publiek vermeld",
+        "url": "https://www.idealista.com/inmueble/111133498/",
+        "referentie": "111133498",
+        "opmerking": "Via Serrano Intermedia. Website: serranointer.com"
+      },
+      "bronnen": [
+        {"titel": "Idealista advertentie 111133498", "url": "https://www.idealista.com/inmueble/111133498/"}
+      ]
+    },
+    {
+      "id": "oliva-pueblo-querol-piso-176m2-2026-05-26",
+      "titel": "Groot centrum-appartement Oliva 176m2 - lift, prijsdaling 4%, te renoveren",
+      "type": "Flip-pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (Oliva pueblo - centrum)",
+      "regio": "La Safor",
+      "vraagprijs": 115000,
+      "prijs_status": "Bevestigd - prijs recentelijk verlaagd",
+      "prijs_notitie": "Vraagprijs 115.000 euro (was 120.000 euro, 4% prijsdaling). 653 euro/m2.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "176 m2 (143 m2 bruikbaar)"},
+        {"label": "Verdiepingen", "waarde": "2e verdieping, buitenzijde"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Lift", "waarde": "Ja"},
+        {"label": "Balkon", "waarde": "Ja"},
+        {"label": "Bouwjaar", "waarde": "1960"},
+        {"label": "Staat", "waarde": "Volledig te renoveren"},
+        {"label": "Makelaar", "waarde": "Anacasa (Denia), ref D2539 / Carmen Gonzalez 699 838 827"},
+        {"label": "Platform", "waarde": "Idealista"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Renoveer volledig en verkoop als ruim centrum-appartement met lift. Alternatief: langetermijnverhuur.",
+      "samenvatting": "Groot appartement (176m2) 2e verdieping centrum Oliva, lift, balkon. Volledig te renoveren (1960). Prijs gedaald 120k naar 115k. Combinatie groot oppervlak + lift in centrum is schaars.",
+      "voors": [
+        "4% prijsdaling = bereidheid onderhandelen",
+        "Groot appartement met lift in centrum is schaars",
+        "Laag overstromingsrisico (2e verdieping)",
+        "Geen casco historico splitsbelemmeringen",
+        "Contactpersoon Carmen Gonzalez direct benoemd"
+      ],
+      "tegens": [
+        "Flip-marge dun bij volledige renovatie",
+        "Bouwjaar 1960: asbestkans",
+        "Slechts 1 badkamer voor 176m2",
+        "Geen garage"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "115.000 euro"},
+          {"label": "ITP + kosten (~12%)", "waarde": "ca 13.800 euro"},
+          {"label": "Renovatie 143m2 x 800 euro/m2", "waarde": "ca 114.400 euro"},
+          {"label": "Totale investering", "waarde": "ca 243.000 euro"},
+          {"label": "Verkoopwaarde (1.800 euro/m2 x 143m2)", "waarde": "ca 257.400 euro (ca 6% marge)"},
+          {"label": "Huurpotentie (900-1.100 euro/maand)", "waarde": "10.800-13.200 euro/jaar"},
+          {"label": "Bruto huurrendement", "waarde": "ca 4,4% - 5,4%"}
+        ],
+        "conclusie": "Business case werkt alleen boven 1.800 euro/m2 post-renovatie. Haalbaar maar niet zeker. Primair interessant als flip bij scherpe renovatiekosten."
+      },
+      "vergunning": "Appartement bestaand gebouw 1960. Binnen-renovatie: beperkte vergunning. Extra badkamer: aanvraag gemeente. Geen splitsbelemmeringen. Asbest controleren.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "2e verdieping Oliva pueblo, ver van Marjal. Verwaarloosbaar risico."
+      },
+      "demografie": "Centrum Oliva. Internationale expats, Spaanse gezinnen. Grote appartementen met lift schaars.",
+      "ideeen": [
+        "Onderhandel naar 100-105k",
+        "Renoveer met focus op 2 badkamers en open keuken",
+        "Verkoop als gezinswoning aan Nederlandse/Belgische kopers"
+      ],
+      "due_diligence": [
+        "Asbestinspectie (bouwjaar 1960)",
+        "VvE reglement controleren",
+        "Exact adres navragen",
+        "Staat lift en dak controleren"
+      ],
+      "eerlijk_oordeel": "Interessant maar business case krap. Succes hangt af van lage renovatiekosten en hoge verkoopprijs. Voor ervaren renoveerder die centrum-premium kan verzilveren.",
+      "contact": {
+        "bron": "Idealista",
+        "telefoon": "699 838 827 (Carmen Gonzalez, Anacasa)",
+        "email": "Niet publiek vermeld",
+        "url": "https://www.idealista.com/inmueble/110828864/",
+        "referentie": "D2539",
+        "opmerking": "Via Anacasa, Denia"
+      },
+      "bronnen": [
+        {"titel": "Idealista advertentie 110828864", "url": "https://www.idealista.com/inmueble/110828864/"}
+      ]
+    },
+    {
+      "id": "oliva-pueblo-hoekpand-corner-69k-2026-05-26",
+      "titel": "Hoekpand te renoveren Oliva pueblo 140m2 - lage instap, structurele werken vereist",
+      "type": "Flip-pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (Oliva pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 69000,
+      "prijs_status": "Bevestigd",
+      "prijs_notitie": "Vraagprijs 69.000 euro (493 euro/m2). Prijs aangepast door verkoper vanwege staat. Clikalia voor bank/institution.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "140 m2"},
+        {"label": "Verdiepingen", "waarde": "2 + azotea/dakterras"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Ligging", "waarde": "Hoekpand met straatparkeren"},
+        {"label": "Bouwjaar", "waarde": "1925"},
+        {"label": "Staat", "waarde": "Volledig te renoveren: structurele werken (balken vervangen), geen water, beperkte electriciteit"},
+        {"label": "Makelaar", "waarde": "Oliva Casas, ref OCTH249300"},
+        {"label": "Platform", "waarde": "Idealista"}
+      ],
+      "score": 57,
+      "score_label": "Voorzichtig",
+      "strategie": "Volledige renovatie als flip. Alleen haalbaar bij scherpe aannemersprijzen en goede locatie.",
+      "samenvatting": "Goedkoop hoekpand Oliva pueblo (140m2, 1925) voor 69.000 euro. Structurele werken vereist (balken vervangen), geen water, beperkte electriciteit. Azotea (dakterras) als bonus. Business case marginaal.",
+      "voors": [
+        "Zeer lage instap (69k)",
+        "Hoekpand = meer licht, twee straatgevels",
+        "Azotea/dakterras = waardeverhogend",
+        "Clikalia/institutioneel = scherp bod mogelijk"
+      ],
+      "tegens": [
+        "Structurele werken verplicht (balken vervangen): kostbaar",
+        "Geen water - nieuwe aansluiting",
+        "Beperkte elektriciteit - volledig nieuw circuit",
+        "Bouwjaar 1925: hoog risico extra gebreken",
+        "Business case krap tot negatief"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "69.000 euro"},
+          {"label": "ITP + kosten (~12%)", "waarde": "ca 8.300 euro"},
+          {"label": "Renovatie 140m2 x 1.100 euro/m2 (diep)", "waarde": "ca 154.000 euro"},
+          {"label": "Totale investering (diep)", "waarde": "ca 231.000 euro"},
+          {"label": "Verkoopwaarde (1.700 euro/m2 x 140m2)", "waarde": "ca 238.000 euro"},
+          {"label": "Marge voorzichtig scenario", "waarde": "Negatief tot ca 42.000 euro positief"}
+        ],
+        "conclusie": "Business case KRAP. Verlies reeel bij diep renovatiescenario. Alleen voor ervaren renoveerder met lage aannemerstarieven."
+      },
+      "vergunning": "Bouwjaar 1925. Structurele renovatievergunning vereist. Controleer gevelbehoud in oud centrum. Asbest- en loodonderzoek aanbevolen.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo op hoger terrein. Laag overstromingsrisico."
+      },
+      "demografie": "Oliva pueblo. 3 slaapkamers is courante maat.",
+      "ideeen": [
+        "Bied 55-60k (Clikalia = meer bereid)",
+        "Bouwkundige inspectie voor bod",
+        "Azotea als terras = extra verkoopargument"
+      ],
+      "due_diligence": [
+        "Bouwkundige inspectie ESSENTIEEL",
+        "Wateraansluiting kosten opvragen",
+        "Electriciteitsofferte",
+        "Controleer locatie: casco historico of niet?",
+        "Vraag Clikalia om bouwkundig rapport"
+      ],
+      "eerlijk_oordeel": "HIGH RISK. Lage prijs is verleidelijk maar structurele problemen zijn ernstig. Business case werkt nauwelijks. Alleen voor zelfbouwer of aannemer met eigen personeel.",
+      "contact": {
+        "bron": "Idealista",
+        "telefoon": "Niet publiek vermeld",
+        "email": "Niet publiek vermeld",
+        "url": "https://www.idealista.com/inmueble/110159113/",
+        "referentie": "OCTH249300",
+        "opmerking": "Via Oliva Casas. Clikalia namens institutionele eigenaar."
+      },
+      "bronnen": [
+        {"titel": "Idealista advertentie 110159113", "url": "https://www.idealista.com/inmueble/110159113/"},
+        {"titel": "Oliva Casas listing", "url": "https://olivacasas.com/property/cute-corner-townhouse-project-great-location-oliva-octh249300/"}
+      ]
+    },
+    {
+      "id": "oliva-pego-finca-rustica-437m2-2026-05-26",
+      "titel": "Finca rustica met oud restaurant tussen Oliva en Pego 437m2 - hostal/airbnb potentie",
+      "type": "Buitenkans",
+      "type_kort": "Buitenkans",
+      "plaats": "Oliva / Pego grens (Camino del Ramblar)",
+      "regio": "Grens La Safor / Marina Alta",
+      "vraagprijs": 314000,
+      "prijs_status": "Bevestigd",
+      "prijs_notitie": "Vraagprijs 314.000 euro (719 euro/m2). Al langere tijd op markt. Onderhandelruimte aanwezig.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "437 m2"},
+        {"label": "Perceel", "waarde": "1.391 m2"},
+        {"label": "Slaapkamers", "waarde": "3-4 (te verbouwen)"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Voormalig gebruik", "waarde": "Restaurant met woning"},
+        {"label": "Grondsoort", "waarde": "Suelo no urbanizable (rustiek)"},
+        {"label": "Bijzonderheden", "waarde": "Zonnepanelen, grote parking, caravan inbegrepen"},
+        {"label": "Afstand strand", "waarde": "10 min auto"},
+        {"label": "Afstand Oliva/Pego", "waarde": "5 min auto"},
+        {"label": "Makelaar", "waarde": "IMMO Abroad, Oliva, ref 1580400"},
+        {"label": "Platform", "waarde": "Idealista"}
+      ],
+      "score": 34,
+      "score_label": "Voorzichtig",
+      "strategie": "Uitsluitend als lifestyle-project of niche-investering mits overstromingsrisico laag blijkt. NIET geschikt als flip.",
+      "samenvatting": "Voormalig restaurant met woonruimte (437m2) op rustiek perceel tussen Oliva en Pego, nabij Parc Natural Marjal. Potentieel hostal/airbnb concept. Maar: suelo no urbanizable + nabij Marjal = hoog DANA-risico. Score 34/100. Opgenomen voor volledigheid.",
+      "voors": [
+        "Unieke locatie bij Parc Natural",
+        "437m2 op 1.391m2 voor 314k = lage prijs m2",
+        "Zonnepanelen aanwezig",
+        "Grote parkeerplaats",
+        "Caravan = woonmogelijkheid tijdens verbouwing",
+        "5 min van Oliva en Pego"
+      ],
+      "tegens": [
+        "SUELO NO URBANIZABLE: nauwelijks bouwrechten",
+        "OVERSTROMINGSRISICO HOOG: Marjal de Pego-Oliva = PATRICOVA risicozone, DANA 2024",
+        "Hostal-vergunning op rustieke grond = complex traject",
+        "Flip onmogelijk",
+        "Lang op markt"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "314.000 euro"},
+          {"label": "ITP + kosten (~12%)", "waarde": "ca 37.700 euro"},
+          {"label": "Renovatie 437m2 x 800 euro/m2", "waarde": "ca 349.600 euro"},
+          {"label": "Totale investering", "waarde": "ca 701.000 euro"},
+          {"label": "Verkoopwaarde finca gerenoveerd", "waarde": "ca 450.000 - 600.000 euro (verlies)"},
+          {"label": "Hostal rendement (als vergund)", "waarde": "ca 72.000 euro/jaar bruto"}
+        ],
+        "conclusie": "Negatief als flip. Hostal-scenario vereist vergunning en laag overstromingsrisico. NIET aanbevolen zonder PATRICOVA-check."
+      },
+      "vergunning": "KRITIEK: Suelo no urbanizable. Bestaand gebruik kan gecontinueerd maar niet uitgebreid. Hostal op rustic = lang en onzeker vergunningstraject. Controleer of gebruik legaal vastgelegd is.",
+      "overstroming": {
+        "niveau": "Hoog",
+        "kleur": "red",
+        "toelichting": "Camino del Ramblar nabij Marjal de Pego-Oliva. Hoogste PATRICOVA-risicozone. DANA oktober 2024 heeft vergelijkbare zones ernstig getroffen. EERST PATRICOVA verificeren via visor.gva.es/visor/?apps=patricova."
+      },
+      "demografie": "Grensgebied La Safor/Marina Alta. Rustig, natuurliefhebbers. Niet voor standaard vastgoedmarkt.",
+      "ideeen": [
+        "Check PATRICOVA eerste stap",
+        "Vraag gemeente naar legaal bestaand gebruik",
+        "Onderhandel naar 250-270k",
+        "Overweeg alleen als lifestyle-investering"
+      ],
+      "due_diligence": [
+        "PATRICOVA verificatie = STAP 1 via visor.gva.es/visor/?apps=patricova",
+        "Juridische status grond bij kadaster en gemeente",
+        "Bestaande vergunningen voor restaurant/woongebruik",
+        "Vloodverzekering mogelijkheden en kosten",
+        "Geotechnisch onderzoek aanbevolen"
+      ],
+      "eerlijk_oordeel": "Score 34/100. Romantisch concept maar harde realiteit: hoog overstromingsrisico + rustieke grond zonder bouwrechten. Sla over tenzij PATRICOVA groen licht geeft voor dit specifieke perceel.",
+      "contact": {
+        "bron": "Idealista",
+        "telefoon": "Niet publiek vermeld",
+        "email": "Niet publiek vermeld",
+        "url": "https://www.idealista.com/inmueble/109391247/",
+        "referentie": "1580400",
+        "opmerking": "Via IMMO Abroad, Oliva"
+      },
+      "bronnen": [
+        {"titel": "Idealista advertentie 109391247", "url": "https://www.idealista.com/inmueble/109391247/"},
+        {"titel": "PATRICOVA overstromingskaart", "url": "https://visor.gva.es/visor/?apps=patricova"}
+      ]
+    }
+  ]
+}
