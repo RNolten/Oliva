@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - Dagelijkse run",
+    "datum": "2026-05-27",
+    "regio": "Marina Alta / La Safor",
+    "run_type": "automatisch",
+    "aantal": 5,
+    "marktcontext": "Vandaag gefocust op Pego (Marina Alta) - een gemeente die eerder nauwelijks aan bod is gekomen. Pego heeft 20 objecten te renoveren op idealista, met opmerkelijk lage prijzen per m2 (gemiddeld 754 euro/m2). De markt is kleiner dan Oliva maar de instapprijzen zijn historisch laag. Ook gezocht op fotocasa, kyero en milanuncios voor platformdiversiteit. Alle 5 kansen vandaag geverifieerd via idealista. Pego pueblo ligt op hogere grond dan de Marjal-kustzone, wat het overstromingsrisico beheersbaar houdt voor centrumlocaties.",
+    "disclaimer": "Geen financieel of juridisch advies. Alle financiele berekeningen zijn indicatief op basis van marktschattingen voor Pego. Doe altijd eigen due diligence en schakel een lokale advocaat in."
+  },
+  "kansen": [
+    {
+      "id": "pego-chalet-adosado-afbouw-240m2-2026-05-27",
+      "titel": "Pego - Chalet adosado 240m2 voor afbouw, parking 4 auto's, 89k",
+      "type": "Te flippen pand (bijna afgebouwd)",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 89000,
+      "prijs_status": "Bevestigd op idealista",
+      "prijs_notitie": "371 euro/m2 - laagste prijs per m2 van deze run. Bijgewerkt 20 mei 2026.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "240 m2 (220 m2 nuttig), perceel 87 m2"},
+        {"label": "Verdiepingen", "waarde": "3 verdiepingen"},
+        {"label": "Kamers", "waarde": "5 slaapkamers, 2 badkamers"},
+        {"label": "Terrasse", "waarde": "Terras op derde verdieping"},
+        {"label": "Parkeren", "waarde": "Parkeerruimte voor 4 auto's (begane grond)"},
+        {"label": "Staat", "waarde": "Structuur + elektra + loodgieterij KLAAR. Wanden, vloeren en plafonds nog te doen."},
+        {"label": "Type pand", "waarde": "Chalet adosado (rijwoning)"},
+        {"label": "Referentie", "waarde": "111485683 (INMOVIK, Ondara)"}
+      ],
+      "score": 69,
+      "score_label": "Interessant",
+      "strategie": "Afbouwkosten zijn beperkt omdat structuur, elektra en loodgieterij al klaar zijn. Koper kiest zelf afwerking (vloeren, wanden, plafonds). Flip naar gerenoveerde woning in Pego centrum. Alternatief: verhuren na afbouw.",
+      "samenvatting": "Chalet adosado in Pego waarbij het zware werk al is gedaan: draagconstructie, elektra en loodgieterij zijn volledig afgerond. Wat ontbreekt zijn wanden, vloeren en plafonds - goedkoper en eenvoudiger dan een complete renovatie. Met parking voor 4 auto's op de begane grond en een terras op de derde verdieping is de lay-out interessant. De vraagprijs van 89.000 euro (371 euro/m2) is uitzonderlijk laag. Bijgewerkt 20 mei 2026.",
+      "voors": [
+        "Structuur + elektra + loodgieterij al klaar: laagste renovatiekosten van alle kansen",
+        "Parking voor 4 auto's: zeldzaam en gewild in Pego centrum",
+        "89.000 euro instapprijs: laagste absolute inleg van deze run",
+        "240m2 op 3 verdiepingen: ruimte voor opdelen of grote gezinswoning",
+        "Terras op derde verdieping: uitkijkpunt"
+      ],
+      "tegens": [
+        "Exacte locatie niet vermeld (privacy-instelling Pego)",
+        "Geen garage (wel parkeerruimte 4 auto's op begane grond)",
+        "Pego is een kleinere markt dan Oliva: doorverkoop kan langer duren",
+        "Slechts 9 foto's beschikbaar, staat moeilijk te beoordelen",
+        "Geen energiecertificaat - bouwjaar niet vermeld"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "89.000 euro"},
+          {"label": "Streefprijs na onderhandeling", "waarde": "80.000 - 85.000 euro"},
+          {"label": "ITP 10% + overige 2%", "waarde": "ca. 10.700 euro (op 89k)"},
+          {"label": "Afbouwkosten (wanden, vloeren, plafonds 240m2 x 350 euro)", "waarde": "ca. 84.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 183.700 euro"},
+          {"label": "Verkoopwaarde na afbouw (1.200 euro/m2)", "waarde": "ca. 288.000 euro"},
+          {"label": "Marge bij doorverkoop", "waarde": "ca. 104.000 euro (57%)"},
+          {"label": "Verhuurwaarde (5-bed, 900 euro/mnd)", "waarde": "10.800 euro/jaar bruto"}
+        ],
+        "conclusie": "Flipmarge van ~57% is op papier uitstekend, maar vereist verificatie van de werkelijke staat en nauwkeurige offerte van aannemer. De aanname is dat alleen afwerkingswerk nodig is (350 euro/m2). Als er verborgen gebreken zijn, lopen de kosten op. Bij een conservatievere verkoopprijs van 1.100 euro/m2 blijft de marge nog steeds 35%. Dit is de meest aantrekkelijke businesscase van de run."
+      },
+      "vergunning": "Chalet adosado, renovatie binnenshuis (afbouw). Vergunning voor bouwwerkzaamheden (ICIO 4% van bouwkosten) vereist. Geen structurele wijzigingen = lager vergunningsrisico. Controleer of bestaande bouwvergunning nog geldig is en of de afbouw conform die vergunning plaatsvindt.",
+      "overstroming": {
+        "niveau": "Matig",
+        "kleur": "amber",
+        "toelichting": "Exacte locatie in Pego niet vrijgegeven. Pego pueblo ligt op hogere grond dan de Marjal de Pego-Oliva. Voor centrumlocaties is het risico laag, maar zonder exact adres kan PATRICOVA niet gecontroleerd worden. Controleer bij aankoop op PATRICOVA."
+      },
+      "demografie": "Pego heeft ca. 10.000 inwoners, authentiek Spaans dorp op 7km van de kust. Vraag naar woonruimte door lokale markt en toenemend expat-interesse. Kleinere flipmarkt dan Oliva, maar lage prijzen compenseren.",
+      "ideeen": [
+        "Afbouw zelf begeleiden: kies moderne materialen, verhoog verkoopwaarde",
+        "Verhuur direct na afbouw als 5-kamer gezinswoning",
+        "Parking op begane grond: mogelijkheid voor opslag of werkruimte",
+        "Terras derde verdieping: daktuin aanleggen voor extra verkoopargument"
+      ],
+      "due_diligence": [
+        "Bezichtiging verplicht: controleer werkelijke staat van structuur, elektra en loodgieterij",
+        "Vraag offerte bij lokale aannemer voor afbouwkosten voor je een bod doet",
+        "Controleer of de bestaande bouwvergunning (als die er is) nog geldig is",
+        "Verifieer PATRICOVA overstromingsstatus bij ontvangst exact adres",
+        "Notarieel onderzoek: lasten, hypotheken, eigendomssituatie",
+        "Onderhandel naar 80-85k"
+      ],
+      "eerlijk_oordeel": "De businesscase is op papier de sterkste van deze run, maar vereist dat de beschrijving klopt: elektra en loodgieterij echt functioneel en conform normen. Een keuring van een onafhankelijke bouwkundig inspecteur is hier geen optie maar vereiste. Als de basis echt klaar is, is dit een zeldzame kans met lage instap en hoge marge.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Via idealista chat (Victor Estela Puchol, INMOVIK)",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/111485683/",
+        "referentie": "111485683",
+        "opmerking": "Makelaar: INMOVIK (Ondara). Reageert doorgaans binnen 4 uur."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Chalet adosado Pego 240m2 afbouw", "url": "https://www.idealista.com/inmueble/111485683/"}
+      ]
+    },
+    {
+      "id": "pego-sant-miquel-68-270m2-deels-gerenoveerd-2026-05-27",
+      "titel": "Pego Calle Sant Miquel 68 - 270m2 deels gerenoveerd, 4 verdiepingen, 110k",
+      "type": "Te flippen pand (deels gerenoveerd)",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 110000,
+      "prijs_status": "Bevestigd op idealista",
+      "prijs_notitie": "407 euro/m2. Adres bekend: Calle Sant Miquel 68. Bijgewerkt 19 mei 2026.",
+      "kerngegevens": [
+        {"label": "Adres", "waarde": "Calle Sant Miquel 68, Pego"},
+        {"label": "Oppervlakte", "waarde": "270 m2"},
+        {"label": "Verdiepingen", "waarde": "4 verdiepingen"},
+        {"label": "Kamers", "waarde": "4 slaapkamers, 2 badkamers"},
+        {"label": "Extra", "waarde": "Balkon, inbouwkasten, trastero"},
+        {"label": "Bouwjaar", "waarde": "1940"},
+        {"label": "Staat", "waarde": "Deels gerenoveerd - bewoonbaar, rest nog af te werken"},
+        {"label": "Referentie", "waarde": "19955 (Fyhom Villas S.L., Els Poblets)"}
+      ],
+      "score": 65,
+      "score_label": "Interessant",
+      "strategie": "Direct bewoonbaar (deels gerenoveerd), rest van de renovatie geleidelijk uitvoeren. Doorverkopen als volledig gerenoveerde woning, of verhuren terwijl de resterende renovatie wordt uitgevoerd.",
+      "samenvatting": "Chalet adosado op Calle Sant Miquel 68 in Pego, 270m2 verdeeld over 4 verdiepingen. Het pand is deels gerenoveerd: je kunt er direct in wonen terwijl je de resterende renovatie uitvoert op eigen tempo. Goede toegang, dicht bij het centrum, makkelijk parkeren. Bouwjaar 1940 vereist zorgvuldige keuring maar de deels-gerenoveerde staat geeft al informatie over de structurele conditie. Bijgewerkt 19 mei 2026.",
+      "voors": [
+        "Direct bewoonbaar: lagere financieringsdruk (geen aparte woonlasten tijdens renovatie)",
+        "Adres bekend: PATRICOVA en kadaster direct te controleren",
+        "407 euro/m2 - zeer laag voor deels gerenoveerd pand",
+        "Nabij centrum: parkeren, diensten, toegankelijkheid",
+        "4 verdiepingen: flexibele indeling mogelijk",
+        "Uitbreidingsmogelijkheid: makelaar meldt potentieel voor uitbreiding"
+      ],
+      "tegens": [
+        "Bouwjaar 1940: risico op verborgen gebreken (elektra, loodgieterij, fundering)",
+        "4 verdiepingen maar geen lift: mogelijk lastig voor verhuur aan oudere huurders",
+        "Geen garage vermeld",
+        "Pego is een kleinere markt: verkooptijd mogelijk langer"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "110.000 euro"},
+          {"label": "Streefprijs na onderhandeling", "waarde": "95.000 - 100.000 euro"},
+          {"label": "ITP 10% + overige 2%", "waarde": "ca. 13.200 euro"},
+          {"label": "Resterende renovatie (ca. 50% van 270m2 x 700 euro)", "waarde": "ca. 94.500 euro"},
+          {"label": "Totale investering", "waarde": "ca. 217.700 euro"},
+          {"label": "Verkoopwaarde volledig gerenoveerd (1.250 euro/m2)", "waarde": "ca. 337.500 euro"},
+          {"label": "Marge bij doorverkoop", "waarde": "ca. 120.000 euro (55%)"},
+          {"label": "Verhuurwaarde (4-bed Pego, 900 euro/mnd)", "waarde": "10.800 euro/jaar bruto"}
+        ],
+        "conclusie": "Flipmarge van ca. 55% is op papier aantrekkelijk, maar aanname is dat 50% van de renovatie al gedaan is. Controleer dit bij bezichtiging. Als meer werk nodig is dan beschreven, loopt de marge terug. Als de renovatie inderdaad halfweg is, is dit een van de sterkste businesscases in de regio op dit moment."
+      },
+      "vergunning": "Bouwjaar 1940 - controleer of het pand beschermd is als historisch gebouw. Afbouwwerkzaamheden vereisen een bouwvergunning (ICIO 4%). Makelaar meldt mogelijkheid tot uitbreiding: dit vereist een aparte vergunning en check op bouwvlak bij gemeente Pego.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Calle Sant Miquel 68 ligt in Pego pueblo, op hogere grond dan de Marjal de Pego-Oliva. Pego centrum heeft geen verhoogd overstromingsrisico. Controleer bij aankoop op PATRICOVA voor zekerheid."
+      },
+      "demografie": "Pego pueblo heeft een stabiele lokale markt. Calle Sant Miquel is een centrale straat met goede zichtbaarheid en toegang. De deels gerenoveerde staat van het pand biedt direct inzicht in de kwaliteit van het gebouw - een voordeel boven volledig te renoveren panden.",
+      "ideeen": [
+        "Zelf bewonen en renoveren in eigen tempo: verlaagt financieringskosten",
+        "Verhuren direct na bezichtiging als tijdelijk woonobject",
+        "4e verdieping als werkruimte of extra slaapkamer na renovatie",
+        "Uitbreidingsopties navragen bij gemeente Pego"
+      ],
+      "due_diligence": [
+        "Bezichtiging: controleer nauwkeurig welk deel al gerenoveerd is en wat nog niet",
+        "Bouwkundige keuring (bouwjaar 1940): fundering, dakconstructie, isolatie",
+        "Vraag bij gemeente of het pand beschermd is (historisch)",
+        "PATRICOVA controle voor Calle Sant Miquel 68",
+        "Notarieel onderzoek: lasten, eigendom, bestemmingsplan",
+        "Onderhandel naar 95-100k"
+      ],
+      "eerlijk_oordeel": "Interessant door de combinatie van laag instapbedrag, centrale ligging en deels gerenoveerde staat. Bouwjaar 1940 is een risicofactor die professionele keuring vereist. Als de deels-gerenoveerde staat echt goed is en het structurele werk solide, is de businesscase een van de sterkste in deze run.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Via idealista chat (Fyhom Villas S.L.)",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/111512381/",
+        "referentie": "19955",
+        "opmerking": "Makelaar: Fyhom Villas S.L. (Els Poblets). Reageert doorgaans snel."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Calle Sant Miquel 68, Pego", "url": "https://www.idealista.com/inmueble/111512381/"}
+      ]
+    },
+    {
+      "id": "pego-sant-blai-300m2-garage-2001-2026-05-27",
+      "titel": "Pego Calle Sant Blai - 300m2 met garage voor 4 auto's, bouwjaar 2001, 99k",
+      "type": "Te flippen pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 99000,
+      "prijs_status": "Bevestigd op idealista",
+      "prijs_notitie": "330 euro/m2. Bouwjaar 2001 (jongste van de run). Let op: advertentiefoto's zijn virtuele renders, niet de werkelijke staat.",
+      "kerngegevens": [
+        {"label": "Adres", "waarde": "Calle Sant Blai, Pego (exact nr niet vermeld)"},
+        {"label": "Oppervlakte", "waarde": "300 m2 (280 m2 nuttig)"},
+        {"label": "Verdiepingen", "waarde": "4 verdiepingen"},
+        {"label": "Kamers", "waarde": "5 slaapkamers, 3 badkamers"},
+        {"label": "Garage", "waarde": "Ruime garage op begane grond (meerdere voertuigen)"},
+        {"label": "Bouwjaar", "waarde": "2001"},
+        {"label": "Staat", "waarde": "Te renoveren (foto's zijn renders, niet werkelijke staat)"},
+        {"label": "Referentie", "waarde": "102SAB99.FPV-A (HogarAbitat Valencia)"}
+      ],
+      "score": 60,
+      "score_label": "Voorzichtig",
+      "strategie": "Renoveren en doorverkopen als grote gezinswoning of verhuren. Garage maakt het aantrekkelijk voor gezinnen. Bouwjaar 2001 is een voordeel: installaties zijn jonger dan bij panden uit de jaren 50-70.",
+      "samenvatting": "Chalet adosado op Calle Sant Blai in Pego, 300m2 over 4 verdiepingen met ruime garage voor meerdere voertuigen. Bouwjaar 2001 maakt dit het nieuwste en structureel betrouwbaarste pand van de run. Nadeel: de advertentiefoto's zijn virtuele renders, geen werkelijke weergave van de staat. De nabijheid van het Parque Natural del Marjal de Pego-Oliva is een aandachtspunt voor overstromingsrisico. Bijgewerkt 7 april 2026.",
+      "voors": [
+        "Bouwjaar 2001: moderne constructie, lagere structurele renovatierisicos",
+        "Garage voor meerdere voertuigen: zeldzaam en gewild",
+        "5 slaapkamers en 3 badkamers: aantrekkelijk voor grote gezinnen",
+        "Energiecertificaat aanwezig (146 kWh/m2)",
+        "330 euro/m2: zeer laag voor pand uit 2001",
+        "Virtuele tour beschikbaar"
+      ],
+      "tegens": [
+        "Foto's zijn virtuele renders: werkelijke staat volledig onbekend",
+        "Nabijheid Parque Natural del Marjal de Pego-Oliva: amber overstromingsvlag",
+        "Exact adres niet vrijgegeven",
+        "Pego is kleinere markt: doorverkooptijd mogelijk langer",
+        "Bijgewerkt 7 april: al 7 weken actief, reden voor inactiviteit onduidelijk"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "99.000 euro"},
+          {"label": "ITP 10% + overige 2%", "waarde": "ca. 11.880 euro"},
+          {"label": "Renovatie (300m2 x 800 euro, 2001 gebouw)", "waarde": "ca. 240.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 350.880 euro"},
+          {"label": "Verkoopwaarde bij 1.300 euro/m2", "waarde": "ca. 390.000 euro"},
+          {"label": "Marge bij 1.300 euro/m2", "waarde": "ca. 39.000 euro (11%)"},
+          {"label": "Verkoopwaarde bij 1.400 euro/m2 (garage)", "waarde": "ca. 420.000 euro"},
+          {"label": "Marge bij 1.400 euro/m2", "waarde": "ca. 69.000 euro (20%)"},
+          {"label": "Verhuurwaarde (5-bed, garage, 1.100 euro/mnd)", "waarde": "13.200 euro/jaar bruto"}
+        ],
+        "conclusie": "Flip-marge is marginaal (11%) bij 1.300 euro/m2 en haalt 20% bij 1.400 euro/m2. Dit is alleen haalbaar als de garage een duidelijke premie geeft op de verkoopprijs. De aanname van 800 euro/m2 renovatiekosten is gunstig voor een 2001-gebouw maar onzeker zonder bezichtiging."
+      },
+      "vergunning": "Bouwjaar 2001 - renovatie binnenshuis vereist bouwvergunning (ICIO 4%). Geen structurele wijzigingen verwacht. Laag vergunningsrisico. Controleer of de garage legaal is vergund (in Spanje soms problematisch bij oudere garages).",
+      "overstroming": {
+        "niveau": "Matig",
+        "kleur": "amber",
+        "toelichting": "De advertentie vermeldt nabijheid van het Parque Natural del Marjal de Pego-Oliva. Calle Sant Blai in Pego centrum ligt vermoedelijk op hogere grond, maar de nabijheid van het Marjal is een risicosignaal na DANA 2024. Vraag bij aankoop het exacte adres op en controleer PATRICOVA."
+      },
+      "demografie": "Pego pueblo, residentieel gebied nabij centrum. Vraag naar gezinswoningen met garage is aanwezig bij lokale markt. Expat-markt is kleiner dan in Oliva of Denia.",
+      "ideeen": [
+        "Garage als selling point: bied extra veilige stallingsruimte (motoren, fietsen)",
+        "5-kamer woning verhuren aan grote gezin: stabiele lange-termijn huurder",
+        "Virtuele tour bekijken voor eerste indruk voor bezichtiging",
+        "PATRICOVA check voor exact adres alvorens te bieden"
+      ],
+      "due_diligence": [
+        "Bezichtiging is verplicht: foto's zijn renders, werkelijke staat onbekend",
+        "PATRICOVA controle: vraag exact adres op bij makelaar",
+        "Garage legale status controleren bij kadaster",
+        "Controleer waarom pand 7+ weken op de markt staat",
+        "Structurele keuring (bouwjaar 2001 is jonger maar niet nieuw)",
+        "Onderhandel naar 88-92k"
+      ],
+      "eerlijk_oordeel": "Het bouwjaar 2001 en de grote garage zijn pluspunten. Maar de virtuele renders als enige visuele informatie is een rode vlag: je weet simpelweg niet wat je koopt. Bezichtiging is hier geen optie maar absolute vereiste. Overstromingsrisico (Marjal-nabijheid) moet ook geverifieerd worden. Conditie 'voorzichtig' is hier terecht.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Via idealista chat (HogarAbitat Valencia)",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/110834489/",
+        "referentie": "102SAB99.FPV-A",
+        "opmerking": "Makelaar: HogarAbitat (Valencia). Virtuele tour beschikbaar op idealista."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Calle Sant Blai, Pego 300m2", "url": "https://www.idealista.com/inmueble/110834489/"}
+      ]
+    },
+    {
+      "id": "pego-centro-404m2-divisie-optie-2026-05-27",
+      "titel": "Pego centrum - 404m2 met divisie-optie 3 woningen, prijs verlaagd naar 179k",
+      "type": "Te flippen pand (investeerdersobject)",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 179000,
+      "prijs_status": "Bevestigd op idealista - prijs verlaagd van 189.000 naar 179.000 euro (-5%)",
+      "prijs_notitie": "443 euro/m2. Prijs recent verlaagd, signaal van verkoopmotivatie. Bijgewerkt 25 mei 2026.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "404 m2 (390 m2 nuttig)"},
+        {"label": "Verdiepingen", "waarde": "3 verdiepingen + azotea (dak)"},
+        {"label": "Kamers", "waarde": "3 slaapkamers, 2 badkamers"},
+        {"label": "Bijzonderheid", "waarde": "Divisie horizontale optie: tot 3 zelfstandige woningen of garage via trappenhuisomvorming"},
+        {"label": "Bouwjaar", "waarde": "1980"},
+        {"label": "Staat", "waarde": "Te renoveren (1e verdieping bewoonbaar na schilderwerk)"},
+        {"label": "Referentie", "waarde": "PA-VL-CS-4162 (PRADA&ASOCIADOS)"}
+      ],
+      "score": 57,
+      "score_label": "Voorzichtig",
+      "strategie": "Investeerdersobject met optie tot opdelen in 3 zelfstandige woningen (divisie horizontal). Als verhuurstrategie: 3 units a 700 euro/mnd = 25.200 euro/jaar terugverdientijd ca. 22 jaar. Als flip na renovatie en splitsing is de businesscase marginaal maar denkbaar.",
+      "samenvatting": "Ruime woning van 404m2 in het centrum van Pego, verdeeld over 3 verdiepingen plus dak. De eerste verdieping is al bewoonbaar (alleen schilderwerk nodig), wat de renovatie in fasen mogelijk maakt. De seller meldt een expliciet recht op 'divisie horizontal' voor maximaal 3 woningen - een zeldzaamheid. Prijs verlaagd van 189k naar 179k op 25 mei 2026, wat duidelijke verkoopmotivatie aangeeft. Bijgewerkt 25 mei 2026.",
+      "voors": [
+        "Divisie horizontal optie: tot 3 zelfstandige woningen (expliciete vermelding in advertentie)",
+        "1e verdieping bewoonbaar na schilderwerk: gefaseerde renovatie mogelijk",
+        "Prijs 5% verlaagd op 25 mei: verkoopdruk, ruimte voor onderhandeling",
+        "443 euro/m2 is extreem laag voor 390m2 nuttig woonoppervlak",
+        "Azotea met panoramisch uitzicht op bergen",
+        "Nabij scholen en alle diensten"
+      ],
+      "tegens": [
+        "Totale investering na renovatie nadert 544k: groot project",
+        "Divisie-vergunning nog te verkrijgen: niet automatisch verleend",
+        "Flip-marge is smal (3-10%) zelfs bij optimistische verkoopprijs",
+        "Exacte locatie niet vrijgegeven",
+        "Pego markt: 3 appartementen tegelijk verkopen in een kleine markt kost tijd"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "179.000 euro"},
+          {"label": "Streefprijs na onderhandeling", "waarde": "160.000 - 165.000 euro"},
+          {"label": "ITP 10% + overige 2%", "waarde": "ca. 21.480 euro"},
+          {"label": "Renovatie (404m2 x 850 euro)", "waarde": "ca. 343.400 euro"},
+          {"label": "Totale investering", "waarde": "ca. 543.880 euro"},
+          {"label": "Verkoopwaarde als 3 units (135m2 x 1.350 euro x3)", "waarde": "ca. 547.000 euro"},
+          {"label": "Marge bij splitsing en verkoop (3 units)", "waarde": "ca. 3.000 euro (0.6%) - MARGINAAL"},
+          {"label": "Verhuur 3 units (700 euro/mnd x3)", "waarde": "25.200 euro/jaar bruto"},
+          {"label": "Bruto verhuurrendement", "waarde": "4.6% op totale investering"}
+        ],
+        "conclusie": "Als flip is de businesscase vrijwel niet sluitend, zelfs bij splitsing. Als verhuurinvestering is een bruto rendement van 4.6% op 544k bescheiden maar stabiel. Meest realistisch als langetermijn verhuurproject waarbij je de investering over 20+ jaar terugverdient. Agressief onderhandelen naar 150k verbetert de businesscase aanzienlijk."
+      },
+      "vergunning": "Divisie horizontal vereist een aparte vergunning (licencia de division horizontal) bij de gemeente Pego. Dit is niet automatisch: je moet kunnen aantonen dat elk deel zelfstandig functioneel is (aparte toegang, keuken, sanitair). Renovatie zelf vereist bouwvergunning (ICIO 4%). Bouwjaar 1980: geen historische bescherming verwacht.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Pego pueblo centrum. Nabij scholen en diensten = centrale ligging, niet in een laagliegende zone. Geen verhoogd overstromingsrisico. Controleer PATRICOVA bij aankoop voor zekerheid."
+      },
+      "demografie": "Pego centrum biedt goede verhuurbaarheid aan lokale bevolking en jonge gezinnen. Drie kleine appartementen zijn aantrekkelijker voor de Spaanse lokale markt dan een grote woning.",
+      "ideeen": [
+        "1e verdieping direct verhuren terwijl rest wordt gerenoveerd: cashflow tijdens renovatie",
+        "Garage inbouwen via trappenhuisruimte: extra waarde en zeldzaamheid in Pego",
+        "3 units: elk als long-term huurunit met lokale huurders",
+        "Agressief onderhandelen naar 150k: verbetert businesscase sterk"
+      ],
+      "due_diligence": [
+        "Vraag notarieel bevestiging van divisie-optie (statuut/certificaat)",
+        "Informeer bij gemeente Pego of divisie horizontal vergunbaar is voor dit perceel",
+        "Bezichtiging: controleer 1e verdieping (bewoonbaar na schilderwerk?)",
+        "PATRICOVA controle bij ontvangst exact adres",
+        "Onderhandel prijs naar 150-160k"
+      ],
+      "eerlijk_oordeel": "De divisie-optie maakt dit pand uniek in het Pego-aanbod. Maar eerlijk zijn: de flip-businesscase is zwak. Dit is een project voor een geduldige verhuurinvesteerder die 20+ jaar cashlflow zoekt, geen snelle flip. Laat de divisie-vergunning bevestigen voor je een bod doet.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Via idealista chat (PRADA&ASOCIADOS)",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/110913584/",
+        "referentie": "PA-VL-CS-4162",
+        "opmerking": "Makelaar: PRADA&ASOCIADOS (Santander). Website: pradaasociados.com"
+      },
+      "bronnen": [
+        {"titel": "Idealista - Pego centrum 404m2 divisie-optie", "url": "https://www.idealista.com/inmueble/110913584/"}
+      ]
+    },
+    {
+      "id": "pego-ramon-y-cajal-480m2-commercieel-driehoek-2026-05-27",
+      "titel": "Pego - Commercieel driehoek: 480m2 gebouw met 2 locales (165m2), Calle Mayor/Plaza",
+      "type": "Gebouw met commercieel potentieel (herbestemming/horeca)",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 398000,
+      "prijs_status": "Bevestigd op idealista",
+      "prijs_notitie": "829 euro/m2. Unieke ligging in het commerciele hart van Pego. Bijgewerkt 20 april 2026.",
+      "kerngegevens": [
+        {"label": "Adres", "waarde": "Ramon y Cajal (Calle Mayor / Plaza Poeta Lorente / Av. Jaime I), Pego"},
+        {"label": "Oppervlakte", "waarde": "480 m2, perceel 160 m2"},
+        {"label": "Verdiepingen", "waarde": "3 verdiepingen (begane grond + 2)"},
+        {"label": "Kamers", "waarde": "6 slaapkamers, 3 badkamers (bovenetages)"},
+        {"label": "Commercieel", "waarde": "Begane grond: 2 separate commerciele units (165m2 totaal)"},
+        {"label": "Ligging", "waarde": "Op de kruising van Calle Mayor, Plaza Poeta Lorente en Av. de Jaime I - het commerciele hart van Pego"},
+        {"label": "Staat", "waarde": "Te renoveren"},
+        {"label": "Referentie", "waarde": "97002585 (Inmovidal, Luis Martinez, Denia)"}
+      ],
+      "score": 57,
+      "score_label": "Voorzichtig",
+      "strategie": "Primaire strategie: commerciele units verhuren op begane grond (horeca, kantoor of winkel) terwijl bovenetages worden ontwikkeld als appartementen of hotel. Alternatief: volledig verkopen aan ontwikkelaar. Totaalbudget overschrijdt 500k - enkel interessant als portfolio-investering.",
+      "samenvatting": "Uitzonderlijk gelegen gebouw op het kruispunt van de drie belangrijkste straten van Pego: Calle Mayor, Plaza Poeta Lorente en Avenida Jaime I - het commerciele hart van de gemeente. Begane grond bestaat uit 2 al separate commerciele units van totaal 165m2. Bovenetages (315m2) zijn huidig als woning in gebruik maar bieden potentieel voor appartement, hotel of kantoor. Bijgewerkt 20 april 2026.",
+      "voors": [
+        "Locatie is absoluut de beste in Pego: commercieel driehoek met maximale loopstroomexposure",
+        "2 bestaande commerciele units op begane grond: direct verhuurbaar of voor horeca",
+        "3 gevels (2 straten + plaza): maximale zichtbaarheid",
+        "Bestemmingsflexibiliteit: woning, hotel, appartementen, kantoren",
+        "Pego heeft stabiele lokale bevolking van 10.000 inwoners"
+      ],
+      "tegens": [
+        "Totale investering (aankoop + renovatie) overschrijdt 880k: ver buiten standaard budget",
+        "Pego is kleinere markt: commerciele verhuur kan langer duren dan in Denia of Gandia",
+        "Bijgewerkt 20 april: al 5+ weken op markt - reden onduidelijk",
+        "829 euro/m2 vraagprijs is aan de hoge kant voor Pego",
+        "Renovatie van 480m2 is een groot en kostbaar project"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "398.000 euro"},
+          {"label": "ITP 10% + overige 2%", "waarde": "ca. 47.760 euro"},
+          {"label": "Renovatie (480m2 x 900 euro)", "waarde": "ca. 432.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 877.760 euro"},
+          {"label": "Commerciele verhuur begane grond (2 locales, 1.500 euro/mnd elk)", "waarde": "36.000 euro/jaar"},
+          {"label": "Potentieel bovenetages (hotel/appartementen)", "waarde": "Nader te bepalen (complex project)"},
+          {"label": "Alternatief: verkoop aan ontwikkelaar", "waarde": "Vraagprijs is al 398k - marge beperkt"}
+        ],
+        "conclusie": "Dit pand is financieel alleen interessant als langetermijn commercieel vastgoedinvestering met aanzienlijk kapitaal. De commerciele inkomsten op de begane grond (36k/jaar) bieden een terugverdientijd van >24 jaar op de totale investering. Enkel realistisch als de bovenetages worden ontwikkeld tot hotel of meerdere appartementen en/of als de locatie sterk in waarde stijgt. Niet geschikt als standaard flip."
+      },
+      "vergunning": "Begane grond heeft al commerciele bestemming (2 locales). Renovatie vereist bouwvergunning. Herbestemming bovenetages naar hotel of meerdere appartementen vereist extra vergunning bij gemeente Pego. Historisch centrum: controleer of het pand of de gevels beschermd zijn.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Pego centrum op de kruising van de hoofdstraten. Hoog en centraal gelegen, geen laagliegende zone. Geen verhoogd overstromingsrisico. Verifieer PATRICOVA bij aankoop."
+      },
+      "demografie": "Pego is een levendige marktplaats met stabiele bevolking. De commerciele kern is actief maar kleiner dan in Denia of Gandia. Horeca-potentieel is aanwezig maar bescheiden vergeleken met grote kustplaatsen.",
+      "ideeen": [
+        "Begane grond verhuren aan horecabedrijf: bistro of tapasbar in commercieel hart Pego",
+        "Bovenetages ombouwen naar boutique hotel of rural B&B",
+        "Geheel verkopen aan professionele vastgoedontwikkelaar (vraagprijs als instapbod)",
+        "Pand kopen als belegging en laten ontwikkelen door externe projectontwikkelaar"
+      ],
+      "due_diligence": [
+        "Controleer of gevels en/of pand historisch beschermd zijn (catalogus gemeente Pego)",
+        "Vraag naar huurcontracten van de 2 bestaande locales",
+        "Notarieel onderzoek: eigendom, lasten, bestemmingsplan",
+        "Haalbaarheidsonderzoek herbestemming bovenetages (hotel/appartementen)",
+        "Architectenrapport voor kostenraming renovatie",
+        "Maak realistische huurmarktanalyse voor commerciele locales in Pego"
+      ],
+      "eerlijk_oordeel": "Uniek pand op de beste locatie in Pego, maar dit is geen investering voor de reguliere flip-investeerder. Het totale budget van ~880k maakt het geschikt voor een professionele projectontwikkelaar of vastgoedfonds. Voor een particuliere investeerder met budget van 50-500k: alleen interessant als je uitsluitend de begane grond commercieel koopt (niet mogelijk bij geheel pand) of als je samenwerkt met partners. Vermeld als 'buitenkans' vanwege de unieke locatie.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Via idealista chat (Luis Martinez, Inmovidal Denia)",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/97002585/",
+        "referentie": "97002585",
+        "opmerking": "Makelaar: Inmovidal (Luis Martinez, Denia)."
+      },
+      "bronnen": [
+        {"titel": "Idealista - Ramon y Cajal, Pego - commercieel driehoek", "url": "https://www.idealista.com/inmueble/97002585/"}
+      ]
+    }
+  ]
+}
