@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Marina Alta / La Safor",
+    "datum": "2026-05-31",
+    "regio": "Marina Alta / La Safor",
+    "run_type": "dagelijks automatisch",
+    "aantal": 5,
+    "marktcontext": "Markt actief in mei 2026. In Oliva Nova zijn uitzonderlijk lage instapprijzen te vinden voor grote panden (voormalig horeca/commercieel). El Verger biedt grote oppervlaktes tegen 350-360 euro/m2. Kustpanden in Les Deveses (Denia/Las Marinas) zijn duur maar sterk in verhuur. Gemiddelde hervormersprijs Oliva pueblo: 988 euro/m2; El Verger: 1.075 euro/m2; Pedreguer: 1.526 euro/m2. Post-DANA overstromingskaarten gelden: kustzones en zones nabij Marjal Pego-Oliva blijven gevoelig. Bronnen: idealista.com (Oliva, El Verger), fotocasa.es (Ondara), geraadpleegd 31-05-2026.",
+    "disclaimer": "Geen financieel of juridisch advies. Prijzen en beschrijvingen zijn afkomstig van advertentiepaginas op idealista.com en fotocasa.es (geraadpleegd 2026-05-31). Individuele advertentiepaginas zijn JavaScript-rendered; URL's geverifieerd via cataloguspaginas. Altijd eigen due diligence uitvoeren voor aankoop."
+  },
+  "kansen": [
+    {
+      "id": "oliva-nova-ex-restaurant-devesa-2026-05-31",
+      "titel": "Oliva Nova: voormalig restaurant 455m2 - uitzonderlijke instapprijs 231 euro/m2",
+      "type": "Voormalig horecapand met woonconversiepotentieel",
+      "type_kort": "Buitenkans",
+      "plaats": "Oliva Nova",
+      "regio": "La Safor / Marina Alta grens",
+      "vraagprijs": 105000,
+      "prijs_status": "Vraagprijs conform advertentie",
+      "prijs_notitie": "231 euro/m2 - uitzonderlijk laag voor Oliva Nova. Totale investering bij volledige renovatie circa 527.000 euro (net boven standaardbudget van 500.000 euro); gefaseerde aanpak aanbevolen.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "455 m2 (7 slaapkamers + garage)"},
+        {"label": "Prijs per m2", "waarde": "231 euro/m2"},
+        {"label": "Type", "waarde": "Voormalig restaurant, volledig te renoveren"},
+        {"label": "Locatie", "waarde": "Partida Devesa 12, Oliva Nova - weg richting El Verger en Denia"},
+        {"label": "Omgeving", "waarde": "Golf, manege, strand, internationaal toerisme"},
+        {"label": "Staat", "waarde": "Jarenlang gesloten, volledige renovatie vereist"},
+        {"label": "Garage", "waarde": "Inbegrepen"}
+      ],
+      "score": 74,
+      "score_label": "Sterk",
+      "strategie": "Gefaseerde aanpak: aankoop en basisbeveiliging, daarna stapsgewijze renovatie als B&B, vakantiecomplex of opsplitsing in appartementen (vergunning vereist). Alternatief: doorverkoop als project na vergunningsverkenning.",
+      "samenvatting": "Voormalig restaurant op strategische locatie in Oliva Nova, vlakbij golfbaan, manege en strand. Vraagprijs van 231 euro/m2 is historisch laag voor deze zone met internationaal kopers- en toerismepubliek. Totale investering bij volledige renovatie circa 527.000 euro - net boven standaardbudget, gefaseerde aanpak is realistisch. Het pand vraagt een vergunningstraject voor bestemmingswijziging commercieel naar wonen of horeca.",
+      "voors": [
+        "Uitzonderlijk lage instapprijs (231 euro/m2) voor Oliva Nova golfresort",
+        "455m2 biedt maximale flexibiliteit: appartementen, B&B, restaurant, vakantiecomplex",
+        "Golf, manege en strand op loopafstand - sterke internationale verhuurmarkt",
+        "Garage inbegrepen en strategische zichtbaarheid op de verbindingsweg El Verger-Denia",
+        "Flipmarge bij volledige realisatie en verkoop op 2.000 euro/m2: circa 73%"
+      ],
+      "tegens": [
+        "Totale investering bij volledige renovatie circa 527.000 euro - net boven standaardbudget",
+        "Vergunningstraject herbestemming commercieel naar wonen of B&B is complex en tijdrovend",
+        "Jarenlang leegstaand: onbekende staat fundering, elektra en leidingen",
+        "Voormalige horecabestemming: bestemmingsplan Oliva Nova controleren op woonfunctie"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "105.000 euro"},
+          {"label": "ITP (10%)", "waarde": "10.500 euro"},
+          {"label": "Overige aankoopkosten (2%)", "waarde": "2.100 euro"},
+          {"label": "Totale aankoopkosten", "waarde": "117.600 euro"},
+          {"label": "Renovatie 455m2 x 900 euro/m2", "waarde": "409.500 euro"},
+          {"label": "Totale investering", "waarde": "527.100 euro"},
+          {"label": "Scenario A - Flip appartementen (455m2 x 2.000 euro/m2)", "waarde": "Verkoopwaarde 910.000 euro - marge 383.000 euro (73%)"},
+          {"label": "Scenario B - Verhuur B&B/vakantie", "waarde": "Geschat 3.000-4.000 euro/maand bruto - yield circa 7-9% op totale investering"}
+        ],
+        "conclusie": "Sterk potentieel maar totale investering overschrijdt standaardbudget bij volledige renovatie. Gefaseerde aanpak is realistischer. De flipmarge bij volledige realisatie is uitzonderlijk - mits vergunning haalbaar."
+      },
+      "vergunning": "Voormalige horecabestemming. Bestemmingswijziging naar wonen of toeristische accommodatie vereist vergunning bij Ajuntament Oliva. Oliva Nova is suelo urbano - gunstig. Maar wijziging van commercieel naar residentieel of B&B vergt PGOU-toetsing. Controleer actief bestemmingsplan Oliva Nova voor aankoop.",
+      "overstroming": {
+        "niveau": "Amber - kustzone verificatie vereist",
+        "kleur": "amber",
+        "toelichting": "Oliva Nova ligt in de kustzone van Oliva, deels laaggelegen. Buiten de Marjal de Pego-Oliva, maar voorzichtigheid geboden na herziene PATRICOVA-kaarten post-DANA oktober 2024. Concreet PATRICOVA-niveau voor Partida Devesa vereist verificatie."
+      },
+      "demografie": "Oliva Nova is een toeristische golfresort-gemeente met overwegend internationale kopers (Noord-Europees). Sterke vakantieverhuurmarkt ook buiten het hoogseizoen. Groeiende vraag naar bijzondere accommodaties (boutique B&B, glamping).",
+      "ideeen": [
+        "Boutique B&B of small hotel (8-10 kamers) aansluitend op golftoerisme",
+        "Opsplitsing in 4-6 vakantieappartementen met gedeelde buitenruimte",
+        "Combinatie: restaurant op begane grond plus appartementen op verdiepingen",
+        "Doorverkoop als ontwikkelkavel na vergunningsverkenning"
+      ],
+      "due_diligence": [
+        "PGOU Oliva controleren: toegestane bestemmingen op Partida Devesa 12",
+        "PATRICOVA-kaart raadplegen voor exacte overstromingszone",
+        "Catastro: exacte oppervlakte en eigenaarsstatus bevestigen",
+        "Technisch onderzoek fundering en verborgen gebreken (jarenlange leegstand)",
+        "Informeer bij Ajuntament Oliva naar eerder aangevraagde of geweigerde vergunningen voor dit adres"
+      ],
+      "eerlijk_oordeel": "Een buitenkans qua prijs - 231 euro/m2 in Oliva Nova is zeldzaam laag. De locatie is sterk. Maar de vergunningsonzekerheid rond herbestemming en de totale investering boven het standaardbudget maken dit een project voor iemand met ervaring en geduld. Als de vergunning haalbaar blijkt, is dit de meest interessante kans van de week.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Onbekend - via makelaarsadvertentie",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/110919165/",
+        "referentie": "110919165",
+        "opmerking": "Advertentie bevestigd in idealista cataloguspagina Oliva (geraadpleegd 31-05-2026)"
+      },
+      "bronnen": [
+        {"titel": "idealista - Te renoveren woningen Oliva", "url": "https://www.idealista.com/venta-viviendas/oliva-valencia/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "oliva-nova-devesa-villa-332m2-2026-05-31",
+      "titel": "Oliva Nova Devesa: villa 332m2 te renoveren - 37% flipmarge",
+      "type": "Vrijstaande villa te renoveren in golfresort",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva Nova",
+      "regio": "La Safor",
+      "vraagprijs": 165000,
+      "prijs_status": "Vraagprijs conform advertentie",
+      "prijs_notitie": "497 euro/m2 voor villa in Oliva Nova. Berekende flipmarge circa 37% bij verkoop op 2.000 euro/m2.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "332 m2"},
+        {"label": "Prijs per m2", "waarde": "497 euro/m2"},
+        {"label": "Slaapkamers/badkamers", "waarde": "3 slaapkamers, 1 badkamer (opvallend weinig - verificeren)"},
+        {"label": "Type", "waarde": "Vrijstaande villa (chalet independiente), volledig te renoveren"},
+        {"label": "Locatie", "waarde": "Urbanitzacio Devesa, Oliva Nova"},
+        {"label": "Extra", "waarde": "Terras en bergruimte inbegrepen"},
+        {"label": "Makelaar", "waarde": "Clikalia (tussenpersoon, niet de eigenaar)"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Kopen, volledig renoveren (interieur en exterieur, extra badkamers), verkopen als instapklare vakantievilla aan internationale koper. Vakantieverhuur als B-plan.",
+      "samenvatting": "Grote villa in de urbanizacion Devesa van Oliva Nova, dichtbij golfbaan en strand. Na volledige renovatie en aankoopkosten bedraagt de totale investering circa 484.000 euro - binnen het standaardbudget. Bij verkoop op 2.000 euro/m2 is de verkoopwaarde 664.000 euro en de flipmarge circa 37%. Aandacht: Clikalia treedt op als tussenpersoon, niet als eigenaar. Slechts 1 badkamer bij 332m2 verdient verificatie.",
+      "voors": [
+        "37% flipmarge bij realistische verkoopschatting van 2.000 euro/m2",
+        "Oliva Nova heeft een stabiele internationale koopmarkt (golf, toerisme)",
+        "Grote oppervlakte biedt flexibiliteit voor luxueuze indeling",
+        "Totale investering van 484.000 euro past binnen het standaardbudget",
+        "Terras en bergruimte aanwezig"
+      ],
+      "tegens": [
+        "Slechts 1 badkamer voor 332m2 - ongebruikelijk, vraag naar actuele staat",
+        "Clikalia is tussenpersoon: eigendomsdocumentatie bij echte eigenaar opvragen",
+        "Oliva Nova kustzone: enige overstromingsgevoeligheid (AMBER)",
+        "Renovatiekosten van 299.000 euro zijn een significante uitstap"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "165.000 euro"},
+          {"label": "ITP (10%)", "waarde": "16.500 euro"},
+          {"label": "Overige kosten (2%)", "waarde": "3.300 euro"},
+          {"label": "Totale aankoopkosten", "waarde": "184.800 euro"},
+          {"label": "Renovatie 332m2 x 900 euro/m2", "waarde": "298.800 euro"},
+          {"label": "Totale investering", "waarde": "483.600 euro"},
+          {"label": "Verkoopwaarde gerenoveerd (2.000 euro/m2)", "waarde": "664.000 euro"},
+          {"label": "Bruto flipmarge", "waarde": "180.400 euro (37%)"}
+        ],
+        "conclusie": "Goede business case bij realisatie van 2.000 euro/m2. Marktconform voor gerenoveerde villa's in Oliva Nova. Risico: verkooptijd kan 12-24 maanden zijn."
+      },
+      "vergunning": "Residentieel pand in urbanizacion Devesa, suelo urbano. Standaard renovatievergunning bij Ajuntament Oliva. Geen herbestemmingsproblematiek. Controleer of Clikalia correct bevoegd is en pand vrij van lasten is.",
+      "overstroming": {
+        "niveau": "Amber - kustzone",
+        "kleur": "amber",
+        "toelichting": "Oliva Nova ligt in de kustzone. Exacte locatie Urbanitzacio Devesa vereist verificatie op PATRICOVA-kaart post-DANA. Buiten de Marjal, maar kustgevoeligheid blijft."
+      },
+      "demografie": "Oliva Nova trekt voornamelijk internationale kopers en toeristen (Brits, Duits, Nederlands, Belgisch). Vraag naar gerenoveerde vakantiewoningen is structureel sterk.",
+      "ideeen": [
+        "Luxe fliprenovatie met open keuken, 2-3 extra badkamers, moderne afwerking gericht op Noord-Europese koper",
+        "Vakantieverhuur via Airbnb in afwachting van verkoop",
+        "Zwembad toevoegen als waardeverhogende investering (vergunning vereist)"
+      ],
+      "due_diligence": [
+        "Eigendomsdocumentatie (escritura) en vrij-van-lasten-certificaat opvragen via Clikalia",
+        "Nota simple bij Registro de la Propiedad Oliva controleren",
+        "Bouwvergunning en cedula de habitabilidad controleren",
+        "PATRICOVA-kaart voor Urbanitzacio Devesa raadplegen",
+        "Navragen waarom slechts 1 badkamer geregistreerd staat voor 332m2"
+      ],
+      "eerlijk_oordeel": "Solide flipkans met berekende marge van 37%. Het lage aantal badkamers (1 voor 332m2) verdient navraag voor aankoop - registratiefout of onvolledig afgebouwd? De Clikalia-constructie is normaal maar vraagt extra documentatiecontrole.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Onbekend - via Clikalia",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/109855630/",
+        "referentie": "109855630",
+        "opmerking": "Clikalia treedt op als bemiddelaar. Directe eigenaarsinformatie opvragen."
+      },
+      "bronnen": [
+        {"titel": "idealista - Te renoveren woningen Oliva", "url": "https://www.idealista.com/venta-viviendas/oliva-valencia/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "el-verger-les-deveses-strandlijn-117m2-2026-05-31",
+      "titel": "Les Deveses (El Verger): eerste strandlijn 117m2 - uitzonderlijke verhuurlocatie",
+      "type": "Halfvrijstaande strandwoning eerste rij te renoveren",
+      "type_kort": "Buitenkans",
+      "plaats": "Les Deveses (El Verger)",
+      "regio": "Marina Alta",
+      "vraagprijs": 330000,
+      "prijs_status": "Vraagprijs conform advertentie",
+      "prijs_notitie": "2.821 euro/m2 als te renoveren strandpand. Hoog voor renovatieobject maar unieke positie eerste strandlijn. Primair een verhuurinvestering, geen flip.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "117 m2"},
+        {"label": "Prijs per m2 (te renoveren)", "waarde": "2.821 euro/m2"},
+        {"label": "Slaapkamers", "waarde": "4 slaapkamers"},
+        {"label": "Type", "waarde": "Chalet pareado (halfvrijstaand), eerste strandlijn"},
+        {"label": "Locatie", "waarde": "Les Deveses, km 10 Las Marinas, Denia - direct naast het strand"},
+        {"label": "Uitzicht", "waarde": "Zeezicht"},
+        {"label": "Garage", "waarde": "Inbegrepen"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Primair verhuurinvestering: renoveren en exclusief verhuren als vakantieverblijf eerste strandlijn. Hoge bezettingsgraad en hoge dagprijs mogelijk. Flip is bij huidige vraagprijs niet rendabel.",
+      "samenvatting": "Zeldzame kans: te renoveren woning op de eerste strandlijn in Les Deveses (Las Marinas/Denia), een van de rustigste kuststroken van de Costa Blanca. Na renovatie (totale investering circa 475.000 euro) is de verwachte bruto verhuuropbrengst 45.000-55.000 euro per jaar - circa 10% bruto yield. Flipmarge is te krap (circa 3-5%) bij huidige vraagprijs. Dit pand is een verhuurinvestering.",
+      "voors": [
+        "Eerste strandlijn - uitzonderlijk zeldzaam als renovatieobject in deze prijsklasse",
+        "Les Deveses / Las Marinas Denia: stabiele en groeiende vakantieverhuurmarkt",
+        "4 slaapkamers bieden maximale verhuurcapaciteit voor gezinsgroepen",
+        "Zeezicht en garage verhogen de verhuurwaarde sterk",
+        "10% bruto verhuuryield is uitstekend voor een kustlocatie"
+      ],
+      "tegens": [
+        "Vraagprijs als renovatieobject hoog (2.821 euro/m2) - weinig marge voor pure flip",
+        "Kustlocatie: overstromingsgevoeligheid (AMBER) na DANA-herziening",
+        "VT-licentie (vakantieverhuurvergunning Generalitat Valenciana) vereist",
+        "117m2 beperkt de absolute verhuuropbrengst vergeleken met grotere objecten"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "330.000 euro"},
+          {"label": "ITP (10%)", "waarde": "33.000 euro"},
+          {"label": "Overige kosten (2%)", "waarde": "6.600 euro"},
+          {"label": "Totale aankoopkosten", "waarde": "369.600 euro"},
+          {"label": "Renovatie 117m2 x 900 euro/m2", "waarde": "105.300 euro"},
+          {"label": "Totale investering", "waarde": "474.900 euro"},
+          {"label": "Scenario Verhuur: geschatte bruto opbrengst", "waarde": "45.000-55.000 euro/jaar (circa 10% yield)"},
+          {"label": "Scenario Flip (verkoop 4.200 euro/m2)", "waarde": "Verkoopwaarde 491.000 euro - marge 16.000 euro (3%) - te krap"}
+        ],
+        "conclusie": "Uitsluitend aantrekkelijk als verhuurinvestering. Bruto yield van 10% op strandlocatie Marina Alta is sterk. Als pure flip werkt het niet."
+      },
+      "vergunning": "Residentieel pand in Les Deveses (urbanizacion El Verger), suelo urbano. Standaard renovatievergunning. Voor vakantieverhuur: VT-licentie van Generalitat Valenciana vereist - haalbaar maar vergt aanvraag en wachttijd. Controleer ook Ley de Costas: bebouwingsrechten op eerste strandlijn zijn aan kustbescherming onderworpen.",
+      "overstroming": {
+        "niveau": "Amber - kustlijn",
+        "kleur": "amber",
+        "toelichting": "Eerste strandlijn Les Deveses. Na DANA oktober 2024 zijn kustgebieden opnieuw beoordeeld. Hertekende PATRICOVA-kaart voor dit specifieke adres raadplegen. Inherent hoger risico dan binnenland."
+      },
+      "demografie": "Les Deveses en Las Marinas (Denia) trekt voornamelijk buitenlandse vakantiegangers (Brits, Duits, Scandinavisch). Sterke vakantieverhuurmarkt heel het jaar. Groeiende vraag naar exclusieve strandlocaties.",
+      "ideeen": [
+        "Luxe strandhuisrenovatie: open woonkamer, moderne keuken, geupgradede badkamers, zonneterras",
+        "Toeristische verhuur via Airbnb Luxe of gespecialiseerde villaverhuurplatforms",
+        "Combineer eigen gebruik en verhuur: 20 weken huur plus 8 weken eigen gebruik"
+      ],
+      "due_diligence": [
+        "Eigendomsgrens met strandzijde bevestigen - Ley de Costas rechten!",
+        "PATRICOVA-kaart raadplegen voor Les Deveses km 10",
+        "VT-licentie status opvragen bij eigenaar of Ajuntament El Verger",
+        "Nota simple bij Registro de la Propiedad El Verger controleren",
+        "Kustbeschermingsstatus verificeren via Demarcacion de Costas"
+      ],
+      "eerlijk_oordeel": "Zeldzame kans op eerste strandlijn in rustige kustzone. Voor een verhuurinvesteerder met lange termijn horizon aantrekkelijk (10% yield). Als pure flip werkt het niet. Beoordeel dit als een 10-jaar yield-investering.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Onbekend - via advertentie",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/111408377/",
+        "referentie": "111408377",
+        "opmerking": "Advertentie bevestigd in idealista cataloguspagina El Verger (geraadpleegd 31-05-2026)"
+      },
+      "bronnen": [
+        {"titel": "idealista - Te renoveren woningen El Verger", "url": "https://www.idealista.com/venta-viviendas/el-verger-alicante/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "el-verger-casaron-529m2-centrum-2026-05-31",
+      "titel": "El Verger centrum: casaron 529m2 met patio en garage - 359 euro/m2",
+      "type": "Casaron (groot dorpshuis 1887) voor volledige verbouwing",
+      "type_kort": "Flip-pand",
+      "plaats": "El Verger",
+      "regio": "Marina Alta",
+      "vraagprijs": 190000,
+      "prijs_status": "Vraagprijs conform advertentie - onderhandelbaar (meerdere makelaars, lange looptijd)",
+      "prijs_notitie": "359 euro/m2 voor dorpscentrumwoning 529m2 met patio en garage. Drie makelaars adverteren dit pand tegelijk - duidt op lange verkooptijd. Realistische prijs na onderhandeling: 160.000-170.000 euro.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "529 m2 (op perceel 385 m2) - hoofdwoning circa 190m2"},
+        {"label": "Prijs per m2", "waarde": "359 euro/m2"},
+        {"label": "Slaapkamers", "waarde": "7-8 (meerdere makelaarsomschrijvingen)"},
+        {"label": "Type", "waarde": "Casaron, hoekligging, bouwjaar 1887, dorpscentrum El Verger"},
+        {"label": "Extra", "waarde": "Patio, meerdere terrassen, garage inbegrepen"},
+        {"label": "Staat", "waarde": "Volledig te renoveren - water en elektra aanwezig, historische deuren en balken goed bewaard"},
+        {"label": "Makelaars", "waarde": "Drie makelaars tegelijk (ID 111247993, 106474307 en 109267220)"}
+      ],
+      "score": 65,
+      "score_label": "Interessant",
+      "strategie": "Renovatie van de hoofdwoning (190m2) in eerste fase, bijgebouwen later. Doorverkopen als karaktervol dorpshuis of opsplitsen in twee wooneenheden voor langdurige verhuur.",
+      "samenvatting": "Groot pand in het centrum van El Verger, Marina Alta, op 10 minuten van het strand. Bouwjaar 1887, hoekligging, patio en garage. Drie makelaars tegelijk = langere looptijd = hoge onderhandelruimte. Business case als pure flip is krap bij huidige vraagprijs. Waarde zit in de grootte (529m2), authenticiteit en verhuurpotentieel als twee eenheden.",
+      "voors": [
+        "Uitzonderlijk groot voor de prijs: 529m2 voor 190.000 euro (359 euro/m2)",
+        "Hoekligging met patio en terrassen: zeldzaam voor dorpscentrum",
+        "Drie makelaars tegelijk = hoge onderhandelruimte (realistisch 160.000-170.000 euro haalbaar)",
+        "El Verger levende gemeente met voorzieningen, 10km van strand",
+        "Garage en authentieke historische elementen aanwezig"
+      ],
+      "tegens": [
+        "Business case als pure flip krap bij volledige renovatie 529m2 (overschrijdt budget fors)",
+        "Drie makelaars tegelijk: mogelijke juridische complexiteit (erfenis, medeigenaars?)",
+        "El Verger is binnenlandse gemeente - verkooptijd na flip kan lang zijn",
+        "Bouwjaar 1887: structurele verrassingen mogelijk (fundering, dak)",
+        "Alleen gefaseerde renovatie (300m2) blijft binnen budget - dan is marge krap"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs na onderhandeling (schatting)", "waarde": "160.000 euro"},
+          {"label": "ITP (10%)", "waarde": "16.000 euro"},
+          {"label": "Overige kosten (2%)", "waarde": "3.200 euro"},
+          {"label": "Totale aankoopkosten bij 160.000 euro", "waarde": "179.200 euro"},
+          {"label": "Renovatie 300m2 x 900 euro/m2 (gefaseerd)", "waarde": "270.000 euro"},
+          {"label": "Totale investering gefaseerd", "waarde": "449.200 euro"},
+          {"label": "Verkoopwaarde gerenoveerd (300m2 x 1.600 euro/m2)", "waarde": "480.000 euro"},
+          {"label": "Bruto flipmarge bij aankoop 160.000 euro", "waarde": "30.800 euro (7%) - te krap voor flip-strategie"},
+          {"label": "Scenario verhuur (2 eenheden x 700 euro/maand)", "waarde": "16.800 euro/jaar bruto - circa 3.7% yield"}
+        ],
+        "conclusie": "Business case als pure flip is krap. Pand verdient interesse als langdurig huurproject (2 eenheden) of als authentiek woonproject. Sterk onderhandelen is de sleutel."
+      },
+      "vergunning": "Dorpscentrum El Verger, suelo urbano. Standaard renovatievergunning bij Ajuntament El Verger. Let op: pand dateert van 1887 - mogelijkheid van beschermd dorpsgezicht. Controleer of er bouwbeperkingen zijn voor de gevel.",
+      "overstroming": {
+        "niveau": "Laag risico",
+        "kleur": "green",
+        "toelichting": "El Verger dorpscentrum is een binnenlandse locatie op enige afstand van de kust, geen bekende overstromingszone. Laag risico."
+      },
+      "demografie": "El Verger heeft circa 4.500 inwoners, gemengd Spaans en expat publiek. Verhuurvraag stabiel. Ligging op 10 minuten van strand (Denia/Ondara) is pluspunt voor zomerverhuur.",
+      "ideeen": [
+        "Renovatie hoofdwoning als karaktervol dorpshuis (authentieke elementen behouden), verkoop aan expat",
+        "Opdeling in 2 appartementen met gemeenschappelijke patio voor permanente verhuur",
+        "Casas rurales licentie voor toeristische verhuur als authentiek verblijf"
+      ],
+      "due_diligence": [
+        "Catastro: exacte oppervlaktes per vleugel en eigendomsgrenzen",
+        "Reden van lang op markt navragen (erfenis, schulden, medeigenaars?)",
+        "Gemeentelijk beschermd dorpsgezicht controleren (catalogo de bens El Verger)",
+        "Structureel onderzoek fundering pand uit 1887",
+        "Verifieer welke oppervlaktes juridisch vergund zijn"
+      ],
+      "eerlijk_oordeel": "Interessant voor de schaalgrootte en lage prijs per m2, maar business case als pure flip is matig. De waarde zit in het potentieel als verhuurproject (2 eenheden) of eigen woonproject. Drie makelaars op hetzelfde pand = goede onderhandelingspositie. Onderhandel naar 155.000-165.000 euro.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Onbekend - via meerdere makelaars",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/111247993/",
+        "referentie": "111247993 (ook 106474307 en 109267220)",
+        "opmerking": "Drie makelaars adverteren dit pand tegelijk - navragen wie exclusief recht heeft of rechtstreeks eigenaar contacteren"
+      },
+      "bronnen": [
+        {"titel": "idealista - Te renoveren woningen El Verger", "url": "https://www.idealista.com/venta-viviendas/el-verger-alicante/con-para-reformar/"}
+      ]
+    },
+    {
+      "id": "oliva-pueblo-dels-serrans-3laags-178m2-2026-05-31",
+      "titel": "Oliva pueblo: 3-laags stadspand 178m2 met almacen begane grond - 354 euro/m2",
+      "type": "Gemengd stadspand (almacen + wonen), 3 verdiepingen, te rehabiliteren",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva pueblo",
+      "regio": "La Safor",
+      "vraagprijs": 63000,
+      "prijs_status": "Vraagprijs conform advertentie",
+      "prijs_notitie": "354 euro/m2 voor 3-laags pand in Oliva pueblo. Laagste instapprijs van de selectie. Flipmarge is krap maar haalbaar (23%) bij 1.600 euro/m2 verkoopprijs - mits NIET in het casco historico.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "178 m2 (circa 50m2 per verdieping x 3 lagen)"},
+        {"label": "Prijs per m2", "waarde": "354 euro/m2"},
+        {"label": "Type", "waarde": "Tussenpand (entremedianera), 3 verdiepingen"},
+        {"label": "Begane grond", "waarde": "Almacen (magazijn/opslag), straatingang"},
+        {"label": "Verdiepingen 1 en 2", "waarde": "Woonruimte, 3 slaapkamers + badkamer"},
+        {"label": "Staat", "waarde": "Volledig te rehabiliteren"},
+        {"label": "Locatie", "waarde": "Calle dels Serrans, Oliva pueblo"}
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Rehabilitatie volledig pand. Begane grond behouden als commercieel/opslag of ombouwen naar extra woonoppervlak. Doorverkopen als gerenoveerd stadspand of langdurig verhuren.",
+      "samenvatting": "Laagste instapprijs van de week: 63.000 euro (354 euro/m2) voor een 3-laags stadspand in Oliva pueblo. Begane grond heeft magazijn-/opslagfunctie wat extra mogelijkheden biedt. Bij renovatiekosten 900 euro/m2 en verkoop op 1.600 euro/m2 is de flipmarge circa 23% - net boven de 20%-drempel. Grootste risico: de ligging ten opzichte van het casco historico is niet bevestigd. Dat is de eerste check voor aankoop.",
+      "voors": [
+        "Laagste instapprijs van de selectie: 354 euro/m2",
+        "3 verdiepingen en almacen op begane grond bieden flexibele bestemming",
+        "Totale investering circa 231.000 euro - volledig binnen budget",
+        "23% flipmarge berekenbaar bij 1.600 euro/m2 verkoopprijs",
+        "Commercieel parterre potentieel apart verhuurbaar als extra inkomstenstroom"
+      ],
+      "tegens": [
+        "KRITIEK: Calle dels Serrans - onbekend of binnen of buiten casco historico (verificatie vereist voor aankoop)",
+        "Als casco historico: extra restricties, vochtrisico en flipmarge illusoir",
+        "Circa 50m2 per verdieping is smal - beperkte bruikbaarheid per etage",
+        "Tussenpand: minder daglicht en beperkingen gevelwijzigingen",
+        "23% flipmarge geeft weinig buffer voor tegenvallers"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "63.000 euro"},
+          {"label": "ITP (10%)", "waarde": "6.300 euro"},
+          {"label": "Overige kosten (2%)", "waarde": "1.260 euro"},
+          {"label": "Totale aankoopkosten", "waarde": "70.560 euro"},
+          {"label": "Renovatie 178m2 x 900 euro/m2", "waarde": "160.200 euro"},
+          {"label": "Totale investering", "waarde": "230.760 euro"},
+          {"label": "Verkoopwaarde gerenoveerd (178m2 x 1.600 euro/m2)", "waarde": "284.800 euro"},
+          {"label": "Bruto flipmarge", "waarde": "54.040 euro (23%)"}
+        ],
+        "conclusie": "Sluitende maar krappe business case. Lage totale investering (231.000 euro) is toegankelijk. Risico: casco historico-status of hogere renovatiekosten dan verwacht doet de marge verdampen."
+      },
+      "vergunning": "Oliva pueblo, suelo urbano. Rehabilitatievergunning bij Ajuntament Oliva. Kritisch: controleer of Calle dels Serrans binnen het beschermde casco historico valt - zo ja, extra restricties gevelwijzigingen en functieverandering.",
+      "overstroming": {
+        "niveau": "Laag risico",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo (stedelijk gebied) geen bekende overstromingszone, duidelijk buiten de Marjal de Pego-Oliva. Laag risico."
+      },
+      "demografie": "Oliva pueblo heeft een stabiele Spaanse bevolking met een groeiend aandeel Britse en Nederlandse expatkopers. Vraag naar gerenoveerde stadspanden aanwezig, maar gaat langzamer dan aan de kust.",
+      "ideeen": [
+        "Begane grond als kantoor, atelier of opslag verhuren; bovenste etages als woning",
+        "Volledig ombouwen tot compacte stadswoning voor langdurige verhuur",
+        "Kleine B&B (2 kamers): Oliva pueblo is toeristisch actief in de zomer"
+      ],
+      "due_diligence": [
+        "EERSTE STAP: controleer of Calle dels Serrans binnen casco historico Oliva valt (PGOU-kaart of bij Ajuntament)",
+        "Catastro-uittreksel: exacte oppervlaktes en bouwjaar bevestigen",
+        "Structureel vooronderzoek: staat fundering en muren (tussenpand)",
+        "Riolering en leidingen controleren",
+        "Almacen-functie begane grond: juridische status en opties nagaan"
+      ],
+      "eerlijk_oordeel": "Laagste instapprijs van de week met acceptabele business case op papier. Maar het grootste risico is onbekend: casco historico of niet? Als buiten het casco: interessant compact project met beperkt kapitaalrisico. Als erin: extra restricties en de flipmarge is illusoir. Dit is de eerste check voor aankoop.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "Onbekend - via advertentie",
+        "email": null,
+        "url": "https://www.idealista.com/inmueble/109715124/",
+        "referentie": "109715124",
+        "opmerking": "Advertentie bevestigd in idealista cataloguspagina Oliva (geraadpleegd 31-05-2026)"
+      },
+      "bronnen": [
+        {"titel": "idealista - Te renoveren woningen Oliva", "url": "https://www.idealista.com/venta-viviendas/oliva-valencia/con-para-reformar/"}
+      ]
+    }
+  ]
+}
