@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-06-06",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Aanbod deze run via Kyero (gericht op buitenlandse kopers), met nadruk op kleinere dorpen die de afgelopen runs niet aan bod kwamen: Beniarbeig, Sagra, Pego en Oliva pueblo. Te renoveren dorpswoningen blijven scherp geprijsd (350-800 euro/m2), maar de flipmarge staat onder druk in de kleinere binnenlanddorpen waar de verkoopprijs na renovatie beperkt is. Instapklare verhuurobjecten en panden met een lopend huurcontract bieden direct rendement zonder verbouwrisico. Let op: Pego ligt aan de rand van de Marjal de Pego-Oliva (overstromingsgevoelig na DANA okt 2024) en rustieke panden kennen beperkte bouwrechten.",
+    "disclaimer": "Geen financieel of juridisch advies. Alle prijzen, oppervlakten en referenties zijn overgenomen van de advertentie op de datum van deze run en kunnen wijzigen of verlopen. Verifieer altijd zelf bij de makelaar, het kadaster en de gemeente voordat u handelt. Oppervlakte- en marktcijfers in de financiele doorrekening zijn schattingen ter indicatie."
+  },
+  "kansen": [
+    {
+      "id": "beniarbeig-vergund-flip-140m2-2026-06-06",
+      "titel": "Beniarbeig centrum: hoekwoning 140m2 met goedgekeurd project en bouwvergunning",
+      "type": "Te flippen dorpswoning met vergunning",
+      "type_kort": "Flip-pand",
+      "plaats": "Beniarbeig",
+      "regio": "Marina Alta",
+      "vraagprijs": 192000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "192.000 euro = circa 1.371 euro/m2 over 140m2 bouwoppervlak",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "140 m2"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Bijzonder", "waarde": "Hoekpand met dubbele toegang"},
+        {"label": "Vergunning", "waarde": "Goedgekeurd project + licentie voor 140m2 (volgens advertentie)"},
+        {"label": "Energielabel", "waarde": "G (verbruik en emissie)"}
+      ],
+      "score": 68,
+      "score_label": "Interessant",
+      "strategie": "Flippen: kopen, renoveren conform het reeds goedgekeurde project en doorverkopen. Het feit dat project en bouwvergunning er al liggen verlaagt het vergunningsrisico en de doorlooptijd aanzienlijk - dat is de kern van deze kans.",
+      "samenvatting": "Te renoveren hoekwoning in het centrum van Beniarbeig met dubbele toegang. Volgens de advertentie ligt er een goedgekeurd renovatieproject met licentie voor 140m2, wat een groot deel van de vergunningsonzekerheid wegneemt. Beniarbeig is een rustig binnenlanddorp dicht bij Denia en de kust.",
+      "voors": [
+        "Goedgekeurd project en bouwvergunning aanwezig - minder vergunningsrisico en kortere doorlooptijd",
+        "Hoekpand met dubbele toegang biedt indelings- en mogelijk splitsingsflexibiliteit",
+        "Scherpe instapprijs per m2 voor een vergund project",
+        "Binnenlandligging buiten de marjal: laag overstromingsrisico"
+      ],
+      "tegens": [
+        "Energielabel G duidt op forse renovatie-/isolatiebehoefte",
+        "Verkoopprijs na renovatie in een klein binnenlanddorp is begrensd; flipmarge moet scherp bewaakt worden",
+        "Advertentie noemt zowel 'gerenoveerd' als 'te renoveren' - exacte staat ter plaatse verifieren",
+        "Energie- en bouwkosten kunnen bij label G hoger uitvallen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "192.000 euro"},
+          {"label": "ITP 10% + kosten ~2%", "waarde": "circa 23.000 euro"},
+          {"label": "Renovatie 140m2 @ 700-1.100 euro/m2", "waarde": "circa 98.000 - 154.000 euro"},
+          {"label": "Totale investering (schatting)", "waarde": "circa 313.000 - 369.000 euro"},
+          {"label": "Indicatieve verkoopwaarde gerenoveerd (1.700-2.000 euro/m2)", "waarde": "circa 238.000 - 280.000 euro"}
+        ],
+        "conclusie": "Op basis van conservatieve verkoopprijzen in een klein binnenlanddorp is de flipmarge krap tot negatief bij een volledige renovatie. De waarde zit vooral in de aanwezige vergunning en in onderhandelruimte op de aankoopprijs. Alleen doorzetten als de werkelijke renovatiebehoefte beperkt blijkt of de aankoopprijs duidelijk omlaag kan."
+      },
+      "vergunning": "Volgens de advertentie ligt er een goedgekeurd project met bouwvergunning voor 140m2. Dit is een sterk pluspunt, maar moet bij de gemeente (Ajuntament de Beniarbeig) en via de architect worden geverifieerd: geldigheidsduur van de licentie, of deze overdraagbaar is en welke werkzaamheden precies gedekt zijn.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Beniarbeig ligt in het binnenland, buiten de Marjal de Pego-Oliva. Toets desondanks de PATRICOVA-kaart voor het specifieke perceel, want delen langs de rivier de Girona kunnen lokaal gevoelig zijn."
+      },
+      "demografie": "Beniarbeig is een rustig dorp van enkele duizenden inwoners met een mix van lokale bevolking en noordelijke Europeanen, op korte afstand van Denia, Ondara (winkels) en de stranden van Les Marines.",
+      "ideeen": [
+        "Renoveren conform vergund project en doorverkopen aan internationale koper",
+        "Onderzoeken of de dubbele toegang een splitsing in twee units toelaat",
+        "Bij hold: verhuur aan langjarige huurder in een dorp met krappe huurmarkt"
+      ],
+      "due_diligence": [
+        "Geldigheid en overdraagbaarheid van de bouwvergunning controleren bij gemeente en architect",
+        "Bouwkundige keuring: vocht, fundering, dak, leidingen",
+        "Nota simple (kadaster) checken op lasten, erfdienstbaarheden en exacte oppervlakte",
+        "Reele verkoopprijzen van gerenoveerde panden in Beniarbeig opvragen"
+      ],
+      "eerlijk_oordeel": "De aanwezige vergunning maakt dit object interessanter dan een gemiddelde te renoveren dorpswoning, maar de flipmarge is in dit kleine binnenlanddorp dun. Geschikt voor wie scherp inkoopt en de renovatie strak budgetteert; geen object om de hoofdprijs voor te betalen.",
+      "contact": {
+        "bron": "Kyero / Denia Investissement",
+        "telefoon": "Via advertentie (makelaar)",
+        "email": "Via contactformulier op Kyero",
+        "url": "https://www.kyero.com/en/property/20581274-town-house-for-sale-beniarbeig",
+        "referentie": "DI17295",
+        "opmerking": "Makelaar Denia Investissement, Engelstalig. Prijs en kenmerken per 2026-06-06."
+      },
+      "bronnen": [
+        {"titel": "Kyero - hoekwoning Beniarbeig 192.000 euro (ref DI17295)", "url": "https://www.kyero.com/en/property/20581274-town-house-for-sale-beniarbeig"}
+      ]
+    },
+    {
+      "id": "sagra-centro-renovatie-235m2-2026-06-06",
+      "titel": "Sagra centrum: ruime dorpswoning 235m2 met tuin, volledig te renoveren",
+      "type": "Te flippen dorpswoning",
+      "type_kort": "Flip-pand",
+      "plaats": "Sagra",
+      "regio": "Marina Alta (Orba-vallei)",
+      "vraagprijs": 185000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "185.000 euro = circa 787 euro/m2 over 235m2 bouwoppervlak",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "235 m2"},
+        {"label": "Perceel", "waarde": "195 m2"},
+        {"label": "Slaapkamers", "waarde": "4"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Bijzonder", "waarde": "Hoge plafonds, ruime kamers, tuin achter"},
+        {"label": "Ligging", "waarde": "Centraal in Sagra"}
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Flippen: groot volume voor weinig geld per m2 koopt potentieel in. Door de oppervlakte (235m2, 4 slaapkamers, tuin) is er ruimte voor een ruime gezinswoning of een opdeling. Het verschil maken in de inkoopprijs en de renovatiekosten.",
+      "samenvatting": "Grote centrale dorpswoning in Sagra (Orba-vallei) met hoge plafonds, ruime kamers en een tuin aan de achterzijde. Volledig te renoveren. Zeer lage prijs per m2, maar Sagra is een kleine binnenlandmarkt waardoor de verkoopwaarde na renovatie begrensd is.",
+      "voors": [
+        "Zeer lage prijs per m2 (circa 787 euro/m2) voor 235m2",
+        "Veel volume en een tuin: aantrekkelijk eindproduct of splitsingspotentie",
+        "Centrale ligging in het dorp, dicht bij voorzieningen",
+        "Binnenland, buiten overstromingsgebied"
+      ],
+      "tegens": [
+        "Volledige renovatie van 235m2 is een fors en kapitaalintensief project",
+        "Sagra is een micro-markt: beperkte vraag en lagere verkoopprijzen drukken de flipmarge",
+        "Geen vergunning of project vermeld - vergunningstraject nog volledig te doorlopen",
+        "Hoge plafonds en oude bouw kunnen verwarmings- en vochtuitdagingen geven"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "185.000 euro"},
+          {"label": "ITP 10% + kosten ~2%", "waarde": "circa 22.000 euro"},
+          {"label": "Renovatie 235m2 @ 700-1.100 euro/m2", "waarde": "circa 165.000 - 259.000 euro"},
+          {"label": "Totale investering (schatting)", "waarde": "circa 372.000 - 466.000 euro"},
+          {"label": "Indicatieve verkoopwaarde gerenoveerd (1.600-1.900 euro/m2)", "waarde": "circa 376.000 - 447.000 euro"}
+        ],
+        "conclusie": "De marge is op papier dun: bij een volledige renovatie liggen kosten en verwachte verkoopwaarde dicht bij elkaar. Het project rendeert alleen met strakke kostenbeheersing, een lagere inkoopprijs en/of gefaseerde aanpak. Eerder een waarde- dan een snel-flip-project."
+      },
+      "vergunning": "Geen vergunning of project vermeld. Voor een binnenstedelijke renovatie in Sagra (suelo urbano) is een licencia de obra nodig. Bij eventuele splitsing in twee woningen gelden aanvullende eisen (minimale oppervlakte, parkeren, aparte toegangen). Vooraf bij het Ajuntament de Sagra toetsen.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Sagra ligt in de binnenland-Orba-vallei, ruim buiten de Marjal de Pego-Oliva. Controleer toch de PATRICOVA-kaart voor het exacte perceel."
+      },
+      "demografie": "Sagra is een klein traditioneel dorp in de Orba-vallei met een paar honderd inwoners, populair bij Noord-Europese kopers die rust zoeken. Voorzieningen grotendeels in nabijgelegen grotere kernen.",
+      "ideeen": [
+        "Renoveren tot ruime gezinswoning met tuin voor internationale koper",
+        "Onderzoeken of opdeling in twee units haalbaar en vergunbaar is",
+        "Hold-variant: langjarige verhuur na renovatie"
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring van het volledige pand (235m2 oude bouw)",
+        "Haalbaarheid en kosten van splitsing bij de gemeente toetsen",
+        "Reele verkoop- en verhuurprijzen in Sagra/Orba-vallei opvragen",
+        "Nota simple en exacte kadastrale oppervlakte controleren"
+      ],
+      "eerlijk_oordeel": "Veel huis voor weinig geld, maar de kleine markt in Sagra maakt dit een voorzichtige flip. Het werkt het beste als waardeproject voor wie zelf veel regie op de verbouwing voert of een ruime eigen/verhuurwoning wil; niet voor een snelle, hoge flipmarge.",
+      "contact": {
+        "bron": "Kyero / Hamiltons Of London",
+        "telefoon": "Via advertentie (makelaar)",
+        "email": "Via contactformulier op Kyero",
+        "url": "https://www.kyero.com/en/property/18026064-town-house-for-sale-sagra",
+        "referentie": "HO121481",
+        "opmerking": "Makelaar Hamiltons Of London, Engelstalig. Prijs en kenmerken per 2026-06-06."
+      },
+      "bronnen": [
+        {"titel": "Kyero - dorpswoning Sagra 185.000 euro (ref HO121481)", "url": "https://www.kyero.com/en/property/18026064-town-house-for-sale-sagra"}
+      ]
+    },
+    {
+      "id": "oliva-pueblo-gerenoveerd-verhuur-126m2-2026-06-06",
+      "titel": "Oliva pueblo: volledig gerenoveerde dorpswoning 126m2, instapklaar voor verhuur",
+      "type": "Instapklaar verhuurobject",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva",
+      "regio": "La Safor",
+      "vraagprijs": 165000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "165.000 euro = circa 1.310 euro/m2 over 126m2, gerenoveerd",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "126 m2"},
+        {"label": "Perceel", "waarde": "77 m2"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Staat", "waarde": "Volledig gerenoveerd, instapklaar"},
+        {"label": "Bijzonder", "waarde": "Dakterras, balkenplafond, open haard, dicht bij strand"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Verhuur (hold): een instapklare, gerenoveerde woning vraagt geen verbouwing en kan vrijwel direct in de verhuur. Oliva heeft een sterke (vakantie)verhuurmarkt - past bij het positieve signaal in het profiel. Eventueel later doorverkopen aan een eindgebruiker.",
+      "samenvatting": "Volledig gerenoveerde dorpswoning in Oliva met traditionele elementen (houten balken, open haard) en moderne afwerking, plus dakterras. De advertentie noemt expliciet 'goed verhuurpotentieel' en korte afstand tot strand en voorzieningen. Geen verbouwing nodig.",
+      "voors": [
+        "Instapklaar: geen verbouwrisico of doorlooptijd",
+        "Oliva kent een sterke verhuurmarkt (vakantie en lang) - profielmatig pluspunt",
+        "Dakterras en karaktervolle afwerking maken het aantrekkelijk voor huurders",
+        "Centrale dorpsligging dicht bij strand, winkels en voorzieningen"
+      ],
+      "tegens": [
+        "Weinig flip-opwaarts: het renovatievoordeel is al verzilverd door de verkoper",
+        "Klein perceel (77m2), geen eigen parkeerplaats vermeld",
+        "Rendement hangt sterk af van haalbare huur en bezetting - nog te bevestigen",
+        "Voor vakantieverhuur is een toeristische vergunning (licencia turistica) nodig"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "165.000 euro"},
+          {"label": "ITP 10% + kosten ~2%", "waarde": "circa 20.000 euro"},
+          {"label": "Totale instap (geen renovatie)", "waarde": "circa 185.000 euro"},
+          {"label": "Indicatieve langjarige huur", "waarde": "circa 750 - 950 euro/maand (te bevestigen)"},
+          {"label": "Indicatief bruto rendement", "waarde": "circa 4,9% - 6,2% op instap"}
+        ],
+        "conclusie": "Als hold-object biedt dit direct rendement zonder verbouwrisico, met een geschat bruto rendement van circa 5-6% bij langjarige verhuur en mogelijk hoger bij vergunde vakantieverhuur. De flip-opwaarts is beperkt omdat de waardesprong door renovatie al is gerealiseerd."
+      },
+      "vergunning": "Voor langjarige verhuur volstaat een gewoon huurcontract. Voor vakantieverhuur is een toeristische vergunning (licencia turistica) bij de Generalitat Valenciana nodig; controleer of het pand daarvoor in aanmerking komt en of de gemeente Oliva nieuwe vergunningen nog toelaat.",
+      "overstroming": {
+        "niveau": "Beperkt",
+        "kleur": "amber",
+        "toelichting": "Oliva pueblo ligt niet in de Marjal de Pego-Oliva, maar delen van Oliva kennen wel lokaal overstromingsgevoeligheid. Toets de PATRICOVA-kaart en de herziene kaarten na de DANA van oktober 2024 voor het exacte adres."
+      },
+      "demografie": "Oliva is een levendige kustplaats in La Safor met circa 25.000-27.000 inwoners, een sterke internationale gemeenschap en een uitgesproken vakantie- en verhuurmarkt langs het strand en in het oude centrum.",
+      "ideeen": [
+        "Langjarige verhuur aan lokale of internationale huurder",
+        "Bij vergunning: vakantieverhuur voor hoger seizoensrendement",
+        "Later doorverkopen aan een buitenlandse tweede-huiskoper"
+      ],
+      "due_diligence": [
+        "Werkelijk haalbare huur en bezetting in Oliva pueblo verifieren",
+        "Mogelijkheid en status van toeristische vergunning checken",
+        "Energiecertificaat en kwaliteit van de uitgevoerde renovatie controleren",
+        "Nota simple en exacte oppervlakte/lasten controleren"
+      ],
+      "eerlijk_oordeel": "Een nette, instapklare verhuurkans in een sterke markt. Het is geen flip-object - de renovatiewinst is al weg - maar als rendementsobject zonder verbouwrisico is het solide, mits de werkelijke huur het geschatte rendement bevestigt.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Via advertentie (makelaar)",
+        "email": "Via contactformulier op Kyero",
+        "url": "https://www.kyero.com/en/property/20806678-town-house-for-sale-oliva",
+        "referentie": "PNTH2082",
+        "opmerking": "Makelaar Parasol Networks, Engelstalig. Prijs en kenmerken per 2026-06-06."
+      },
+      "bronnen": [
+        {"titel": "Kyero - gerenoveerde dorpswoning Oliva 165.000 euro (ref PNTH2082)", "url": "https://www.kyero.com/en/property/20806678-town-house-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "beniarbeig-verhuurd-tot-2028-100m2-2026-06-06",
+      "titel": "Beniarbeig: verhuurde woning 100m2 met zwembad, huurcontract tot november 2028",
+      "type": "Verhuurobject met lopend huurcontract",
+      "type_kort": "Verhuur",
+      "plaats": "Beniarbeig",
+      "regio": "Marina Alta",
+      "vraagprijs": 225000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "225.000 euro; lopend huurcontract geeft inkomen vanaf dag 1",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "100 m2"},
+        {"label": "Perceel", "waarde": "320 m2"},
+        {"label": "Slaapkamers", "waarde": "2"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Extra", "waarde": "Zwembad"},
+        {"label": "Huur", "waarde": "Contract geldig t/m 9 november 2028, circa 725-750 euro/maand + nutsvoorzieningen (volgens advertentie)"}
+      ],
+      "score": 65,
+      "score_label": "Interessant",
+      "strategie": "Verhuur (hold): direct cashflow zonder leegstand of opstartkosten dankzij een zittende huurder met contract tot eind 2028. Pas op langere termijn (na afloop of bij vertrek huurder) eventueel opwaarderen of verkopen.",
+      "samenvatting": "Woning in Beniarbeig met zwembad op een perceel van 320m2, verkocht met zittende huurder en een huurcontract dat loopt tot 9 november 2028 (circa 725-750 euro/maand plus nutsvoorzieningen, aldus de advertentie). Direct rendement zonder verbouwing.",
+      "voors": [
+        "Inkomen vanaf dag 1: zittende huurder, contract tot eind 2028",
+        "Zwembad en ruim perceel (320m2) - aantrekkelijk voor toekomstige (vakantie)verhuur of verkoop",
+        "Geen verbouwing of opstartleegstand nodig",
+        "Binnenlandligging, laag overstromingsrisico"
+      ],
+      "tegens": [
+        "Bruto rendement is bescheiden (circa 3,9% op de vraagprijs)",
+        "Zittende huurder beperkt flexibiliteit: geen eigen gebruik of snelle herontwikkeling tot 2028",
+        "Spaanse huurbescherming kan ontruiming/aanpassing bemoeilijken - contract goed laten toetsen",
+        "Slechts 2 slaapkamers / 1 badkamer beperkt de huurprijsgroei"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "225.000 euro"},
+          {"label": "ITP 10% + kosten ~2%", "waarde": "circa 27.000 euro"},
+          {"label": "Totale instap", "waarde": "circa 252.000 euro"},
+          {"label": "Huurinkomen", "waarde": "circa 8.700 - 9.000 euro/jaar (725-750 euro/mnd)"},
+          {"label": "Indicatief bruto rendement", "waarde": "circa 3,5% - 3,9% op instap"}
+        ],
+        "conclusie": "Het object levert stabiele, directe cashflow maar tegen een bescheiden bruto rendement van onder de 4%. De aantrekkingskracht zit in de zekerheid (geen leegstand, lopend contract) en in de optiewaarde van het zwembad/perceel voor later. Voor een hoger rendement zou de aankoopprijs omlaag moeten of de huur na 2028 fors stijgen."
+      },
+      "vergunning": "Het object is bewoond en verhuurd; geen verbouwingsvergunning nodig voor voortzetting van de verhuur. Laat het lopende huurcontract en de huurbescherming juridisch toetsen, evenals de status (en eventuele vergunning) van het zwembad.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Beniarbeig ligt in het binnenland buiten de marjal. Controleer de PATRICOVA-kaart voor het perceel; lager gelegen delen nabij de rivier de Girona kunnen lokaal gevoelig zijn."
+      },
+      "demografie": "Beniarbeig is een rustig dorp in de Marina Alta nabij Denia en Ondara, met een gemengde lokale en internationale bevolking en een krappe huurmarkt die langjarige verhuur ondersteunt.",
+      "ideeen": [
+        "Aanhouden voor stabiele cashflow tot 2028, daarna heroverwegen",
+        "Na afloop huurcontract opwaarderen en hogere huur of verkoop realiseren",
+        "Perceel/zwembad benutten voor (vergunde) vakantieverhuur in de toekomst"
+      ],
+      "due_diligence": [
+        "Huurcontract, betaalhistorie en huurbescherming juridisch laten controleren",
+        "Vergunning en staat van het zwembad verifieren",
+        "Werkelijke nutskosten en lokale belastingen (IBI) opvragen",
+        "Nota simple checken op lasten en exacte oppervlakte"
+      ],
+      "eerlijk_oordeel": "Een defensieve, inkomensgedreven kans: zekerheid van een lopend contract maar een laag bruto rendement. Interessant voor wie stabiliteit en optiewaarde (zwembad/perceel) zoekt, minder voor wie maximale flipmarge of rendement nastreeft.",
+      "contact": {
+        "bron": "Kyero / Renvida",
+        "telefoon": "Via advertentie (makelaar)",
+        "email": "Via contactformulier op Kyero",
+        "url": "https://www.kyero.com/en/property/20424012-town-house-for-sale-beniarbeig",
+        "referentie": "RS 7021",
+        "opmerking": "Makelaar Renvida, Engelstalig. Huurgegevens en prijs per 2026-06-06."
+      },
+      "bronnen": [
+        {"titel": "Kyero - verhuurde woning Beniarbeig 225.000 euro (ref RS 7021)", "url": "https://www.kyero.com/en/property/20424012-town-house-for-sale-beniarbeig"}
+      ]
+    },
+    {
+      "id": "pego-rustiek-renovatieproject-256m2-2026-06-06",
+      "titel": "Pego: rustiek pand 256m2 als renovatieproject, zeer lage instapprijs",
+      "type": "Bijzondere buitenkans (renovatieproject)",
+      "type_kort": "Buitenkans",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 134500,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "134.500 euro = circa 525 euro/m2 over 256m2 - zeer laag, maar pas op bestemming en ligging",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "256 m2"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Buiten", "waarde": "Patio, tuin, terras"},
+        {"label": "Type", "waarde": "Omschreven als 'rustiek pand' / renovatieproject"},
+        {"label": "Verwarming", "waarde": "Open haard"}
+      ],
+      "score": 56,
+      "score_label": "Voorzichtig",
+      "strategie": "Buitenkans met voorbehoud: zeer lage prijs per m2 voor veel volume. Alleen kansrijk als de exacte bestemming (urbano vs. rustico) en ligging buiten overstromingsgebied bevestigd zijn. Bij rustieke grond zijn bouw- en herbestemmingsrechten beperkt - dat bepaalt of dit een koopje of een valkuil is.",
+      "samenvatting": "Groot pand van 256m2 in/bij Pego, aangeboden als renovatieproject met patio, tuin en terras voor slechts 134.500 euro. De advertentie omschrijft het als 'rustiek' - cruciaal om uit te zoeken of dit suelo urbano of suelo no urbanizable (rustico) betreft, omdat dat de bouwrechten en de verkoopbaarheid sterk bepaalt.",
+      "voors": [
+        "Zeer lage instapprijs (circa 525 euro/m2) voor 256m2 met buitenruimte",
+        "Veel volume en grond: potentieel voor een ruime woning",
+        "Pego is een levendig marktstadje met voorzieningen",
+        "Open haard, patio en tuin geven karakter aan het eindproduct"
+      ],
+      "tegens": [
+        "'Rustiek' kan duiden op suelo no urbanizable: sterk beperkte bouw- en herbestemmingsrechten (negatief signaal in profiel)",
+        "Pego grenst aan de Marjal de Pego-Oliva - reeel overstromingsrisico afhankelijk van exacte ligging",
+        "Slechts 1 badkamer en oude staat: forse renovatie nodig",
+        "Bij rustieke grond is doorverkoop lastiger en de waardegroei onzeker"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "134.500 euro"},
+          {"label": "ITP 10% + kosten ~2%", "waarde": "circa 16.000 euro"},
+          {"label": "Renovatie 256m2 @ 700-1.100 euro/m2", "waarde": "circa 179.000 - 282.000 euro"},
+          {"label": "Totale investering (schatting)", "waarde": "circa 330.000 - 432.000 euro"},
+          {"label": "Verkoopwaarde", "waarde": "Sterk afhankelijk van bestemming/ligging - niet betrouwbaar in te schatten"}
+        ],
+        "conclusie": "De lage instap is verleidelijk, maar de businesscase staat of valt met de bestemming en het overstromingsrisico. Bij rustieke grond of een ligging in/bij de marjal zijn renovatie- en herbestemmingsrechten beperkt en is de verkoopwaarde onzeker. Niet doorrekenen zonder die twee punten eerst hard te bevestigen."
+      },
+      "vergunning": "Essentieel om vooraf bij het Ajuntament de Pego en in het kadaster vast te stellen of het pand op suelo urbano of suelo no urbanizable (rustico) staat. Op rustieke grond gelden strenge beperkingen voor verbouwen, uitbreiden en herbestemmen; legalisatie van bestaande bebouwing kan complex of onmogelijk zijn.",
+      "overstroming": {
+        "niveau": "Verhoogd",
+        "kleur": "red",
+        "toelichting": "Pego ligt aan de rand van de Marjal de Pego-Oliva, een gebied met hoog overstromingsrisico dat na de DANA van oktober 2024 extra aandacht vraagt. Afhankelijk van de exacte ligging kan dit perceel in een PATRICOVA-risicozone vallen; verifieer dit eerst."
+      },
+      "demografie": "Pego is een binnenlands marktstadje van circa 10.000 inwoners met volledige voorzieningen, omringd door rijstvelden en natuurgebied (de marjal). Mix van lokale bevolking en buitenlandse kopers in het ommeland.",
+      "ideeen": [
+        "Alleen verder als bestemming urbano en ligging buiten risicozone bevestigd zijn",
+        "Bij urbano: renoveren tot ruime gezinswoning met tuin",
+        "Bij twijfel over bestemming/risico: laten lopen"
+      ],
+      "due_diligence": [
+        "Bestemming (urbano vs. rustico) hard bevestigen bij gemeente en kadaster",
+        "PATRICOVA-overstromingszone voor het exacte perceel controleren",
+        "Legaliteit van de bestaande bebouwing en oppervlakte (nota simple) checken",
+        "Bouwkundige keuring en realistische renovatiebegroting opstellen"
+      ],
+      "eerlijk_oordeel": "Op het eerste gezicht een koopje door de lage prijs per m2, maar de combinatie van 'rustiek' en de nabijheid van de Marjal de Pego-Oliva maakt dit risicovol. Het verdient alleen serieuze aandacht als bestemming en overstromingsrisico vooraf gunstig uitpakken; anders is voorzichtigheid (of afzien) het verstandigst.",
+      "contact": {
+        "bron": "Kyero / Huspy Iberia",
+        "telefoon": "Via advertentie (makelaar)",
+        "email": "Via contactformulier op Kyero",
+        "url": "https://www.kyero.com/en/property/20568172-town-house-for-sale-pego",
+        "referentie": "98ae6b23-9b80-4df2-a",
+        "opmerking": "Makelaar Huspy Iberia, Engelstalig. Prijs en kenmerken per 2026-06-06. Bestemming nadrukkelijk te verifieren."
+      },
+      "bronnen": [
+        {"titel": "Kyero - rustiek renovatieproject Pego 134.500 euro", "url": "https://www.kyero.com/en/property/20568172-town-house-for-sale-pego"}
+      ]
+    }
+  ]
+}
