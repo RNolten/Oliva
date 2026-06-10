@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o.",
+    "datum": "2026-06-09",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse run",
+    "aantal": 5,
+    "marktcontext": "Aanbod gezocht via meerdere platforms (kyero.com als primaire bron deze run, plus zoekopdrachten op idealista, fotocasa, milanuncios en habitaclia). Vijf controleerbare advertenties geselecteerd met echte URL en geverifieerde inhoud. Bewust gespreid over types (horeca, bedrijfspand, flip, bouwgrond, verhuur/mixed) en plaatsen (Oliva, El Verger, Pedreguer) om herhaling van eerdere runs te vermijden. Prijzen, oppervlaktes en referenties zijn rechtstreeks van de advertentiepaginas overgenomen.",
+    "disclaimer": "Geen financieel of juridisch advies. Overstromings- en vergunningsinschattingen zijn indicatief en MOETEN per object worden geverifieerd via PATRICOVA, het gemeentelijk bestemmingsplan (PGOU) en het kadaster. Bij commercieel-naar-wonen of nieuwbouw is altijd voorafgaand gemeentelijk advies nodig."
+  },
+  "kansen": [
+    {
+      "id": "oliva-restaurant-instapklaar-2026-06-09",
+      "titel": "Oliva: instapklaar restaurant van 100 m2, klaar om te openen",
+      "type": "Horeca - instapklaar restaurant",
+      "type_kort": "Horeca",
+      "plaats": "Oliva",
+      "regio": "La Safor",
+      "vraagprijs": 80000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "80.000 euro vraagprijs (kyero, ref PNBS347). Prijs is voor het pand/de zaak; vraag na of inventaris en eventuele lopende vergunningen zijn inbegrepen.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "100 m2"},
+        {"label": "Capaciteit", "waarde": "tot 80 couverts binnen + terras"},
+        {"label": "Staat", "waarde": "Goede staat, gerenoveerd, ingerichte keuken"},
+        {"label": "Ligging", "waarde": "Centraal, commerciele zone, dicht bij voorzieningen"},
+        {"label": "Referentie", "waarde": "PNBS347"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Verhuren aan een horeca-uitbater of doorverkopen als lopende zaak. Lage instapprijs maakt de businesscase voor een huurinkomstenstroom aantrekkelijk; flipmarge zelf is beperkt omdat het pand al instapklaar is.",
+      "samenvatting": "Een gerenoveerd restaurant van 100 m2 in een commerciele zone van Oliva, klaar om te openen, met ruimte voor circa 80 gasten binnen plus terras. Aantrekkelijk als inkomstengenererend object (verhuur of doorverkoop als zaak) tegen een lage instapprijs.",
+      "voors": [
+        "Lage instapprijs (80.000 euro) voor instapklare horeca",
+        "Centrale, commerciele ligging met passanten",
+        "Ingerichte keuken en goede staat; weinig tot geen verbouwing nodig",
+        "Terras vergroot capaciteit en aantrekkingskracht"
+      ],
+      "tegens": [
+        "Flipmarge beperkt: pand is al gerenoveerd, dus weinig waarde toe te voegen via verbouwing",
+        "Horeca-exploitatie en -verhuur kennen conjunctuurgevoeligheid",
+        "Exacte staat van horecavergunning/licencia de actividad nog te bevestigen",
+        "Inventaris en overnamekosten van een eventuele lopende zaak onbekend"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "80.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 8.000 euro"},
+          {"label": "Notaris/register/advocaat", "waarde": "circa 2.200 euro"},
+          {"label": "Totale aankoopkosten indicatie", "waarde": "circa 90.000 euro"}
+        ],
+        "conclusie": "Bij een realistische horecahuur kan dit object een gezond bruto rendement opleveren zonder grote verbouwing. Reken vooraf door tegen een conservatieve maandhuur en houd rekening met leegstand en kosten voor vergunningen."
+      },
+      "vergunning": "Pand is al in commercieel gebruik (horeca). Belangrijkste punt is de overdracht/actualisatie van de licencia de actividad voor horeca en eventueel terrasvergunning. Verifieer of de bestaande vergunning courant en overdraagbaar is; dit is doorgaans eenvoudiger dan een nieuwe horecavergunning aanvragen.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "Oliva centrum ligt overwegend buiten de hoogrisicozones, maar delen richting kust en de Marjal de Pego-Oliva zijn wel kwetsbaar. Exacte straatligging onbekend; controleer de PATRICOVA-kaart op het concrete adres voordat je biedt."
+      },
+      "demografie": "Oliva (circa 27.000 inwoners) heeft een sterke lokale economie en een grote toeristische zomerstroom richting de stranden. Goede basis voor horeca met zowel lokale als seizoensvraag.",
+      "ideeen": [
+        "Verhuren aan een horeca-ondernemer tegen vaste maandhuur",
+        "Zelf laten exploiteren door een uitbater met omzethuur",
+        "Doorverkopen als lopende, instapklare zaak met huurcontract erbij"
+      ],
+      "due_diligence": [
+        "Status en overdraagbaarheid van de horecavergunning controleren",
+        "Wat is precies inbegrepen (inventaris, apparatuur, afzuiging)?",
+        "Terrasvergunning en toegestane terrasoppervlakte navragen",
+        "PATRICOVA-overstromingscheck op het exacte adres"
+      ],
+      "eerlijk_oordeel": "Sterk als rendementsobject met lage instap, zwakker als pure flip. De waarde zit in de instapklare horecafunctie en lopende vergunning, niet in verbouwingswinst. Alleen interessant als de vergunning courant en overdraagbaar blijkt.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Via advertentie (kyero contactformulier)",
+        "email": "Via advertentie",
+        "url": "https://www.kyero.com/en/property/20839017-commercial-property-for-sale-oliva",
+        "referentie": "PNBS347",
+        "opmerking": "Telefoonnummer staat deels afgeschermd op kyero; opvraagbaar via het contactformulier van de makelaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Restaurant Oliva (PNBS347)", "url": "https://www.kyero.com/en/property/20839017-commercial-property-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-voormalige-kliniek-bedrijfspand-2026-06-09",
+      "titel": "Oliva: voormalige kliniek 250 m2 met toegang vanaf twee straten",
+      "type": "Bedrijfspand met herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Oliva",
+      "regio": "La Safor",
+      "vraagprijs": 175000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "175.000 euro vraagprijs (kyero, ref PNBS0002).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "250 m2 bebouwd"},
+        {"label": "Indeling", "waarde": "Hal + 8 functionele ruimtes, 4 badkamers"},
+        {"label": "Bijzonder", "waarde": "Toegang vanaf twee verschillende straten, lift"},
+        {"label": "Staat", "waarde": "Immaculate / goed gepresenteerd"},
+        {"label": "Referentie", "waarde": "PNBS0002"}
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Herbestemmen: ombouwen naar (meerdere) woningen of verhuren als praktijk-/kantoorruimte. De dubbele straatontsluiting biedt flexibiliteit voor splitsing of een commercieel-plus-woon-concept.",
+      "samenvatting": "Ruim bedrijfspand van 250 m2 in Oliva, voorheen een dietetiek-/voedingskliniek, in goede staat en met de zeldzame eigenschap van toegang vanaf twee straten plus een lift. Geschikt voor verhuur als praktijkruimte of als herbestemmingsproject naar wonen.",
+      "voors": [
+        "Toegang vanaf twee straten: flexibel voor splitsing of dubbel gebruik (sluit aan op eerder positief signaal)",
+        "Lift aanwezig en goede staat: beperkte basisverbouwing nodig",
+        "Ruime 250 m2 in centrale, goed bereikbare ligging",
+        "Brede inzetbaarheid: praktijk, kantoor, of woningen"
+      ],
+      "tegens": [
+        "Omzetting van commercieel naar wonen vergt wijziging van gebruik en gemeentelijke goedkeuring (vergunningsrisico)",
+        "Splitsen naar meerdere woningen is niet gegarandeerd toegestaan",
+        "Bij behoud commercieel gebruik is de huurmarkt voor praktijkruimte dunner",
+        "Prijs per m2 (700 euro) is laag, maar herbestemmingskosten kunnen oplopen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "175.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 17.500 euro"},
+          {"label": "Bijkomende kosten", "waarde": "circa 4.800 euro"},
+          {"label": "Totale aankoopkosten indicatie", "waarde": "circa 197.000 euro"}
+        ],
+        "conclusie": "700 euro/m2 instap is laag voor Oliva. De winstkans hangt volledig af van de toegestane bestemming: als wonen of splitsing mag, is er marge; zo niet, dan blijft het een verhuurobject voor commercieel gebruik met bescheidener rendement."
+      },
+      "vergunning": "Huidig gebruik is commercieel. Voor woonbestemming is een cambio de uso (wijziging van gebruik) nodig en moet het object voldoen aan de habitabilidad-eisen (licht, ventilatie, plafondhoogte). Splitsing in meerdere wooneenheden vereist expliciete gemeentelijke toestemming. Vraag voor bieden bij de gemeente (urbanismo) na wat is toegestaan.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "Centrale ligging in Oliva, vermoedelijk buiten de hoogste risicozones, maar exacte straat onbekend. Controleer PATRICOVA op het concrete adres."
+      },
+      "demografie": "Centraal in Oliva, dicht bij winkels, zee en voorzieningen. Vraag naar praktijkruimte en (kleinere) woningen in het centrum is stabiel.",
+      "ideeen": [
+        "Verhuren als praktijk-/kantoorruimte (medisch, paramedisch, dienstverlening)",
+        "Bij toestemming: ombouwen naar 2-3 appartementen voor verkoop of verhuur",
+        "Begane grond commercieel houden en bovenverdieping naar wonen"
+      ],
+      "due_diligence": [
+        "Bij gemeente urbanismo: is cambio de uso naar wonen en/of splitsing toegestaan?",
+        "Voldoet het pand aan habitabilidad-eisen voor wonen?",
+        "Bouwkundige staat van dak, leidingen en de lift",
+        "PATRICOVA-overstromingscheck op het exacte adres"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke prijs per m2 met meerdere uitwegen, maar de echte winst zit achter een vergunningsvraag. Eerst gemeentelijk uitsluitsel over herbestemming/splitsing; pas daarna is de flip- of verhuurcase hard te maken.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Via advertentie (kyero contactformulier)",
+        "email": "Via advertentie",
+        "url": "https://www.kyero.com/en/property/20690217-commercial-property-for-sale-oliva",
+        "referentie": "PNBS0002",
+        "opmerking": "Er bestaat een vrijwel identieke tweede vermelding van dezelfde makelaar; inhoud en prijs komen overeen."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Voormalige kliniek Oliva (PNBS0002)", "url": "https://www.kyero.com/en/property/20690217-commercial-property-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "el-verger-dorpshuis-1900-flip-2026-06-09",
+      "titel": "El Verger: groot dorpshuis uit 1900 om te renoveren, 529 m2",
+      "type": "Te flippen pand (volledige renovatie)",
+      "type_kort": "Flip-pand",
+      "plaats": "El Verger",
+      "regio": "Marina Alta",
+      "vraagprijs": 190000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "190.000 euro vraagprijs (kyero, ref RSM 222).",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "529 m2"},
+        {"label": "Indeling", "waarde": "7 slaapkamers, 1 badkamer (te herindelen)"},
+        {"label": "Bouwjaar", "waarde": "1900"},
+        {"label": "Staat", "waarde": "Te renoveren, veel mogelijkheden"},
+        {"label": "Referentie", "waarde": "RSM 222"}
+      ],
+      "score": 61,
+      "score_label": "Voorzichtig",
+      "strategie": "Volledige renovatie en herindeling, daarna verkopen of (deels) verhuren. De grote oppervlakte biedt ruimte om te splitsen of meerdere eenheden te maken, mits toegestaan.",
+      "samenvatting": "Fors dorpshuis van 529 m2 uit 1900 in het centrum van El Verger, volledig te renoveren tegen een lage prijs per m2 (circa 359 euro/m2 instap). Potentieel sterke flip door de lage instap en omvang, maar de totale renovatiekosten en de overstromingsligging vragen scherpe controle.",
+      "voors": [
+        "Zeer lage prijs per m2 instap (circa 359 euro/m2)",
+        "Grote oppervlakte: ruimte voor herindeling of meerdere eenheden",
+        "Centrale dorpsligging in El Verger, dicht bij Denia en kust",
+        "Bestaand pand: renovatie meestal vergunningstechnisch eenvoudiger dan nieuwbouw"
+      ],
+      "tegens": [
+        "529 m2 volledig renoveren is een grote, kapitaalintensieve klus (al snel 370.000-580.000 euro bij 700-1.100 euro/m2)",
+        "Pand uit 1900: hoog risico op vocht-, fundering- en constructieproblemen",
+        "El Verger ligt nabij de Riu Girona; delen van het dorp staan op de PATRICOVA-overstromingskaart",
+        "Slechts 1 badkamer nu; volledige techniek (leidingen, elektra) vermoedelijk vernieuwen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "190.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 19.000 euro"},
+          {"label": "Bijkomende kosten", "waarde": "circa 5.200 euro"},
+          {"label": "Renovatie indicatie (529 m2)", "waarde": "circa 370.000-580.000 euro"},
+          {"label": "Totale investering indicatie", "waarde": "circa 580.000-790.000 euro"}
+        ],
+        "conclusie": "De lage instapprijs is verleidelijk, maar door de enorme oppervlakte loopt de totale investering hoog op. De flip wordt alleen sluitend als je niet alle 529 m2 hoeft op te knappen of als splitsing in verkoopbare eenheden is toegestaan. Reken conservatief en laat eerst een bouwkundige keuring doen."
+      },
+      "vergunning": "Renovatie van een bestaand woonpand is doorgaans haalbaar met een licencia de obra. Wil je splitsen in meerdere wooneenheden, dan is gemeentelijke goedkeuring vereist en niet vanzelfsprekend. Bij een pand uit 1900 ook letten op eventuele bescherming/eisen vanuit het gemeentelijk plan.",
+      "overstroming": {
+        "niveau": "Verhoogd - goed controleren",
+        "kleur": "amber",
+        "toelichting": "El Verger ligt aan de Riu Girona en kent bekende overstromingszones (PATRICOVA), versterkt door de DANA-ervaringen. Het lagere deel van het dorp kan in een risicozone vallen. Controleer het exacte perceel op de PATRICOVA-kaart voor je iets onderneemt; bij hoog risico afvallen."
+      },
+      "demografie": "El Verger is een klein dorp (circa 4.500 inwoners) vlak bij Denia en de stranden van Las Marinas. Vraag naar gerenoveerde dorpswoningen is er, maar de markt is kleiner dan in Denia of Oliva.",
+      "ideeen": [
+        "Renoveren tot een ruime gezinswoning voor verkoop",
+        "Bij toestemming splitsen in 2-3 eenheden voor verkoop of verhuur",
+        "Gedeeltelijk renoveren en gefaseerd uitponden"
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring op fundering, vocht en constructie",
+        "PATRICOVA-overstromingscheck op het exacte perceel (cruciaal hier)",
+        "Bij gemeente: is splitsing in meerdere eenheden toegestaan?",
+        "Realistische renovatiebegroting laten opstellen door lokale aannemer"
+      ],
+      "eerlijk_oordeel": "Op papier een koopje per m2, maar de omvang en ouderdom maken er een risicovol, kapitaalintensief project van, met een overstromingsligging die extra waakzaamheid vraagt. Alleen doorpakken na bouwkundige keuring en een harde PATRICOVA-check; daarom voorzichtig gescoord.",
+      "contact": {
+        "bron": "Kyero / Renvida",
+        "telefoon": "Via advertentie (kyero contactformulier)",
+        "email": "Via advertentie",
+        "url": "https://www.kyero.com/en/property/18737258-town-house-for-sale-el-verger",
+        "referentie": "RSM 222",
+        "opmerking": "Makelaar Renvida; telefoonnummer deels afgeschermd op kyero."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Dorpshuis 1900 El Verger (RSM 222)", "url": "https://www.kyero.com/en/property/18737258-town-house-for-sale-el-verger"}
+      ]
+    },
+    {
+      "id": "pedreguer-bouwperceel-montesolana-2026-06-09",
+      "titel": "Pedreguer: stedelijk bouwperceel 800 m2 in Montesolana",
+      "type": "Bouwgrond (suelo urbano) met nutsaansluitingen",
+      "type_kort": "Bouwgrond",
+      "plaats": "Pedreguer",
+      "regio": "Marina Alta",
+      "vraagprijs": 65000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "65.000 euro vraagprijs (kyero, ref 001679).",
+      "kerngegevens": [
+        {"label": "Perceel", "waarde": "800 m2, stedelijk (urbano)"},
+        {"label": "Orientatie", "waarde": "Zuid"},
+        {"label": "Nutsvoorzieningen", "waarde": "Water en elektra op straatniveau"},
+        {"label": "Ligging", "waarde": "Urbanisatie Montesolana, Pedreguer"},
+        {"label": "Referentie", "waarde": "001679"}
+      ],
+      "score": 69,
+      "score_label": "Interessant",
+      "strategie": "Bouwgrond aankopen, een vrijstaande woning (laten) bouwen en verkopen, of de grond doorverkopen na voorbereiding. De makelaar is naar eigen zeggen ontwikkelaar en kan een bouwofferte leveren.",
+      "samenvatting": "Stedelijk bouwperceel van 800 m2 op het zuiden in de urbanisatie Montesolana bij Pedreguer, met water en elektra aan de straat. Aantrekkelijke, lage instap voor een bouw-en-verkoop-traject; cruciaal voordeel is dat het suelo urbano is en geen rustieke grond.",
+      "voors": [
+        "Stedelijke grond (suelo urbano), dus bebouwbaar - geen rustiek-grond-val",
+        "Lage instapprijs (65.000 euro) met nutsvoorzieningen al aan de straat",
+        "800 m2 zuid biedt ruimte voor een aantrekkelijke villa met tuin/zwembad",
+        "Heuvelligging Montesolana: laag overstromingsrisico"
+      ],
+      "tegens": [
+        "Winst vereist een volledig bouwtraject met bijbehorend kapitaal en tijd",
+        "Bouwkosten en marktrisico bij oplevering bepalen het rendement",
+        "Exacte bebouwingsvoorschriften (bouwvlak, hoogte, % bebouwing) nog op te vragen",
+        "Aansluitkosten en ICIO/vergunningskosten komen bovenop de bouw"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs grond", "waarde": "65.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 6.500 euro"},
+          {"label": "Bijkomende kosten", "waarde": "circa 1.800 euro"},
+          {"label": "Bouw woning (indicatie)", "waarde": "afhankelijk van m2 en afwerking"},
+          {"label": "ICIO bouwbelasting", "waarde": "circa 4% van de bouwsom"}
+        ],
+        "conclusie": "Als bebouwbare stedelijke grond met nutsvoorzieningen is dit een solide basis voor bouw-en-verkoop. Het rendement valt of staat met de bouwkosten en de verkoopprijs van een nieuwbouwvilla in Pedreguer. Vraag eerst de bouwvoorschriften en een offerte op."
+      },
+      "vergunning": "Stedelijke grond is in principe bebouwbaar. Voor de bouw is een licencia de obra mayor nodig met een door een architect opgesteld project; reken op ICIO (circa 4%) en aansluitkosten. Vraag bij de gemeente de exacte parametros urbanisticos (bouwvlak, maximale hoogte, bebouwingspercentage, afstanden) op.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Montesolana is een heuvelachtige urbanisatie boven het dorp; het overstromingsrisico is naar verwachting laag. Bevestig wel even op de PATRICOVA-kaart voor het exacte perceel."
+      },
+      "demografie": "Pedreguer (circa 8.000 inwoners) is populair bij buitenlandse kopers, op korte afstand van Denia en Javea. Goede markt voor nieuwbouwvilla's in urbanisaties.",
+      "ideeen": [
+        "Vrijstaande villa bouwen en verkopen aan internationale koper",
+        "Grond doorverkopen na opvragen bouwvoorschriften en een conceptontwerp",
+        "Bouwen voor de verhuurmarkt (vakantie/lang) en aanhouden"
+      ],
+      "due_diligence": [
+        "Bouwvoorschriften (bouwvlak, hoogte, % bebouwing) bij gemeente opvragen",
+        "Bevestigen dat nutsaansluitingen daadwerkelijk aansluitbaar zijn en tegen welke kosten",
+        "PATRICOVA-check op het exacte perceel",
+        "Bouwofferte en haalbaarheid (architect + aannemer) laten maken"
+      ],
+      "eerlijk_oordeel": "Een van de schonere cases deze run: bebouwbare stedelijke grond, lage instap, nutsvoorzieningen aanwezig en laag overstromingsrisico. De winst vraagt wel een compleet bouwtraject; het is geen snelle flip maar een ontwikkeltraject met heldere randvoorwaarden.",
+      "contact": {
+        "bron": "Kyero / PERETO Grupo Inmobiliario",
+        "telefoon": "Via advertentie (kyero contactformulier)",
+        "email": "Via advertentie",
+        "url": "https://www.kyero.com/en/property/19008141-land-for-sale-pedreguer",
+        "referentie": "001679",
+        "opmerking": "Makelaar is naar eigen zeggen ontwikkelaar en kan een bouwofferte voor een eengezinswoning leveren."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Bouwperceel Montesolana Pedreguer (001679)", "url": "https://www.kyero.com/en/property/19008141-land-for-sale-pedreguer"}
+      ]
+    },
+    {
+      "id": "pedreguer-bedrijf-plus-appartement-verhuur-2026-06-09",
+      "titel": "Pedreguer: gerenoveerd dorpshuis met zaak beneden en appartement boven",
+      "type": "Verhuur/mixed - instapklaar met inkomstenstroom",
+      "type_kort": "Verhuur",
+      "plaats": "Pedreguer",
+      "regio": "Marina Alta",
+      "vraagprijs": 320000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "320.000 euro vraagprijs (kyero, ref NCB3589).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "155 m2"},
+        {"label": "Indeling", "waarde": "Zaak op begane grond + appartement met 3 slaapkamers boven"},
+        {"label": "Badkamers", "waarde": "2 (incl. sauna)"},
+        {"label": "Staat", "waarde": "Volledig gerenoveerd, zwembad, terras"},
+        {"label": "Referentie", "waarde": "NCB3589"}
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Aanhouden voor verhuur: dubbele inkomstenstroom uit de commerciele unit beneden en het woonappartement boven. Sluit aan op de voorkeur voor objecten met een commerciele unit op de begane grond.",
+      "samenvatting": "Volledig gerenoveerd dorpshuis in het hart van Pedreguer met een lopende zaak op de begane grond en een appartement met drie slaapkamers erboven, plus zwembad en terras. Instapklaar verhuurobject met twee inkomstenbronnen; weinig flip-upside omdat de renovatie al is gedaan.",
+      "voors": [
+        "Twee inkomstenstromen: commerciele unit beneden + woning boven",
+        "Volledig gerenoveerd en instapklaar: direct verhuurbaar",
+        "Zwembad, terras en sauna verhogen de woon-/verhuurwaarde",
+        "Centrale dorpsligging, dicht bij voorzieningen en zee"
+      ],
+      "tegens": [
+        "Beperkte flipmarge: prijs (circa 2.065 euro/m2) ligt al rond/boven gerenoveerd niveau",
+        "Hoogste instapprijs van deze selectie (320.000 euro)",
+        "Rendement hangt af van de werkelijke huurinkomsten van zaak en appartement",
+        "Of de zaak met huurder/contract meekomt, is nog te bevestigen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "320.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 32.000 euro"},
+          {"label": "Bijkomende kosten", "waarde": "circa 8.800 euro"},
+          {"label": "Totale aankoopkosten indicatie", "waarde": "circa 361.000 euro"}
+        ],
+        "conclusie": "Dit is vooral een rendements- en aanhoudobject, geen flip. De waarde zit in de gecombineerde huurinkomsten. Vraag de actuele huren/contracten op en reken het netto rendement door voordat je de prijs accepteert; op deze prijs per m2 is verbouwingswinst nauwelijks mogelijk."
+      },
+      "vergunning": "Pand is al gerenoveerd en in gebruik als gemengd (commercieel + wonen). Controleer dat de bestaande indeling en het gebruik legaal en geregistreerd zijn (vergunning voor de commerciele activiteit, en dat het appartement als woning is geregistreerd). Geen herbestemming nodig zolang je het huidige gebruik voortzet.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "Het dorpscentrum van Pedreguer ligt op de vlakte; het risico is doorgaans matig, maar varieert per straat. Controleer PATRICOVA op het exacte adres."
+      },
+      "demografie": "Pedreguer trekt veel internationale kopers en heeft een levendig dorpscentrum. Vraag naar gerenoveerde woningen en kleine bedrijfsruimtes is stabiel.",
+      "ideeen": [
+        "Beide units verhuren (commercieel + woning) voor dubbel rendement",
+        "Bovenwoning als vakantieverhuur, zaak op vaste huur",
+        "Aanhouden voor waardeontwikkeling en stabiele cashflow"
+      ],
+      "due_diligence": [
+        "Actuele huurcontracten en huurprijzen van zaak en appartement opvragen",
+        "Legaliteit/registratie van de commerciele activiteit en de woning checken",
+        "Staat van het zwembad en de technische installaties",
+        "PATRICOVA-overstromingscheck op het exacte adres"
+      ],
+      "eerlijk_oordeel": "Prima als instapklaar verhuurobject met twee inkomstenbronnen, maar als flip vrijwel kansloos omdat de renovatiewinst al door de verkoper is gepakt. Alleen de moeite waard als de werkelijke huurinkomsten een aantrekkelijk netto rendement opleveren.",
+      "contact": {
+        "bron": "Kyero / HomeEspana",
+        "telefoon": "Via advertentie (kyero contactformulier)",
+        "email": "Via advertentie",
+        "url": "https://www.kyero.com/en/property/18195871-town-house-for-sale-pedreguer",
+        "referentie": "NCB3589",
+        "opmerking": "Makelaar HomeEspana; videotour beschikbaar op de advertentie."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Dorpshuis met zaak Pedreguer (NCB3589)", "url": "https://www.kyero.com/en/property/18195871-town-house-for-sale-pedreguer"}
+      ]
+    }
+  ]
+}
