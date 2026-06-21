@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-06-20",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Aanbod gescreend op meerdere platforms (Kyero als hoofdbron, plus Milanuncios en Fotocasa-zoekresultaten). Vijf controleerbare advertenties met echte URL geselecteerd; elke listing-URL is geverifieerd via web_fetch. Bewust gespreid over types (verhuur, bouwgrond, flip, horeca, bedrijfspand) en plaatsen (Oliva, Pego, Piles, Rafelcofer) om herhaling t.o.v. recente runs te vermijden. Prijzen zijn vraagprijzen uit de advertentie; telefoonnummers worden door het portaal afgeschermd en zijn als onbekend gemarkeerd. Houd rekening met DANA-overstromingsrisico (PATRICOVA) na oktober 2024, met name in de Marjal de Pego-Oliva.",
+    "disclaimer": "Geen financieel of juridisch advies. Vraagprijzen en gegevens komen uit openbare advertenties en kunnen verouderd zijn. Renovatiekosten, vergunningshaalbaarheid en overstromingsrisico zijn inschattingen die ter plaatse en bij de gemeente geverifieerd moeten worden voordat een bod wordt uitgebracht."
+  },
+  "kansen": [
+    {
+      "id": "oliva-stadswoning-171m2-garage-modern-160k-2026-06-20",
+      "titel": "Gemoderniseerde stadswoning met garage bij San Roc",
+      "type": "Instapklare stadswoning, geschikt voor verhuur of doorverkoop",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva",
+      "regio": "La Safor",
+      "vraagprijs": 159950,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "Kyero-referentie za954, gebracht door CASAS y Cia. Estate Agents.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "171 m2"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Staat", "waarde": "Gemoderniseerd, instapklaar"},
+        {"label": "Extra", "waarde": "Garage, terras, patio, dubbel glas, airco + houtkachel"},
+        {"label": "Prijs per m2", "waarde": "ca 935 euro/m2"}
+      ],
+      "score": 72,
+      "score_label": "Sterk",
+      "strategie": "Aanhouden en verhuren (jaarhuur of vakantie), of beperkt opknappen en doorverkopen. Garage is een sterk pluspunt in centrum Oliva waar parkeren schaars is.",
+      "samenvatting": "Gemoderniseerde driekamer-stadswoning vlak bij het levendige San Roc-plein in Oliva pueblo. De woning is al opgeknapt (modern, goede staat) met garage, terras en patio. Lage prijs per m2 (ca 935 euro) voor een instapklaar object buiten het lastige casco historico.",
+      "voors": [
+        "Garage in centrum Oliva - schaars en waardevol (past bij geleerde voorkeur)",
+        "Al gemoderniseerd: weinig of geen verbouwing nodig, snel verhuurbaar",
+        "Buiten casco historico, dus minder vocht- en splitsingsrisico",
+        "Prijs per m2 onder marktgemiddelde voor instapklaar"
+      ],
+      "tegens": [
+        "Omdat het al gemoderniseerd is, is de flip-opwaarde beperkt",
+        "Slechts 1 badkamer bij 3 slaapkamers - extra badkamer verhoogt verhuurwaarde",
+        "Pueblo-verhuur levert minder op dan strandzone Oliva"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "159.950 euro"},
+          {"label": "ITP 10%", "waarde": "ca 15.995 euro"},
+          {"label": "Notaris/registratie/advocaat (ca 2%)", "waarde": "ca 4.400 euro"},
+          {"label": "Lichte opknap + inrichting", "waarde": "ca 10.000 - 15.000 euro"},
+          {"label": "Totale investering", "waarde": "ca 190.000 - 195.000 euro"},
+          {"label": "Indicatieve jaarhuur (langjarig)", "waarde": "ca 9.000 - 10.800 euro"},
+          {"label": "Bruto huurrendement", "waarde": "ca 4,7 - 5,5%"}
+        ],
+        "conclusie": "Sterkst als hold-en-verhuur. Instapklaar met garage beperkt de risico's; flip-marge is mager omdat de meerwaarde van renovatie grotendeels al benut is."
+      },
+      "vergunning": "Reguliere woning buiten het casco historico; geen herbestemming nodig voor verhuur. Voor toeristische verhuur is een VT-vergunning (registro de turismo) en gunstig gemeentelijk beleid vereist - vooraf bij de gemeente Oliva checken.",
+      "overstroming": {
+        "niveau": "Laag tot matig",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo bij San Roc ligt hoger dan de kustvlakte en buiten de Marjal de Pego-Oliva. Beperkt PATRICOVA-risico; exacte kaart per perceel verifieren."
+      },
+      "demografie": "Oliva pueblo: stabiele lokale markt met jaarrondvraag, plus toeristische instroom richting de kust. British School Gandia op ca 8 km.",
+      "ideeen": [
+        "Tweede badkamer toevoegen om verhuur- en verkoopwaarde te verhogen",
+        "Garage benadrukken in advertentie - onderscheidend in centrum",
+        "Combineren van langjaarverhuur (winter) met vakantieverhuur (zomer)"
+      ],
+      "due_diligence": [
+        "Bouwjaar, staat van leidingen/elektra en energielabel opvragen",
+        "Nota simple (eigendomsregister) en eventuele lasten controleren",
+        "Haalbaarheid en kosten tweede badkamer laten inschatten"
+      ],
+      "eerlijk_oordeel": "Solide, laag-risico instapobject met een echt onderscheidend pluspunt (garage). Niet de hoogste flip-marge, maar betrouwbaar als verhuur of als nette doorverkoop. Score weerspiegelt de sterke fit met het profiel.",
+      "contact": {
+        "bron": "Kyero / CASAS y Cia. Estate Agents",
+        "telefoon": "Onbekend - via advertentie opvragen",
+        "email": null,
+        "url": "https://www.kyero.com/en/property/20795331-town-house-for-sale-oliva",
+        "referentie": "za954",
+        "opmerking": "Engelstalige makelaar. Telefoonnummer wordt op het portaal afgeschermd."
+      },
+      "bronnen": [
+        {"titel": "Kyero - stadswoning Oliva 159.950 euro (ref za954)", "url": "https://www.kyero.com/en/property/20795331-town-house-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "pego-montepego-bouwkavel-1215m2-urban-59k-2026-06-20",
+      "titel": "Bouwklare urbane kavel in Montepego",
+      "type": "Bouwgrond (urbane kavel, instapprijs)",
+      "type_kort": "Bouwgrond",
+      "plaats": "Pego (Montepego)",
+      "regio": "Marina Alta",
+      "vraagprijs": 58500,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "Kyero-referentie HI1R0D6KQ, gebracht door Hamiltons Of London.",
+      "kerngegevens": [
+        {"label": "Perceel", "waarde": "1.215 m2"},
+        {"label": "Status", "waarde": "Bouwklaar en omheind"},
+        {"label": "Nutsvoorzieningen", "waarde": "Water en elektra aanwezig nabij"},
+        {"label": "Ligging", "waarde": "Urbanisatie Montepego, ca 10 min van Pego en El Verger"},
+        {"label": "Prijs per m2 grond", "waarde": "ca 48 euro/m2"}
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Bouwgrond aankopen en zelf een villa (laten) bouwen voor doorverkoop, of de bouwklare kavel met opslag doorverkopen. Geen suelo no urbanizable - dit is een urbane kavel binnen een bestaande urbanisatie.",
+      "samenvatting": "Omheinde, bouwklare urbane kavel van 1.215 m2 in de heuvelurbanisatie Montepego, met water en elektra in de buurt. Lage instapprijs (ca 48 euro/m2) en een vlotte ligging tussen Pego en El Verger. Geschikt voor een nieuwbouwproject of als grondbank.",
+      "voors": [
+        "Urbane kavel (geen rustieke grond) - bouwrechten in beginsel aanwezig",
+        "Lage instapprijs en ruime onderhandelmarge denkbaar",
+        "Heuvelligging Montepego: laag overstromingsrisico",
+        "Water en elektra nabij beperken aansluitkosten"
+      ],
+      "tegens": [
+        "Bouwen is kapitaalintensief en kost tijd (vergunning, ICIO, uitvoering)",
+        "Flip op kale grond levert beperkte marge zonder waardetoevoeging",
+        "Montepego is een autoafhankelijke urbanisatie - vraag minder breed dan kustdorpen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs grond", "waarde": "58.500 euro"},
+          {"label": "ITP 10%", "waarde": "ca 5.850 euro"},
+          {"label": "Bijkomende kosten (ca 2%)", "waarde": "ca 1.200 euro"},
+          {"label": "Indicatieve bouwkosten villa ca 120 m2", "waarde": "ca 156.000 - 192.000 euro (1.300 - 1.600 euro/m2) + ICIO 4%"},
+          {"label": "Totaal grond + bouw", "waarde": "ca 230.000 - 260.000 euro"},
+          {"label": "Indicatieve verkoopwaarde nieuwbouwvilla Montepego", "waarde": "ca 280.000 - 350.000 euro"}
+        ],
+        "conclusie": "De marge zit in zelf bouwen en doorverkopen, niet in het doorverkopen van de kale kavel. Reken bouwkosten en bouwtijd nuchter door; vraag eerst de bebouwingsparameters op."
+      },
+      "vergunning": "Urbane kavel binnen urbanisatie Montepego. Bebouwbaarheid, maximale bouwhoogte en bezettingspercentage opvragen bij de gemeente Pego (cedula urbanistica). ICIO ca 4% en bouwvergunning verplicht. Bevestig dat alle nutsaansluitingen daadwerkelijk op de kavel beschikbaar zijn.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Montepego ligt op de heuvels boven de vlakte en valt buiten de Marjal de Pego-Oliva. Laag PATRICOVA-risico; toch de actuele kaart per perceel checken."
+      },
+      "demografie": "Montepego: gemengde internationale kopersgroep (NL, BE, UK, DE) en tweede-woningmarkt. Pego en El Verger met voorzieningen op ca 10 minuten.",
+      "ideeen": [
+        "Bebouwingsparameters opvragen en een compacte energiezuinige villa plannen",
+        "Verkopen met bouwvergunning op zak verhoogt waarde en koperspool",
+        "Optie: kavel doorverkopen aan een buitenlandse koper die zelf wil bouwen"
+      ],
+      "due_diligence": [
+        "Cedula urbanistica en bebouwbaarheid bij gemeente Pego",
+        "Daadwerkelijke beschikbaarheid water/elektra/riool op de kavel",
+        "Nota simple en eventuele lasten of erfdienstbaarheden controleren"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke instapprijs en laag overstromingsrisico, maar het rendement vereist een bouwproject met de bijbehorende kosten en doorlooptijd. Voor een ervaren ontwikkelaar interessant; als pure grondflip is de marge dun.",
+      "contact": {
+        "bron": "Kyero / Hamiltons Of London",
+        "telefoon": "Onbekend - via advertentie opvragen",
+        "email": null,
+        "url": "https://www.kyero.com/en/property/20519916-land-for-sale-pego",
+        "referentie": "HI1R0D6KQ",
+        "opmerking": "Engelstalige makelaar; remote viewing beschikbaar. Telefoonnummer afgeschermd op portaal."
+      },
+      "bronnen": [
+        {"titel": "Kyero - bouwkavel Montepego 58.500 euro (ref HI1R0D6KQ)", "url": "https://www.kyero.com/en/property/20519916-land-for-sale-pego"}
+      ]
+    },
+    {
+      "id": "pego-centrum-teflippen-pand-300m2-garage-99k-2026-06-20",
+      "titel": "Groot te renoveren pand met garage in centrum Pego",
+      "type": "Te flippen pand (volledige renovatie)",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 99000,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "Kyero-referentie 102SAB99, gebracht door HogarAbitat.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "300 m2"},
+        {"label": "Slaapkamers", "waarde": "5"},
+        {"label": "Badkamers", "waarde": "3"},
+        {"label": "Staat", "waarde": "Volledig te renoveren"},
+        {"label": "Extra", "waarde": "Garage en parkeerplaats, terras, patio, energielabel E"},
+        {"label": "Prijs per m2", "waarde": "ca 330 euro/m2 (onverbouwd)"}
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Volledig renoveren en doorverkopen, of opdelen in meerdere eenheden voor verhuur. Zeer lage instapprijs per m2 geeft ruimte, mits de renovatiekosten strak beheerd worden.",
+      "samenvatting": "Ruim pand van 300 m2 in het hart van Pego, volledig te renoveren, met garage en parkeerplaats. De instapprijs is laag (ca 330 euro/m2 onverbouwd), maar de oppervlakte maakt een volledige renovatie fors. Potentie voor flip of voor opdelen in verhuurunits.",
+      "voors": [
+        "Zeer lage instapprijs per m2 - veel onderhandel- en waardepotentieel",
+        "Garage en parkeerplaats inbegrepen (schaars in centrum)",
+        "Grote oppervlakte biedt opties: een groot huis of meerdere units",
+        "Centrale ligging in Pego met voorzieningen op loopafstand"
+      ],
+      "tegens": [
+        "300 m2 volledig renoveren is een groot, kapitaalintensief project",
+        "Pego centrum ligt nabij de Marjal de Pego-Oliva - overstromingskaart cruciaal",
+        "Verkoopprijzen in Pego liggen onder die van de kustdorpen",
+        "Energielabel E: extra kosten voor isolatie/installaties te verwachten"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "99.000 euro"},
+          {"label": "ITP 10%", "waarde": "ca 9.900 euro"},
+          {"label": "Bijkomende kosten (ca 2%)", "waarde": "ca 2.000 euro"},
+          {"label": "Renovatie 300 m2 (700 - 850 euro/m2)", "waarde": "ca 180.000 - 250.000 euro (eventueel gefaseerd)"},
+          {"label": "Totale investering", "waarde": "ca 290.000 - 360.000 euro"},
+          {"label": "Indicatieve verkoopwaarde gerenoveerd (1.300 - 1.600 euro/m2)", "waarde": "ca 390.000 - 480.000 euro"}
+        ],
+        "conclusie": "Marge van ruwweg 10 - 30%, sterk afhankelijk van het beheersen van de renovatiekosten. Door de omvang is dit een project voor wie ervaring heeft met grote verbouwingen; bij twijfel gefaseerd aanpakken of opdelen voor verhuur."
+      },
+      "vergunning": "Bestaande woning in centrum Pego; voor opdelen in meerdere eenheden is een gemeentelijke vergunning (licencia) en toetsing aan het bestemmingsplan nodig. Controleer of splitsing is toegestaan voordat je daarop rekent. Reken op vergunningskosten, ICIO 4% en mogelijk een nieuw energielabel.",
+      "overstroming": {
+        "niveau": "Matig",
+        "kleur": "amber",
+        "toelichting": "Pego-stad zelf ligt buiten de natte marjal, maar wel in de nabijheid ervan. Na de DANA van oktober 2024 zijn de PATRICOVA-kaarten herzien; raadpleeg de actuele perceelkaart voordat je koopt."
+      },
+      "demografie": "Pego: levendig binnenlands marktstadje met jaarrondbevolking en een groeiende internationale gemeenschap. Verkoop- en huurprijzen lager dan aan de kust.",
+      "ideeen": [
+        "Opdelen in 2 - 3 appartementen met aparte huurstromen (mits vergunning)",
+        "Garage als verkoopargument benadrukken",
+        "Gefaseerde renovatie om kasstroom en risico te spreiden"
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring: fundering, vocht, dak en draagstructuur",
+        "Gemeente Pego: is splitsing in units toegestaan?",
+        "Actuele PATRICOVA-overstromingskaart voor dit perceel",
+        "Vaste prijsopgave renovatie bij lokale aannemer"
+      ],
+      "eerlijk_oordeel": "Op papier een koopje door de extreem lage prijs per m2, maar de waarde valt of staat met strak renovatiebeheer over een grote oppervlakte en met de overstromingskaart. Reeel potentieel, maar geen project voor beginners.",
+      "contact": {
+        "bron": "Kyero / HogarAbitat",
+        "telefoon": "Onbekend - via advertentie opvragen",
+        "email": null,
+        "url": "https://www.kyero.com/en/property/20596444-villa-for-sale-pego",
+        "referentie": "102SAB99.FPV-A/3716",
+        "opmerking": "Engelstalige makelaar; 3D- en videotour beschikbaar. Telefoonnummer afgeschermd."
+      },
+      "bronnen": [
+        {"titel": "Kyero - te renoveren pand Pego 99.000 euro (ref 102SAB99)", "url": "https://www.kyero.com/en/property/20596444-villa-for-sale-pego"}
+      ]
+    },
+    {
+      "id": "piles-strand-bar-restaurant-236m2-280k-2026-06-20",
+      "titel": "Gerenoveerd strand bar-restaurant op toplocatie Piles",
+      "type": "Horeca (bar-restaurant, instapklaar)",
+      "type_kort": "Horeca",
+      "plaats": "Piles",
+      "regio": "La Safor",
+      "vraagprijs": 280000,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "Kyero-referentie 0231170, gebracht door Azahar Properties.",
+      "kerngegevens": [
+        {"label": "Oppervlak", "waarde": "236 m2"},
+        {"label": "Badkamers", "waarde": "4"},
+        {"label": "Staat", "waarde": "Gerenoveerd, modern"},
+        {"label": "Ligging", "waarde": "Hoekpand op hoofdtoegang strand Piles, ca 60 m van het zand"},
+        {"label": "Buiten", "waarde": "Terras, overdekt terras, beglaasd terras, patio"}
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Aankopen en verhuren aan een horeca-uitbater (vastgoedrendement), of zelf exploiteren in het hoogseizoen. De strandlocatie met hoekligging en meerdere terrassen is het belangrijkste waardepunt.",
+      "samenvatting": "Gerenoveerd bar-restaurant van 236 m2 op een hoeklocatie aan de hoofdtoegang van het strand van Piles, op ca 60 m van het zand. Modern en instapklaar, met diverse terrassen. Sterke seizoensvraag van toeristen; geschikt als horeca-belegging of eigen exploitatie.",
+      "voors": [
+        "Toplocatie aan strandtoegang met hoge zomerse passantenstroom",
+        "Al gerenoveerd en modern: weinig directe investering nodig",
+        "Meerdere terrassen (overdekt en beglaasd) verlengen het seizoen",
+        "Horecapand op A-locatie kan een hoog huurrendement opleveren"
+      ],
+      "tegens": [
+        "Horeca-vastgoed is minder liquide en seizoensgevoelig",
+        "Kustlocatie: hoger overstromingsrisico, verzekering en kaart checken",
+        "Waardestijging vergt omzetgroei of een sterke huurder, niet vanzelf",
+        "Exploitatie zelf doen vraagt horeca-kennis en personeel"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "280.000 euro"},
+          {"label": "ITP 10%", "waarde": "ca 28.000 euro"},
+          {"label": "Bijkomende kosten (ca 2%)", "waarde": "ca 5.600 euro"},
+          {"label": "Totale investering (instapklaar)", "waarde": "ca 314.000 euro"},
+          {"label": "Indicatieve huur aan horeca-uitbater", "waarde": "ca 2.000 - 3.500 euro/maand"},
+          {"label": "Indicatief bruto rendement bij verhuur", "waarde": "ca 8 - 12%"}
+        ],
+        "conclusie": "Als horeca-belegging (verhuren aan uitbater) potentieel een aantrekkelijk rendement door de A-locatie. Als flip minder geschikt: horecapanden verkopen trager. Vraag exploitatiecijfers/huurhistorie op ter onderbouwing."
+      },
+      "vergunning": "Bestaande horecabestemming met (vermoedelijk) lopende exploitatievergunning - bevestigen dat licentie (licencia de actividad) overdraagbaar en actueel is. Terrasvergunning bij gemeente Piles checken. Kustnabijheid kan betekenen dat de zona maritimo-terrestre/Ley de Costas relevant is - laten verifieren.",
+      "overstroming": {
+        "niveau": "Matig tot verhoogd",
+        "kleur": "amber",
+        "toelichting": "Strandlocatie op de kustvlakte; PATRICOVA-kustrisico van toepassing. Na de DANA van oktober 2024 extra aandacht voor afwatering en verzekerbaarheid - actuele kaart en historie opvragen."
+      },
+      "demografie": "Piles/Gandia strand: sterk toeristisch in zomer, rustiger in winter. Grote zomerse vraag naar strandhoreca; British School Gandia op ca 6 km.",
+      "ideeen": [
+        "Verhuren aan een ervaren uitbater met meerjarig contract voor stabiele kasstroom",
+        "Terrascapaciteit optimaliseren voor extra zomeromzet",
+        "Combinatie horeca beneden met seizoensverhuur boven onderzoeken"
+      ],
+      "due_diligence": [
+        "Geldigheid en overdraagbaarheid van de exploitatie- en terrasvergunning",
+        "Toetsing aan Ley de Costas / zona maritimo-terrestre",
+        "Exploitatie- en/of huurhistorie ter onderbouwing van het rendement",
+        "Overstromingskaart en verzekerbaarheid van de locatie"
+      ],
+      "eerlijk_oordeel": "Sterke locatie en instapklare staat maken dit interessant als horeca-belegging, vooral verhuurd aan een uitbater. De kanttekeningen zijn de mindere liquiditeit van horeca-vastgoed en het kustgebonden overstromingsrisico. Onderbouw het rendement met echte cijfers voordat je instapt.",
+      "contact": {
+        "bron": "Kyero / Azahar Properties",
+        "telefoon": "Onbekend - via advertentie opvragen",
+        "email": null,
+        "url": "https://www.kyero.com/en/property/14135780-commercial-property-for-sale-piles",
+        "referentie": "0231170",
+        "opmerking": "Engelstalige makelaar. Telefoonnummer afgeschermd op portaal."
+      },
+      "bronnen": [
+        {"titel": "Kyero - strand bar-restaurant Piles 280.000 euro (ref 0231170)", "url": "https://www.kyero.com/en/property/14135780-commercial-property-for-sale-piles"}
+      ]
+    },
+    {
+      "id": "rafelcofer-herbestemming-pand-456m2-300k-2026-06-20",
+      "titel": "Groot herbestembaar pand in centrum Rafelcofer",
+      "type": "Bedrijfspand / groot pand met herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Rafelcofer",
+      "regio": "La Safor",
+      "vraagprijs": 300000,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "Kyero-referentie PNBS864, gebracht door Parasol Networks.",
+      "kerngegevens": [
+        {"label": "Bebouwd oppervlak", "waarde": "456 m2"},
+        {"label": "Perceel", "waarde": "264 m2"},
+        {"label": "Indeling", "waarde": "Tot 14 kamers / 15 badkamers (voormalig groot woonhuis)"},
+        {"label": "Staat", "waarde": "Gerenoveerd in 1990, opgeknapt"},
+        {"label": "Extra", "waarde": "Garage, onafhankelijk appartement, gastenverblijf, centrale verwarming"},
+        {"label": "Prijs per m2", "waarde": "ca 658 euro/m2"}
+      ],
+      "score": 61,
+      "score_label": "Voorzichtig",
+      "strategie": "Herbestemmen naar een klein appartementengebouw met meerdere verhuurunits, of als groot privehuis/gastenverblijf doorverkopen. De grote oppervlakte en bestaande deelverblijven bieden flexibiliteit, maar de binnenlandse ligging beperkt de markt.",
+      "samenvatting": "Ruim, in 1990 gerenoveerd pand van 456 m2 in het centrum van Rafelcofer, met garage, een onafhankelijk appartement en gastenverblijf. Veel ruimte (tot 14 kamers) en een lage prijs per m2 (ca 658 euro). Potentie om op te delen in verhuurunits, maar Rafelcofer is een klein binnenlands dorp met een dunnere huur- en kopersmarkt.",
+      "voors": [
+        "Lage prijs per m2 voor een al opgeknapt, groot pand",
+        "Bestaand onafhankelijk appartement + gastenverblijf: opdelen relatief eenvoudig",
+        "Garage en centrale verwarming aanwezig",
+        "Meerdere units kunnen meervoudige huurinkomsten genereren"
+      ],
+      "tegens": [
+        "Rafelcofer is een klein binnenlands dorp - beperkte huur- en kopersmarkt",
+        "Renovatie uit 1990: update van afwerking/installaties waarschijnlijk nodig",
+        "Formele splitsing in units vergt vergunning en kan complex zijn",
+        "Grote investering met tragere doorverkoop dan kustobjecten"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "300.000 euro"},
+          {"label": "ITP 10%", "waarde": "ca 30.000 euro"},
+          {"label": "Bijkomende kosten (ca 2%)", "waarde": "ca 6.000 euro"},
+          {"label": "Totale aankoopkosten", "waarde": "ca 336.000 euro"},
+          {"label": "Update/herinrichting naar units", "waarde": "afhankelijk van plan - vooraf laten begroten"},
+          {"label": "Indicatief: meervoudige huur mogelijk", "waarde": "afhankelijk van aantal units en lokale huurmarkt"}
+        ],
+        "conclusie": "Lage prijs per m2 is aantrekkelijk, maar de businesscase hangt op de zwakkere binnenlandse markt en op de haalbaarheid/kosten van formele splitsing. Voorzichtig scoren tot huurpotentieel en splitsingsvergunning bevestigd zijn."
+      },
+      "vergunning": "Voor herbestemming naar meerdere zelfstandige woningen is een gemeentelijke vergunning en toetsing aan het bestemmingsplan van Rafelcofer nodig (divisie horizontale / licentie). Bevestig dat splitsing planologisch is toegestaan voordat je daarop rekent; reken op ICIO 4% bij verbouwing.",
+      "overstroming": {
+        "niveau": "Matig",
+        "kleur": "amber",
+        "toelichting": "Rafelcofer ligt op de La Safor-vlakte, waar delen PATRICOVA-risico kennen. Na de DANA van oktober 2024 de actuele perceelkaart raadplegen."
+      },
+      "demografie": "Rafelcofer: klein dorp bij Gandia met overwegend lokale, jaarrondbevolking. Beperkte toeristische vraag; British School Gandia op ca 5 km.",
+      "ideeen": [
+        "Opdelen in 3 - 4 verhuurunits voor jaarrondverhuur aan lokale huurders",
+        "Behoud als groot karakterpand en verkopen aan een grote familie",
+        "Gastenverblijf inzetten voor extra (seizoens)inkomsten"
+      ],
+      "due_diligence": [
+        "Gemeente Rafelcofer: is splitsing in units toegestaan?",
+        "Bouwkundige keuring en update-kosten installaties (renovatie 1990)",
+        "Lokale huurvraag en realistische huurniveaus onderzoeken",
+        "Actuele PATRICOVA-overstromingskaart voor dit perceel"
+      ],
+      "eerlijk_oordeel": "Veel vierkante meters voor het geld en flexibele indeling, maar de binnenlandse ligging en de afhankelijkheid van een splitsingsvergunning maken dit een voorzichtige kans. Alleen sterk als het opdelen vergund en de lokale huurvraag aantoonbaar is.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Onbekend - via advertentie opvragen",
+        "email": null,
+        "url": "https://www.kyero.com/en/property/20851097-commercial-property-for-sale-rafelcofer",
+        "referentie": "PNBS864",
+        "opmerking": "Engelstalige makelaar; remote viewing beschikbaar. Telefoonnummer afgeschermd."
+      },
+      "bronnen": [
+        {"titel": "Kyero - herbestembaar pand Rafelcofer 300.000 euro (ref PNBS864)", "url": "https://www.kyero.com/en/property/20851097-commercial-property-for-sale-rafelcofer"}
+      ]
+    }
+  ]
+}
