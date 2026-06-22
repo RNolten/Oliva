@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-06-21",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "In de regio Oliva blijft het aanbod te renoveren dorpswoningen ruim: in Oliva pueblo staan diverse panden tussen circa 125.000 en 200.000 euro, vaak met lage prijs per m2 voor objecten die nog werk vragen. Aan de kust en net buiten het centrum is bouwgrond beschikbaar voor zelfbouw en doorverkoop. In de omliggende dorpen (El Verger, Ondara, Pedreguer, Monte Pego) is meer commercieel en herbestembaar vastgoed te vinden, soms onder de prijs van Oliva zelf. Let op: na de DANA-overstromingen van oktober 2024 zijn de overstromingskaarten (PATRICOVA) deels herzien; vooral de lager gelegen Marjal de Pego-Oliva en delen van de kustvlakte blijven risicozones. Controleer per object altijd de actuele PATRICOVA-kaart en het bestemmingsplan voor je een bod doet.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Prijzen, oppervlakten en kenmerken zijn overgenomen van openbare advertenties en kunnen afwijken of verouderd zijn. Alle berekeningen zijn ruwe indicaties. Verifieer altijd zelf met makelaar, gemeente (ayuntamiento), notaris en een bouwkundige voor je verplichtingen aangaat."
+  },
+  "kansen": [
+    {
+      "id": "oliva-flip-n332-tweewoningen-2026-06-21",
+      "titel": "Ruim pand met twee woonlagen aan entree Oliva (N332)",
+      "type": "Te flippen pand met dubbele verhuuroptie",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva",
+      "regio": "Marina Alta / La Safor",
+      "vraagprijs": 159950,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "159.950 euro vraagprijs; circa 632 euro/m2 bij 253 m2 bouwoppervlak - ver onder marktgemiddelde voor de regio.",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "253 m2"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "4"},
+        {"label": "Indeling", "waarde": "Opgedeeld in twee aparte woongedeeltes"},
+        {"label": "Ligging", "waarde": "Entree van Oliva langs de N332, buiten casco historico"},
+        {"label": "Referentie", "waarde": "za955"}
+      ],
+      "score": 73,
+      "score_label": "Sterk",
+      "strategie": "Kopen, opsplitsen-klaar maken en flippen, of een deel verhuren terwijl je verkoopt. De bestaande tweedeling biedt flexibiliteit zonder zware vergunningsstrijd.",
+      "samenvatting": "Groot pand van 253 m2 aan de rand van Oliva, al verdeeld in twee zelfstandige woongedeeltes. De erg lage prijs per m2 (circa 632 euro) geeft ruimte voor renovatie met marge. Ligging buiten het oude centrum vermijdt de splitsings- en vochtproblemen die het casco historico vaak onaantrekkelijk maken.",
+      "voors": [
+        "Zeer lage prijs per m2 (circa 632 euro/m2), ruim onder regionale richtwaarde",
+        "Al in twee woongedeeltes verdeeld: directe optie voor dubbele verhuur of gefaseerde verkoop",
+        "Buiten casco historico - minder kans op splitsingsverbod en ouderdomsvocht",
+        "Ruim metrage geeft meerdere herindelingsopties"
+      ],
+      "tegens": [
+        "Ligging direct aan de drukke N332 kan geluidsoverlast geven en verkoopwaarde drukken",
+        "Aantal badkamers (4) bij 3 slaapkamers wijst op rommelige indeling die herstructurering vergt",
+        "Werkelijke renovatiebehoefte en staat onbekend zonder bouwkundige inspectie"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "159.950 euro"},
+          {"label": "ITP 10%", "waarde": "circa 15.995 euro"},
+          {"label": "Notaris/registratie/advocaat", "waarde": "circa 4.400 euro"},
+          {"label": "Renovatie indicatie (250 m2 x 700-1.100 euro)", "waarde": "circa 175.000 - 275.000 euro"},
+          {"label": "Totale investering indicatie", "waarde": "circa 355.000 - 455.000 euro"}
+        ],
+        "conclusie": "Bij een lichte tot middelzware renovatie blijft de instap aantrekkelijk. Een volledige zware renovatie van 253 m2 tilt de totale kosten richting 450.000 euro; reken alleen door bij verkoopwaarde duidelijk daarboven. Verhuur van een van beide delen tijdens de verkoopfase verlaagt het risico."
+      },
+      "vergunning": "Bestaand pand, dus renovatie binnen de bestaande bouwenvelop vraagt doorgaans alleen een gemeentelijke vergunning (licencia de obra) en ICIO van circa 4%. Bevestig bij de gemeente of de bestaande tweedeling formeel als twee woningen is geregistreerd; zo niet, kan officiele splitsing (division horizontal) nodig zijn.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Oliva-stad ligt grotendeels buiten de hoogste risicozones, maar de N332-corridor kan lokaal afwateringsproblemen kennen. Controleer de actuele PATRICOVA-kaart voor dit perceel."
+      },
+      "demografie": "Oliva is een levendige kustplaats met een sterke mix van lokale bewoners en Noord-Europese kopers; stabiele vraag naar zowel koop als (vakantie)verhuur.",
+      "ideeen": [
+        "Beide woondelen apart renoveren en als twee units verhuren voor dubbele inkomstenstroom",
+        "Een deel als hoofdwoning verkopen en het andere als studio/appartement afsplitsen",
+        "Geluidwerende voorzieningen aan de straatzijde om N332-nadeel te beperken"
+      ],
+      "due_diligence": [
+        "Bouwkundige inspectie op vocht, dak en constructie",
+        "Nota simple bij het kadaster en bevestiging van geregistreerde indeling",
+        "Bevestig of splitsing (division horizontal) is toegestaan en geregistreerd",
+        "PATRICOVA-overstromingskaart en bestemmingsplan opvragen"
+      ],
+      "eerlijk_oordeel": "De sterkste kandidaat van vandaag: lage instapprijs per m2, flexibele tweedeling en ligging buiten het lastige oude centrum. De ligging aan de N332 en de onbekende renovatiestaat zijn de echte risico's - laat dit altijd inspecteren voor je rekent op de marge.",
+      "contact": {
+        "bron": "Kyero / CASAS y Cia. Estate Agents",
+        "telefoon": "Via advertentiepagina (begint met +34)",
+        "email": "Via contactformulier op de advertentie",
+        "url": "https://www.kyero.com/en/property/20809652-town-house-for-sale-oliva",
+        "referentie": "za955",
+        "opmerking": "Telefoonnummer staat achter een klik op de advertentiepagina; niet zelf ingevuld om verzinnen te vermijden."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Town house Oliva za955 (159.950 euro)", "url": "https://www.kyero.com/en/property/20809652-town-house-for-sale-oliva"},
+        {"titel": "Kyero - Overzicht town houses Oliva", "url": "https://www.kyero.com/en/oliva-town-houses-for-sale-0l53477g3"}
+      ]
+    },
+    {
+      "id": "oliva-bouwgrond-450m-strand-2026-06-21",
+      "titel": "Stedelijke bouwkavel op 450 m van het strand van Oliva",
+      "type": "Bouwgrond voor zelfbouw en doorverkoop",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva",
+      "regio": "Marina Alta / La Safor",
+      "vraagprijs": 177000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "177.000 euro vraagprijs. Exacte perceelgrootte en bouwindex (edificabilidad) niet volledig vermeld in de advertentie - opvragen.",
+      "kerngegevens": [
+        {"label": "Type grond", "waarde": "Urbano (stedelijk, bouwbestemd)"},
+        {"label": "Afstand strand", "waarde": "Circa 450 m (7 min lopen)"},
+        {"label": "Afstand centrum Oliva", "waarde": "Circa 2 km"},
+        {"label": "Omgeving", "waarde": "Bij tennisclub, woonzone bij de kust"},
+        {"label": "Referentie", "waarde": "OCPL010"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Zelf een woning of klein appartementenblok ontwikkelen en doorverkopen, of de grond met goedgekeurd project doorverkopen aan een eindgebruiker. Kustnabijheid stuwt de verkoopwaarde per m2.",
+      "samenvatting": "Stedelijke bouwkavel op loopafstand van het strand van Oliva, in de gewilde Platja de Oliva-zone. Bouwgrond met directe nabijheid van de kust scoort sterk op locatie en verkoopwaarde, maar de exacte bouwindex en het overstromingsprofiel moeten worden bevestigd.",
+      "voors": [
+        "Toplocatie: 450 m van het strand in een zone met sterke (vakantie)verhuurvraag",
+        "Stedelijke bestemming - in principe direct bouwbaar, geen rustieke beperking",
+        "Verkoopwaarde per m2 aan de kust (circa 3.000-4.000 euro) ligt fors hoger dan in het binnenland",
+        "Vraag naar nieuwbouw bij de kust blijft robuust"
+      ],
+      "tegens": [
+        "Exacte perceelgrootte en toegestane bouwvolume (edificabilidad) niet in de advertentie - bepalend voor de business case",
+        "Kustzone vraagt extra aandacht voor PATRICOVA-overstromingsrisico",
+        "Ontwikkeltraject (project, vergunning, bouw) duurt langer en bindt kapitaal",
+        "Bouwkosten 700-1.100 euro/m2 plus ICIO 4% drukken de marge"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs grond", "waarde": "177.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 17.700 euro"},
+          {"label": "Notaris/registratie/advocaat", "waarde": "circa 4.900 euro"},
+          {"label": "Bouwkosten (afhankelijk van volume)", "waarde": "700-1.100 euro/m2 + ICIO 4%"},
+          {"label": "Verkoopwaarde kustzone (indicatie)", "waarde": "circa 3.000-4.000 euro/m2 afgewerkt"}
+        ],
+        "conclusie": "De business case staat of valt met het toegestane bouwvolume. Met een gunstige bouwindex en kustverkoopprijzen kan de marge ruim boven 20% liggen; zonder bevestigde edificabilidad is dit niet hard te maken. Eerst bouwindex en project bevestigen."
+      },
+      "vergunning": "Stedelijke grond is in beginsel bouwbaar, maar vraag bij de gemeente het toegestane bouwvolume, hoogte en bezettingspercentage op. Reken op een bouwvergunning (licencia de obra) en ICIO van circa 4% over de bouwsom. Bevestig dat het perceel volledig urbano (geconsolideerd) is en geen aanvullende urbanisatiekosten kent.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Kustnabije percelen in Oliva kunnen in of nabij PATRICOVA-aandachtszones liggen, zeker na de kaartherzieningen post-DANA 2024. Vraag de overstromingsclassificatie van dit specifieke perceel op voor aankoop."
+      },
+      "demografie": "De strandzone van Oliva (Platja de Oliva) heeft een sterke vakantieverhuurmarkt en hoge vraag onder buitenlandse kopers - gunstig voor doorverkoop van nieuwbouw.",
+      "ideeen": [
+        "Compacte villa met zwembad bouwen gericht op de Noord-Europese koper",
+        "Indien bouwindex het toelaat: twee of meer units voor verkoop of verhuur",
+        "Grond met kant-en-klaar goedgekeurd project doorverkopen voor snellere exit"
+      ],
+      "due_diligence": [
+        "Bouwindex, hoogte en bezettingspercentage bij de gemeente bevestigen",
+        "PATRICOVA-overstromingsclassificatie van het perceel opvragen",
+        "Nota simple kadaster en eventuele lasten/urbanisatiekosten controleren",
+        "Bodem- en aansluitingsonderzoek (water, riool, elektra)"
+      ],
+      "eerlijk_oordeel": "Sterke locatie met kustpremie, maar dit is pas echt te beoordelen als het toegestane bouwvolume bekend is. Behandel de score als voorlopig: bevestig edificabilidad en overstromingszone voordat je dit serieus oppakt.",
+      "contact": {
+        "bron": "Kyero / Oliva Casas",
+        "telefoon": "Via advertentiepagina (begint met +34)",
+        "email": "Via contactformulier op de advertentie",
+        "url": "https://www.kyero.com/en/property/14761288-land-for-sale-oliva",
+        "referentie": "OCPL010",
+        "opmerking": "Perceelgrootte niet expliciet in advertentie; opvragen bij makelaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Land Oliva OCPL010 (177.000 euro)", "url": "https://www.kyero.com/en/property/14761288-land-for-sale-oliva"},
+        {"titel": "Kyero - Overzicht bouwgrond Oliva", "url": "https://www.kyero.com/en/oliva-land-for-sale-0l53477g5"}
+      ]
+    },
+    {
+      "id": "oliva-verhuur-gerenoveerd-126m-2026-06-21",
+      "titel": "Volledig gerenoveerde dorpswoning Oliva, instapklaar",
+      "type": "Instapklaar verhuurobject",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva",
+      "regio": "Marina Alta / La Safor",
+      "vraagprijs": 165000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "165.000 euro vraagprijs voor een al gerenoveerd pand - weinig extra kapitaal nodig om te verhuren.",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "126 m2"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Staat", "waarde": "Volledig gerenoveerd, traditioneel met moderne afwerking"},
+        {"label": "Ligging", "waarde": "Oliva pueblo"}
+      ],
+      "score": 68,
+      "score_label": "Interessant",
+      "strategie": "Direct verhuren (jaar- of vakantieverhuur) met minimale instapkosten, of als instapklaar object met kleine cosmetische upgrade doorverkopen. Geschikt voor wie cashflow boven verbouwrisico verkiest.",
+      "samenvatting": "Al volledig gerenoveerde woning van 126 m2 in Oliva pueblo, die traditionele elementen combineert met een moderne afwerking. Het pand is direct verhuurbaar, waardoor het kapitaalrisico laag is. Keerzijde: omdat het werk al gedaan is, is er weinig flipmarge over.",
+      "voors": [
+        "Instapklaar: geen verbouwrisico of doorlooptijd, direct te verhuren",
+        "Oliva pueblo buiten het problematische casco historico - haalbare, stabiele markt",
+        "Compacte, courante maat (126 m2, 3 slaapkamers) met brede vraag",
+        "Lage extra investering nodig"
+      ],
+      "tegens": [
+        "Beperkte flipmarge: renovatiewaarde is al verrekend in de prijs",
+        "Kwaliteit van de uitgevoerde renovatie moet geverifieerd worden (afwerking, installaties)",
+        "Rendement hangt af van of vakantieverhuur lokaal is toegestaan (vergunning)"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "165.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 16.500 euro"},
+          {"label": "Notaris/registratie/advocaat", "waarde": "circa 4.500 euro"},
+          {"label": "Cosmetische upgrade/inrichting", "waarde": "circa 5.000 - 15.000 euro"},
+          {"label": "Totale instap indicatie", "waarde": "circa 190.000 - 200.000 euro"}
+        ],
+        "conclusie": "Met een totale instap rond 190.000-200.000 euro is dit vooral een cashflow- of buy-and-hold verhaal, niet een klassieke flip. Toets de te verwachten huur en de haalbaarheid van een vakantieverhuurvergunning om het rendement te onderbouwen."
+      },
+      "vergunning": "Als bestaand, gerenoveerd pand zijn er voor bewoning geen grote vergunningshobbels. Wil je vakantieverhuur doen, controleer dan de eis voor een toeristische verhuurvergunning (licencia turistica) en of de gemeente Oliva nieuwe vergunningen in deze zone nog afgeeft.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo ligt op hoger gelegen, geconsolideerd stedelijk terrein en valt doorgaans buiten de hoogste PATRICOVA-risicozones. Verifieer wel het exacte adres."
+      },
+      "demografie": "Oliva pueblo trekt zowel lokale huurders als buitenlandse kopers; gerenoveerde, instapklare woningen verhuren en verkopen er relatief vlot.",
+      "ideeen": [
+        "Jaarverhuur voor stabiele cashflow met laag beheer",
+        "Vakantieverhuur indien vergunning haalbaar, voor hoger seizoensrendement",
+        "Doorverkoop aan een koper die instapklaar zoekt, met lichte styling"
+      ],
+      "due_diligence": [
+        "Kwaliteit en legaliteit van de uitgevoerde renovatie controleren (vergunningen, eindafrekening)",
+        "Haalbaarheid en kosten van een toeristische verhuurvergunning nagaan",
+        "Marktconforme huurprijzen in de buurt toetsen",
+        "Energiecertificaat en installaties controleren"
+      ],
+      "eerlijk_oordeel": "Solide, laag-risico verhuuroptie maar geen flip: de marge zit al in de prijs verwerkt. Past bij wie zekerheid en directe verhuur boven verbouwwinst stelt. Reken niet op snelle doorverkoopwinst.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Via advertentiepagina (begint met +34)",
+        "email": "Via contactformulier op de advertentie",
+        "url": "https://www.kyero.com/en/property/20806678-town-house-for-sale-oliva",
+        "referentie": "Onbekend - niet vermeld op kaart",
+        "opmerking": "Referentienummer niet zichtbaar in overzicht; opvragen bij makelaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Gerenoveerde dorpswoning Oliva (165.000 euro)", "url": "https://www.kyero.com/en/property/20806678-town-house-for-sale-oliva"},
+        {"titel": "Kyero - Overzicht town houses Oliva", "url": "https://www.kyero.com/en/oliva-town-houses-for-sale-0l53477g3"}
+      ]
+    },
+    {
+      "id": "monte-pego-horeca-bar-cafe-2026-06-21",
+      "titel": "Gevestigde bar-cafeteria met zeezicht in Monte Pego",
+      "type": "Horeca met lopende exploitatie",
+      "type_kort": "Horeca",
+      "plaats": "Monte Pego (Pego)",
+      "regio": "Marina Alta",
+      "vraagprijs": 370000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "370.000 euro vraagprijs voor 117 m2 bebouwd op 391 m2 perceel; energielabel B.",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "117 m2"},
+        {"label": "Perceel", "waarde": "391 m2"},
+        {"label": "Type", "waarde": "Langlopende bar-cafeteria"},
+        {"label": "Ligging", "waarde": "Gevestigde, drukbezochte urbanisatie Monte Pego, met zeezicht"},
+        {"label": "Energielabel", "waarde": "B"},
+        {"label": "Referentie", "waarde": "N-3425"}
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Lopende horeca overnemen voor directe exploitatie of verpachten, of het pand herpositioneren. Sterke ligging in een gevestigde urbanisatie met vaste klantenkring en zeezicht.",
+      "samenvatting": "Al lang bestaande bar-cafeteria in de drukbezochte urbanisatie Monte Pego, met terras en zeezicht en een gunstig energielabel B. Het is een instapklare horecazaak met een bestaande klantenkring; de waarde zit vooral in de locatie en de lopende exploitatie, minder in een klassieke verbouw-flip.",
+      "voors": [
+        "Gevestigde zaak met bestaande klantenkring en zeezicht - directe exploitatie mogelijk",
+        "Gunstig energielabel B beperkt verduurzamingskosten",
+        "Hoger gelegen op Monte Pego: laag overstromingsrisico ondanks nabijheid Marjal",
+        "Perceel van 391 m2 biedt ruimte voor terras/uitbreiding"
+      ],
+      "tegens": [
+        "Horeca in een urbanisatie is sterk seizoensgebonden (vakantievraag)",
+        "Hogere instapprijs (370.000 euro) met beperkte klassieke flipmarge",
+        "Exploitatieresultaat/omzet niet vermeld - cruciaal en op te vragen",
+        "Succes hangt af van uitbating; passief doorverkopen is lastiger"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "370.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 37.000 euro"},
+          {"label": "Notaris/registratie/advocaat", "waarde": "circa 10.200 euro"},
+          {"label": "Totale aankoopkosten indicatie", "waarde": "circa 417.000 euro"},
+          {"label": "Inventaris/opfris (indicatie)", "waarde": "p.m. - afhankelijk van staat"}
+        ],
+        "conclusie": "Dit is eerder een inkomsten- dan een flip-case. De terugverdientijd hangt volledig af van de (niet vermelde) omzet en marge van de zaak. Vraag de jaarcijfers op; zonder die cijfers is 370.000 euro niet te onderbouwen als flip."
+      },
+      "vergunning": "Bestaande horecabestemming met lopende vergunning (licencia de actividad) is een groot pluspunt - bevestig dat deze overdraagbaar en actueel is. Bij verbouwing of uitbreiding terras gelden gemeentelijke vergunningen en ICIO. Controleer geluids- en terrasvergunningen binnen de urbanisatie.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Monte Pego ligt verhoogd tegen de berg, los van de laaggelegen Marjal de Pego-Oliva. Het overstromingsrisico op deze hoogte is laag; verifieer het exacte perceel op de PATRICOVA-kaart."
+      },
+      "demografie": "Monte Pego is een internationale urbanisatie met veel Noord-Europese bewoners en toeristen - een vaste, maar seizoensgevoelige horecavraag.",
+      "ideeen": [
+        "Voortzetten als bar-cafeteria met focus op het toeristenseizoen",
+        "Verpachten aan een uitbater voor passief rendement",
+        "Concept opwaarderen (restaurant met zeezicht-terras) om de marge te verhogen"
+      ],
+      "due_diligence": [
+        "Jaarcijfers/omzet en lopende lasten van de zaak opvragen",
+        "Overdraagbaarheid en actualiteit van de horeca- en terrasvergunning checken",
+        "Seizoenspatroon en concurrentie binnen de urbanisatie beoordelen",
+        "Staat van inventaris en installaties laten controleren"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke locatie en instapklare zaak, maar de prijs is alleen te rechtvaardigen als de omzetcijfers kloppen. Voor een flipper minder geschikt; voor wie horeca wil uitbaten of verpachten kan het werken. Sterk afhankelijk van de cijfers die nog ontbreken.",
+      "contact": {
+        "bron": "Kyero / Starck - Estates",
+        "telefoon": "Via advertentiepagina (begint met +34)",
+        "email": "Via contactformulier op de advertentie",
+        "url": "https://www.kyero.com/en/property/19646978-commercial-property-for-sale-monte-pego",
+        "referentie": "N-3425",
+        "opmerking": "Omzet/exploitatiecijfers niet vermeld; opvragen bij makelaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Bar-cafeteria Monte Pego N-3425 (370.000 euro)", "url": "https://www.kyero.com/en/property/19646978-commercial-property-for-sale-monte-pego"}
+      ]
+    },
+    {
+      "id": "el-verger-bedrijfspand-twee-woningen-2026-06-21",
+      "titel": "Groot gebouw met twee woningen en garage in El Verger",
+      "type": "Herbestembaar pand met meerdere units",
+      "type_kort": "Bedrijfspand",
+      "plaats": "El Verger",
+      "regio": "Marina Alta",
+      "vraagprijs": 473000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "473.000 euro vraagprijs voor 470 m2 bebouwd op 203 m2 perceel; energielabel D.",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "470 m2"},
+        {"label": "Perceel", "waarde": "203 m2"},
+        {"label": "Slaapkamers", "waarde": "4"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Indeling", "waarde": "Twee onafhankelijke woningen, twee terrassen, grote garage, over drie verdiepingen"},
+        {"label": "Ligging", "waarde": "Centraal in het dorp El Verger"},
+        {"label": "Energielabel", "waarde": "D"},
+        {"label": "Referentie", "waarde": "089VAL473.FPV-B/3716"}
+      ],
+      "score": 62,
+      "score_label": "Interessant",
+      "strategie": "Twee zelfstandige woningen plus garage: geschikt voor dubbele verhuur, gefaseerde verkoop of herbestemming. Veel vierkante meters voor de prijs, maar wel dicht tegen het budgetplafond.",
+      "samenvatting": "Fors gebouw van 470 m2 in het centrum van El Verger met twee onafhankelijke woningen, twee terrassen en een grote garage, verdeeld over drie verdiepingen. Veel metrage en flexibiliteit voor verhuur of herbestemming, maar de prijs zit dicht tegen de bovengrens van het budget en energielabel D wijst op verduurzamingskosten.",
+      "voors": [
+        "Twee onafhankelijke woningen: directe optie voor dubbele verhuur of gespreide verkoop",
+        "Veel bouwoppervlak (470 m2) en een grote garage - garage is schaars en waardevol",
+        "Centrale dorpsligging in El Verger, dicht bij voorzieningen",
+        "Per m2 relatief voordelig (circa 1.006 euro/m2)"
+      ],
+      "tegens": [
+        "Vraagprijs (473.000 euro) zit tegen het budgetplafond; all-in richting 533.000 euro met kosten",
+        "Energielabel D: rekening houden met isolatie-/installatiekosten",
+        "Klein perceel (203 m2) bij groot bouwvolume - weinig buitenruimte/uitbreiding",
+        "El Verger ligt in de kustvlakte: overstromingsrisico expliciet te checken"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "473.000 euro"},
+          {"label": "ITP 10%", "waarde": "circa 47.300 euro"},
+          {"label": "Notaris/registratie/advocaat", "waarde": "circa 13.000 euro"},
+          {"label": "Totale aankoopkosten indicatie", "waarde": "circa 533.000 euro"},
+          {"label": "Opknap/verduurzaming (label D)", "waarde": "p.m. - afhankelijk van staat"}
+        ],
+        "conclusie": "Met aankoopkosten rond 533.000 euro ligt de all-in net boven het budgetplafond. De case werkt vooral via huurinkomsten uit twee units; voor een pure flip is de marge bij deze prijs krap. Onderhandelruimte en huurpotentieel zijn doorslaggevend."
+      },
+      "vergunning": "Bestaand gebouw met twee woningen; bevestig dat beide units formeel (division horizontal) geregistreerd zijn. Renovatie binnen de bestaande envelop vraagt een gemeentelijke vergunning en ICIO van circa 4%. Voor herbestemming naar ander gebruik is afstemming met de gemeente nodig.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "El Verger ligt in de Marina Alta-kustvlakte nabij rivierlopen; delen kennen PATRICOVA-aandacht, mogelijk aangescherpt na de DANA van 2024. Vraag de overstromingsclassificatie van dit centrum-perceel op."
+      },
+      "demografie": "El Verger is een dorp met een vaste lokale bevolking en groeiende interesse van buitenlandse kopers door de nabijheid van Denia en de stranden; redelijke verhuurvraag.",
+      "ideeen": [
+        "Beide woningen renoveren en als twee aparte units verhuren",
+        "Garage apart verhuren of als bedrijfsruimte benutten",
+        "Een unit verkopen om kapitaal vrij te maken en de tweede aanhouden"
+      ],
+      "due_diligence": [
+        "Registratie van beide woningen (division horizontal) en garage controleren",
+        "PATRICOVA-overstromingsclassificatie van het perceel opvragen",
+        "Onderhandelruimte op de vraagprijs peilen (prijs tegen budgetplafond)",
+        "Energielabel D: kosten van verduurzaming inschatten",
+        "Realistische huurinkomsten per unit toetsen"
+      ],
+      "eerlijk_oordeel": "Veel vierkante meters en flexibiliteit voor de prijs, maar de hoge instap tegen het budgetplafond en energielabel D maken de marge krap voor een flip. Dit is vooral een verhuur-/herbestemmingscase die alleen werkt met stevige onderhandeling en bevestigd huurpotentieel. Pak het niet op zonder overstromingscheck.",
+      "contact": {
+        "bron": "Kyero / HogarAbitat",
+        "telefoon": "Via advertentiepagina (begint met +34)",
+        "email": "Via contactformulier op de advertentie",
+        "url": "https://www.kyero.com/en/property/20531478-commercial-property-for-sale-el-verger",
+        "referentie": "089VAL473.FPV-B/3716",
+        "opmerking": "Prijs ligt tegen budgetplafond; reken op onderhandeling."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Gebouw met twee woningen El Verger (473.000 euro)", "url": "https://www.kyero.com/en/property/20531478-commercial-property-for-sale-el-verger"},
+        {"titel": "Kyero - Overzicht commercieel vastgoed Els Poblets e.o.", "url": "https://www.kyero.com/en/els-poblets-commercial-properties-for-sale-0l1622g8"}
+      ]
+    }
+  ]
+}
