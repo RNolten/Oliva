@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-05",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "dagelijkse run",
+    "aantal": 5,
+    "marktcontext": "Onderzoek op idealista, kyero en habitaclia (5 juli 2026). Aanbod onder 100.000 euro is schaars maar aanwezig in Oliva en Pego, en er zijn opvallend veel prijsverlagingen: een dorpswoning in Oliva pueblo zakte 17% naar 49.000 euro en een centrumkavel in Ondara ging 30.000 euro omlaag. Pego biedt momenteel de meeste waarde per m2 (300 m2 huis voor 99.000 euro, 135 m2 appartement voor 72.800 euro). Vraag naar verhuurbare objecten aan de kust blijft hoog.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle gegevens komen uit online advertenties en zijn niet ter plaatse gecontroleerd. Verifieer prijzen, vergunningen en bouwkundige staat altijd zelf voor een bod."
+  },
+  "kansen": [
+    {
+      "id": "oliva-restaurant-bar-pand-plus-zaak-100m2-80k-2026-07-05",
+      "titel": "Restaurant-bar in Oliva: pand plus zaak voor 80.000 euro",
+      "type": "Horeca - pand en handelszaak in een koop",
+      "type_kort": "Horeca",
+      "plaats": "Oliva (pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 80000,
+      "prijs_status": "Vraagprijs, pand en traspaso inbegrepen",
+      "prijs_notitie": "80.000 euro voor vastgoed EN handelszaak samen; dat is laag voor een instapklaar restaurant",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "100 m2, 1 bouwlaag, a pie de calle"},
+        {"label": "Capaciteit", "waarde": "tot 80 couverts binnen + terras ca. 20 m2"},
+        {"label": "Uitrusting", "waarde": "volledige keuken met rookafvoer, airco, verwarming, magazijn, 2 toiletten, camerabeveiliging"},
+        {"label": "Bouwjaar", "waarde": "2000, goede staat volgens advertentie"}
+      ],
+      "score": 72,
+      "score_label": "Sterk",
+      "strategie": "Kopen en verhuren aan een uitbater, of opknappen en als draaiende zaak doorverkopen",
+      "samenvatting": "Restaurant in een goede winkelzone van Oliva, volgens de makelaar klaar om te openen. De koop omvat zowel het pand als de zaak (inmueble y traspaso). Met rookafvoer, complete keuken en 80 zitplaatsen is dit direct exploiteerbaar of verhuurbaar aan een horeca-ondernemer.",
+      "voors": [
+        "Pand plus zaak voor 80.000 euro is een lage instap voor horeca in Oliva-centrum",
+        "Rookafvoer (salida de humos) aanwezig - vaak het grootste vergunningsobstakel bij horeca",
+        "Relatief jong pand (2000), dus minder bouwkundig risico dan de oude dorpskern",
+        "Verhuur aan uitbater kan 700-1.100 euro per maand opleveren, ca. 10-16% bruto op de koopsom"
+      ],
+      "tegens": [
+        "Waarom stopt de huidige eigenaar? Cijfers van de zaak zijn niet openbaar - opvragen",
+        "Advertentie dateert van najaar 2025 (geupdatet 1 november); lang te koop kan op verborgen gebreken of te hoge prijs wijzen",
+        "Horeca-licentie moet op naam worden overgezet; controleer of de licencia de actividad nog geldig is",
+        "Exacte ligging niet in advertentie vermeld; loop de zone eerst zelf na"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs (pand + zaak)", "waarde": "80.000 euro"},
+          {"label": "ITP 10% + kosten ca. 2%", "waarde": "ca. 9.600 euro"},
+          {"label": "Opfrissen interieur (stelpost)", "waarde": "10.000 - 20.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 100.000 - 110.000 euro"},
+          {"label": "Huurpotentieel aan uitbater", "waarde": "700 - 1.100 euro/maand (8-13% bruto)"}
+        ],
+        "conclusie": "Als de licentie geldig is en het pand geen gebreken heeft, is dit een van de goedkoopste manieren om renderende horeca in Oliva-centrum te bezitten. Rendement zit vooral in verhuur, niet in snelle flip."
+      },
+      "vergunning": "Bestaande horeca-activiteit (restaurante/bar) met rookafvoer is het halve werk: overname van de licencia de actividad bij de gemeente Oliva is doorgaans haalbaar mits het pand aan de huidige eisen voldoet (brandveiligheid, toegankelijkheid). Controleer wel of de licentie actief is en niet vervallen door leegstand.",
+      "overstroming": {
+        "niveau": "Laag tot gemiddeld",
+        "kleur": "amber",
+        "toelichting": "Oliva pueblo ligt grotendeels buiten de PATRICOVA-risicozones, maar delen van laag Oliva richting de marjal kennen risico. Exacte straat onbekend, dus check de PATRICOVA-kaart zodra het adres bekend is."
+      },
+      "demografie": "Oliva (ca. 27.000 inwoners) heeft een stabiele lokale klandizie plus sterke zomerpiek door strandtoerisme; winkelzones in het pueblo draaien het hele jaar.",
+      "ideeen": ["Verhuren aan startende horeca-ondernemer met koopoptie", "Zelf seizoensexploitatie en in winter dicht", "Ombouwen naar gastrobar gericht op NL/BE/UK residenten"],
+      "due_diligence": ["Status en overdraagbaarheid van de horeca-licentie bij gemeente Oliva", "Jaarcijfers en reden van verkoop opvragen", "Bouwkundige staat keukeninstallatie en rookkanaal", "Exact adres en PATRICOVA-check"],
+      "eerlijk_oordeel": "Beste prijs-kwaliteit van deze run als je verhuurrendement zoekt. Het is geen flip-object: de winst zit in kasstroom. De lange verkooptijd is een onderhandelingskans, maar ook een waarschuwing - ga pas akkoord na inzage in de licentie en cijfers.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "via advertentie (knop 'Ver telefono')",
+        "email": "via contactformulier idealista",
+        "url": "https://www.idealista.com/inmueble/105739463/",
+        "referentie": "PNBS347",
+        "opmerking": "Makelaar: Inmobiliaria Parasol Networks (Oliva); eigen site: parasolnetworks.com, ref 347"
+      },
+      "bronnen": [
+        {"titel": "Advertentie idealista (geverifieerd 2026-07-05)", "url": "https://www.idealista.com/inmueble/105739463/"},
+        {"titel": "Parasol Networks - restaurante de venta en Oliva ref 347", "url": "https://parasolnetworks.com/propiedad/restaurante-de-venta-en-oliva-ref-347/"}
+      ]
+    },
+    {
+      "id": "pego-appartement-135m2-dakterras-73k-2026-07-05",
+      "titel": "Appartement 135 m2 met dakterras in Pego voor 72.800 euro",
+      "type": "Verhuurobject / lichte renovatie",
+      "type_kort": "Verhuur",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 72800,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "539 euro per m2 - fors onder het marktgemiddelde voor Pego",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "135 m2"},
+        {"label": "Indeling", "waarde": "3 slaapkamers, 1 badkamer, kantoor"},
+        {"label": "Buitenruimte", "waarde": "dakterras"},
+        {"label": "Energielabel", "waarde": "E (verbruik en emissies)"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Licht opknappen en langjarig verhuren; doorverkoop na waardestijging als exit",
+      "samenvatting": "Ruim appartement van 135 m2 met dakterras in Pego, aangeboden door HogarAbitat voor 72.800 euro, met 3D-tour en 49 fotos online. Op deze prijs per m2 is zelfs met een opknapbudget van 20.000-30.000 euro de totale investering laag vergeleken met de Pego-markt (instapklare appartementen staan er vanaf ca. 120.000-144.000 euro).",
+      "voors": [
+        "539 euro/m2 is een van de laagste prijzen per m2 in de regio deze run",
+        "Groot woonoppervlak plus dakterras: gewild bij lokale langetermijnhuurders",
+        "Virtuele 3D-tour en veel fotos beschikbaar - eerste screening kan op afstand",
+        "Vergelijkbare instapklare appartementen in Pego staan te koop vanaf ca. 120.000 euro: ruimte voor marge"
+      ],
+      "tegens": [
+        "1 badkamer op 135 m2 en energielabel E: renovatie nodig om de top van de markt te halen",
+        "Pego is een binnenlandmarkt: geen vakantieverhuurpremie zoals aan de kust",
+        "Staat van het gebouw (lift, gevel, gemeenschapskosten) onbekend",
+        "Advertentietekst is vooral makelaarspromotie; weinig detail over het object zelf"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "72.800 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca. 9.300 euro (kyero-berekening incl. advocaat)"},
+          {"label": "Renovatie badkamer/keuken/label", "waarde": "20.000 - 30.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 102.000 - 112.000 euro"},
+          {"label": "Huurpotentieel lange termijn", "waarde": "650 - 800 euro/maand (7-9% bruto)"},
+          {"label": "Indicatieve verkoopwaarde gerenoveerd", "waarde": "125.000 - 150.000 euro"}
+        ],
+        "conclusie": "Business case haalbaar aan beide kanten: verhuur levert ca. 7-9% bruto, en doorverkoop na renovatie kan 15-30% marge geven. Marge is gevoelig voor renovatiekosten - budget bewaken."
+      },
+      "vergunning": "Bestaande woning; interne renovatie vergt slechts een licencia de obra menor (ICIO ca. 4% over de verbouwsom). Geen splitsing of herbestemming nodig.",
+      "overstroming": {
+        "niveau": "Gemiddeld - kern Pego",
+        "kleur": "amber",
+        "toelichting": "Pego-dorp ligt aan de rand van de Marjal de Pego-Oliva. De kern zelf ligt hoger dan de marjal, maar na de DANA van 2024 zijn de PATRICOVA-kaarten herzien; check de exacte straat. Een appartement op verdieping beperkt het schaderisico."
+      },
+      "demografie": "Pego (ca. 10.000 inwoners) heeft een stabiele huurmarkt met lokale gezinnen en een groeiende groep buitenlandse residenten die het binnenland verkiezen; huren stegen de afgelopen jaren mee met de regio.",
+      "ideeen": ["Tweede badkamer toevoegen (135 m2 biedt ruimte) voor hogere huur", "Dakterras opwaarderen als USP", "Verhuur aan lokaal gezin voor stabiele kasstroom"],
+      "due_diligence": ["Gemeenschapskosten en staat van het gebouw (ITE-keuring)", "Exacte verdieping en of er een lift is", "Huurprijzen vergelijkbare objecten in Pego checken", "PATRICOVA-kaart voor het exacte adres"],
+      "eerlijk_oordeel": "Degelijke verhuurkans met lage instap, geen spectaculaire flip. De prijs per m2 geeft buffer, maar de advertentie verklapt weinig over de staat - de 3D-tour bekijken is stap een. Een appartement op verdieping dempt bovendien het overstromingsrisico dat in Pego altijd meespeelt.",
+      "contact": {
+        "bron": "kyero.com",
+        "telefoon": "+34 9... (via kyero-knop 'see number')",
+        "email": "via contactformulier kyero",
+        "url": "https://www.kyero.com/en/property/20017731-apartment-for-sale-pego",
+        "referentie": "102MAR72.FPV-C/3716",
+        "opmerking": "Makelaar: HogarAbitat (Engelstalig)"
+      },
+      "bronnen": [
+        {"titel": "Advertentie kyero (geverifieerd 2026-07-05)", "url": "https://www.kyero.com/en/property/20017731-apartment-for-sale-pego"},
+        {"titel": "Kyero - goedkoop aanbod Pego (marktvergelijking)", "url": "https://www.kyero.com/en/pego-property-for-sale-0l1581?max_price=100000"}
+      ]
+    },
+    {
+      "id": "pego-groot-huis-300m2-garage-99k-2026-07-05",
+      "titel": "Huis van 300 m2 met garage in hartje Pego voor 99.000 euro",
+      "type": "Groot renovatieproject / buitenkans",
+      "type_kort": "Buitenkans",
+      "plaats": "Pego (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 99000,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "330 euro per m2 - uitzonderlijk laag voor zoveel bebouwd oppervlak",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "300 m2 bebouwd"},
+        {"label": "Indeling", "waarde": "5 slaapkamers, 3 badkamers, aparte keuken, kantoor, berging"},
+        {"label": "Buiten en parkeren", "waarde": "terras, patio, garage en parkeerplek"},
+        {"label": "Energielabel", "waarde": "E"}
+      ],
+      "score": 69,
+      "score_label": "Interessant",
+      "strategie": "Volledig renoveren en verkopen als groot familiehuis, of exploiteren als B&B/kamerverhuur",
+      "samenvatting": "Zeer ruim huis in het centrum van Pego met terras, patio en eigen garage, te koop voor 99.000 euro. De advertentie positioneert het als casco om naar eigen smaak af te bouwen ('create your dream home'); reken dus op volledige renovatie. De prijs per m2 (330 euro) laat daar in principe ruimte voor.",
+      "voors": [
+        "330 euro/m2 instap: zeldzaam veel vastgoed voor dit geld",
+        "Garage plus parkeerplek in dorpscentrum is een sterk verkoopargument",
+        "5 slaapkamers en 3 badkamers: geschikt voor B&B, kamerverhuur of groot gezinshuis",
+        "3D-tour en 42 fotos beschikbaar voor screening op afstand"
+      ],
+      "tegens": [
+        "300 m2 renoveren is duur: zelfs bij 700 euro/m2 loopt dat naar 210.000 euro - gefaseerd of selectief renoveren is vrijwel zeker nodig",
+        "Verkoopmarkt voor grote gerenoveerde huizen in Pego is dunner dan in Oliva of aan de kust",
+        "Staat van dak, vloeren en constructie onbekend",
+        "Eerdere ervaring leert: grote panden die niet gesplitst mogen worden hebben zelden een sluitende flip-case - splitsbaarheid is hier de sleutelvraag"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "99.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca. 12.600 euro (kyero-berekening incl. advocaat)"},
+          {"label": "Renovatie (selectief, ca. 200 m2 a 800 euro)", "waarde": "ca. 160.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 270.000 euro"},
+          {"label": "Indicatieve verkoopwaarde na renovatie", "waarde": "300.000 - 380.000 euro (groot huis met garage, centrum Pego)"}
+        ],
+        "conclusie": "Marge 10-40% afhankelijk van renovatiediscipline en verkoopprijs. De 20%-drempel wordt alleen gehaald bij strakke kostenbewaking of een alternatieve exploitatie (splitsing, B&B, kamerverhuur). Niet instappen zonder gedetailleerde renovatiebegroting."
+      },
+      "vergunning": "Renovatie binnen bestaand volume vergt licencia de obra (ICIO ca. 4%). Splitsen in appartementen zou de business case sterk verbeteren maar vereist toestemming van de gemeente Pego - dit eerst uitzoeken voor aankoop, gezien eerdere ervaringen met niet-splitsbare panden.",
+      "overstroming": {
+        "niveau": "Gemiddeld - kern Pego",
+        "kleur": "amber",
+        "toelichting": "Centrum Pego ligt hoger dan de Marjal de Pego-Oliva, maar de gemeente grenst aan het hoogste overstromingsrisicogebied van de regio. PATRICOVA-check op adresniveau is verplichte kost, zeker met de herziene kaarten na de DANA van 2024."
+      },
+      "demografie": "Pego trekt steeds meer Noord-Europese kopers die ruimte zoeken op 10 minuten van de kust; grote dorpshuizen met parkeergelegenheid zijn schaars in het aanbod.",
+      "ideeen": ["Splitsing in 2 woningen onderzoeken (indien toegestaan)", "B&B met 4 verhuurkamers", "Gefaseerde renovatie: eerst 150 m2 bewoonbaar maken, rest later"],
+      "due_diligence": ["Mogelijkheid tot splitsing navragen bij gemeente Pego", "Bouwkundige keuring dak en constructie", "Renovatiebegroting door lokale aannemer voor het bod", "PATRICOVA-check exact adres"],
+      "eerlijk_oordeel": "Spectaculair veel meters voor het geld, maar dit is het type project waar je aan renovatie kunt verdrinken. Alleen interessant met een harde begroting en bij voorkeur een splitsings- of B&B-scenario. Zonder dat is de flip-marge te onzeker voor de 20%-regel.",
+      "contact": {
+        "bron": "kyero.com",
+        "telefoon": "+34 9... (via kyero-knop 'see number')",
+        "email": "via contactformulier kyero",
+        "url": "https://www.kyero.com/en/property/20596444-villa-for-sale-pego",
+        "referentie": "102SAB99.FPV-A/3716",
+        "opmerking": "Makelaar: HogarAbitat (Engelstalig)"
+      },
+      "bronnen": [
+        {"titel": "Advertentie kyero (geverifieerd 2026-07-05)", "url": "https://www.kyero.com/en/property/20596444-villa-for-sale-pego"}
+      ]
+    },
+    {
+      "id": "oliva-dorpswoning-sant-francesc-108m2-49k-2026-07-05",
+      "titel": "Dorpswoning Calle Sant Francesc (Oliva) - 17% gezakt naar 49.000 euro",
+      "type": "Te flippen dorpswoning",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 49000,
+      "prijs_status": "Vraagprijs, recent verlaagd van 59.000 euro (-17%)",
+      "prijs_notitie": "454 euro per m2; laagste instap van deze run",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "108 m2 op 2 verdiepingen plus terras, perceel 56 m2"},
+        {"label": "Indeling", "waarde": "woonkamer, keuken, 3 slaapkamers, 1 badkamer, klein binnenbalkon"},
+        {"label": "Bouwjaar", "waarde": "1925 - volledige renovatie nodig"},
+        {"label": "Bijzonderheid", "waarde": "smal en langgerekt pand (expliciet vermeld in advertentie)"}
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Volledig renoveren en verkopen aan lokale starter of buitenlandse koper",
+      "samenvatting": "Klassieke dorpswoning uit 1925 aan de Calle de Sant Francesc in Oliva pueblo. Vraagt complete renovatie en is smal en langgerekt. De verkoper heeft de prijs net met 10.000 euro verlaagd, wat onderhandelingsruimte suggereert. Op 454 euro/m2 is de instap laag genoeg om ondanks de nadelen een flip-case door te rekenen.",
+      "voors": [
+        "Prijsverlaging van 17% en advertentie recent geupdatet (26 juni): gemotiveerde verkoper",
+        "454 euro/m2 ligt ruim onder de ca. 988 euro/m2 die in Oliva gebruikelijk is voor te renoveren objecten",
+        "Sant Francesc ligt aan de rand van het centrum, niet in het diepste casco historico",
+        "Compact genoeg (108 m2) om de renovatie binnen 90.000-110.000 euro te houden"
+      ],
+      "tegens": [
+        "Smal en langgerekt: lichtinval is het klassieke probleem, vraagt slimme architectuur (patio/lichtstraat)",
+        "Bouwjaar 1925: houd rekening met vocht en fundering - het bekende risico van oude Oliva-panden",
+        "Geen garage en perceel van slechts 56 m2",
+        "Eerdere feedback was negatief over oude dorpskernpanden; dit object zit qua profiel dicht tegen die categorie aan"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs (bied lager)", "waarde": "49.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca. 5.900 euro"},
+          {"label": "Renovatie 108 m2 a 800-1.000 euro", "waarde": "86.000 - 108.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 141.000 - 163.000 euro"},
+          {"label": "Indicatieve verkoopwaarde gerenoveerd", "waarde": "162.000 - 184.000 euro (1.500-1.700 euro/m2)"}
+        ],
+        "conclusie": "Marge 10-25%: de 20%-drempel wordt alleen gehaald bij aankoop onder ca. 45.000 euro en strakke renovatie. Als verhuurobject na renovatie (ca. 700-800 euro/maand) is het rendement ca. 6% bruto - matig."
+      },
+      "vergunning": "Renovatie binnen bestaand volume in Oliva pueblo is doorgaans vergunbaar (obra mayor bij constructieve ingrepen, ICIO ca. 4%). Geen splitsing beoogd. Controleer wel of het pand onder beschermende dorpsgezicht-regels valt; dat kan gevelaanpassingen beperken.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo ligt tegen de heuvel en buiten de PATRICOVA-hoogrisicozones van de marjal; regenwateroverlast in smalle straten blijft een aandachtspunt, maar het structurele risico is beperkt."
+      },
+      "demografie": "Oliva pueblo blijft in trek bij starters en buitenlandse kopers die een authentiek dorpshuis zoeken; gerenoveerde woningen van dit formaat verkopen doorgaans rond 160.000-180.000 euro.",
+      "ideeen": ["Patio of lichtkoepel centraal in het pand voor lichtinval", "Dakterras benutten als tweede buitenruimte", "Na renovatie eerst verhuren en verkopen in een sterkere markt"],
+      "due_diligence": ["Vochtmeting en funderingsinspectie (bouwjaar 1925)", "Beschermde status / ordenanzas casco urbano checken bij gemeente Oliva", "Offerte aannemer inclusief lichtstraat-oplossing", "Onderhandelen: de prijsverlaging wijst op ruimte"],
+      "eerlijk_oordeel": "De goedkoopste instap van vandaag en de prijs per m2 is objectief goed, maar dit pand heeft precies de nadelen (oud, smal, dorpskern) waar eerder kritisch op is gereageerd. Alleen doen bij stevige onderhandeling en na bouwkundige keuring - anders overslaan.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "via advertentie (knop 'Ver telefono')",
+        "email": "via contactformulier idealista",
+        "url": "https://www.idealista.com/inmueble/110148810/",
+        "referentie": "2651",
+        "opmerking": "Makelaar: Elena Pastor Inmobiliaria"
+      },
+      "bronnen": [
+        {"titel": "Advertentie idealista (geverifieerd 2026-07-05)", "url": "https://www.idealista.com/inmueble/110148810/"}
+      ]
+    },
+    {
+      "id": "ondara-solar-centrum-109m2-met-bouwproject-79k-2026-07-05",
+      "titel": "Centrumkavel Ondara (109 m2) inclusief bouwproject - 79.000 euro",
+      "type": "Bouwgrond met kant-en-klaar project",
+      "type_kort": "Bouwgrond",
+      "plaats": "Ondara",
+      "regio": "Marina Alta",
+      "vraagprijs": 79000,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "725 euro per m2 grond, maar inclusief uitgewerkt bouwproject voor een dorpswoning",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "109 m2 (advertentietekst noemt ook 106 m2 - kadastraal checken)"},
+        {"label": "Status", "waarde": "solar urbano (bouwrijpe stedelijke kavel)"},
+        {"label": "Bijzonderheid", "waarde": "wordt verkocht met bouwproject voor een casa de pueblo"},
+        {"label": "Ligging", "waarde": "centrale, residentiele zone van Ondara"}
+      ],
+      "score": 68,
+      "score_label": "Interessant",
+      "strategie": "Kavel kopen, meegeleverd project toetsen en nieuwbouw-dorpswoning realiseren voor verkoop",
+      "samenvatting": "Bouwrijpe kavel in het centrum van Ondara, aangeboden inclusief een reeds uitgewerkt bouwproject voor een dorpswoning. Dat scheelt maanden ontwerptijd en architectkosten. Ondara-centrum is in beweging: een grotere kavel van 241 m2 verderop zakte recent 30.000 euro in prijs, wat op onderhandelingsruimte in dit segment wijst.",
+      "voors": [
+        "Bouwproject inbegrepen: kortere doorlooptijd naar vergunning en bouw",
+        "Suelo urbano in bestaand dorpsweefsel: het meest voorspelbare vergunningstraject",
+        "Ondara is een gewilde pendelmarkt (AP-7, 10 minuten van Denia) waar nieuwbouw schaars is",
+        "Totale instap lager dan de alternatieve centrumkavel van 241 m2 voor 129.000 euro"
+      ],
+      "tegens": [
+        "725 euro/m2 grond is niet goedkoop; de waarde zit in het project en de ligging",
+        "109 m2 voetafdruk beperkt het bouwvolume - marge hangt af van het aantal toegestane bouwlagen",
+        "Detailpagina was beperkt verifieerbaar; gegevens komen van de habitaclia-lijstpagina (INMOGIL) - bevestig alles bij de makelaar",
+        "Nieuwbouwkosten liggen hoog (ca. 1.000-1.400 euro/m2); de businesscase vergt exact rekenwerk"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs kavel + project", "waarde": "79.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca. 9.500 euro"},
+          {"label": "Nieuwbouw ca. 150-200 m2 over 2-3 lagen", "waarde": "180.000 - 260.000 euro incl. ICIO"},
+          {"label": "Totale investering", "waarde": "ca. 270.000 - 350.000 euro"},
+          {"label": "Indicatieve verkoopwaarde nieuwbouw", "waarde": "330.000 - 420.000 euro (nieuwbouw dorpswoning met garage)"}
+        ],
+        "conclusie": "Marge ca. 15-25% bij realisatie volgens plan; haalbaarheid staat of valt met de toegestane bouwlagen en de aanneemsom. Het meegeleverde project maakt die check relatief snel."
+      },
+      "vergunning": "Solar urbano met bestaand ontwerpproject: licencia de obra bij gemeente Ondara is de hoofdstap (ICIO ca. 4% over de bouwsom). Vraag na of het project al is ingediend of getoetst - dat kan maanden schelen.",
+      "overstroming": {
+        "niveau": "Laag tot gemiddeld",
+        "kleur": "amber",
+        "toelichting": "Ondara-centrum staat niet als hoog risico op de PATRICOVA-kaart, maar de rivier Girona ten zuiden van het dorp geeft lokaal risico. Adres-specifieke check blijft nodig."
+      },
+      "demografie": "Ondara (ca. 7.000 inwoners) groeit als woonplaats voor werkenden in Denia en langs de N-332/AP-7-corridor; nieuwbouw dorpswoningen zijn er schaars.",
+      "ideeen": ["Project direct toetsen en vergunning aanvragen na aankoop", "Bouwen in 3 lagen met garage op de begane grond", "Turn-key doorverkopen aan eindklant voor oplevering (verkoop op plan)"],
+      "due_diligence": ["Bouwproject inzien: m2, lagen, status van indiening bij de gemeente", "Edificabilidad en bouwnormen bevestigen bij gemeente Ondara", "Aanneemsom offreren voor het bod", "Kadastrale check 106 vs 109 m2"],
+      "eerlijk_oordeel": "Interessant omdat het denkwerk (ontwerp) al gedaan is en Ondara een gewilde pendelmarkt is. Maar de marge is pas hard te maken als bouwvolume en aanneemsom bekend zijn. Eerst het project opvragen, dan rekenen, dan pas bieden. Let op: gegevens zijn geverifieerd via de lijstpagina, niet via de detailpagina.",
+      "contact": {
+        "bron": "habitaclia.com",
+        "telefoon": "via advertentie habitaclia",
+        "email": "via contactformulier habitaclia",
+        "url": "https://english.habitaclia.com/buy-residential-in-ondara-i28101000000318.htm",
+        "referentie": "i28101000000318",
+        "opmerking": "Makelaar: INMOGIL (Costa Blanca); heeft meerdere kavels in Ondara"
+      },
+      "bronnen": [
+        {"titel": "Habitaclia - kavels Ondara (lijst met dit object, geverifieerd 2026-07-05)", "url": "https://english.habitaclia.com/lands_and_plots-ondara.htm"}
+      ]
+    }
+  ]
+}
