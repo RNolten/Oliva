@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-07",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "dagelijkse run",
+    "aantal": 5,
+    "marktcontext": "Deze run is primair via habitaclia gelopen; kyero is ook geraadpleegd maar de beste Pego-treffer daar (300 m2 huis voor 99.000 euro) was een herhaling van 5 juli. Opvallend: veel goedkoop aanbod in Oliva pueblo (52.000-67.000 euro) betreft panden 'sin posesion' of bezet - die zijn conform het profiel allemaal overgeslagen. Het schone aanbod eronder is dun maar reeel: twee grote objecten onder 350 euro/m2 en een gerenoveerd winkelpand op de hoofdas. Kustzone (Oliva Nova/Devesa) blijft duidelijk duurder dan het dorp.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle gegevens komen uit online advertenties en zijn niet ter plaatse gecontroleerd. Verifieer prijzen, vergunningen, overstromingskaarten (PATRICOVA) en bouwkundige staat altijd zelf voor een bod."
+  },
+  "kansen": [
+    {
+      "id": "oliva-pueblo-casa-pareada-les-torres-264m2-85k-2026-07-07",
+      "titel": "Groot pand (264 m2) aan Calle les Torres, centrum Oliva - 85.500 euro",
+      "type": "Te flippen pand / gemengd gebruik",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 85500,
+      "prijs_status": "Vraagprijs, recent 9.500 euro gezakt",
+      "prijs_notitie": "324 euro/m2 - ver onder marktgemiddelde en onder de eigen richtlijn van 988 euro/m2 voor renovatieobjecten.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "264 m2"},
+        {"label": "Indeling", "waarde": "4 kamers, 2 badkamers"},
+        {"label": "Bouwjaar", "waarde": "1925"},
+        {"label": "Status", "waarde": "Vrij van bewoning (libre de ocupacion)"},
+        {"label": "Prijs per m2", "waarde": "324 euro"}
+      ],
+      "score": 74,
+      "score_label": "Sterk",
+      "strategie": "Flip: integrale renovatie en verkoop, of wonen boven + commerciele ruimte beneden (dubbele exit).",
+      "samenvatting": "Pand uit 1925 van 264 m2 in een drukke, goed bereikbare buurt van Oliva pueblo. De aanbieder benoemt expliciet geschiktheid voor zowel woon- als commercieel gebruik. Prijs is net verlaagd en ligt op sloopgrond-niveau, terwijl het pand vrij van bewoning is - een zeldzaamheid in dit prijssegment in Oliva.",
+      "voors": [
+        "324 euro/m2: zeer lage instap voor deze omvang in het centrum",
+        "Expliciet vrij van bewoning - geen okupa-risico zoals bij veel ander goedkoop Oliva-aanbod",
+        "Gemengde bestemming mogelijk (wonen + commercieel) - sluit aan bij geleerde voorkeur voor commercial unit op begane grond",
+        "Prijs recent 9.500 euro gezakt: onderhandelruimte aannemelijk"
+      ],
+      "tegens": [
+        "Bouwjaar 1925: reken op fundering-, vocht- en dakrisico; bouwkundige keuring is randvoorwaarde",
+        "Advertentie toont vooral potentieel, weinig detail over de binnenstaat",
+        "Grote renovatie (200.000 euro+) betekent lange doorlooptijd en uitvoeringsrisico",
+        "Verkoop via vastgoedservicer - vaak as-is, weinig garanties"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "85.500 euro"},
+          {"label": "ITP 10% + kosten 2%", "waarde": "ca. 10.300 euro"},
+          {"label": "Renovatie 264 m2 x ca. 800 euro", "waarde": "ca. 210.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 306.000 euro"},
+          {"label": "Indicatieve verkoopwaarde (1.500-1.800 euro/m2)", "waarde": "396.000 - 475.000 euro"}
+        ],
+        "conclusie": "Marge 30-55% bij volledige renovatie - ruim boven de 20%-richtlijn, zelfs met tegenvallers. Splitsing in units kan de marge verhogen, mits de gemeente meewerkt."
+      },
+      "vergunning": "Ligt in Oliva pueblo maar buiten de smalste casco historico-straatjes; renovatievergunning (ICIO 4%) normaal haalbaar. Voor splitsing of commercieel gebruik van de begane grond vooraf bestemming en splitsingsmogelijkheid bij de gemeente Oliva toetsen - dit was eerder een struikelpunt bij casco historico-panden.",
+      "overstroming": {
+        "niveau": "Laag tot beperkt",
+        "kleur": "green",
+        "toelichting": "Centrum Oliva pueblo ligt buiten de Marjal de Pego-Oliva. Wel de na de DANA van 2024 herziene PATRICOVA-kaart voor dit specifieke adres controleren."
+      },
+      "demografie": "Oliva pueblo: stabiele lokale markt met ca. 25.000 inwoners, plus een groeiende groep buitenlandse kopers die het dorp boven de duurdere kust verkiest.",
+      "ideeen": [
+        "Begane grond als winkel/praktijkruimte verhuren, verdieping als woning verkopen",
+        "Volledige flip naar een grote gezinswoning",
+        "Splitsen in 2 appartementen indien toegestaan"
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring (fundering, vocht, dak) - pand is 100 jaar oud",
+        "Nota simple: lasten, beslagen en werkelijke eigenaar",
+        "Bij gemeente Oliva: splitsingsmogelijkheid en bestemming begane grond",
+        "Controleren of het pand in een beschermde zone valt"
+      ],
+      "eerlijk_oordeel": "De beste prijs-per-m2 van deze run zonder okupa-addertje. De onzekerheid zit volledig in de binnenstaat van een pand uit 1925: is de structuur goed, dan is de business case ruim; zo niet, dan verdampt de marge in de renovatie. Alleen instappen na keuring.",
+      "contact": {
+        "bron": "Trencadis Real Estate via habitaclia",
+        "telefoon": "Onbekend - via advertentieformulier",
+        "email": "Onbekend - via advertentieformulier",
+        "url": "https://www.habitaclia.com/comprar-casa_pareada-espacio_amplio_de_264_m_en_el_corazon_de_ideal_para_proye_oliva_pueblo-oliva-i22582003572737.htm",
+        "referentie": "i22582003572737",
+        "opmerking": "Advertentie laatst bijgewerkt 29-06-2026; pagina op 07-07-2026 geverifieerd."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://www.habitaclia.com/comprar-casa_pareada-espacio_amplio_de_264_m_en_el_corazon_de_ideal_para_proye_oliva_pueblo-oliva-i22582003572737.htm"}
+      ]
+    },
+    {
+      "id": "oliva-pueblo-local-alejandro-cardona-120m2-73k-2026-07-07",
+      "titel": "Gerenoveerd winkelpand (120 m2) aan de hoofdas van Oliva - 73.000 euro",
+      "type": "Bedrijfspand / verhuurobject",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Oliva (pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 73000,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "608 euro/m2 voor een volledig gerenoveerd commercieel pand op de drukste as van het dorp.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "120 m2"},
+        {"label": "Staat", "waarde": "Volledig gerenoveerd, deels gemeubileerd"},
+        {"label": "Indeling", "waarde": "Winkelruimte met etalages, 2 magazijnen, 2 kleedruimtes, badkamer"},
+        {"label": "Ligging", "waarde": "Calle Alejandro Cardona, hoofdwinkelas met veel passanten"},
+        {"label": "Historie", "waarde": "Jarenlang een goedlopende kledingwinkel"}
+      ],
+      "score": 75,
+      "score_label": "Sterk",
+      "strategie": "Verhuur: direct verhuurbaar zonder investering. Alternatief: aanhouden op A-locatie en meeliften op waardestijging.",
+      "samenvatting": "Instapklaar, gerenoveerd winkelpand met etalages aan de hoofdstraat van Oliva. Geen renovatierisico, direct inkomsten mogelijk. Het spiegelbeeld van de flip-kansen: laag risico, stabiel rendement, weinig upside op korte termijn.",
+      "voors": [
+        "Volledig gerenoveerd: geen capex nodig, direct verhuurbaar",
+        "A-locatie in het dorp met constante loop",
+        "Breed inzetbaar: winkel, kantoor, praktijk, academie",
+        "Laag instapbedrag voor commercieel vastgoed op deze plek"
+      ],
+      "tegens": [
+        "Advertentie staat al sinds januari online - vraag waarom het nog niet weg is",
+        "Commercieel vastgoed in dorpskernen is conjunctuurgevoelig en trager te verkopen dan woningen",
+        "Beperkte flip-upside: de waarde zit in het huurrendement, niet in transformatie",
+        "Leegstandsrisico tussen huurders"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "73.000 euro"},
+          {"label": "ITP 10% + kosten 2%", "waarde": "ca. 8.800 euro"},
+          {"label": "Totale investering", "waarde": "ca. 81.800 euro"},
+          {"label": "Indicatieve huur (A-locatie Oliva, 120 m2)", "waarde": "600 - 800 euro/maand"},
+          {"label": "Bruto aanvangsrendement", "waarde": "ca. 8,8 - 11,7%"}
+        ],
+        "conclusie": "Bruto rendement rond 9-12% is sterk voor instapklaar commercieel vastgoed. De huurindicatie is een eigen inschatting op basis van vergelijkbaar aanbod - lokaal verifieren voor aankoop."
+      },
+      "vergunning": "Bestaand commercieel gebruik, gerenoveerd. Voor de meeste detailhandel/dienstverlening volstaat een licencia de actividad op naam van de huurder; geen verbouwvergunning nodig.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Hoofdas van Oliva pueblo, buiten de marjal. Standaard PATRICOVA-check bij due diligence volstaat."
+      },
+      "demografie": "De hoofdas van Oliva bedient het hele dorp plus toeristen in het seizoen; winkelruimtes op deze strook kennen relatief weinig structurele leegstand.",
+      "ideeen": [
+        "Verhuren aan een keten of lokale ondernemer",
+        "Splitsen in twee kleinere units als de indeling dat toelaat",
+        "Op termijn onderzoeken of omzetting naar woning meerwaarde geeft (vergunningsplichtig)"
+      ],
+      "due_diligence": [
+        "Waarom nog niet verkocht sinds januari: prijs, gebrek of trage markt?",
+        "Huurprijsreferenties opvragen bij lokale makelaars",
+        "Staat van installaties (elektra, klimaat) controleren",
+        "Gemeenschapskosten en IBI opvragen"
+      ],
+      "eerlijk_oordeel": "De saaiste maar meest voorspelbare kans van deze run. Geen flip-fantasie, wel een realistisch bruto rendement rond de 10% zonder renovatierisico - past precies bij het verhuur-alternatief uit het profiel. De lange looptijd van de advertentie is het grootste vraagteken en tegelijk de onderhandelingstroef.",
+      "contact": {
+        "bron": "Inmobiliaria Mara Cabrera via habitaclia",
+        "telefoon": "Onbekend - via advertentieformulier",
+        "email": "Onbekend - via advertentieformulier",
+        "url": "https://www.habitaclia.com/comprar-local_comercial-local_reformado_en_venta_en_la_avenida_principal_de_oliva_pueblo-oliva-i54011000000491.htm",
+        "referentie": "i54011000000491",
+        "opmerking": "Advertentie laatst bijgewerkt 05-01-2026; pagina op 07-07-2026 geverifieerd en nog actief."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://www.habitaclia.com/comprar-local_comercial-local_reformado_en_venta_en_la_avenida_principal_de_oliva_pueblo-oliva-i54011000000491.htm"}
+      ]
+    },
+    {
+      "id": "oliva-nova-restaurant-met-woning-455m2-105k-2026-07-07",
+      "titel": "Gesloten restaurant + woning (455 m2) tegenover Oliva Nova - 105.000 euro",
+      "type": "Horeca / herbestemming naar wonen",
+      "type_kort": "Horeca",
+      "plaats": "Oliva (N-332, tegenover Oliva Nova)",
+      "regio": "La Safor / grens Marina Alta",
+      "vraagprijs": 105000,
+      "prijs_status": "Vraagprijs, volgens advertentie niet onderhandelbaar",
+      "prijs_notitie": "231 euro/m2. De verkoper schetst zelf een herbestemmingsscenario naar 2-3 woningen.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "455 m2 (380 m2 begane grond + woning 80 m2 boven)"},
+        {"label": "Extra", "waarde": "Patio 80-90 m2, parkeerruimte, groot dakterras"},
+        {"label": "Staat", "waarde": "Jaren gesloten, integrale renovatie nodig, geen actieve nutsvoorzieningen"},
+        {"label": "Ligging", "waarde": "N-332 tegenover Oliva Nova, richting El Verger/Denia"},
+        {"label": "Referentie omgeving", "waarde": "Gerenoveerde 60-70 m2 woningen Oliva Nova: 180.000-210.000 euro (aldus advertentie)"}
+      ],
+      "score": 69,
+      "score_label": "Interessant",
+      "strategie": "Buitenkans-flip: kopen op zeer lage m2-prijs, herbestemmen naar 2-3 woningen of toeristische appartementen bij golf en strand, per unit verkopen of verhuren.",
+      "samenvatting": "Veel meters voor weinig geld naast een van de duurste enclaves van de regio (Oliva Nova, met golfbaan en hippisch centrum). De waarde zit volledig in de transformatie; het pand zelf is een lege huls zonder aansluitingen. De advertentie noemt 90.000-110.000 euro renovatie - dat is voor 455 m2 aan de zeer optimistische kant.",
+      "voors": [
+        "231 euro/m2 instap naast een zone waar gerenoveerd vastgoed 3.000+ euro/m2 doet",
+        "Meerdere exits: 2-3 woningen, toeristische appartementen, of opnieuw horeca",
+        "Patio, parkeerruimte en apart woongedeelte maken splitsing praktisch goed denkbaar",
+        "Geplande rotondes verbeteren de ontsluiting (aldus advertentie)"
+      ],
+      "tegens": [
+        "Renovatieschatting van de verkoper (90-110k) is waarschijnlijk te laag; met 700-1.100 euro/m2 kom je voor dit volume eerder op 200.000-300.000 euro",
+        "Direct aan de N-332: verkeerslawaai drukt de verkoopprijs per unit",
+        "Herbestemming (cambio de uso) plus division horizontal vereist gemeentelijke medewerking - niet gegarandeerd",
+        "Jaren leegstand zonder nutsvoorzieningen: verborgen gebreken waarschijnlijk",
+        "Prijs 'niet onderhandelbaar' volgens de verkoper"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "105.000 euro"},
+          {"label": "ITP 10% + kosten 2%", "waarde": "ca. 12.600 euro"},
+          {"label": "Renovatie (eigen inschatting, niet die van de verkoper)", "waarde": "200.000 - 280.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 320.000 - 400.000 euro"},
+          {"label": "Indicatieve verkoop 3 units", "waarde": "450.000 - 550.000 euro (met N-332-korting t.o.v. Oliva Nova)"}
+        ],
+        "conclusie": "De marge kan boven de 20% uitkomen, maar alleen bij strakke kostenbeheersing en een vlotte vergunning. Wie rekent met de verkopersschatting van 90-110k renovatie maakt de case veel mooier dan hij is."
+      },
+      "vergunning": "Cruciaal: cambio de uso (horeca naar wonen) plus division horizontal bij de gemeente Oliva. De advertentie zegt zelf 'onder voorbehoud van technisch en normatief onderzoek'. Zonder schriftelijke voortoets is dit project niet verantwoord. ICIO 4% over de bouwsom.",
+      "overstroming": {
+        "niveau": "Verhoogd - randzone",
+        "kleur": "amber",
+        "toelichting": "Kuststrook tussen Oliva en El Verger, nabij de Riu Molinell en de rand van de Marjal de Pego-Oliva. Na de DANA van 2024 zijn kaarten herzien; een PATRICOVA-check op perceelsniveau is hier een hard vereiste."
+      },
+      "demografie": "Oliva Nova trekt het hele jaar kapitaalkrachtige internationale golf- en strandtoeristen; vraag naar betaalbare woningen nabij (maar buiten) het resort is aantoonbaar.",
+      "ideeen": [
+        "3 units: 2 woningen beneden + woning boven met dakterras, per stuk verkopen",
+        "4-6 toeristische studio's voor golf- en strandverhuur (mits VT-licentie haalbaar)",
+        "Begane grond opnieuw als seizoenshoreca, boven wonen"
+      ],
+      "due_diligence": [
+        "Schriftelijke voortoets gemeente Oliva: cambio de uso en splitsing",
+        "PATRICOVA / herziene overstromingskaart voor dit perceel",
+        "Kostenraming door aannemer ter plaatse, inclusief heraansluiting nutsvoorzieningen",
+        "Geluidsbelasting N-332 en effect op verkoopbaarheid per unit",
+        "Waarom niet onderhandelbaar - meerdere gegadigden of onderhandelingstactiek?"
+      ],
+      "eerlijk_oordeel": "De spannendste kans van de run, en ook degene waar het meest mis kan gaan. De advertentie rekent zichzelf rijk met een lage renovatieschatting. Wie conservatief rekent, een aannemer meeneemt en de vergunning vooraf dichttimmert, kan hier echt iets bouwen - ieder ander moet ervan afblijven.",
+      "contact": {
+        "bron": "Inmobiliaria Mara Cabrera via habitaclia",
+        "telefoon": "Onbekend - via advertentieformulier",
+        "email": "Onbekend - via advertentieformulier",
+        "url": "https://www.habitaclia.com/comprar-local_comercial-amplio_restaurante_con_casa_cerca_de_nova_totalmente_para_332_150_oliva_nova-oliva-i54011000000882.htm",
+        "referentie": "i54011000000882",
+        "opmerking": "Advertentie laatst bijgewerkt 23-06-2026; pagina op 07-07-2026 geverifieerd."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://www.habitaclia.com/comprar-local_comercial-amplio_restaurante_con_casa_cerca_de_nova_totalmente_para_332_150_oliva_nova-oliva-i54011000000882.htm"}
+      ]
+    },
+    {
+      "id": "oliva-devesa-bouwkavel-urbano-727m2-85k-2026-07-07",
+      "titel": "Urbane bouwkavel 727 m2 in Urbanizacion Devesa (Oliva) - 85.000 euro",
+      "type": "Bouwgrond / percelen",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (Urb. Devesa, kustzone)",
+      "regio": "La Safor",
+      "vraagprijs": 85000,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "117 euro/m2 voor urbane grond nabij zee; ter vergelijking: golfkavels in Oliva Nova staan voor 373 euro/m2 te koop.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "727 m2"},
+        {"label": "Classificatie", "waarde": "Parcela urbana (volgens advertentie)"},
+        {"label": "Omgeving", "waarde": "Geconsolideerde urbanisatie met vrijstaande woningen, nabij strand"},
+        {"label": "Prijs per m2", "waarde": "117 euro"},
+        {"label": "Makelaar", "waarde": "Cosmohabitat (RAICV 0539, COAPIV 1589)"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Bouwen en verkopen: moderne (eventueel prefab-) villa realiseren voor de kust-doelgroep, of de kavel aanhouden tot prijzen verder stijgen.",
+      "samenvatting": "Urbane kavel in een bestaande, rustige urbanisatie op korte afstand van de stranden van Oliva, fors goedkoper per m2 dan kavels in het aangrenzende Oliva Nova. De advertentie noemt expliciet prefab/energiezuinige nieuwbouw als mogelijkheid - dat drukt bouwtijd en kosten. De advertentie is gisteren nog bijgewerkt.",
+      "voors": [
+        "Urbane grond: bouwrecht in principe aanwezig, geen suelo no urbanizable-problematiek",
+        "117 euro/m2 - minder dan een derde van vergelijkbare golfkavels verderop",
+        "Geconsolideerde urbanisatie: wegen en voorzieningen liggen er al",
+        "Prefab-route kan bouwkosten en doorlooptijd flink drukken"
+      ],
+      "tegens": [
+        "Edificabilidad (hoeveel je mag bouwen) staat niet in de advertentie - en dat is het bepalende getal",
+        "Nieuwbouw: langste doorlooptijd van deze run (vergunning + bouw = 2-3 jaar)",
+        "Kuststrook: overstromings- en kustregelgeving kunnen beperkingen opleggen",
+        "Villa-nieuwbouw bindt veel kapitaal in een enkel object"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop kavel", "waarde": "85.000 euro"},
+          {"label": "ITP 10% + kosten 2%", "waarde": "ca. 10.200 euro"},
+          {"label": "Nieuwbouw villa ca. 150 m2 (1.200-1.500 euro/m2 + ICIO 4%)", "waarde": "ca. 190.000 - 235.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 285.000 - 330.000 euro"},
+          {"label": "Indicatieve verkoopwaarde villa nabij strand", "waarde": "400.000 - 500.000 euro"}
+        ],
+        "conclusie": "Marge 25-50% mits de edificabilidad een villa van dit formaat toelaat en het perceel geen overstromingsbeperkingen heeft. Beide punten zijn nu onbevestigd: eerst de ficha urbanistica, dan pas rekenen."
+      },
+      "vergunning": "Urbane grond in geconsolideerde urbanisatie: licencia de obra via de gemeente Oliva is normaal haalbaar, maar edificabilidad, afstandsregels en eventuele kustzone-beperkingen (Ley de Costas) moeten eerst zwart-op-wit.",
+      "overstroming": {
+        "niveau": "Verhoogd - kuststrook",
+        "kleur": "amber",
+        "toelichting": "De Devesa-kuststrook van Oliva grenst aan lager gelegen marjal-gebied. PATRICOVA en de post-DANA-kaarten op perceelsniveau raadplegen voor er een bod wordt gedaan."
+      },
+      "demografie": "Kustzone Oliva: sterke vraag van Noord-Europese kopers naar nieuwbouwvilla's; instapklaar nieuwbouwaanbod is schaars.",
+      "ideeen": [
+        "Energiezuinige prefab-villa: sneller gebouwd en een sterk verkoopargument",
+        "Premium afwerking: bij een kavel is de marge het grootst in het topsegment",
+        "Land-banking: kopen en 2-3 jaar aanhouden zonder te bouwen"
+      ],
+      "due_diligence": [
+        "Ficha urbanistica opvragen: edificabilidad, bouwhoogte, afstandsregels",
+        "PATRICOVA + Ley de Costas-check voor dit perceel",
+        "Nota simple: lasten en erfdienstbaarheden",
+        "Kosten nutsaansluitingen verifieren"
+      ],
+      "eerlijk_oordeel": "Nette kavel tegen een scherpe prijs, maar de advertentie verzwijgt het belangrijkste getal: hoeveel je mag bouwen. Tot de ficha urbanistica en de overstromingskaart binnen zijn is dit een veelbelovend maar onbewezen verhaal. Het prijsverschil met Oliva Nova-kavels biedt wel een echte veiligheidsmarge.",
+      "contact": {
+        "bron": "Cosmohabitat via habitaclia",
+        "telefoon": "Onbekend - via advertentieformulier",
+        "email": "Onbekend - via advertentieformulier",
+        "url": "https://www.habitaclia.com/comprar-residencial-parcela_urbana_de_727_m2_en_la_urbanizacion_devesa_valenc_oliva_nova-oliva-i31957000001740.htm",
+        "referentie": "i31957000001740",
+        "opmerking": "Advertentie laatst bijgewerkt 06-07-2026; pagina op 07-07-2026 geverifieerd."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://www.habitaclia.com/comprar-residencial-parcela_urbana_de_727_m2_en_la_urbanizacion_devesa_valenc_oliva_nova-oliva-i31957000001740.htm"}
+      ]
+    },
+    {
+      "id": "oliva-molinell-casa-adosada-strand-73m2-70k-2026-07-07",
+      "titel": "Casa adosada op 5 minuten lopen van Playa Molinell - 70.000 euro",
+      "type": "Instapklare verhuur / lichte flip",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva (zone Playa Molinell / Oliva Nova)",
+      "regio": "La Safor / grens Marina Alta",
+      "vraagprijs": 70000,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "959 euro/m2. De makelaar is zelf opvallend eerlijk: het huis ligt pal naast de N-332 en je hoort het verkeer.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "73 m2, grotendeels gelijkvloers"},
+        {"label": "Indeling", "waarde": "3 slaapkamers (2 bereikbaar via patio), 1 badkamer, berging"},
+        {"label": "Buitenruimte", "waarde": "Patio + dakterras"},
+        {"label": "Afstand strand", "waarde": "5 minuten lopen naar Playa Molinell"},
+        {"label": "Minpunt", "waarde": "Direct naast de N-332 (verkeerslawaai)"}
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Verhuur: lichte opknapbeurt en inzetten als betaalbare vakantiewoning bij het strand. Flip is tweede keus vanwege de lawaai-korting die elke eindkoper zal bedingen.",
+      "samenvatting": "Goedkoopste strandnabije woning van deze run. Bewoonbaar, met patio en dakterras, op loopafstand van een rustig strand tussen Oliva en Denia. De N-332 naast de deur verklaart de prijs - voor vakantieverhuur weegt dat minder zwaar dan voor permanente bewoning.",
+      "voors": [
+        "70.000 euro instap, onder de 1.000 euro/m2 op loopafstand van zee",
+        "Gelijkvloers met buitenruimte: breed verhuurbaar (gezinnen, senioren)",
+        "Vakantieverhuurmarkt rond Oliva Nova/Molinell is sterk - sluit aan bij geleerde voorkeur voor de strandzone",
+        "Transparante advertentie schept vertrouwen in de rest van de informatie"
+      ],
+      "tegens": [
+        "Verkeerslawaai N-332: structurele waardedrukker die je niet wegrenoveert",
+        "2 slaapkamers alleen via de patio bereikbaar - onhandig bij regen en voor winterverhuur",
+        "73 m2 begrenst huur- en verkoopprijs",
+        "Toeristische verhuurlicentie (VT) vereist registratie; het beleid in de Comunitat Valenciana wordt strenger"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "70.000 euro"},
+          {"label": "ITP 10% + kosten 2%", "waarde": "ca. 8.400 euro"},
+          {"label": "Opknapbeurt", "waarde": "ca. 15.000 - 25.000 euro"},
+          {"label": "Totale investering", "waarde": "ca. 93.000 - 103.000 euro"},
+          {"label": "Indicatieve vakantieverhuur", "waarde": "8.000 - 12.000 euro/jaar bruto"}
+        ],
+        "conclusie": "Bruto 8-12% verhuurrendement is haalbaar dankzij de strandligging. Als flip beperkt interessant: gerenoveerd in deze zone doet 180.000+, maar de N-332-korting kan daar zomaar 30-40% vanaf halen."
+      },
+      "vergunning": "Woonbestemming bestaand; alleen een VT-licentie (vivienda turistica) nodig voor vakantieverhuur. Haalbaarheid per zone verifieren - de regels zijn in beweging.",
+      "overstroming": {
+        "niveau": "Verhoogd - randzone",
+        "kleur": "amber",
+        "toelichting": "Zelfde kuststrook als de Riu Molinell / rand Marjal de Pego-Oliva. Post-DANA-kaart voor dit adres controleren; gelijkvloerse woningen zijn extra kwetsbaar bij wateroverlast."
+      },
+      "demografie": "Playa Molinell/Les Deveses: rustige strandzone tussen Oliva en Denia, populair bij vaste zomergasten; de wintervraag is beperkt.",
+      "ideeen": [
+        "Vakantieverhuur met golf-focus (Oliva Nova op fietsafstand)",
+        "Geluidsisolatie aan de wegzijde als goedkope waardeverbetering",
+        "Winteropvulling: langetermijnverhuur aan seizoenspersoneel van het resort"
+      ],
+      "due_diligence": [
+        "PATRICOVA-check (gelijkvloers in kuststrook)",
+        "Haalbaarheid VT-licentie voor dit adres",
+        "Zelf langsgaan in de spits om het lawaai te beoordelen",
+        "Staat van dak/terras en vochtcontrole patio-kamers"
+      ],
+      "eerlijk_oordeel": "Prima verhuurmachine voor weinig geld, geen droomflip. Wie het lawaai accepteert koopt strandnabijheid voor een fractie van de normale prijs; een huurder voor een weekje zomer ligt er niet wakker van, een eindkoper wel. Instappen voor cashflow, niet voor wederverkoopwinst.",
+      "contact": {
+        "bron": "iad Espana via habitaclia",
+        "telefoon": "Onbekend - via advertentieformulier",
+        "email": "Onbekend - via advertentieformulier",
+        "url": "https://www.habitaclia.com/comprar-casa_pareada-oliva_nova-oliva-i15471000076005.htm",
+        "referentie": "i15471000076005",
+        "opmerking": "Advertentie laatst bijgewerkt 26-06-2026; pagina op 07-07-2026 geverifieerd."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://www.habitaclia.com/comprar-casa_pareada-oliva_nova-oliva-i15471000076005.htm"}
+      ]
+    }
+  ]
+}
