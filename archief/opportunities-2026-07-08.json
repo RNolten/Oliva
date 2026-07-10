@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-08",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "dagelijkse run",
+    "aantal": 5,
+    "marktcontext": "Vandaag vijf nieuwe, geverifieerde kansen via Kyero (alle advertentiepaginas live gecontroleerd). Fotocasa en Milanuncios zijn ook geraadpleegd maar leverden vandaag geen extra verifieerbare advertenties op (lijstpaginas laden clientside). Mix van deze run: een appartementengebouw met vijf woningen in Pego als verhuurobject, bouwgrond bij Oliva Nova/MET, een strand-local in Playa de Piles, een goedkoop bedrijfspand in La Font d'en Carros en een moderne stadswoning bij San Roque in Oliva. Geen uitschieters met dikke flipmarge vandaag; de nadruk ligt op verhuurrendement en herbestemmingspotentie. Vaste kosten blijven: ITP 10%, ca 2% bijkomende kosten, verbouwing 700-1100 euro/m2.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle gegevens komen uit online advertenties en zijn niet ter plaatse gecontroleerd. Verifieer prijzen, vergunningen, overstromingskaarten (PATRICOVA) en bouwkundige staat altijd zelf voor een bod."
+  },
+  "kansen": [
+    {
+      "id": "pego-appartementengebouw-5-units-398m2-475k-2026-07-08",
+      "titel": "Appartementengebouw met 5 verhuurklare appartementen - Pego",
+      "type": "Woongebouw met vijf gemeubileerde appartementen",
+      "type_kort": "Verhuur",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 475000,
+      "prijs_status": "Vraagprijs volgens advertentie",
+      "prijs_notitie": "Ca 1193 euro/m2 voor 398 m2 verhuurbaar vastgoed, inclusief meubels",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "398 m2 bebouwd, perceel 267 m2"},
+        {"label": "Indeling", "waarde": "2 appartementen met 2 slaapkamers + 3 met 1 slaapkamer (7 slaapkamers, 7 badkamers)"},
+        {"label": "Staat", "waarde": "Volledig ingericht en uitgerust, airco, energielabel D"},
+        {"label": "Extra", "waarde": "Parkeren aanwezig"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Kopen en direct verhuren (lange termijn of flexibel per unit); eventueel later uitponden per appartement",
+      "samenvatting": "Kant-en-klaar verhuurgebouw in Pego: vijf gemeubileerde appartementen in een pand. Geschatte bruto huur (indicatief, 550-700 euro per unit) komt uit rond 36.000 euro per jaar, ofwel ca 6,5-7% bruto op de totale investering van ca 535.000 euro. Geen verbouwrisico, wel beheer- en verhuurrisico.",
+      "voors": [
+        "Direct renderend, geen verbouwing nodig - zeldzaam in dit prijssegment",
+        "Vijf losse units spreiden leegstandsrisico",
+        "Pego heeft stabiele lokale huurvraag plus instroom van buitenlanders die eerst huren",
+        "Uitpond-scenario mogelijk: losse appartementen verkopen kan meer opleveren dan het geheel"
+      ],
+      "tegens": [
+        "Bovenkant van het budget: met kosten ca 535.000 euro totaal",
+        "Huurinkomsten zijn een schatting; vraag de werkelijke huurcontracten en bezetting op",
+        "Juridische check nodig: zijn de 5 units kadastraal/administratief legaal gesplitst (division horizontal)?",
+        "Pego ligt tegen de Marjal Pego-Oliva aan; controleer PATRICOVA-status van deze specifieke straat"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "475.000 euro"},
+          {"label": "ITP 10% + kosten ca 2%", "waarde": "ca 57.000 euro"},
+          {"label": "Totale investering", "waarde": "ca 532.000-536.000 euro"},
+          {"label": "Indicatieve bruto huur (5 units)", "waarde": "ca 3.000 euro/mnd = ca 36.000 euro/jr (te verifieren)"},
+          {"label": "Indicatief bruto rendement", "waarde": "ca 6,5-7%"}
+        ],
+        "conclusie": "Als de units legaal gesplitst zijn en de huurniveaus kloppen, is dit een degelijke rendementsbelegging; als uitponden mag, zit er extra opwaarts potentieel in."
+      },
+      "vergunning": "Bestaand woongebruik; grootste aandachtspunt is de juridische status van de vijf units (horizontale splitsing, bewoonbaarheidscertificaten/cedulas per unit) en eventuele toeristische verhuurlicenties als vakantieverhuur gewenst is.",
+      "overstroming": {
+        "niveau": "Gemiddeld - locatie binnen Pego te verifieren",
+        "kleur": "amber",
+        "toelichting": "Het centrum van Pego ligt grotendeels buiten de hoogrisicozone, maar de Marjal de Pego-Oliva vlakbij is na de DANA van oktober 2024 als hoog risico geherclassificeerd. Exacte ligging van dit pand checken op de PATRICOVA-kaart."
+      },
+      "demografie": "Pego (ca 10.000 inwoners) is een levendig binnenlandstadje op 10 min van de stranden van Oliva en Denia, met veel Britse, Nederlandse en Duitse residenten.",
+      "ideeen": [
+        "Units per stuk optimaliseren en als flexibele midterm-verhuur (winterhuurders, digital nomads) aanbieden",
+        "Op termijn uitponden: losse verkoop van 5 appartementen kan boven de som van het geheel uitkomen"
+      ],
+      "due_diligence": [
+        "Nota simple en controle horizontale splitsing per unit",
+        "Huurcontracten, werkelijke huren en bezettingsgraad opvragen",
+        "Cedula de habitabilidad per appartement",
+        "PATRICOVA-check exacte adres",
+        "Staat van dak en installaties (1 gebouw = 1 dak voor 5 units)"
+      ],
+      "eerlijk_oordeel": "Solide verhuurkans zonder verbouwrisico, maar geen koopje: het rendement staat of valt met de werkelijke huren en de juridische status van de splitsing. Niet geschikt als snelle flip.",
+      "contact": {
+        "bron": "Kyero / Dils Lucas Fox",
+        "telefoon": "Via advertentie (nummer achter knop op Kyero)",
+        "email": "",
+        "url": "https://www.kyero.com/en/property/20571758-commercial-property-for-sale-pego",
+        "referentie": "JAV66559",
+        "opmerking": "Advertentie geverifieerd op 2026-07-08; 28 fotos aanwezig, remote viewing mogelijk"
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero (JAV66559)", "url": "https://www.kyero.com/en/property/20571758-commercial-property-for-sale-pego"}
+      ]
+    },
+    {
+      "id": "oliva-bouwgrond-urbano-bij-met-oliva-nova-90k-2026-07-08",
+      "titel": "Urban plot bij MET / Oliva Nova en het strand - Oliva",
+      "type": "Bouwgrond (urbano, nog niet geprogrammeerd voor woningbouw)",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (zone MET / Oliva Nova)",
+      "regio": "La Safor",
+      "vraagprijs": 90000,
+      "prijs_status": "Vraagprijs volgens advertentie",
+      "prijs_notitie": "Perceelgrootte niet in de advertentie vermeld - opvragen bij makelaar",
+      "kerngegevens": [
+        {"label": "Ligging", "waarde": "Zeer dicht bij MET (Mediterranean Equestrian Tour), strand en Oliva Nova Golf"},
+        {"label": "Status grond", "waarde": "Urbano, maar 'not programmed for residential' volgens advertentie"},
+        {"label": "Perceel", "waarde": "Oppervlakte onbekend - verifieren"}
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Strategische grondpositie in de sterkste micro-locatie van Oliva; ontwikkelen zodra programmering het toelaat, of doorverkopen aan een ontwikkelaar",
+      "samenvatting": "Betaalbare grondpositie pal bij Oliva Nova, het MET-hippisch centrum en het strand - de zone met de hoogste verkoopprijzen van Oliva (3000-4000 euro/m2 gebouwd). De kwalificatie 'urban, niet geprogrammeerd voor residentieel' is tegelijk de reden van de lage prijs en het grootste risico.",
+      "voors": [
+        "Sterkste locatie van Oliva: Oliva Nova-zone met internationale (Duitse) kopersmarkt en het MET-event als vraagmotor",
+        "Lage instap (90.000 euro) voor grond in deze zone",
+        "Ter vergelijking: een courant urbaan perceel 400 m van het strand vraagt hier 177.000 euro",
+        "Meerdere exit-routes: zelf ontwikkelen, doorverkopen aan ontwikkelaar, of vasthouden"
+      ],
+      "tegens": [
+        "'Not programmed for residential' betekent: nu NIET zomaar een woning bouwen - planologische programmering afwachten of aanvragen",
+        "Perceelgrootte en bouwparameters ontbreken in de advertentie",
+        "Kuststrook bij de Molinell-rivier kent overstromingsgevoelige delen",
+        "Grond genereert geen inkomsten zolang er niet gebouwd mag worden"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "90.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 11.500 euro"},
+          {"label": "Totale instap", "waarde": "ca 101.500 euro"},
+          {"label": "Referentie zone", "waarde": "Vergelijkbaar urbaan perceel bij strand: 177.000 euro (591 m2)"}
+        ],
+        "conclusie": "Alleen interessant als de programmeringsstatus binnen afzienbare tijd oplosbaar is; dan is het prijsverschil met courante percelen in deze zone de marge."
+      },
+      "vergunning": "Kritiek punt: 'suelo urbano no programado' vergt een programmerings-/ontwikkelingsstap bij de gemeente Oliva voordat woningbouw kan. Eerst bij urbanismo van het ayuntamiento de exacte classificatie, bouwbaarheid en termijnen opvragen. Zonder duidelijkheid hierover niet kopen.",
+      "overstroming": {
+        "niveau": "Gemiddeld - kustzone bij Molinell",
+        "kleur": "amber",
+        "toelichting": "De zone Oliva Nova / Molinell heeft overstromingsgevoelige delen (PATRICOVA); na de DANA van 2024 zijn kaarten herzien. Exacte perceellocatie checken."
+      },
+      "demografie": "Oliva Nova is een internationaal golf- en hippisch resort met sterke Duitse en Noord-Europese kopersmarkt; prijzen liggen structureel boven Oliva pueblo.",
+      "ideeen": [
+        "Grondbank-strategie: kopen, programmering volgen en verkopen zodra bouwrecht concreet wordt",
+        "Combineren met een lokale ontwikkelaar die de programmering aanvraagt"
+      ],
+      "due_diligence": [
+        "Informe urbanistico bij ayuntamiento Oliva: exacte classificatie en programmeringstraject",
+        "Perceelgrootte, bouwbaarheid en gebruiksmogelijkheden opvragen",
+        "PATRICOVA-check exacte ligging",
+        "Kadastrale check (nota simple), erfdienstbaarheden en toegang"
+      ],
+      "eerlijk_oordeel": "Speculatievere kans dan gemiddeld: de lage prijs bestaat omdat je nu geen woning mag bouwen. Voor wie geduld heeft en de programmering goed uitzoekt kan dit de goedkoopste voet tussen de deur in de beste zone van Oliva zijn; voor een snelle flip is dit niets.",
+      "contact": {
+        "bron": "Kyero / Oliva Casas",
+        "telefoon": "Via advertentie (nummer achter knop op Kyero)",
+        "email": "",
+        "url": "https://www.kyero.com/en/property/17227754-land-for-sale-oliva",
+        "referentie": "OCPL011",
+        "opmerking": "Advertentie geverifieerd op 2026-07-08; 13 fotos, remote viewing mogelijk"
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero (OCPL011)", "url": "https://www.kyero.com/en/property/17227754-land-for-sale-oliva"},
+        {"titel": "Referentieperceel 400m van strand (177k)", "url": "https://www.kyero.com/en/property/20846416-land-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-stadswoning-san-roque-uitzicht-126m2-135k-2026-07-08",
+      "titel": "Moderne stadswoning met twee terrassen en zeezicht - San Roque, Oliva",
+      "type": "Stadswoning, 3 slaapkamers, instapklaar tot licht op te knappen",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (pueblo, bij San Roque)",
+      "regio": "La Safor",
+      "vraagprijs": 135000,
+      "prijs_status": "Vraagprijs volgens advertentie",
+      "prijs_notitie": "1071 euro/m2 - onder het gerenoveerde marktniveau van 1500-1800 euro/m2 in Oliva pueblo",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "126 m2, 3 slaapkamers, 1 badkamer"},
+        {"label": "Buitenruimte", "waarde": "Twee ruime terrassen + dakterras met zicht op zee en bergen"},
+        {"label": "Staat", "waarde": "Advertentie vermeldt kwaliteit 'modern'; twee aparte toegangen"},
+        {"label": "Bijzonderheid", "waarde": "Uitzicht is de grote troef"}
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Lichte cosmetische upgrade en doorverkopen aan een lifestyle-koper, of aanhouden als verhuurwoning",
+      "samenvatting": "Woning nabij het San Roque-plein met iets wat schaars is in Oliva pueblo: echte terrassen met vrij zicht over stad, zee en bergen. Tegen 1071 euro/m2 met een 'moderne' afwerking volgens de advertentie is de instap laag; de vraag is hoeveel werk er werkelijk nog nodig is.",
+      "voors": [
+        "Uitzicht en buitenruimte zijn precies waar buitenlandse kopers op selecteren - onderscheidend in het pueblo-aanbod",
+        "Prijs per m2 ruim onder gerenoveerd marktniveau",
+        "Twee toegangen geeft flexibiliteit in indeling",
+        "Ook als verhuurwoning bruikbaar (indicatief 700-800 euro/mnd lange termijn)"
+      ],
+      "tegens": [
+        "San Roque grenst aan het casco historico: eerder leerpunt - splitsen is daar vaak niet toegestaan en vocht is een risico; dit pand dus alleen als geheel behandelen",
+        "1 badkamer op 126 m2 is mager; tweede badkamer toevoegen kost geld",
+        "Werkelijke staat achter 'modern' onduidelijk - bezichtiging nodig",
+        "Flipmarge is dun als er toch een middelzware renovatie nodig blijkt (zie rekensom)"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "135.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 16.200 euro"},
+          {"label": "Scenario licht opknappen (ca 300 euro/m2)", "waarde": "ca 38.000 euro"},
+          {"label": "Totaal scenario licht", "waarde": "ca 189.000 euro"},
+          {"label": "Verkoopwaarde gerenoveerd (1500-1800 euro/m2)", "waarde": "189.000 - 227.000 euro"}
+        ],
+        "conclusie": "Alleen bij een werkelijk lichte opknapbeurt en verkoop richting de bovenkant (uitzicht-premie) blijft er marge over; bij een volledige renovatie (700+ euro/m2) is de flip verlieslatend. Verhuur is het veiligere pad."
+      },
+      "vergunning": "Regulier woongebruik; voor cosmetische renovatie volstaat een kleine werkenmelding (ICIO 4% over verbouwsom). Niet splitsen: nabij casco historico is dat doorgaans niet toegestaan.",
+      "overstroming": {
+        "niveau": "Laag - hoger gelegen deel van het pueblo",
+        "kleur": "green",
+        "toelichting": "San Roque ligt tegen de heuvel, boven de vlakte; geen bekende PATRICOVA-hoogrisicozone. Standaardcheck blijft aan te raden."
+      },
+      "demografie": "Oliva pueblo heeft een stabiele mix van lokale bewoners en een groeiende groep Noord-Europese kopers die authentieke dorpswoningen met buitenruimte zoeken.",
+      "ideeen": [
+        "Tweede badkamer toevoegen en positioneren als lifestyle-woning met dakterras",
+        "Bij aanhouden: lange-termijnverhuur aan expats die eerst willen huren"
+      ],
+      "due_diligence": [
+        "Bezichtiging: werkelijke staat (vocht, dak, installaties) vaststellen",
+        "Valt het adres exact binnen het beschermde casco historico? Gevolgen voor werken checken",
+        "Vergelijkbare verkopen bij San Roque opvragen om de uitzicht-premie te toetsen",
+        "Nota simple en lasten"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijk geprijsd met een uniek verkoopargument (uitzicht), maar de flipmarge is smal en de ligging schuurt tegen het casco historico aan. Serieus bekijken, alleen doorzetten als de staat echt zo goed is als 'modern' suggereert.",
+      "contact": {
+        "bron": "Kyero / Oliva Casas",
+        "telefoon": "Via advertentie (nummer achter knop op Kyero)",
+        "email": "",
+        "url": "https://www.kyero.com/en/property/20599894-town-house-for-sale-oliva",
+        "referentie": "OCTH250700",
+        "opmerking": "Advertentie geverifieerd op 2026-07-08; 19 fotos, remote viewing mogelijk"
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero (OCTH250700)", "url": "https://www.kyero.com/en/property/20599894-town-house-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "playa-de-piles-local-renovatie-terras-72m2-105k-2026-07-08",
+      "titel": "Commercieel local met terras op Playa de Piles - te renoveren",
+      "type": "Commerciele ruimte 72 m2 met terras, renovatie nodig",
+      "type_kort": "Horeca",
+      "plaats": "Piles (Playa de Piles)",
+      "regio": "La Safor",
+      "vraagprijs": 105000,
+      "prijs_status": "Vraagprijs volgens advertentie",
+      "prijs_notitie": "Advertentie vermeldt: financiering tot 100% mogelijk (onder voorbehoud bank)",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "72 m2 + terras"},
+        {"label": "Staat", "waarde": "Te renoveren, energielabel F"},
+        {"label": "Ligging", "waarde": "Playa de Piles, rustige strandwijk tussen Oliva en Gandia"},
+        {"label": "Extra", "waarde": "3D-tour en videotour beschikbaar in de advertentie"}
+      ],
+      "score": 62,
+      "score_label": "Interessant",
+      "strategie": "Renoveren tot seizoenshoreca (strandbar/cafe) of verhuren als casco local aan een ondernemer",
+      "samenvatting": "Kleine commerciele unit met terras op loopafstand van het strand van Piles. Lage instap en 100% financieringsmogelijkheid maken het toegankelijk; daar staat tegenover dat Playa de Piles een sterk seizoensgebonden micro-markt is en het pand werk nodig heeft.",
+      "voors": [
+        "Laagste instap in het horecasegment aan de kust in deze regio (ter vergelijking: draaiende zaken op Piles beach vragen 280.000-330.000 euro)",
+        "Terras is goud waard voor zomerexploitatie",
+        "100% financiering genoemd in de advertentie",
+        "Flexibel: zelf exploiteren, verhuren aan horeca-ondernemer, of casco doorverkopen na opknapbeurt"
+      ],
+      "tegens": [
+        "Playa de Piles is buiten het seizoen erg stil; jaarrond-omzet is beperkt",
+        "72 m2 is klein; capaciteit begrenst de omzet",
+        "Renovatie- en installatiekosten voor horeca (keuken, afzuiging, toiletten) tikken aan op een kleine oppervlakte",
+        "Horecalicentie (licencia de actividad) vereist; kust- en geluidseisen kunnen streng zijn"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "105.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 12.600 euro"},
+          {"label": "Renovatie tot horeca (indicatief 800-1100 euro/m2)", "waarde": "58.000 - 79.000 euro"},
+          {"label": "Totaal", "waarde": "ca 176.000 - 197.000 euro"},
+          {"label": "Referentie", "waarde": "Draaiende bar/restaurant op Piles beach: 280.000 euro vraagprijs"}
+        ],
+        "conclusie": "Het gat tussen de totale investering (ca 180-195k) en de prijs van draaiende strandhoreca (280k+) suggereert marge, mits de licentie rondkomt en een exploitant of huurder gevonden wordt."
+      },
+      "vergunning": "Verandering naar horeca vereist een licencia de actividad bij de gemeente Piles plus terrasvergunning; haalbaar in een commerciele strandzone maar reken op maanden doorlooptijd. Energielabel F betekent extra investering in installaties.",
+      "overstroming": {
+        "niveau": "Verhoogd - kuststrook",
+        "kleur": "amber",
+        "toelichting": "Playa de Piles ligt in de lage kustvlakte; delen zijn PATRICOVA-risicozone en de DANA-herziening heeft kustkaarten aangescherpt. Check de exacte straat en het bouwpeil."
+      },
+      "demografie": "Playa de Piles is een kleine, rustige badplaats met vooral Valenciaanse tweede-woningbezitters; in juli-augustus vol, daarbuiten stil. British School Gandia op 6 km trekt families naar de zone.",
+      "ideeen": [
+        "Seizoensconcept: chiringuito-stijl bar met beperkte keuken om installatiekosten te drukken",
+        "Casco opknappen en verhuren aan een ondernemer"
+      ],
+      "due_diligence": [
+        "Licentiehistorie: had dit local eerder een horecabestemming of -licentie?",
+        "Terras: eigen grond of publieke ruimte met concessie?",
+        "Offerte renovatie inclusief horeca-installaties",
+        "PATRICOVA-check en bouwpeil",
+        "3D-tour bekijken voor de werkelijke staat"
+      ],
+      "eerlijk_oordeel": "Betaalbare gok op strandhoreca met een reeel prijsverschil tegenover draaiende zaken, maar het succes hangt volledig op de licentie en het korte seizoen. Alleen instappen met een concreet exploitatie- of verhuurplan.",
+      "contact": {
+        "bron": "Kyero / HogarAbitat",
+        "telefoon": "Via advertentie (nummer achter knop op Kyero)",
+        "email": "",
+        "url": "https://www.kyero.com/en/property/20813742-commercial-property-for-sale-piles",
+        "referentie": "097BJ-ALC105.PV-A/3716",
+        "opmerking": "Advertentie geverifieerd op 2026-07-08; 21 fotos, 3D- en videotour aanwezig"
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero (097BJ-ALC105)", "url": "https://www.kyero.com/en/property/20813742-commercial-property-for-sale-piles"},
+        {"titel": "Referentie: draaiend restaurant Piles beach (280k)", "url": "https://www.kyero.com/en/property/14135780-commercial-property-for-sale-piles"}
+      ]
+    },
+    {
+      "id": "la-font-den-carros-timmerwerkplaats-150m2-80k-2026-07-08",
+      "titel": "Voormalige timmerwerkplaats met garage - La Font d'en Carros",
+      "type": "Bedrijfspand 150 m2 incl. machines, herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "La Font d'en Carros",
+      "regio": "La Safor",
+      "vraagprijs": 80000,
+      "prijs_status": "Vraagprijs volgens advertentie",
+      "prijs_notitie": "Hout en machines zijn bij de prijs inbegrepen",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "150 m2, vlak perceel"},
+        {"label": "Staat", "waarde": "Renovatie en cosmetisch werk nodig; elektra en water aanwezig"},
+        {"label": "Parkeren", "waarde": "Garage, oprit en straatparkeren"},
+        {"label": "Ligging", "waarde": "Rand van het dorp, goede toegang; strand op ca 6 km"}
+      ],
+      "score": 58,
+      "score_label": "Voorzichtig",
+      "strategie": "Goedkoop verwerven en herbestemmen: als werkplaats/opslag verhuren, of onderzoeken of een woonbestemming mogelijk is",
+      "samenvatting": "Goedkoop bedrijfspand aan de dorpsrand van La Font d'en Carros, compleet met inventaris van de oude timmerij. De prijs is laag (533 euro/m2), maar de markt in dit dorp is klein en de herbestemmingsroute is onzeker - dit is een kans voor wie zelf iets concreets met het pand kan.",
+      "voors": [
+        "Zeer lage instap: ca 90.000 euro totaal inclusief kosten",
+        "Garage plus oprit; nutsvoorzieningen (elektra, water) aanwezig",
+        "Machines en hout inbegrepen - direct bruikbaar als werkplaats of als verkoopbare inventaris",
+        "La Font d'en Carros ligt op 10 min van Gandia en Oliva; British School Gandia op 7 km"
+      ],
+      "tegens": [
+        "Micro-markt: beperkte vraag naar bedrijfsruimte in een klein dorp (zelfde les als Bellreguard)",
+        "Herbestemming naar wonen is onzeker en afhankelijk van het bestemmingsplan",
+        "Renovatie nodig; staat van dak en constructie onbekend",
+        "Exit is traag: dit soort panden staat vaak lang te koop"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "80.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 10.200 euro"},
+          {"label": "Totale instap", "waarde": "ca 90.000 euro"},
+          {"label": "Indicatieve verhuur als werkplaats/opslag", "waarde": "ca 400-600 euro/mnd (lokaal te toetsen)"},
+          {"label": "Indicatief bruto rendement bij verhuur", "waarde": "ca 5-8%, sterk afhankelijk van huurder"}
+        ],
+        "conclusie": "Financieel alleen interessant met een concrete huurder of een haalbare woonbestemming; anders blijft kapitaal vastzitten in een moeilijk verkoopbaar pand."
+      },
+      "vergunning": "Als werkplaats/opslag: bestaand gebruik voortzetten is relatief eenvoudig. Omzetting naar wonen vereist wijziging van gebruik (cambio de uso) - haalbaarheid eerst bij het ayuntamiento van La Font d'en Carros toetsen voordat er geboden wordt.",
+      "overstroming": {
+        "niveau": "Laag - dorpsrand tegen de heuvels",
+        "kleur": "green",
+        "toelichting": "La Font d'en Carros ligt boven de kustvlakte tegen de heuvels; geen bekende hoogrisicozone. Standaard PATRICOVA-check voor het exacte perceel blijft verstandig."
+      },
+      "demografie": "Klein dorp (ca 4.000 inwoners) boven Gandia met groeiende belangstelling van buitenlandse kopers vanwege lage prijzen en de nabijheid van de British School.",
+      "ideeen": [
+        "Verhuren als atelier/werkplaats aan ambachtslieden of als opslag voor bedrijven uit Gandia",
+        "Bij haalbare cambio de uso: omzetten naar loft-woning (dorpsprijzen wel bescheiden)",
+        "Machines apart verkopen om de netto-instap te verlagen"
+      ],
+      "due_diligence": [
+        "Bestemming en cambio de uso-mogelijkheden bij de gemeente",
+        "Bouwkundige staat (dak, constructie)",
+        "Waarde van de inbegrepen machines en het hout taxeren",
+        "Lokale huurprijzen voor bedrijfsruimte toetsen"
+      ],
+      "eerlijk_oordeel": "Goedkoop, maar goedkoop met een reden: kleine markt en onzekere herbestemming. Eerder een opportunistische aankoop voor wie zelf een gebruik heeft (werkplaats, opslag) dan een zuivere investering.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Inmobiliaria",
+        "telefoon": "Via advertentie (nummer achter knop op Kyero)",
+        "email": "",
+        "url": "https://www.kyero.com/en/property/20924816-commercial-property-for-sale-la-font-d-en-carros",
+        "referentie": "PNBS308",
+        "opmerking": "Advertentie geverifieerd op 2026-07-08; 13 fotos, remote viewing mogelijk"
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero (PNBS308)", "url": "https://www.kyero.com/en/property/20924816-commercial-property-for-sale-la-font-d-en-carros"}
+      ]
+    }
+  ]
+}
