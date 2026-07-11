@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-10",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "dagelijkse run",
+    "aantal": 5,
+    "marktcontext": "Deze run kijkt breder dan Oliva zelf: naast twee kansen in Oliva pueblo en een aan de playa vallen El Verger-objecten op met scherpe prijzen per m2. In Oliva pueblo zijn meerdere locals en horecapanden recent in prijs verlaagd (teken van onderhandelruimte). In El Verger staan nieuwbouwwoningen te koop voor 334.000-447.000 euro, een concreet prijsanker voor grond- en flipwaarde daar. Kanttekening: El Verger ligt aan de rivier Girona met bekende overstromingshistorie (2007), dus daar is de PATRICOVA-check een breekpunt, geen formaliteit. Platforms deze run: kyero (detailpaginas geverifieerd) en habitaclia (live overzichtspaginas geverifieerd; detailpaginas laden clientside). Vaste kosten blijven: ITP 10%, ca 2% bijkomende kosten, verbouwing 700-1100 euro/m2, ICIO 4% bij nieuwbouw.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle gegevens komen uit online advertenties en zijn niet ter plaatse gecontroleerd. Verifieer prijzen, vergunningen, overstromingskaarten (PATRICOVA) en bouwkundige staat altijd zelf voor een bod."
+  },
+  "kansen": [
+    {
+      "id": "oliva-pueblo-bar-met-licentie-100m2-83k-2026-07-10",
+      "titel": "Bar met actuele licentie, klaar om te openen - Oliva pueblo",
+      "type": "Horeca / verhuurobject",
+      "type_kort": "Horeca",
+      "plaats": "Oliva (pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 83000,
+      "prijs_status": "Vraagprijs, recent verlaagd met 10.000 euro",
+      "prijs_notitie": "830 euro/m2. Gegevens afkomstig van het live habitaclia-overzicht van vandaag (detailpagina laadt clientside en kon niet automatisch worden uitgelezen).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "100 m2"},
+        {"label": "Ligging", "waarde": "Calle Alcalde Francisco Llorca, Oliva pueblo"},
+        {"label": "Staat", "waarde": "Ingericht, licentie actueel, direct te openen"},
+        {"label": "Extra", "waarde": "2 aparte ruimtes, 2 toiletten, rolstoeltoegankelijk"}
+      ],
+      "score": 74,
+      "score_label": "Sterk",
+      "strategie": "Kopen en verhuren aan een uitbater, of opknappen en doorverkopen als draaiende zaak",
+      "samenvatting": "Bar van 100 m2 in Oliva pueblo met licenties op orde en volledig ingericht, volgens de advertentie direct te openen. De prijs is recent met 10.000 euro verlaagd naar 83.000 euro. Bij verhuur aan een horecaondernemer (indicatief 700-900 euro per maand voor een instapklare bar met licentie) is het bruto rendement fors. Licenties zijn het duurste en traagste onderdeel van horeca opstarten; die horde is hier al genomen.",
+      "voors": [
+        "Horecalicentie actueel - grootste vergunningshorde is al genomen",
+        "Prijs recent verlaagd: verkoper lijkt te willen bewegen",
+        "Instapklaar en ingericht, geen verbouwing nodig om te starten",
+        "Lage instapprijs, ook aantrekkelijk als pure verhuurbelegging"
+      ],
+      "tegens": [
+        "Horeca-verhuur staat of valt met het vinden van een goede uitbater",
+        "Waardegroei van een local is beperkter dan van woningen",
+        "Staat van installaties (keuken, afzuiging) moet ter plaatse gecontroleerd worden",
+        "Detailpagina niet automatisch verifieerbaar; gegevens komen van het live platformoverzicht"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "83.000 euro"},
+          {"label": "ITP 10% + kosten ca 2%", "waarde": "ca 10.000 euro"},
+          {"label": "Totale investering (zonder verbouwing)", "waarde": "ca 93.000 euro"},
+          {"label": "Indicatieve huur aan uitbater", "waarde": "700-900 euro/maand"},
+          {"label": "Bruto rendement", "waarde": "ca 9-11,5%"}
+        ],
+        "conclusie": "Als verhuurobject rekent dit rond, mits er een betrouwbare uitbater wordt gevonden. Als flip beperkt potentieel; de kracht zit in cashflow."
+      },
+      "vergunning": "Horecalicentie is volgens de advertentie actueel. Controleer bij het ayuntamiento van Oliva of de licentie overdraagbaar is en of er geen aanpassingseisen (geluid, afzuiging) openstaan.",
+      "overstroming": {
+        "niveau": "Beperkt",
+        "kleur": "amber",
+        "toelichting": "Oliva pueblo ligt grotendeels buiten de hoogste PATRICOVA-risicozones, maar delen van de kern kenden wateroverlast bij de DANA van oktober 2024. Exacte ligging binnen de straat checken op de herziene kaart."
+      },
+      "demografie": "Oliva heeft ca 25.000-27.000 inwoners met sterke seizoenspiek in de zomer. Buurtbars in het pueblo draaien op vaste lokale klandizie en zijn minder seizoensafhankelijk dan de playa.",
+      "ideeen": [
+        "Verhuur aan startende horecaondernemer (licentie is de troef)",
+        "Zelf laten uitbaten als ontbijt- of lunchzaak",
+        "Op termijn herbestemmen naar woning als de zonering dat toelaat"
+      ],
+      "due_diligence": [
+        "Licentie-overdraagbaarheid bevestigen bij het ayuntamiento",
+        "Staat van keuken, afzuiging en elektra inspecteren",
+        "Navragen waarom de zaak gesloten is",
+        "Huurprijzen van vergelijkbare bars in Oliva toetsen"
+      ],
+      "eerlijk_oordeel": "Sterkste cashflow-kans van vandaag. De licentie maakt het verschil: die kost normaal maanden en duizenden euros. Geen groeibriljant, wel een degelijke rendementsmachine als de uitbater gevonden wordt.",
+      "contact": {
+        "bron": "habitaclia.com",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://english.habitaclia.com/buy-business_premises-oliva_pueblo-oliva-i54011000000771.htm",
+        "referentie": "i54011000000771",
+        "opmerking": "Aangeboden via Inmobiliaria Mara Cabrera. Gegevens gebaseerd op het live listingoverzicht van habitaclia van 2026-07-10."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://english.habitaclia.com/buy-business_premises-oliva_pueblo-oliva-i54011000000771.htm"},
+        {"titel": "Overzicht bedrijfsruimtes Oliva (habitaclia)", "url": "https://english.habitaclia.com/business_premises-oliva.htm"}
+      ]
+    },
+    {
+      "id": "el-verger-bouwkavel-hoek-urbano-160m2-75k-2026-07-10",
+      "titel": "Urbane hoekkavel 160 m2 in centrum El Verger",
+      "type": "Bouwgrond / perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "El Verger",
+      "regio": "Marina Alta",
+      "vraagprijs": 75000,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "469 euro/m2 grond. Detailpagina op kyero geverifieerd op 2026-07-10.",
+      "kerngegevens": [
+        {"label": "Perceel", "waarde": "160 m2, urbaan-residentieel"},
+        {"label": "Ligging", "waarde": "Hoekpositie in een van de betere zones van El Verger"},
+        {"label": "Status grond", "waarde": "Suelo urbano (volgens advertentie)"},
+        {"label": "Referentiemarkt", "waarde": "Nieuwbouw rijwoningen El Verger: 334.000-447.000 euro"}
+      ],
+      "score": 71,
+      "score_label": "Interessant",
+      "strategie": "Kavel kopen, rijwoning bouwen en verkopen tegen nieuwbouwprijzen, of doorverkopen met vergund project",
+      "samenvatting": "Urbane hoekkavel van 160 m2 in het centrum van El Verger, op 10 minuten van Denia. De hoekligging geeft maximale gevelbreedte en lichtinval. In dezelfde plaats worden nieuwbouwwoningen van 90-150 m2 verkocht voor 334.000 tot 447.000 euro, wat een concreet prijsanker geeft. Bouw van ca 180-200 m2 over twee lagen tegen 1.000-1.100 euro per m2 laat op papier een gezonde marge zien.",
+      "voors": [
+        "Urbane grond: bouwrecht in principe aanwezig, geen herbestemmingstraject",
+        "Hoekkavel - flexibeler ontwerp en betere verkoopbaarheid",
+        "Nieuwbouwcomps in dezelfde plaats liggen ver boven de totale stichtingskosten",
+        "El Verger profiteert van de overloop uit het dure Denia"
+      ],
+      "tegens": [
+        "160 m2 is krap: bouwvolume en parkeernorm bepalen de haalbaarheid",
+        "Bouwparameters (edificabilidad, hoogte, rooilijnen) nog niet bevestigd",
+        "El Verger ligt aan de rivier Girona - overstromingskaart per perceel checken",
+        "Bouwtraject van 12-18 maanden betekent langere kapitaalbinding dan een flip"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Grond + ITP/kosten", "waarde": "ca 84.000 euro"},
+          {"label": "Bouw ca 190 m2 x 1.050 euro", "waarde": "ca 200.000 euro"},
+          {"label": "ICIO 4% + honoraria + aansluitingen", "waarde": "ca 25.000 euro"},
+          {"label": "Totale stichtingskosten", "waarde": "ca 310.000 euro"},
+          {"label": "Indicatieve verkoopwaarde nieuwbouw", "waarde": "370.000-420.000 euro"}
+        ],
+        "conclusie": "Marge van indicatief 20-35% mits de bouwparameters een woning van ca 180-200 m2 toelaten. Staat of valt met de gemeentelijke normen."
+      },
+      "vergunning": "Suelo urbano volgens de advertentie, dus in beginsel direct bebouwbaar na licencia de obra. Vraag bij het ayuntamiento van El Verger de ficha urbanistica op: bebouwingspercentage, hoogte en parkeereis zijn bepalend voor de business case.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "El Verger ligt aan de rivier Girona, die in 2007 zwaar buiten haar oevers trad. Delen van de kern hebben een PATRICOVA-aanduiding. De perceelspecifieke check is hier een breekpunt, geen formaliteit."
+      },
+      "demografie": "El Verger (ca 5.000 inwoners) groeit door de overloop van Denia. Lopende nieuwbouwprojecten bevestigen actuele vraag van zowel Spaanse als buitenlandse kopers.",
+      "ideeen": [
+        "Rijwoning met dakterras voor de Denia-overloopmarkt",
+        "Twee kleinere units als de norm het toelaat",
+        "Kavel doorverkopen met vergund bouwproject (winst zonder te bouwen)"
+      ],
+      "due_diligence": [
+        "Ficha urbanistica opvragen (edificabilidad, hoogte, parkeernorm)",
+        "PATRICOVA-kaart voor dit specifieke perceel raadplegen",
+        "Nota simple: lasten en erfdienstbaarheden controleren",
+        "Bouwkosten lokaal aanbesteden voor een realistische raming"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke instap in een markt met bewezen nieuwbouwvraag, maar twee zaken beslissen alles: de bouwparameters en de overstromingskaart. Beide zijn met een middag bij het ayuntamiento te achterhalen voordat je iets tekent.",
+      "contact": {
+        "bron": "kyero.com",
+        "telefoon": "via contactformulier kyero",
+        "email": "onbekend",
+        "url": "https://www.kyero.com/en/property/20626440-land-for-sale-el-verger",
+        "referentie": "a867046a-f5b4-4c68-9",
+        "opmerking": "Aangeboden via Huspy Iberia. Detailpagina geverifieerd op 2026-07-10."
+      },
+      "bronnen": [
+        {"titel": "Advertentie kyero", "url": "https://www.kyero.com/en/property/20626440-land-for-sale-el-verger"},
+        {"titel": "Nieuwbouwcomps El Verger (kyero)", "url": "https://www.kyero.com/en/el-verger-town-houses-for-sale-0l1881g3"}
+      ]
+    },
+    {
+      "id": "el-verger-herenhuis-1900-centrum-529m2-190k-2026-07-10",
+      "titel": "Herenhuis uit 1900 van 529 m2 in centrum El Verger",
+      "type": "Buitenkans / groot renovatieproject",
+      "type_kort": "Buitenkans",
+      "plaats": "El Verger",
+      "regio": "Marina Alta",
+      "vraagprijs": 190000,
+      "prijs_status": "Vraagprijs",
+      "prijs_notitie": "Slechts 359 euro/m2. Detailpagina op kyero geverifieerd op 2026-07-10.",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "529 m2 bebouwd"},
+        {"label": "Indeling", "waarde": "7 slaapkamers, 1 badkamer, 2 woonkamers, open haard"},
+        {"label": "Bouwjaar", "waarde": "1900"},
+        {"label": "Ligging", "waarde": "Centrum El Verger"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Opdelen in 3-4 appartementen (mits toegestaan) of gefaseerd renoveren en als geheel verkopen",
+      "samenvatting": "Groot herenhuis uit 1900 in het centrum van El Verger voor 359 euro per m2 - een fractie van de gerenoveerde marktwaarde in de regio. Het pand vraagt volledige renovatie maar biedt door zijn maat meerdere routes: opdelen in appartementen, deels renoveren en de rest casco verkopen, of een groot familiehuis voor de Denia-markt maken. De lage instap per m2 is de buffer tegen tegenvallers.",
+      "voors": [
+        "Zeer lage prijs per m2 (359 euro) geeft ruime foutmarge",
+        "El Verger centrum is geen beschermd casco historico zoals Oliva - splitsing kansrijker",
+        "Appartementen zijn 68% van de lokale vraag; kleine units verkopen daar goed",
+        "Meerdere exit-routes door de omvang"
+      ],
+      "tegens": [
+        "Pand uit 1900: funderings-, vocht- en dakrisico tot een keuring anders uitwijst",
+        "Volledige renovatie van 529 m2 kost al snel 370.000-500.000 euro - grote totale investering",
+        "Splitsing in appartementen vereist gemeentelijke goedkeuring (nog niet bevestigd)",
+        "1 badkamer op 529 m2 zegt genoeg over de staat van de installaties"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop + ITP/kosten", "waarde": "ca 213.000 euro"},
+          {"label": "Renovatie 4 appartementen (ca 400 m2 x 900 euro)", "waarde": "ca 360.000 euro"},
+          {"label": "Totale investering", "waarde": "ca 575.000 euro"},
+          {"label": "Verkoopwaarde 4 appartementen (indicatief 170.000-200.000 per stuk)", "waarde": "680.000-800.000 euro"}
+        ],
+        "conclusie": "Op papier 18-39% marge bij splitsing, maar de totale investering overschrijdt het budget per object. Alleen haalbaar met financiering, een partner of een gefaseerde aanpak."
+      },
+      "vergunning": "Splitsing in meerdere woningen vereist een licentie van het ayuntamiento van El Verger; buiten beschermd gebied is dit doorgaans haalbaar mits parkeernorm en minimale oppervlaktes kloppen. Eerst schriftelijk bevestigen voor aankoop.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "Centrum El Verger ligt nabij de rivier Girona (zware overstroming in 2007). PATRICOVA-check per adres nodig; gebruik van de benedenverdieping kan erdoor beperkt worden."
+      },
+      "demografie": "El Verger groeit als betaalbaar alternatief voor Denia. De vraag naar appartementen van 80-120 m2 is aantoonbaar het grootste marktsegment.",
+      "ideeen": [
+        "Splitsen in 3-4 appartementen voor verkoop of verhuur",
+        "Begane grond commercieel + wonen erboven",
+        "Casco opknappen en doorverkopen aan een grotere ontwikkelaar"
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring (fundering, dak, vocht) voor elk bod",
+        "Splitsingsmogelijkheid schriftelijk bevestigen bij het ayuntamiento",
+        "PATRICOVA-check op adresniveau",
+        "Renovatieraming door een lokale aannemer, niet op afstand"
+      ],
+      "eerlijk_oordeel": "De goedkoopste vierkante meters van deze run, maar ook het grootste en riskantste project. De totale investering bij splitsing gaat boven het budget van 500.000 euro - dat moet vooraf helder zijn. Alleen instappen met partner of gefaseerde strategie, en na een harde bouwkundige keuring.",
+      "contact": {
+        "bron": "kyero.com",
+        "telefoon": "via contactformulier kyero",
+        "email": "onbekend",
+        "url": "https://www.kyero.com/en/property/18737258-town-house-for-sale-el-verger",
+        "referentie": "RSM 222",
+        "opmerking": "Aangeboden via Renvida (Engels gesproken). Detailpagina geverifieerd op 2026-07-10."
+      },
+      "bronnen": [
+        {"titel": "Advertentie kyero", "url": "https://www.kyero.com/en/property/18737258-town-house-for-sale-el-verger"}
+      ]
+    },
+    {
+      "id": "oliva-pueblo-local-sanchis-mayans-861m2-225k-2026-07-10",
+      "titel": "Local van 861 m2 aan winkelstraat Sanchis Mayans - Oliva",
+      "type": "Bedrijfspand met herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Oliva (pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 225000,
+      "prijs_status": "Vraagprijs, recent verlaagd met 25.000 euro",
+      "prijs_notitie": "261 euro/m2. Gegevens afkomstig van het live habitaclia-overzicht van vandaag (detailpagina laadt clientside en kon niet automatisch worden uitgelezen).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "861 m2"},
+        {"label": "Ligging", "waarde": "Carrer Sanchis Mayans 2, hoofdwinkelstraat Oliva pueblo"},
+        {"label": "Aanbieder", "waarde": "NUX Capital (exclusief mandaat)"},
+        {"label": "Extra", "waarde": "Virtuele tour beschikbaar"}
+      ],
+      "score": 69,
+      "score_label": "Interessant",
+      "strategie": "Herbestemmen: op maat verhuren aan supermarkt of fitness, of deels ombouwen naar wonen met commercieel front",
+      "samenvatting": "Zeer groot commercieel pand aan de belangrijkste winkelstraat van Oliva pueblo voor 261 euro per m2 - de laagste prijs per m2 van het centrum in deze run. De prijs is al met 25.000 euro verlaagd. De maat (861 m2) sluit kleine kopers uit, wat onderhandelruimte geeft. Herbestemming naar deels wonen kan de waarde per m2 verveelvoudigen, mits het bestemmingsplan meewerkt.",
+      "voors": [
+        "Uitzonderlijk lage prijs per m2 voor een A-locatie in het pueblo",
+        "Prijs al verlaagd - gemotiveerde verkoper",
+        "Commercial unit aan hoofdstraat sluit aan bij eerder positief signaal in het profiel",
+        "Omvang geschikt voor supermarkt, fitness of gemengd wonen/werken"
+      ],
+      "tegens": [
+        "861 m2 verhuren of herbestemmen vraagt schaal en adem - geen snelle flip",
+        "Wijziging naar woonbestemming (cambio de uso) is onzeker en per zone verschillend",
+        "Grote locals kennen een dunne kopersmarkt bij exit",
+        "Detailpagina niet automatisch verifieerbaar; gegevens komen van het live platformoverzicht"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop + ITP/kosten", "waarde": "ca 252.000 euro"},
+          {"label": "Scenario A: casco verhuur aan retailer of fitness", "waarde": "2.000-3.000 euro/maand haalbaar op deze maat"},
+          {"label": "Bruto rendement scenario A", "waarde": "ca 9,5-14%"},
+          {"label": "Scenario B: ombouw ca 500 m2 naar 5-6 appartementen", "waarde": "renovatie ca 450.000 euro; verkoopwaarde 750.000-900.000 euro"}
+        ],
+        "conclusie": "Scenario A rekent nu al rond zodra er een huurder is. Scenario B heeft de grootste upside maar hangt volledig op de cambio de uso en overschrijdt gecombineerd het budget."
+      },
+      "vergunning": "Commercieel gebruik: direct mogelijk. Cambio de uso naar wonen: toetsen bij het ayuntamiento van Oliva; aan de hoofdstraat blijft de begane grond doorgaans commercieel bestemd, hogere of achterliggende delen zijn kansrijker.",
+      "overstroming": {
+        "niveau": "Beperkt",
+        "kleur": "amber",
+        "toelichting": "Sanchis Mayans ligt in het lagere deel van het pueblo; bij de DANA van oktober 2024 was er wateroverlast in delen van Oliva. Check de herziene PATRICOVA-kaart voor dit adres."
+      },
+      "demografie": "De hoofdstraat van Oliva pueblo bedient de dagelijkse behoeften van het hele dorp; de passantenstroom is er het hele jaar, anders dan aan de playa.",
+      "ideeen": [
+        "Verhuur aan supermarktketen of fitnessformule",
+        "Deels wonen (achter/boven) met commercieel front",
+        "Opdelen in 2-3 kleinere units voor verhuur"
+      ],
+      "due_diligence": [
+        "Bestemming en cambio de uso-mogelijkheden opvragen bij het ayuntamiento",
+        "Navragen waarom het pand leeg staat en hoe lang al",
+        "Technische staat inspecteren: 861 m2 dak en installaties",
+        "Huurmarkt voor deze maat polsen bij lokale makelaars"
+      ],
+      "eerlijk_oordeel": "Veel vierkante meters voor weinig geld op een echte A-locatie, maar dit is een project voor iemand met geduld en een plan. Zonder concrete huurder of bevestigde herbestemming is het een gok; met een van beide is het de interessantste waardepropositie van deze week.",
+      "contact": {
+        "bron": "habitaclia.com",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://english.habitaclia.com/buy-business_premises-street_sanchis_mayans_2_oliva_pueblo-oliva-i28180000000502.htm",
+        "referentie": "i28180000000502",
+        "opmerking": "Aangeboden via NUX Capital. Gegevens gebaseerd op het live listingoverzicht van habitaclia van 2026-07-10."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://english.habitaclia.com/buy-business_premises-street_sanchis_mayans_2_oliva_pueblo-oliva-i28180000000502.htm"},
+        {"titel": "Overzicht bedrijfsruimtes Oliva (habitaclia)", "url": "https://english.habitaclia.com/business_premises-oliva.htm"}
+      ]
+    },
+    {
+      "id": "oliva-playa-casita-4-kamers-76m2-230k-2026-07-10",
+      "titel": "Strandhuisje met 4 kamers aan Playa de Oliva",
+      "type": "Instapklaar verhuurobject (vakantieverhuur)",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva (Oliva Playa)",
+      "regio": "La Safor",
+      "vraagprijs": 230000,
+      "prijs_status": "Vraagprijs, recent verlaagd met 25.000 euro",
+      "prijs_notitie": "3.026 euro/m2, aan de onderkant van de bandbreedte van 3.000-4.000 euro/m2 voor de playa. Gegevens afkomstig van het live habitaclia-overzicht van vandaag (detailpagina laadt clientside en kon niet automatisch worden uitgelezen).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "76 m2"},
+        {"label": "Indeling", "waarde": "4 kamers, 2 badkamers"},
+        {"label": "Zone", "waarde": "Oliva Playa - directe strandomgeving"},
+        {"label": "Prijsontwikkeling", "waarde": "Verlaagd van 255.000 naar 230.000 euro"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Vakantieverhuur in het seizoen plus winterverhuur aan overwinteraars; verkoop na enkele jaren waardegroei",
+      "samenvatting": "Compact strandhuisje in de gewilde playa-zone van Oliva, met 4 kamers en 2 badkamers op 76 m2 - efficient voor vakantieverhuur aan gezinnen. De vraagprijs is al met 25.000 euro verlaagd en zit met 3.026 euro per m2 aan de onderkant van de playa-bandbreedte. De strandzone van Oliva staat in het profiel gemarkeerd als sterke verhuurmarkt met hoge vraag.",
+      "voors": [
+        "Playa de Oliva: sterkste vakantieverhuurmarkt van de regio (positief signaal in profiel)",
+        "Prijs al 25.000 euro gezakt en aan de onderkant van de zone-bandbreedte",
+        "4 kamers op 76 m2 betekent hoge beddencapaciteit per geinvesteerde euro",
+        "Vrijstaand karakter (casita) is schaars aan de playa"
+      ],
+      "tegens": [
+        "Nieuwe toeristische verhuurvergunningen (VT-licentie) liggen in de Comunitat Valenciana onder verscherpte regels - check of er een bestaande licentie is",
+        "Strandzone betekent per definitie verhoogd overstromings- en stormrisico",
+        "Flipmarge beperkt: de prijs zit al dicht bij marktconform",
+        "Detailpagina niet automatisch verifieerbaar; gegevens komen van het live platformoverzicht"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop + ITP/kosten", "waarde": "ca 258.000 euro"},
+          {"label": "Vakantieverhuur (18-22 weken x 800-1.100 euro)", "waarde": "ca 16.000-24.000 euro/jaar bruto"},
+          {"label": "Bruto rendement", "waarde": "ca 6-9%"},
+          {"label": "Opknapbudget cosmetisch", "waarde": "10.000-20.000 euro"}
+        ],
+        "conclusie": "Als verhuurobject degelijk, zeker met een bestaande VT-licentie. Als flip alleen interessant bij verdere onderhandeling richting 200.000-210.000 euro."
+      },
+      "vergunning": "Cruciaal: navragen of er een geldige VT-licentie (vivienda turistica) op het object rust en of die mee overgaat. Zonder bestaande licentie is nieuw aanvragen onder de huidige regelgeving onzeker.",
+      "overstroming": {
+        "niveau": "Verhoogd",
+        "kleur": "amber",
+        "toelichting": "De kuststrook van Oliva heeft PATRICOVA-aanduidingen en de DANA van oktober 2024 heeft de risicokaarten aangescherpt. De ligging ten opzichte van de duinenrij en afwateringskanalen bepaalt het werkelijke risico - per adres checken."
+      },
+      "demografie": "Oliva Playa verveelvoudigt in bevolking tijdens de zomer. Nederlandse, Belgische en Franse vakantiegangers zijn vaste gasten; het naseizoen groeit door langblijvende overwinteraars.",
+      "ideeen": [
+        "Vakantieverhuur met professioneel beheer",
+        "Winterverhuur aan overwinteraars (oktober-maart)",
+        "Cosmetische refresh voor hogere weekprijzen"
+      ],
+      "due_diligence": [
+        "VT-licentie verifieren (nummer opvragen en checken in het register)",
+        "Exacte ligging en bouwkundige staat bepalen bij bezichtiging",
+        "Gemeenschapskosten en eventuele erfpacht checken",
+        "Verhuuromzet van vergelijkbare objecten opvragen bij lokale beheerders"
+      ],
+      "eerlijk_oordeel": "Solide verhuurkans in de zone die in het profiel als sterkste markt staat. De prijsdaling geeft onderhandelruimte, maar de VT-licentie is de dealbreaker: met licentie een prima belegging, zonder licentie hooguit een matige.",
+      "contact": {
+        "bron": "habitaclia.com",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://english.habitaclia.com/buy-chalet_house-oliva_playa-oliva-i44379000001222.htm",
+        "referentie": "i44379000001222",
+        "opmerking": "Aangeboden via Ikami. Gegevens gebaseerd op het live listingoverzicht van habitaclia van 2026-07-10."
+      },
+      "bronnen": [
+        {"titel": "Advertentie habitaclia", "url": "https://english.habitaclia.com/buy-chalet_house-oliva_playa-oliva-i44379000001222.htm"},
+        {"titel": "Overzicht huizen Oliva (habitaclia)", "url": "https://english.habitaclia.com/houses-oliva.htm"}
+      ]
+    }
+  ]
+}
