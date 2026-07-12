@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-11",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "dagelijkse run",
+    "aantal": 5,
+    "marktcontext": "Deze run week bewust uit naar Pego, Pedreguer en Denia omdat Oliva, El Verger en Ondara de afgelopen runs al vaak aan bod kwamen. Idealista, Kyero, Milanuncios en Habitaclia bleken deze run niet verifieerbaar: hun detailpagina's laden clientside of blokkeren geautomatiseerde verificatie, waardoor er geen controleerbare advertentie-URL kon worden bevestigd. In plaats daarvan is gezocht via de makelaarssite HomeEspana (kantoor Denia, actief in heel Costa Blanca Noord), waarvan de detailpagina's wel volledig zijn opgehaald en gecontroleerd. Opvallend: twee bouwrijpe percelen in Pego en Pedreguer liggen ruim onder de 100 euro per m2, en twee van de vijf kansen zijn al volledig gerenoveerd (dus eerder een verhuur- dan een flipkans). Vaste kosten blijven: ITP 10%, ca. 2% bijkomende kosten, verbouwing 700-1100 euro/m2, ICIO 4% bij nieuwbouw.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle gegevens komen uit een online advertentie (HomeEspana) en zijn niet ter plaatse gecontroleerd. Verifieer prijzen, vergunningen, overstromingskaarten (PATRICOVA) en bouwkundige staat altijd zelf voor een bod."
+  },
+  "kansen": [
+    {
+      "id": "bouwgrond-monte-mostalla-pego-994m2-60k-2026-07-11",
+      "titel": "Bouwrijpe grond van 994 m2 in Monte Mostalla - Pego",
+      "type": "Bouwgrond / perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "Pego (Monte Mostalla)",
+      "regio": "Marina Alta",
+      "vraagprijs": 60000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie",
+      "prijs_notitie": "60.000 euro voor 994 m2, ca. 60 euro per m2 - opvallend laag voor bouwrijpe grond",
+      "kerngegevens": [
+        {"label": "Perceeloppervlak", "waarde": "994 m2"},
+        {"label": "Grondsoort", "waarde": "Suelo urbano (bouwrijp, geen rustic-grond)"},
+        {"label": "Voorzieningen", "waarde": "Water- en elektriciteitsaansluiting aanwezig"},
+        {"label": "Uitzicht", "waarde": "Zee-, berg- en valleizicht"},
+        {"label": "Ligging", "waarde": "Ca. 5 minuten rijden naar centrum Pego"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Grond kopen en zelf (laten) bebouwen met een compacte vrijstaande woning om met winst te verkopen, of doorverkopen aan een lokale aannemer/ontwikkelaar nadat een bouwvergunning is geregeld. Alternatief: aanhouden als grondpositie.",
+      "samenvatting": "Bouwrijp perceel van bijna 1.000 m2 in de urbanisatie Monte Mostalla bij Pego, met water en elektriciteit al aangesloten en uitzicht op zee, bergen en de vallei. De vraagprijs van 60.000 euro komt neer op ca. 60 euro per m2, wat laag is voor bouwrijpe grond met aansluitingen in deze regio.",
+      "voors": [
+        "Zeer lage instapprijs per m2 voor bouwrijpe (niet-rustic) grond",
+        "Nutsvoorzieningen (water, elektriciteit) al aanwezig, scheelt aanlegkosten",
+        "Ruim perceel (994 m2) biedt flexibiliteit in ontwerp en eventueel zwembad/tuin",
+        "Rustige woonwijk met uitzicht, dicht bij Pego centrum"
+      ],
+      "tegens": [
+        "Grond alleen levert geen inkomen op; vereist kapitaal en tijd voor nieuwbouw voordat er verkocht of verhuurd kan worden",
+        "Geen concrete bouwkostenofferte beschikbaar - cijfers hieronder zijn indicatief",
+        "Overstromingsrisico van het gebied rond Pego (Marjal de Pego-Oliva) is niet specifiek voor dit perceel geverifieerd",
+        "Vergunningstraject (licencia de obra) kost tijd en moet vooraf bij de gemeente Pego worden geverifieerd"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs grond", "waarde": "60.000 euro"},
+          {"label": "ITP (10%)", "waarde": "6.000 euro"},
+          {"label": "Overige aankoopkosten (ca. 2%)", "waarde": "1.200 euro"},
+          {"label": "Totale instapkosten grond", "waarde": "ca. 67.200 euro"},
+          {"label": "Indicatieve bouwkosten nieuwbouw (900-1.200 euro/m2 voor ca. 120 m2)", "waarde": "108.000 - 144.000 euro"},
+          {"label": "ICIO (4% van bouwkosten)", "waarde": "4.320 - 5.760 euro"},
+          {"label": "Totale investering (indicatief)", "waarde": "ca. 180.000 - 217.000 euro"}
+        ],
+        "conclusie": "Bij een indicatieve verkoopwaarde van 2.000-2.500 euro/m2 voor nieuwbouw in dit gebied (niet lokaal geverifieerd) zou een woning van 120 m2 ca. 240.000-300.000 euro kunnen opbrengen. Dat zou een marge boven de gewenste 20% opleveren, maar dit is een aanname zonder offerte van een aannemer of getaxeerde verkoopwaarde - dus met de nodige voorzichtigheid te lezen."
+      },
+      "vergunning": "Dit is stedelijke (suelo urbano) grond, geen rustic-grond, wat de bouwmogelijkheden aanzienlijk eenvoudiger maakt dan bij rustic percelen. Voor nieuwbouw is een licencia de obra van de gemeente Pego nodig; ICIO (4% van de bouwsom) is hierbij van toepassing. Broer moet vooraf bij de gemeente de exacte bouwvoorschriften (bebouwingspercentage, hoogte, kavelgrootte-eisen) opvragen.",
+      "overstroming": {
+        "niveau": "Onbekend - nadere verificatie nodig",
+        "kleur": "amber",
+        "toelichting": "Monte Mostalla ligt op hoger gelegen terrein ten opzichte van de Marjal de Pego-Oliva (het bekende overstromingsgebied bij Pego), wat een lager risico suggereert. Dit is echter niet bevestigd via de officiele PATRICOVA-kaarten voor dit specifieke perceel. Gezien de herziene kaarten na de DANA van oktober 2024 is een lokale check bij de gemeente aan te raden voordat er een bod wordt gedaan."
+      },
+      "demografie": "Pego is een binnenlands gelegen marktstadje in de Marina Alta met een mix van lokale bevolking en internationale kopers, bekend om de Marjal Natural Park en de nabijheid van Denia (ca. 20 minuten rijden naar het strand).",
+      "ideeen": [
+        "Zelf laten bouwen en met winst doorverkopen als vrijstaande woning met zwembad",
+        "Grond bouwrijp en met vergunning doorverkopen aan een aannemer/ontwikkelaar (snellere exit, lagere marge)",
+        "Aanhouden als lange-termijn grondpositie in een gebied met groeiende vraag"
+      ],
+      "due_diligence": [
+        "PATRICOVA-overstromingskaart voor dit exacte perceel opvragen bij de gemeente Pego",
+        "Bebouwingsvoorschriften (urbanisatieplan Monte Mostalla) opvragen: maximale bouwhoogte, bebouwingspercentage",
+        "Offerte bouwkosten opvragen bij minimaal twee lokale aannemers voor een realistische businesscase",
+        "Kadastrale check op erfdienstbaarheden en eventuele resterende urbanisatiekosten"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke instapprijs voor bouwrijpe grond, maar dit is een ontwikkelproject en geen directe flip: er is aanzienlijk kapitaal en tijd nodig voor nieuwbouw voordat er rendement is. Score is bewust niet hoger gezet omdat de verkoopwaarde en bouwkosten nog aannames zijn.",
+      "contact": {
+        "bron": "HomeEspana (kantoor Denia, regio Costa Blanca Noord)",
+        "telefoon": "(0034) 96 574 31 86 (kantoor Denia)",
+        "email": "Geen direct e-mailadres zichtbaar in de advertentie; contact via het aanvraagformulier op de website",
+        "url": "https://www.homeespana.com/property/ncb3443-land-for-sale-in-pego/",
+        "referentie": "NCB3443",
+        "opmerking": "Pagina succesvol opgehaald en gecontroleerd; prijs en oppervlakte komen overeen met de advertentietekst."
+      },
+      "bronnen": [
+        {"titel": "Land in Pego - HomeEspana", "url": "https://www.homeespana.com/property/ncb3443-land-for-sale-in-pego/"}
+      ]
+    },
+    {
+      "id": "townhouse-gerenoveerd-pego-180m2-229k-2026-07-11",
+      "titel": "Volledig gerenoveerd herenhuis van 180 m2 - Pego",
+      "type": "Instapklare verhuurobjecten",
+      "type_kort": "Verhuur",
+      "plaats": "Pego (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 229000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie (prijs is al verlaagd - 'Reduced')",
+      "prijs_notitie": "229.000 euro voor 180 m2 gebouwd (ca. 1.272 euro/m2), pand uit 1930, volledig gerenoveerd",
+      "kerngegevens": [
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Bouwjaar", "waarde": "1930"},
+        {"label": "Staat", "waarde": "Volledig en hoogwaardig gerenoveerd (o.a. vloerverwarming, moderne badkamers)"},
+        {"label": "Energielabel", "waarde": "Verbruik E / Uitstoot D"}
+      ],
+      "score": 56,
+      "score_label": "Voorzichtig",
+      "strategie": "Niet geschikt als klassieke flip (het pand is al op hoog niveau gerenoveerd, dus nauwelijks waardestijging door eigen werk mogelijk). Wel kansrijk als verhuurobject: lange-termijnverhuur of vakantieverhuur gezien de ligging bij het Marjal Natural Park.",
+      "samenvatting": "Herenhuis uit 1930 in het centrum van Pego, over drie verdiepingen, recent volledig gerenoveerd met vloerverwarming, moderne badkamers en een zonneterras op het dak. De advertentie zelf noemt het pand geschikt als vaste woning of vakantiehuis met 'sterk verhuurpotentieel'.",
+      "voors": [
+        "Volledig gerenoveerd naar hoge kwaliteit - geen renovatierisico of onvoorziene kosten",
+        "Centrale ligging in Pego, dichtbij winkels, horeca en het Marjal Natural Park",
+        "Meerdere terrassen en zonneterras op het dak, aantrekkelijk voor vakantieverhuur",
+        "Prijs is al een keer verlaagd door de verkoper"
+      ],
+      "tegens": [
+        "Als flip nauwelijks marge: het pand is al op topniveau afgewerkt, dus doorverkopen zou ongeveer tegen dezelfde m2-prijs zijn - na kosten waarschijnlijk verlieslatend",
+        "Pego ligt aan de rand van de Marjal de Pego-Oliva, een bekend overstromingsgebied - risiconiveau voor dit specifieke adres niet bevestigd",
+        "Geen concrete huuropbrengst-cijfers in de advertentie; rendement hieronder is een aanname",
+        "Instapprijs (229.000 euro) laat weinig onderhandelruimte zien buiten de reeds toegepaste verlaging"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs", "waarde": "229.000 euro"},
+          {"label": "ITP (10%)", "waarde": "22.900 euro"},
+          {"label": "Overige aankoopkosten (ca. 2%)", "waarde": "4.580 euro"},
+          {"label": "Totale instapkosten", "waarde": "ca. 256.480 euro"},
+          {"label": "Renovatiebudget nodig", "waarde": "Nee - pand is al volledig gerenoveerd"}
+        ],
+        "conclusie": "Als doorverkoop is de marge waarschijnlijk minimaal tot negatief omdat er geen renovatiewaarde meer toe te voegen is. Als verhuur: bij een aangenomen (niet lokaal geverifieerde) langetermijnhuur van 850-950 euro/maand zou het bruto rendement op de instapkosten van 256.480 euro uitkomen op ca. 4,0-4,4% per jaar - gangbaar voor de regio maar niet uitzonderlijk. Vakantieverhuur kan hoger renderen maar vraagt een aparte, lokaal onderbouwde berekening."
+      },
+      "vergunning": "Geen vergunningskwestie: het pand is al gerenoveerd en in gebruik. Voor eventuele toeristische verhuurvergunning (vivienda de uso turistico) moet apart bij de gemeente Pego worden geverifieerd of dit adres in aanmerking komt.",
+      "overstroming": {
+        "niveau": "Verhoogd risico - nadere verificatie nodig",
+        "kleur": "amber",
+        "toelichting": "Pego grenst direct aan de Marjal de Pego-Oliva, een van de gebieden met het bekend hoogste overstromingsrisico in de regio volgens PATRICOVA. Het centrum van Pego ligt over het algemeen hoger dan de marjal zelf, maar zonder de exacte PATRICOVA-zonering voor dit adres kan het risiconiveau niet worden bevestigd. Extra voorzichtigheid geboden na de DANA van oktober 2024."
+      },
+      "demografie": "Pego is een traditioneel Spaans marktstadje met een groeiend aandeel internationale kopers, bekend om de Marjal Natural Park, lokale gastronomie en goede verbinding met de kust (ca. 20 minuten naar het strand).",
+      "ideeen": [
+        "Verhuren als langetermijnwoning aan expats of lokale huurders",
+        "Vakantieverhuur via platforms, gezien de meerdere terrassen en ligging bij het natuurpark",
+        "Doorverkopen aan een koper die op zoek is naar een instapklaar tweede huis (beperkte marge, snellere exit)"
+      ],
+      "due_diligence": [
+        "PATRICOVA-overstromingskaart voor dit exacte adres opvragen",
+        "Lokale huurmarkt navragen bij een makelaar in Pego voor realistische huurcijfers (lange termijn en vakantieverhuur)",
+        "Navragen of een toeristische verhuurvergunning mogelijk is voor dit adres",
+        "IBI en overige vaste lasten laten bevestigen (in de advertentie deels nog 'tba')"
+      ],
+      "eerlijk_oordeel": "Mooi afgewerkt pand, maar dit past beter bij het verhuurdoel dan bij flippen - er is simpelweg geen renovatiemarge meer te halen. De score blijft daarom aan de voorzichtige kant, mede door het onbevestigde overstromingsrisico van de locatie.",
+      "contact": {
+        "bron": "HomeEspana (kantoor Denia, regio Costa Blanca Noord)",
+        "telefoon": "(0034) 96 574 31 86 (kantoor Denia)",
+        "email": "Geen direct e-mailadres zichtbaar in de advertentie; contact via het aanvraagformulier op de website",
+        "url": "https://www.homeespana.com/property/ncb8551-townhouse-for-sale-in-pego/",
+        "referentie": "NCB8551",
+        "opmerking": "Pagina succesvol opgehaald en gecontroleerd; inclusief video en volledige beschrijving."
+      },
+      "bronnen": [
+        {"titel": "3 Bedroom Townhouse in Pego - HomeEspana", "url": "https://www.homeespana.com/property/ncb8551-townhouse-for-sale-in-pego/"}
+      ]
+    },
+    {
+      "id": "townhouse-plus-schoonheidssalon-pedreguer-155m2-320k-2026-07-11",
+      "titel": "Herenhuis met lopende schoonheidssalon op begane grond - Pedreguer",
+      "type": "Bedrijfspand met herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Pedreguer (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 320000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie",
+      "prijs_notitie": "320.000 euro voor 155 m2 gebouwd (ca. 2.065 euro/m2), pand uit 1930, volledig gerenoveerd, inclusief lopende onderneming",
+      "kerngegevens": [
+        {"label": "Slaapkamers (bovenwoning)", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Bouwjaar", "waarde": "1930"},
+        {"label": "Bedrijfsruimte", "waarde": "Actieve schoonheidssalon met spa en sauna, eigen ingang"},
+        {"label": "Staat", "waarde": "Volledig gerenoveerd met kwaliteitsmaterialen"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Aanhouden als inkomen-genererend object (huur bedrijfsruimte + huur bovenwoning), of als geheel doorverkopen aan een investeerder die op zoek is naar een lopende onderneming met woonruimte. Eventueel de twee eenheden apart verkopen als de splitsing dat toelaat.",
+      "samenvatting": "Traditioneel herenhuis in het hart van Pedreguer met op de begane grond een operationele schoonheidssalon (met spa en sauna) en op de bovenverdieping een volledig gerenoveerd appartement met drie slaapkamers en eigen ingang. Beide eenheden zijn naar hoge kwaliteit afgewerkt.",
+      "voors": [
+        "Twee inkomstenstromen mogelijk: bedrijfsruimte en woonruimte, met gescheiden toegang",
+        "Volledig gerenoveerd, dus geen directe renovatiekosten nodig",
+        "Centrale ligging in een levendig, internationaal georienteerd dorp met goede voorzieningen",
+        "Lopende onderneming kan bijdragen aan directe cashflow vanaf aankoop"
+      ],
+      "tegens": [
+        "Hoge instapprijs (320.000 euro) dicht bij de bovengrens van het budget na aankoopkosten",
+        "Als flip nauwelijks marge, vergelijkbaar met object 2 - het pand is al op hoog niveau afgewerkt",
+        "Geen huurcijfers voor de salon of de woning in de advertentie vermeld; rendement moet apart worden opgevraagd",
+        "Overstromingsrisico voor dit specifieke adres in Pedreguer centrum niet bevestigd"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs", "waarde": "320.000 euro"},
+          {"label": "ITP (10%)", "waarde": "32.000 euro"},
+          {"label": "Overige aankoopkosten (ca. 2%)", "waarde": "6.400 euro"},
+          {"label": "Totale instapkosten", "waarde": "ca. 358.400 euro"}
+        ],
+        "conclusie": "Als doorverkoop is de marge beperkt, vergelijkbaar met de al gerenoveerde townhouse in Pego. Het meest kansrijke scenario is exploitatie: huurwaarde van de salon plus de bovenwoning apart laten taxeren door een lokale makelaar. Zonder die cijfers is een uitspraak over het exacte rendement niet verantwoord."
+      },
+      "vergunning": "De bedrijfsruimte is al in gebruik als schoonheidssalon met de benodigde vergunningen (verondersteld, niet expliciet in advertentie bevestigd). Bij eventuele herbestemming naar een andere bedrijfsvorm moet de huidige vergunning bij de gemeente Pedreguer worden nagevraagd.",
+      "overstroming": {
+        "niveau": "Onbekend - nadere verificatie nodig",
+        "kleur": "amber",
+        "toelichting": "Pedreguer ligt landinwaarts en over het algemeen hoger dan de kustvlaktes en de Marjal de Pego-Oliva, wat op een lager overstromingsrisico wijst dan bijvoorbeeld Oliva-kust of Pego-marjal. Een officiele PATRICOVA-check voor dit specifieke adres in het centrum ontbreekt echter nog."
+      },
+      "demografie": "Pedreguer is een levendig en internationaal dorp in de Marina Alta met goede voorzieningen (supermarkten, scholen, medisch centrum, wekelijkse markt), op ca. 15 minuten van het strand en dichtbij Denia.",
+      "ideeen": [
+        "Salon en woning apart verhuren voor twee inkomstenstromen",
+        "Object als geheel doorverkopen aan een investeerder die op zoek is naar een lopende horeca/beauty-onderneming met woonruimte",
+        "Zelf de salon exploiteren of verpachten aan een ondernemer"
+      ],
+      "due_diligence": [
+        "Huurwaarde van de bedrijfsruimte en de bovenwoning apart laten taxeren door een lokale makelaar",
+        "Vergunningsstatus van de schoonheidssalon (activiteitenvergunning) bij de gemeente Pedreguer controleren",
+        "PATRICOVA-overstromingskaart voor dit exacte adres opvragen",
+        "Juridische splitsbaarheid van bedrijfsruimte en woning laten controleren voor het geval van aparte verkoop"
+      ],
+      "eerlijk_oordeel": "Interessant vanwege de twee potentiele inkomstenstromen en de goede staat van onderhoud, maar de hoge instapprijs en het ontbreken van concrete huurcijfers maken dit vooralsnog een kans met onzekere rendementsberekening. Score middenmoot: kansrijk, maar nog niet volledig onderbouwd.",
+      "contact": {
+        "bron": "HomeEspana (kantoor Denia, regio Costa Blanca Noord)",
+        "telefoon": "(0034) 96 574 31 86 (kantoor Denia)",
+        "email": "Geen direct e-mailadres zichtbaar in de advertentie; contact via het aanvraagformulier op de website",
+        "url": "https://www.homeespana.com/property/ncb3589-townhouse-for-sale-in-pedreguer/",
+        "referentie": "NCB3589",
+        "opmerking": "Pagina succesvol opgehaald en gecontroleerd; inclusief video van het pand en de bedrijfsruimte."
+      },
+      "bronnen": [
+        {"titel": "3 Bedroom Townhouse in Pedreguer - HomeEspana", "url": "https://www.homeespana.com/property/ncb3589-townhouse-for-sale-in-pedreguer/"}
+      ]
+    },
+    {
+      "id": "townhouse-historisch-centrum-denia-110m2-199k-2026-07-11",
+      "titel": "Traditioneel herenhuis in het historische centrum van Denia",
+      "type": "Te flippen pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Denia (historisch centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 199000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie (prijs is al verlaagd - 'Reduced')",
+      "prijs_notitie": "199.000 euro voor 110 m2 gebouwd (ca. 1.809 euro/m2), pand uit 1954",
+      "kerngegevens": [
+        {"label": "Slaapkamers", "waarde": "2"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Bouwjaar", "waarde": "1954"},
+        {"label": "Indeling", "waarde": "2 verdiepingen, patio, zonnig terras"},
+        {"label": "Ligging", "waarde": "Historisch centrum Denia, loopafstand tot haven, strand en kasteel"}
+      ],
+      "score": 57,
+      "score_label": "Voorzichtig",
+      "strategie": "Potentiele flip: aankopen, een gerichte opknapbeurt (geen volledige renovatie, pand oogt in de advertentie leefbaar maar gedateerd) en doorverkopen. De marge is echter niet hard te onderbouwen zonder lokale verkoopcijfers voor Denia-centrum.",
+      "samenvatting": "Traditioneel herenhuis uit 1954 in het historische centrum van Denia, over twee verdiepingen met een patio en een zonnig terras bij een van de twee slaapkamers. De advertentie vermeldt geen renovatie, wat duidt op een gedateerde maar leefbare staat.",
+      "voors": [
+        "Prime locatie in het historische centrum van Denia, op loopafstand van haven, strand, kasteel en horeca",
+        "Denia is een populaire en liquide markt met sterke internationale vraag, wat doorverkoop vergemakkelijkt",
+        "Prijs is al een keer verlaagd",
+        "Relatief jong bouwjaar (1954) vergeleken met veel casco-historico-panden in Oliva, dus vermoedelijk minder vochtproblematiek"
+      ],
+      "tegens": [
+        "Geen lokaal geverifieerd verkoopcijfer per m2 voor gerenoveerde woningen in Denia-centrum beschikbaar - marge is een aanname",
+        "Ligging in historisch centrum kan, net als in Oliva, beperkingen opleveren voor splitsen of verbouwen (niet specifiek bevestigd voor dit pand)",
+        "Denia heeft een geschiedenis van lokale wateroverlast in delen van het oude centrum en rond de haven; risiconiveau voor dit adres niet bevestigd",
+        "Op basis van een voorzichtige berekening (zie financieel) is de marge mogelijk marginaal"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs", "waarde": "199.000 euro"},
+          {"label": "ITP (10%)", "waarde": "19.900 euro"},
+          {"label": "Overige aankoopkosten (ca. 2%)", "waarde": "3.980 euro"},
+          {"label": "Indicatief opknapbudget (400-700 euro/m2 voor 110 m2, lichte tot middelzware opknapbeurt)", "waarde": "44.000 - 77.000 euro"},
+          {"label": "Totale investering (indicatief)", "waarde": "ca. 266.880 - 299.880 euro"}
+        ],
+        "conclusie": "Denia trekt doorgaans hogere m2-prijzen dan Oliva pueblo, maar zonder een lokaal geverifieerd verkoopcijfer voor gerenoveerde woningen in het historische centrum is dit onzeker. Bij een voorzichtige aanname van 2.200-2.500 euro/m2 (110 m2 = 242.000-275.000 euro) is de marge ten opzichte van de totale investering marginaal tot afwezig. Dat is de reden voor de lagere score - dit vraagt om lokale prijsverificatie voordat er een bod wordt overwogen."
+      },
+      "vergunning": "Geen directe vergunningskwestie voor bewoning, maar bij verbouwing of splitsing in het historische centrum van Denia gelden mogelijk beschermde-stadsgezicht-regels. Dit moet bij de gemeente Denia worden geverifieerd voordat er verbouwplannen worden gemaakt.",
+      "overstroming": {
+        "niveau": "Onbekend - nadere verificatie nodig",
+        "kleur": "amber",
+        "toelichting": "Delen van het oude centrum van Denia en de omgeving van de haven hebben een geschiedenis van lokale wateroverlast bij hevige regenval. Het risiconiveau voor dit specifieke adres is niet bevestigd via PATRICOVA en moet lokaal worden nagevraagd, zeker na de herziene kaarten van na oktober 2024."
+      },
+      "demografie": "Denia is de hoofdstad van de Marina Alta, een populaire kust- en havenstad met een sterke internationale kopersmarkt, bekend om het kasteel, de haven naar Ibiza/Mallorca en de gastronomie (Denia is een UNESCO Creative City of Gastronomy).",
+      "ideeen": [
+        "Gerichte opknapbeurt (keuken, badkamer, afwerking) en doorverkopen aan een koper die op zoek is naar een woning in het centrum",
+        "Verhuren als vakantiewoning gezien de ligging vlak bij haven en strand",
+        "Aanhouden als tweede woning met verhuurpotentie in de zomer"
+      ],
+      "due_diligence": [
+        "Lokale verkoopprijzen per m2 voor gerenoveerde woningen in Denia-centrum opvragen bij minimaal twee makelaars",
+        "PATRICOVA-overstromingskaart voor dit exacte adres opvragen",
+        "Regels rond verbouwing/splitsing in het beschermde centrum van Denia navragen bij de gemeente",
+        "Bouwkundige keuring laten uitvoeren gezien het bouwjaar 1954"
+      ],
+      "eerlijk_oordeel": "Uitstekende locatie, maar de businesscase is op basis van de beschikbare informatie niet hard te onderbouwen - de marge kan volgens een voorzichtige berekening marginaal zijn. Bij twijfel is bewust lager gescoord; nader prijsonderzoek in Denia-centrum kan dit beeld bijstellen.",
+      "contact": {
+        "bron": "HomeEspana (kantoor Denia, regio Costa Blanca Noord)",
+        "telefoon": "(0034) 96 574 31 86 (kantoor Denia)",
+        "email": "Geen direct e-mailadres zichtbaar in de advertentie; contact via het aanvraagformulier op de website",
+        "url": "https://www.homeespana.com/property/ncb4301-townhouse-for-sale-in-denia/",
+        "referentie": "NCB4301",
+        "opmerking": "Pagina succesvol opgehaald en gecontroleerd; advertentie bevat geen expliciete renovatiestatus."
+      },
+      "bronnen": [
+        {"titel": "2 Bedroom Townhouse in Denia - HomeEspana", "url": "https://www.homeespana.com/property/ncb4301-townhouse-for-sale-in-denia/"}
+      ]
+    },
+    {
+      "id": "bouwgrond-monte-solana-pedreguer-800m2-48k-2026-07-11",
+      "titel": "Bouwrijpe grond van 800 m2 in Monte Solana - Pedreguer",
+      "type": "Bouwgrond / perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "Pedreguer (Monte Solana)",
+      "regio": "Marina Alta",
+      "vraagprijs": 48000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie (prijs is al verlaagd - 'Reduced')",
+      "prijs_notitie": "48.000 euro voor 800 m2, ca. 60 euro per m2 - eveneens opvallend laag voor bouwrijpe grond",
+      "kerngegevens": [
+        {"label": "Perceeloppervlak", "waarde": "800 m2"},
+        {"label": "Grondsoort", "waarde": "Stedelijk (urbaan) perceel, klaar voor constructie"},
+        {"label": "Orientatie", "waarde": "Zonnig, geschikt voor zwembad en tuin"},
+        {"label": "Ligging", "waarde": "Urbanisatie Monte Solana, enkele minuten van centrum Pedreguer"}
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Vergelijkbaar met de grond in Pego: kopen en (laten) bebouwen om te verkopen, of bouwrijp met vergunning doorverkopen aan een aannemer/ontwikkelaar.",
+      "samenvatting": "Bouwrijp perceel van 800 m2 in de populaire urbanisatie Monte Solana bij Pedreguer, op korte afstand van het centrum met supermarkten, winkels en de wekelijkse markt. Prijs is al eerder verlaagd naar 48.000 euro.",
+      "voors": [
+        "Zeer lage instapprijs per m2, vergelijkbaar met de kans in Pego",
+        "Populaire urbanisatie dichtbij Denia's stranden en de La Sella golfresort",
+        "Zonnige orientatie, geschikt voor een woning met zwembad",
+        "Prijs is al verlaagd, mogelijk extra onderhandelruimte"
+      ],
+      "tegens": [
+        "Grond alleen levert geen inkomen op; vereist kapitaal en tijd voor nieuwbouw",
+        "Geen concrete bouwkostenofferte beschikbaar - cijfers hieronder zijn indicatief",
+        "Overstromingsrisico voor dit specifieke perceel niet geverifieerd",
+        "Twee bouwgrondkansen in dezelfde run (samen met Pego) betekent minder spreiding in dit rapport"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoopprijs grond", "waarde": "48.000 euro"},
+          {"label": "ITP (10%)", "waarde": "4.800 euro"},
+          {"label": "Overige aankoopkosten (ca. 2%)", "waarde": "960 euro"},
+          {"label": "Totale instapkosten grond", "waarde": "ca. 53.760 euro"},
+          {"label": "Indicatieve bouwkosten nieuwbouw (900-1.200 euro/m2 voor ca. 100 m2)", "waarde": "90.000 - 120.000 euro"},
+          {"label": "ICIO (4% van bouwkosten)", "waarde": "3.600 - 4.800 euro"},
+          {"label": "Totale investering (indicatief)", "waarde": "ca. 147.000 - 179.000 euro"}
+        ],
+        "conclusie": "Bij een indicatieve verkoopwaarde van 2.000-2.500 euro/m2 voor nieuwbouw (niet lokaal geverifieerd) zou een woning van 100 m2 ca. 200.000-250.000 euro kunnen opbrengen. Dat zou een marge boven de gewenste 20% opleveren, maar net als bij de grond in Pego is dit een aanname zonder aannemersofferte of taxatie."
+      },
+      "vergunning": "Stedelijke (urbane) grond, klaar voor constructie volgens de advertentie. Voor nieuwbouw is een licencia de obra van de gemeente Pedreguer nodig; ICIO (4%) is van toepassing. Bebouwingsvoorschriften van de urbanisatie Monte Solana moeten vooraf worden opgevraagd.",
+      "overstroming": {
+        "niveau": "Onbekend - nadere verificatie nodig",
+        "kleur": "amber",
+        "toelichting": "Monte Solana is een hooggelegen urbanisatie in Pedreguer, landinwaarts en verder van de bekende overstromingsgebieden bij Pego en Oliva. Dit wijst op een lager risico, maar een officiele PATRICOVA-check voor dit specifieke perceel ontbreekt nog."
+      },
+      "demografie": "Pedreguer/Monte Solana is een populaire residentiele urbanisatie met veel internationale bewoners, op korte afstand van Denia's stranden en de La Sella Golf Resort.",
+      "ideeen": [
+        "Zelf laten bouwen en met winst doorverkopen als vrijstaande woning met zwembad",
+        "Grond bouwrijp en met vergunning doorverkopen aan een aannemer (snellere exit, lagere marge)",
+        "Aanhouden als lange-termijn grondpositie"
+      ],
+      "due_diligence": [
+        "PATRICOVA-overstromingskaart voor dit exacte perceel opvragen bij de gemeente Pedreguer",
+        "Bebouwingsvoorschriften van de urbanisatie Monte Solana opvragen",
+        "Offerte bouwkosten opvragen bij minimaal twee lokale aannemers",
+        "Kadastrale check op erfdienstbaarheden en resterende urbanisatiekosten"
+      ],
+      "eerlijk_oordeel": "Net als de grond in Pego een aantrekkelijke instapprijs, maar met dezelfde kanttekening: dit is een ontwikkelproject, geen directe flip, en de uiteindelijke marge hangt volledig af van bouwkosten en verkoopwaarde die nog niet lokaal zijn geverifieerd.",
+      "contact": {
+        "bron": "HomeEspana (kantoor Denia, regio Costa Blanca Noord)",
+        "telefoon": "(0034) 96 574 31 86 (kantoor Denia)",
+        "email": "Geen direct e-mailadres zichtbaar in de advertentie; contact via het aanvraagformulier op de website",
+        "url": "https://www.homeespana.com/property/ncb8525-land-for-sale-in-pedreguer/",
+        "referentie": "NCB8525",
+        "opmerking": "Pagina succesvol opgehaald en gecontroleerd; prijs en oppervlakte komen overeen met de advertentietekst."
+      },
+      "bronnen": [
+        {"titel": "Land in Pedreguer - HomeEspana", "url": "https://www.homeespana.com/property/ncb8525-land-for-sale-in-pedreguer/"}
+      ]
+    }
+  ]
+}
