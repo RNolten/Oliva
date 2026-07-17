@@ -1,0 +1,364 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-15",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Deze run put vooral uit Kyero (gericht op buitenlandse kopers) in plaats van de eerder gebruikte idealista en HomeEspana, om variatie te houden. Focus deze keer op commercieel/herbestemming en bouwgrond in de gemeente Oliva. Zomer is hoogseizoen voor vakantieverhuur aan de kust; instapprijzen voor te renoveren commercieel vastgoed in het binnenland blijven relatief laag. Let op: exacte overstromingszones (PATRICOVA) en bouwrechten zijn zonder kadasterreferentie niet hard te verifieren - per kans nuchter aangegeven.",
+    "disclaimer": "Geen financieel of juridisch advies. Prijzen, oppervlakten en referenties komen van de advertentiepagina en zijn niet onafhankelijk bij het kadaster geverifieerd. Bevestig alle gegevens (bouwrechten, PATRICOVA-overstromingszone, lasten, bezetting) bij een lokale gestor/advocaat voor aankoop."
+  },
+  "kansen": [
+    {
+      "id": "oliva-ex-kliniek-poeta-250m2-2026-07-15",
+      "titel": "Ex-kliniek 250 m2 met lift en toegang vanaf twee straten - Oliva",
+      "type": "Bedrijfspand met herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Oliva (centrum/pueblo, exacte straat op aanvraag)",
+      "regio": "La Safor",
+      "vraagprijs": 175000,
+      "prijs_status": "Vraagprijs advertentie",
+      "prijs_notitie": "175.000 euro, ca 700 euro/m2 op 250 m2. Ref PNBS326 (Kyero/Parasol Networks).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "250 m2 bebouwd"},
+        {"label": "Indeling", "waarde": "8 ruimtes / 4 badkamers (voormalige voedings- en dieetkliniek)"},
+        {"label": "Pluspunten", "waarde": "Lift, dubbel glas, airco + cv, toegang vanaf twee straten"},
+        {"label": "Staat", "waarde": "Volgens advertentie instapklaar / goede staat"}
+      ],
+      "score": 71,
+      "score_label": "Interessant",
+      "strategie": "Herbestemmen naar meerdere wooneenheden of praktijk/kantoor + verhuur. Toegang vanaf twee straten maakt splitsing in units kansrijker dan bij een doorsnee dorpspand.",
+      "samenvatting": "Ruim, al opgeknapt commercieel pand van 250 m2 in Oliva, ingericht als kliniek. Met lift en dubbele straattoegang leent het zich voor opsplitsing in appartementen of gemengd praktijk/verhuur. Relatief lage prijs per m2 voor een pand in goede staat.",
+      "voors": [
+        "Lage prijs per m2 (ca 700) voor een pand dat al in goede staat is",
+        "Lift en dubbele straattoegang: pluspunten voor splitsing/verhuur",
+        "Centrale ligging, dicht bij voorzieningen",
+        "Instapklaar - minder renovatierisico dan een ruwbouw-flip"
+      ],
+      "tegens": [
+        "Herbestemming van commercieel naar wonen vereist gemeentelijke goedkeuring - niet gegarandeerd",
+        "250 m2 als een geheel is een nichemarkt; splitsing bepaalt de business case",
+        "Exacte ligging en lasten nog te bevestigen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "175.000 euro"},
+          {"label": "ITP 10% + kosten ca 2%", "waarde": "ca 21.000 euro"},
+          {"label": "Lichte aanpassing/splitsing (indicatief)", "waarde": "50.000 - 120.000 euro afhankelijk van plan"},
+          {"label": "Indicatieve verkoopwaarde gesplitst (pueblo 1.500-1.800/m2)", "waarde": "ca 375.000 - 450.000 euro bruto"}
+        ],
+        "conclusie": "Op papier ruime marge mits splitsing/herbestemming wordt vergund. Zonder vergunning tot splitsen valt de case grotendeels terug op verkoop/verhuur als een groot geheel - dan smaller."
+      },
+      "vergunning": "Cruciaal: check bij de gemeente of woonbestemming en opsplitsing in units zijn toegestaan (het profiel waarschuwt expliciet dat splitsen in Oliva vaak niet mag). Pand ligt in bebouwd gebied (suelo urbano), niet rustiek - dat is gunstig. Vraag de licencia de actividad-historie en cedula op.",
+      "overstroming": {
+        "niveau": "Laag tot matig",
+        "kleur": "green",
+        "toelichting": "Pueblo/centrum van Oliva ligt hoger dan de kuststrook; buiten de Marjal de Pego-Oliva. PATRICOVA-zone niet hard te bevestigen zonder kadasterreferentie."
+      },
+      "demografie": "Oliva pueblo heeft een stabiele lokale markt en groeiende buitenlandse vraag; centrale panden met voorzieningen op loopafstand zijn courant voor verhuur.",
+      "ideeen": [
+        "Splitsen in 2-3 appartementen voor doorverkoop",
+        "Combinatie praktijk/kantoor op begane grond + woning(en) erboven",
+        "Verhuur als geheel aan zorg-/wellnesspartij (kliniek-inrichting deels aanwezig)"
+      ],
+      "due_diligence": [
+        "Bevestig of splitsing/woonbestemming vergunbaar is",
+        "Vraag nota simple op: lasten, exacte m2, referentie",
+        "Bouwkundige check ondanks 'goede staat'"
+      ],
+      "eerlijk_oordeel": "De sterkste kans van vandaag mits de gemeente splitsing/herbestemming toestaat. Zonder die zekerheid daalt het rendement fors - eerst vergunningcheck, dan pas bieden.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Via advertentie (nummer achter formulier)",
+        "email": "Via contactformulier advertentie",
+        "url": "https://www.kyero.com/en/property/20828281-commercial-property-for-sale-oliva",
+        "referentie": "PNBS326",
+        "opmerking": "Telefoonnummer pas zichtbaar na contact via het portaal."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Ex-kliniek 250 m2 Oliva, 175.000 euro (PNBS326)", "url": "https://www.kyero.com/en/property/20828281-commercial-property-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-bouwgrond-400m-strand-591m2-2026-07-15",
+      "titel": "Bouwgrond 591 m2 op 400 m van het strand van Oliva",
+      "type": "Bouwgrond / perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (nabij Platja de Oliva)",
+      "regio": "La Safor",
+      "vraagprijs": 177000,
+      "prijs_status": "Vraagprijs advertentie",
+      "prijs_notitie": "177.000 euro voor 591 m2 bouwgrond. Ref PNPT0003 (Kyero/Parasol Networks).",
+      "kerngegevens": [
+        {"label": "Perceel", "waarde": "591 m2"},
+        {"label": "Bebouwing", "waarde": "Max bezetting 65% volgens advertentie"},
+        {"label": "Ligging", "waarde": "Ca 400 m van het strand, directe straattoegang, vlak perceel"},
+        {"label": "Type grond", "waarde": "Stedelijke grond (suelo urbano) volgens advertentie"}
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Ontwikkelen: bouw van een woning of klein appartementenblok voor doorverkoop of vakantieverhuur, profiterend van de sterke strandmarkt van Oliva.",
+      "samenvatting": "Vlakke stedelijke bouwkavel van 591 m2 op loopafstand van het strand, met 65% bezetting. Strandzone Oliva is een sterke vakantieverhuurmarkt - een van de expliciete positieve signalen in het profiel. Ontwikkelrisico en bouwkosten zijn de belangrijkste variabelen.",
+      "voors": [
+        "Toplocatie: 400 m van strand, sterke vraag naar vakantieverhuur en verkoop",
+        "Vlak perceel met directe toegang - lagere bouwkosten dan hellingkavels",
+        "Stedelijke grond met concrete bebouwingsnorm (65%)",
+        "Strandverkoopwaarde (3.000-4.000/m2) geeft potentieel ruime marge"
+      ],
+      "tegens": [
+        "Grond levert pas rendement na een compleet bouwtraject (kapitaal + tijd + vergunning)",
+        "Kust ligt lager: overstromings-/PATRICOVA-toets is hier belangrijk",
+        "Geen bestaand gebouw = geen tussentijds huurinkomen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop grond", "waarde": "177.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 22.500 euro"},
+          {"label": "Bouwkosten (indicatief, ca 380 m2 vloer bij 1.000-1.200/m2)", "waarde": "ca 380.000 - 460.000 euro"},
+          {"label": "ICIO + vergunningen ca 4%", "waarde": "ca 15.000 - 18.000 euro"},
+          {"label": "Indicatieve verkoop strandzone", "waarde": "sterk afhankelijk van programma; potentieel > 700.000 euro"}
+        ],
+        "conclusie": "Kan aantrekkelijk zijn als ontwikkelproject door de hoge strandverkoopprijzen, maar het is kapitaalintensief en pas rendabel na oplevering. Alleen voor wie een bouwtraject wil aangaan."
+      },
+      "vergunning": "Bevestig exacte bebouwingsparameters (bouwhoogte, aantal wooneenheden, 65% bezetting) in het PGOU van Oliva en vraag een cedula urbanistica aan. Bevestig aansluitingen (water/riool/elektra).",
+      "overstroming": {
+        "niveau": "Matig - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Kuststrook Oliva ligt laag; delen vallen onder PATRICOVA-aandachtsgebied. Na de DANA van oktober 2024 zijn kaarten herzien. Laat de exacte zone en eventuele bouwvereisten (peilhoogte) checken voor aankoop."
+      },
+      "demografie": "Platja de Oliva trekt Noord-Europese en Spaanse zomertoeristen; nieuwbouw dicht bij strand is schaars en gewild.",
+      "ideeen": [
+        "Twee tot vier vakantieappartementen bouwen voor verhuur/verkoop",
+        "Een vrijstaande woning bouwen en direct doorverkopen",
+        "Bouwrijp doorverkopen met vergund plan (lager risico, lagere marge)"
+      ],
+      "due_diligence": [
+        "PATRICOVA-zone en peilhoogte-eisen opvragen",
+        "Bebouwingsnorm en aantal eenheden bevestigen in PGOU",
+        "Aansluitingen en eventuele bijdragen (urbanizacion) checken"
+      ],
+      "eerlijk_oordeel": "Sterke locatie, maar dit is een ontwikkelproject, geen kant-en-klare flip. Het overstromingsaspect aan de kust maakt de PATRICOVA-toets doorslaggevend. Geschikt als je kapitaal en tijd voor nieuwbouw hebt.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Via advertentie (nummer achter formulier)",
+        "email": "Via contactformulier advertentie",
+        "url": "https://www.kyero.com/en/property/20846416-land-for-sale-oliva",
+        "referentie": "PNPT0003",
+        "opmerking": "Oppervlakte en bezetting volgens advertentie; kadastraal bevestigen."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Bouwgrond 591 m2 nabij strand Oliva, 177.000 euro (PNPT0003)", "url": "https://www.kyero.com/en/property/20846416-land-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-restaurant-100m2-instapklaar-2026-07-15",
+      "titel": "Instapklaar restaurant 100 m2 (80 couverts + terras) - Oliva",
+      "type": "Horeca",
+      "type_kort": "Horeca",
+      "plaats": "Oliva (drukke zone, exacte straat op aanvraag)",
+      "regio": "La Safor",
+      "vraagprijs": 80000,
+      "prijs_status": "Vraagprijs advertentie",
+      "prijs_notitie": "80.000 euro. Ref PNBS347 (Kyero/Parasol Networks).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "100 m2"},
+        {"label": "Capaciteit", "waarde": "Tot 80 gasten binnen + terras"},
+        {"label": "Staat", "waarde": "Volgens advertentie klaar om te openen (fitted kitchen, airco)"},
+        {"label": "Ligging", "waarde": "Commerciele zone, dicht bij voorzieningen"}
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Verhuren als lopend horecapand (huurinkomen) of doorverkopen als traspaso/vastgoed na lichte opfrissing. Lage instap maakt het risico beperkt.",
+      "samenvatting": "Klein, instapklaar restaurant van 100 m2 in een levendige zone van Oliva, met keuken en terras. Lage instapprijs; geschikt als verhuurobject aan een horecaondernemer of als snelle traspaso. Flipmarge is beperkt omdat het commercieel vastgoed betreft.",
+      "voors": [
+        "Zeer lage instapprijs (80.000 euro) - beperkt risico",
+        "Instapklaar: direct verhuurbaar of te openen, weinig capex nodig",
+        "Terras + capaciteit 80 = aantrekkelijk voor horeca-exploitant",
+        "Commerciele zone met passantenstroom"
+      ],
+      "tegens": [
+        "Commercieel vastgoed heeft beperkte flip-waardestijging vs woningen",
+        "Onduidelijk of het om vastgoed (eigendom) of alleen traspaso gaat - cruciaal om te bevestigen",
+        "Horecaverhuur is conjunctuurgevoelig"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "80.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 10.200 euro"},
+          {"label": "Opfrissing (indicatief)", "waarde": "0 - 15.000 euro"},
+          {"label": "Indicatief huurinkomen commercieel", "waarde": "afhankelijk van locatie/contract; bevestig markthuur"}
+        ],
+        "conclusie": "Interessant als instap-verhuurobject met laag risico. Voor een echte flipmarge is dit minder geschikt; het rendement zit vooral in huur of een snelle traspaso."
+      },
+      "vergunning": "Bevestig of de licencia de actividad (horeca) actief en overdraagbaar is en of het om eigendom of alleen overname van de zaak (traspaso) gaat. Vraag geluid-/terrasvergunning na.",
+      "overstroming": {
+        "niveau": "Laag tot matig",
+        "kleur": "green",
+        "toelichting": "Ligging in bebouwd Oliva, buiten de Marjal-zone. Exacte PATRICOVA-status zonder adres/referentie niet hard te bevestigen."
+      },
+      "demografie": "Horeca in Oliva draait op lokale klandizie plus zomertoerisme; een instapklare zaak met terras vult een concrete vraag.",
+      "ideeen": [
+        "Verhuren aan horecaondernemer voor stabiel inkomen",
+        "Zelf opknappen en als traspaso met hogere waarde doorverkopen",
+        "Ombouwen naar andere commerciele functie indien vergund"
+      ],
+      "due_diligence": [
+        "Eigendom vs traspaso uitzoeken (bepaalt de hele case)",
+        "Status en overdraagbaarheid horecavergunning",
+        "Markthuur en eventuele lopende contracten"
+      ],
+      "eerlijk_oordeel": "Laag instapbedrag en laag risico, maar de opwaartse marge is bescheiden en hangt af van of je vastgoed of alleen een zaak koopt. Eerst dat punt ophelderen.",
+      "contact": {
+        "bron": "Kyero / Parasol Networks Estate Agents",
+        "telefoon": "Via advertentie (nummer achter formulier)",
+        "email": "Via contactformulier advertentie",
+        "url": "https://www.kyero.com/en/property/20839017-commercial-property-for-sale-oliva",
+        "referentie": "PNBS347",
+        "opmerking": "Bevestig of prijs voor het pand of voor overname van de zaak geldt."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Restaurant 100 m2 Oliva, 80.000 euro (PNBS347)", "url": "https://www.kyero.com/en/property/20839017-commercial-property-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-vakantiepark-five-casitas-600m2-2026-07-15",
+      "titel": "Mini-vakantiepark 'Five Casitas' met zwembad op ca 1 km van strand - Oliva",
+      "type": "Bijzondere buitenkans (verhuurcomplex)",
+      "type_kort": "Buitenkans",
+      "plaats": "Oliva (ca 1 km van het strand)",
+      "regio": "La Safor",
+      "vraagprijs": 450000,
+      "prijs_status": "Vraagprijs advertentie",
+      "prijs_notitie": "450.000 euro. Ref OCVL971000 (Kyero/Oliva Casas).",
+      "kerngegevens": [
+        {"label": "Oppervlakte", "waarde": "600 m2 bebouwd"},
+        {"label": "Indeling", "waarde": "5 losse huisjes, 13 slaapkamers, 7 badkamers"},
+        {"label": "Voorzieningen", "waarde": "Prive zwembad, tuin, diverse terrassen, parkeren"},
+        {"label": "Ligging", "waarde": "Ca 1 km van het strand van Oliva"}
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Exploiteren/afmaken als klein vakantiepark voor meervoudige verhuurinkomsten; verhuur is hier het hoofddoel, doorverkoop als lopend complex het alternatief.",
+      "samenvatting": "Mini-complex van vijf huisjes met zwembad op ca 1 km van het strand, geschikt om als klein vakantiepark te exploiteren. Meervoudige verhuureenheden geven een sterk verhuurprofiel, maar de instap ligt aan de bovenkant van het budget en het is meer een exploitatie- dan een flip-object.",
+      "voors": [
+        "Vijf losse eenheden + zwembad: sterk vakantieverhuurpotentieel",
+        "Nabij strand van Oliva (gewilde verhuurmarkt)",
+        "Diversificatie van huurinkomen over meerdere units",
+        "Binnen (aan de bovenkant van) het budget van 500.000 euro"
+      ],
+      "tegens": [
+        "Hoge instap; totale koperskosten ca 507.000 euro overschrijden budgetplafond licht",
+        "Exploitatie vergt licencia turistica en actief beheer - arbeidsintensief",
+        "Flip-marge beperkt; waarde zit in de exploitatie-cashflow"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "450.000 euro"},
+          {"label": "ITP 10% + kosten ca 2,7%", "waarde": "ca 57.000 euro"},
+          {"label": "Afwerking/upgrade tot parkstandaard", "waarde": "PM - afhankelijk van huidige staat"},
+          {"label": "Verhuurpotentieel", "waarde": "Meerdere units x zomertarieven; bevestig bezetting en toeristische vergunning"}
+        ],
+        "conclusie": "Aantrekkelijk als verhuur-/exploitatieobject met meerdere inkomstenstromen, maar kapitaalintensief en afhankelijk van een toeristische vergunning. Als flip minder geschikt."
+      },
+      "vergunning": "Cruciaal: bestaat er een licencia turistica voor (meerdere) vakantie-eenheden? Bevestig legale status van alle vijf de huisjes (geen illegale uitbreidingen) en de bestemming.",
+      "overstroming": {
+        "niveau": "Matig - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Op ca 1 km van de kust; lagergelegen strook rond Oliva kan PATRICOVA-aandachtsgebied raken. Verifieer de exacte zone gezien de meerdere gebouwen."
+      },
+      "demografie": "Vakantieparkjes en meerdere huisjes met zwembad zijn in trek bij families en groepen in het zomerseizoen aan de Costa Valencia.",
+      "ideeen": [
+        "Als klein vakantiepark exploiteren (meerdere units verhuren)",
+        "Upgraden en als lopend rendementsobject doorverkopen",
+        "Deels privegebruik + deels verhuur"
+      ],
+      "due_diligence": [
+        "Toeristische vergunning en legale status van alle 5 units",
+        "Werkelijke bezettings- en omzetcijfers opvragen",
+        "PATRICOVA-zone bevestigen"
+      ],
+      "eerlijk_oordeel": "Sterk verhuurpotentieel, maar het is een exploitatie-object aan de bovengrens van het budget, geen snelle flip. Alleen zinvol als je actief wilt verhuren en de vergunningen kloppen.",
+      "contact": {
+        "bron": "Kyero / Oliva Casas",
+        "telefoon": "Via advertentie (nummer achter formulier)",
+        "email": "Via contactformulier advertentie",
+        "url": "https://www.kyero.com/en/property/20395064-commercial-property-for-sale-oliva",
+        "referentie": "OCVL971000",
+        "opmerking": "Totale koperskosten (ca 507.000 euro) net boven budgetplafond - meenemen in onderhandeling."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Holiday park Five Casitas Oliva, 450.000 euro (OCVL971000)", "url": "https://www.kyero.com/en/property/20395064-commercial-property-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-sloopkavel-stedelijk-oliva-town-2026-07-15",
+      "titel": "Stedelijke kavel voor sloop/herbouw in Oliva town",
+      "type": "Bouwgrond / herontwikkeling",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (Oliva town, exacte straat op aanvraag)",
+      "regio": "La Safor",
+      "vraagprijs": 425000,
+      "prijs_status": "Vraagprijs advertentie",
+      "prijs_notitie": "425.000 euro. Advertentie noemt zowel 3.600 m2 (overzicht) als 800 m2 bebouwd (detailpagina) - oppervlakte onduidelijk, te bevestigen. Ref SOL_26 (Kyero/SP Consulting Home).",
+      "kerngegevens": [
+        {"label": "Type", "waarde": "Stedelijke grond, staat van sloop/herbouw"},
+        {"label": "Oppervlakte", "waarde": "Onduidelijk: 3.600 m2 (overzicht) vs 800 m2 bebouwd (detail) - bevestigen"},
+        {"label": "Ligging", "waarde": "Centraal in Oliva town, dicht bij winkels/scholen"},
+        {"label": "Bijzonderheid", "waarde": "Advertentie vermeldt 'the business is for sale'"}
+      ],
+      "score": 60,
+      "score_label": "Voorzichtig",
+      "strategie": "Herontwikkeling: sloop en nieuwbouw (woningen) op een centrale stedelijke kavel. Alleen kansrijk bij duidelijke bouwrechten en na opheldering van de oppervlakte.",
+      "samenvatting": "Centrale stedelijke kavel in Oliva town, aangeboden in staat van sloop of herbouw. Potentieel voor een herontwikkelingsproject, maar de advertentie is tegenstrijdig over de oppervlakte en vaag over wat precies verkocht wordt. Daardoor voorzichtig scoren tot de basisfeiten kloppen.",
+      "voors": [
+        "Centrale ligging in Oliva town, dicht bij voorzieningen",
+        "Stedelijke grond (suelo urbano) - in principe bebouwbaar",
+        "Herontwikkeling in het centrum kan waarde toevoegen"
+      ],
+      "tegens": [
+        "Tegenstrijdige oppervlakte (3.600 m2 vs 800 m2) - grote onzekerheid",
+        "Sloopkosten en onbekende bouwrechten drukken de marge",
+        "'Business for sale' suggereert mogelijk extra (juridische) complexiteit",
+        "Hoge instap zonder heldere onderbouwing"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Aankoop", "waarde": "425.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 54.000 euro"},
+          {"label": "Sloop + nieuwbouw", "waarde": "PM - sterk afhankelijk van m2 en programma"},
+          {"label": "Verkoopwaarde", "waarde": "Niet in te schatten zonder bevestigde bouwrechten"}
+        ],
+        "conclusie": "Op dit moment te veel open eindjes (oppervlakte, bouwrechten, wat wordt verkocht) om een sluitende business case te maken. Pas serieus te overwegen na harde kadastrale/urbanistische bevestiging."
+      },
+      "vergunning": "Vraag cedula urbanistica, exacte kadasterreferentie en toegestane bouwvolume op. Verhelder of het om puur de grond of ook een onderneming/opstal gaat. Sloopvergunning en eventuele beperkingen in het centrum checken.",
+      "overstroming": {
+        "niveau": "Laag tot matig",
+        "kleur": "green",
+        "toelichting": "Oliva town ligt hoger dan de kust en buiten de Marjal-zone. Exacte PATRICOVA-status zonder referentie niet te bevestigen."
+      },
+      "demografie": "Centrale herontwikkeling in Oliva town kan aansluiten bij vraag naar moderne woningen in het dorp, mits het volume klopt.",
+      "ideeen": [
+        "Sloop en nieuwbouw van appartementen voor verkoop",
+        "Kleinschalige gemengde ontwikkeling (wonen + commercieel)",
+        "Bouwrijp met vergund plan doorverkopen"
+      ],
+      "due_diligence": [
+        "Oppervlakte kadastraal ophelderen (de advertentie spreekt zichzelf tegen)",
+        "Bouwrechten en sloopvereisten opvragen",
+        "Bevestigen of een onderneming/opstal onderdeel is van de koop"
+      ],
+      "eerlijk_oordeel": "Potentie als centrale herontwikkeling, maar de advertentie is te tegenstrijdig en vaag om nu op te vertrouwen. Meegenomen als verkenning; niet bieden voordat oppervlakte en bouwrechten hard zijn.",
+      "contact": {
+        "bron": "Kyero / SP Consulting Home",
+        "telefoon": "Via advertentie (nummer achter formulier)",
+        "email": "Via contactformulier advertentie",
+        "url": "https://www.kyero.com/en/property/20904631-land-for-sale-oliva",
+        "referentie": "SOL_26",
+        "opmerking": "Oppervlakte in advertentie tegenstrijdig - eerst bevestigen."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Stedelijke kavel sloop/herbouw Oliva town, 425.000 euro (SOL_26)", "url": "https://www.kyero.com/en/property/20904631-land-for-sale-oliva"}
+      ]
+    }
+  ]
+}
