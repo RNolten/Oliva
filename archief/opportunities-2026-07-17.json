@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-17",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "dagelijks",
+    "aantal": 5,
+    "marktcontext": "Deze run spreidt bewust over meerdere plaatsen (Oliva, Denia/Jesus Pobre, Pego en Els Poblets) en types, na een reeks Oliva-zware runs. Idealista is de primaire bron; per object is de advertentie geverifieerd op een opgehaalde idealista-pagina. Aandachtspunten deze week: instapprijzen in de kustdorpen liggen fors hoger per m2 dan in het binnenland (Pego ca. 754 euro/m2 gemiddeld voor te renoveren, Els Poblets ca. 2.276 euro/m2), en na de DANA van oktober 2024 zijn PATRICOVA-overstromingskaarten herzien - controleer elk perceel apart.",
+    "disclaimer": "Geen financieel of juridisch advies. Prijzen, oppervlakten en vergunningsstatus komen van de advertenties en kunnen wijzigen of onjuist zijn; alles zelf verifieren bij makelaar, gemeente en notaris. Financiele ramingen zijn indicatief."
+  },
+  "kansen": [
+    {
+      "id": "oliva-bouwgrond-palmeres-556m2-2026-07-17",
+      "titel": "Bouwgrond 556 m2 in l'Hort de la Bosca, tussen dorp en strand",
+      "type": "Stedelijke bouwkavel (solar) voor vrijstaande villa",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (Oliva pueblo, Calle de les Palmeres 4)",
+      "regio": "La Safor",
+      "vraagprijs": 230000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie",
+      "prijs_notitie": "230.000 euro, ca. 414 euro/m2 grond. Geen zichtbare prijsverlaging.",
+      "kerngegevens": [
+        {
+          "label": "Perceel",
+          "waarde": "556 m2 stedelijk (solar)"
+        },
+        {
+          "label": "Bebouwbaar",
+          "waarde": "ca. 200 m2, 3 bouwlagen toegestaan"
+        },
+        {
+          "label": "Bestemming",
+          "waarde": "Residentieel vrijstaand (chalet)"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "l'Hort de la Bosca, ca. 10 min lopen naar strand"
+        },
+        {
+          "label": "Aanbieder",
+          "waarde": "Inmobiliaria Oliva Habitat (ref. 92)"
+        }
+      ],
+      "score": 72,
+      "score_label": "Sterk",
+      "strategie": "Grond kopen, vergunning aanvragen en een vrijstaande villa (ca. 200 m2) met tuin en zwembad bouwen om te verkopen of als premium verhuurobject aan te houden.",
+      "samenvatting": "Vlakke stedelijke kavel in wat de makelaar de beste woonzone van Oliva noemt: tussen het dorp en het strand, tegenover de grootste stadsgroenzone en dichtbij het nieuwe gezondheidscentrum, sportzone, scholen en supermarkten. Bestemming en bouwmogelijkheid (200 m2, 3 lagen) staan op de advertentie.",
+      "voors": [
+        "Duidelijk stedelijke grond met bevestigde bouwmogelijkheid (geen rustieke grond)",
+        "Toplocatie tussen dorp en strand, omgeven door chalets in hoger segment",
+        "Vlak perceel, directe aansluiting op stedelijke voorzieningen",
+        "Grondprijs ca. 414 euro/m2 is redelijk voor deze zone"
+      ],
+      "tegens": [
+        "Nog geen bouwvergunning of gevisualiseerd project; doorlooptijd en kosten onzeker",
+        "Bouwrisico en rentelasten tijdens ontwikkeling",
+        "Eindwaarde villa hangt sterk af van afwerkingsniveau en marktmoment"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop grond",
+            "waarde": "230.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ca. 2%",
+            "waarde": "ca. 27.600 euro"
+          },
+          {
+            "label": "Bouw ca. 200 m2 x 900-1.100 euro",
+            "waarde": "ca. 180.000 - 220.000 euro"
+          },
+          {
+            "label": "Totale investering (indicatief)",
+            "waarde": "ca. 438.000 - 478.000 euro"
+          }
+        ],
+        "conclusie": "Ruwe raming: bij een verkoopwaarde van een nieuwe villa in deze zone rond 550.000-650.000 euro is er marge, maar die staat of valt met de bouwkosten en het eindsegment. Laat de bouwkosten en een reeel verkoopscenario door een lokale aannemer/makelaar bevestigen voor je koopt."
+      },
+      "vergunning": "Stedelijke grond (suelo urbano/solar) met op de advertentie vermelde bebouwbaarheid van ca. 200 m2 in 3 lagen. Bouwvergunning (licencia de obra) en gevisualiseerd project moeten nog worden aangevraagd; reken op ICIO ca. 4% en architect/technische kosten. Bevestig edificabilidad en rooilijnen bij de gemeente Oliva.",
+      "overstroming": {
+        "niveau": "Middel - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Zone tussen dorp en strand, niet in de Marjal de Pego-Oliva, maar de kustvlakte van Oliva kent lokaal PATRICOVA-aandachtszones. Controleer het exacte perceel op de PATRICOVA-viewer voor je koopt."
+      },
+      "demografie": "Oliva pueblo heeft een stabiele, deels internationale kopersmarkt; het strand van Oliva trekt sterke vakantievraag. Nieuwbouwvilla's in deze zone zijn schaars.",
+      "ideeen": [
+        "Vrijstaande villa met zwembad voor verkoop aan Noord-Europese kopers",
+        "Energiezuinige nieuwbouw als premium jaarrond- of vakantieverhuur",
+        "Eventueel splitsen van bouwvolume als bestemmingsplan het toelaat (checken)"
+      ],
+      "due_diligence": [
+        "PATRICOVA-overstromingskaart voor exact perceel checken",
+        "Edificabilidad, rooilijn en maximale bouwhoogte bij gemeente bevestigen",
+        "Bouwkostenraming door lokale aannemer laten maken",
+        "Aansluitingen (water, riool, elektra) en staat van de straat verifieren"
+      ],
+      "eerlijk_oordeel": "Sterke kavel op een gewilde plek met bevestigde bouwmogelijkheid. Het is echter een ontwikkelproject: de winst zit in de uitvoering, niet in de aankoop. Alleen interessant als bouwkosten en eindwaarde vooraf hard gemaakt worden.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "onbekend (via advertentie op te vragen)",
+        "email": "onbekend",
+        "url": "https://www.idealista.com/inmueble/112005982/",
+        "referentie": "92 (Inmobiliaria Oliva Habitat, Blai Beneyto)",
+        "opmerking": "Detailpagina op 17-07-2026 gecontroleerd en toont het object; advertentie bijgewerkt 13 juli."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - bouwkavel Calle de les Palmeres 4, Oliva",
+          "url": "https://www.idealista.com/inmueble/112005982/"
+        },
+        {
+          "titel": "idealista - overzicht stedelijke terreinen Oliva",
+          "url": "https://www.idealista.com/venta-terrenos/oliva-valencia/con-terrenos-urbanos/"
+        }
+      ]
+    },
+    {
+      "id": "denia-flip-jesus-pobre-vergunning-183m2-2026-07-17",
+      "titel": "Dorpshuis Jesus Pobre met goedgekeurd renovatieproject en bouwvergunning",
+      "type": "Te renoveren dorpshuis met vergunning in de hand",
+      "type_kort": "Flip-pand",
+      "plaats": "Denia (La Xara - Jesus Pobre, Calle Pare Pere)",
+      "regio": "Marina Alta",
+      "vraagprijs": 299000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie",
+      "prijs_notitie": "299.000 euro, ca. 1.634 euro/m2 voor een te renoveren object.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "ca. 183 m2 over twee lagen"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "4"
+        },
+        {
+          "label": "Bijzonder",
+          "waarde": "Goedgekeurd renovatieproject + bouwvergunning"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Dorpskern Jesus Pobre (deelkern Denia)"
+        }
+      ],
+      "score": 71,
+      "score_label": "Interessant",
+      "strategie": "Direct renoveren volgens het al goedgekeurde project (vergunning ligt er), dan verkopen aan het internationale koperspubliek van Denia of aanhouden voor jaarrond-/vakantieverhuur.",
+      "samenvatting": "Karaktervol dorpshuis in Jesus Pobre met een belangrijk voordeel: er ligt al een goedgekeurd renovatieproject en een bouwvergunning. Dat neemt het grootste vergunningsrisico van een flip weg. Geschikt als eigen woning of investering.",
+      "voors": [
+        "Bouwvergunning en project al aanwezig: minder vertraging en risico",
+        "Gewild deelgebied van Denia met sterke, deels internationale vraag",
+        "Twee bouwlagen, 4 slaapkamers: flexibel voor verkoop of verhuur",
+        "Laag overstromingsrisico (binnenland, hoger gelegen dan kustvlakte)"
+      ],
+      "tegens": [
+        "Instapprijs is al relatief hoog (1.634 euro/m2 in te renoveren staat)",
+        "Flipmarge kan smal zijn na renovatiekosten; scherp inkopen nodig",
+        "Renovatieproject moet passen bij wat de eindkoper wil"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop",
+            "waarde": "299.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ca. 2%",
+            "waarde": "ca. 35.900 euro"
+          },
+          {
+            "label": "Renovatie ca. 183 m2 x 800-1.000 euro",
+            "waarde": "ca. 146.000 - 183.000 euro"
+          },
+          {
+            "label": "Totale investering (indicatief)",
+            "waarde": "ca. 481.000 - 518.000 euro"
+          }
+        ],
+        "conclusie": "De businesscase voor pure flip is krap: gerenoveerde dorpshuizen in deze zone moeten dan richting 520.000-560.000 euro verkopen. De echte waarde zit in het al vergunde project (tijdwinst) en in de verhuuroptie. Onderhandel op de aankoopprijs."
+      },
+      "vergunning": "Volgens de advertentie zijn een renovatieproject en een bouwvergunning al goedgekeurd. Dat is een sterk pluspunt. Laat door je gestor/architect bevestigen dat de vergunning nog geldig is en overdraagbaar, en welke werkzaamheden precies zijn vergund.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Jesus Pobre/La Xara ligt in het binnenland aan de voet van de Montgo, buiten de bekende overstromingszones van de kustvlakte. Toch het exacte adres kort op PATRICOVA nakijken."
+      },
+      "demografie": "Denia en zijn deelkernen hebben een brede, internationale koulersmarkt en sterke vakantieverhuur. Jesus Pobre is geliefd om zijn dorpse sfeer dichtbij Denia en de kust.",
+      "ideeen": [
+        "Renoveren en verkopen als instapklare karakterwoning",
+        "Aanhouden voor jaarrond- of vakantieverhuur (sterke markt Denia)",
+        "Buitenruimte/patio benadrukken als verkoopargument"
+      ],
+      "due_diligence": [
+        "Geldigheid en inhoud van de bestaande bouwvergunning bevestigen",
+        "Nota simple opvragen (lasten, eigendom, oppervlak)",
+        "Renovatiekosten hard maken met lokale aannemer",
+        "Vergelijkbare verkoopprijzen Jesus Pobre/La Xara checken"
+      ],
+      "eerlijk_oordeel": "Het al aanwezige vergunde project maakt dit een relatief laag-risico flip/verhuur-object. De marge voor pure flip is krap bij de huidige vraagprijs, dus dit werkt vooral als je scherp inkoopt of de verhuuroptie meeneemt.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "onbekend (via advertentie op te vragen)",
+        "email": "onbekend",
+        "url": "https://www.idealista.com/en/inmueble/111077405/",
+        "referentie": "onbekend",
+        "opmerking": "Advertentie bevestigd op de idealista-overzichtspagina van Denia (te renoveren); de detailpagina werd bij deze run door anti-bot geblokkeerd, controleer de link zelf even."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - dorpshuis Calle Pare Pere, Jesus Pobre (Denia)",
+          "url": "https://www.idealista.com/en/inmueble/111077405/"
+        },
+        {
+          "titel": "idealista - overzicht te renoveren woningen Denia",
+          "url": "https://www.idealista.com/venta-viviendas/denia-alicante/con-para-reformar/"
+        }
+      ]
+    },
+    {
+      "id": "pego-herbestemming-3woningen-404m2-2026-07-17",
+      "titel": "Groot centrumpand Pego met potentie voor 3 woningen (prijs verlaagd)",
+      "type": "Te herbestemmen woonhuis in centrum",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Pego (centrum urbano)",
+      "regio": "Marina Alta",
+      "vraagprijs": 179000,
+      "prijs_status": "Vraagprijs verlaagd op de advertentie",
+      "prijs_notitie": "179.000 euro, verlaagd van 189.000 euro (-5%). Ca. 443 euro/m2: laag.",
+      "kerngegevens": [
+        {
+          "label": "Bouwoppervlak",
+          "waarde": "ca. 404 m2 (kadaster)"
+        },
+        {
+          "label": "Indeling",
+          "waarde": "Begane grond + 1e + 2e verdieping + dakterras"
+        },
+        {
+          "label": "Potentie",
+          "waarde": "Volgens advertentie mogelijk 3 woningen"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Hart van het centrum van Pego"
+        }
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Herbestemmen/opsplitsen tot meerdere wooneenheden en per unit verkopen of verhuren; volumeaanpak in plaats van een enkele flip.",
+      "samenvatting": "Ruim centrumpand van ca. 404 m2 met begane grond, twee verdiepingen en dakterras. De advertentie noemt de mogelijkheid om er 3 woningen van te maken. Lage prijs per m2 en een recente prijsverlaging bieden onderhandelruimte.",
+      "voors": [
+        "Zeer lage prijs per m2 (ca. 443 euro/m2) en al verlaagd",
+        "Veel volume: potentieel meerdere verkoop-/verhuureenheden",
+        "Centrale ligging in Pego met alle voorzieningen",
+        "Onderhandelruimte door prijsverlaging"
+      ],
+      "tegens": [
+        "Splitsen tot 3 woningen vergt gemeentelijke goedkeuring - niet gegarandeerd",
+        "Volledige renovatie van 404 m2 is een fors budget",
+        "Pego is een kleinere markt dan de kust: afzet per unit checken"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop",
+            "waarde": "179.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ca. 2%",
+            "waarde": "ca. 21.500 euro"
+          },
+          {
+            "label": "Renovatie ca. 404 m2 x 700-900 euro",
+            "waarde": "ca. 283.000 - 364.000 euro"
+          },
+          {
+            "label": "Totale investering (indicatief)",
+            "waarde": "ca. 483.000 - 565.000 euro"
+          }
+        ],
+        "conclusie": "Bij splitsing in 3 units die elk 150.000-180.000 euro opbrengen, ligt de opbrengst rond 450.000-540.000 euro. De marge is krap en afhankelijk van of de gemeente de splitsing toestaat. Vraag eerst een informe urbanistico aan voor je verder gaat."
+      },
+      "vergunning": "De haalbaarheid van 3 zelfstandige woningen hangt af van de gemeentelijke regels (bezetting, minimale unit-grootte, parkeren). Vraag een informe urbanistico/cedula urbanistica aan bij de gemeente Pego. Reken op ICIO ca. 4% en projectkosten.",
+      "overstroming": {
+        "niveau": "Middel - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Het stadscentrum van Pego ligt hoger dan de nabijgelegen Marjal de Pego-Oliva, maar de gemeente kent PATRICOVA-aandachtszones. Na de DANA van oktober 2024 zijn kaarten herzien; check het exacte adres."
+      },
+      "demografie": "Pego is een levendig binnenlands stadje tussen Valencia en Alicante, op ca. 7 km van het strand. Markt is kleiner en prijzen lager dan aan de kust; vraag naar betaalbare woningen is stabiel.",
+      "ideeen": [
+        "Opsplitsen in 3 appartementen voor gespreide verkoop",
+        "Begane grond als commerciele/berging-unit, boven wonen",
+        "Deels verkopen, deels aanhouden voor verhuur"
+      ],
+      "due_diligence": [
+        "Informe urbanistico over splitsingsmogelijkheid opvragen",
+        "PATRICOVA-kaart voor exact adres checken",
+        "Bouwkundige staat (vocht, fundering, dak) laten keuren",
+        "Afzetprijzen per unit in Pego onderbouwen"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke prijs en veel volume, maar de hele businesscase hangt aan de vraag of de gemeente splitsing toestaat. Zonder dat groene licht is het een groot en duur renovatieobject met beperkte marge. Eerst de urbanistische check, dan pas beslissen.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "onbekend (via advertentie op te vragen)",
+        "email": "onbekend",
+        "url": "https://www.idealista.com/inmueble/110913584/",
+        "referentie": "onbekend",
+        "opmerking": "Bevestigd op de idealista-overzichtspagina Pego (te renoveren); prijs 179.000 euro, verlaagd van 189.000 euro."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - centrumpand met potentie 3 woningen, Pego",
+          "url": "https://www.idealista.com/inmueble/110913584/"
+        },
+        {
+          "titel": "idealista - overzicht te renoveren woningen Pego",
+          "url": "https://www.idealista.com/venta-viviendas/pego-alicante/con-para-reformar/"
+        }
+      ]
+    },
+    {
+      "id": "pego-verhuur-sant-miquel-270m2-2026-07-17",
+      "titel": "Deels gerenoveerd stadshuis Pego, geschikt voor kamergewijze verhuur",
+      "type": "Ruim stadshuis, deels gerenoveerd",
+      "type_kort": "Verhuur",
+      "plaats": "Pego (Calle Sant Miquel 68)",
+      "regio": "Marina Alta",
+      "vraagprijs": 110000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie",
+      "prijs_notitie": "110.000 euro, ca. 407 euro/m2: laag instapniveau.",
+      "kerngegevens": [
+        {
+          "label": "Bouwoppervlak",
+          "waarde": "ca. 270 m2 over 4 lagen"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "4 (deel al gerenoveerd)"
+        },
+        {
+          "label": "Staat",
+          "waarde": "Deels gerenoveerd, deel af te werken"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Pego, dichtbij centrum"
+        }
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Afwerken wat nog rest en aanhouden voor verhuur - in zijn geheel aan een gezin of kamergewijs - met de optie later door te verkopen.",
+      "samenvatting": "Ruim stadshuis van ca. 270 m2 over vier lagen, waarvan een deel al gerenoveerd is. De advertentie noemt verhuur als geheel of per kamer als optie. Lage instapprijs en beperktere resterende verbouwkosten maken dit een verhuurgericht object.",
+      "voors": [
+        "Lage instapprijs (ca. 407 euro/m2)",
+        "Deel al gerenoveerd: minder resterende verbouwkosten",
+        "Veel oppervlak, flexibel voor gezin of kamerverhuur",
+        "Dichtbij het centrum van Pego"
+      ],
+      "tegens": [
+        "Kamergewijze verhuur vergt mogelijk vergunning/aanpassingen",
+        "Pego kent lagere huren dan de kust: rendement nuchter inschatten",
+        "Kwaliteit van het al uitgevoerde werk moet gecontroleerd worden"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop",
+            "waarde": "110.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ca. 2%",
+            "waarde": "ca. 13.200 euro"
+          },
+          {
+            "label": "Afwerking (indicatief)",
+            "waarde": "ca. 90.000 - 135.000 euro"
+          },
+          {
+            "label": "Totale investering (indicatief)",
+            "waarde": "ca. 213.000 - 258.000 euro"
+          }
+        ],
+        "conclusie": "Als verhuurobject kan dit werken door de lage instap en beperkte resterende kosten. Reken met realistische Pego-huren; kamergewijze verhuur verhoogt het rendement maar vraagt om nette afwerking en mogelijk een vergunning. Als flip is de marge beperkt."
+      },
+      "vergunning": "Voor kamergewijze of toeristische verhuur kunnen aanvullende eisen en vergunningen gelden. Controleer bij de gemeente Pego de regels voor verhuur en of het al uitgevoerde werk vergund is (om legalisatiekosten te vermijden).",
+      "overstroming": {
+        "niveau": "Middel - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Pego-centrum ligt hoger dan de Marjal de Pego-Oliva, maar controleer het adres op PATRICOVA (herziene kaarten na de DANA van oktober 2024)."
+      },
+      "demografie": "Pego heeft een vaste lokale huurmarkt en groeiende belangstelling van buitenlanders die betaalbaar binnenland zoeken. Kamerverhuur richt zich op werkenden/seizoenskrachten.",
+      "ideeen": [
+        "Verhuur als geheel aan een gezin (jaarcontract)",
+        "Kamergewijze verhuur voor hoger rendement (na check vergunning)",
+        "Later doorverkopen als volledig gerenoveerde woning"
+      ],
+      "due_diligence": [
+        "Legaliteit van het reeds uitgevoerde werk controleren",
+        "Regels kamer-/toeristische verhuur bij gemeente checken",
+        "PATRICOVA-kaart voor exact adres nakijken",
+        "Realistische huurniveaus in Pego onderbouwen"
+      ],
+      "eerlijk_oordeel": "Een nuchtere verhuurkans: lage instap en deels klaar, maar Pego levert bescheiden huren en de flipmarge is dun. Het beste verhaal is kopen, netjes afmaken en aanhouden voor stabiel huurinkomen, mits de verhuurvergunningen kloppen.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "onbekend (via advertentie op te vragen)",
+        "email": "onbekend",
+        "url": "https://www.idealista.com/inmueble/111512381/",
+        "referentie": "onbekend",
+        "opmerking": "Bevestigd op de idealista-overzichtspagina Pego (te renoveren)."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - stadshuis Calle Sant Miquel 68, Pego",
+          "url": "https://www.idealista.com/inmueble/111512381/"
+        },
+        {
+          "titel": "idealista - overzicht te renoveren woningen Pego",
+          "url": "https://www.idealista.com/venta-viviendas/pego-alicante/con-para-reformar/"
+        }
+      ]
+    },
+    {
+      "id": "els-poblets-flip-pareado-210m2-2026-07-17",
+      "titel": "Halfvrijstaand huis Els Poblets dichtbij strand, te renoveren",
+      "type": "Te renoveren halfvrijstaand huis met garage",
+      "type_kort": "Flip-pand",
+      "plaats": "Els Poblets (nabij Playa de la Almadrava)",
+      "regio": "Marina Alta",
+      "vraagprijs": 325000,
+      "prijs_status": "Vraagprijs bevestigd op de advertentie",
+      "prijs_notitie": "325.000 euro, ca. 1.548 euro/m2 in te renoveren staat.",
+      "kerngegevens": [
+        {
+          "label": "Bouwoppervlak",
+          "waarde": "ca. 210 m2 over twee lagen"
+        },
+        {
+          "label": "Perceel",
+          "waarde": "ca. 300 m2"
+        },
+        {
+          "label": "Extra",
+          "waarde": "Garage, meerdere buitenruimtes"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Els Poblets, kort bij strand El Verger/Almadrava"
+        }
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Renoveren en verkopen aan het sterke kustpubliek van Els Poblets/El Verger, of aanhouden voor vakantieverhuur dichtbij het strand.",
+      "samenvatting": "Halfvrijstaand huis van ca. 210 m2 op een perceel van ca. 300 m2, met garage en meerdere terrassen, te renoveren naar eigen smaak. Ligging vlakbij de stranden van El Verger/Almadrava geeft een goede afzet- en verhuurmarkt.",
+      "voors": [
+        "Kustdorp met sterke vraag naar vakantie- en jaarrondwoningen",
+        "Garage en meerdere buitenruimtes: gewild bij kopers",
+        "Eigen perceel van 300 m2, twee bouwlagen",
+        "Gemiddelde m2-prijs in Els Poblets ligt duidelijk hoger (ca. 2.276 euro/m2)"
+      ],
+      "tegens": [
+        "Instapprijs al 1.548 euro/m2: minder onderhandelruimte dan in het binnenland",
+        "Renovatie van 210 m2 tilt de totale investering richting het budgetplafond",
+        "Kustligging vraagt extra aandacht voor overstromingsrisico"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop",
+            "waarde": "325.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ca. 2%",
+            "waarde": "ca. 39.000 euro"
+          },
+          {
+            "label": "Renovatie ca. 210 m2 x 800-1.000 euro",
+            "waarde": "ca. 168.000 - 210.000 euro"
+          },
+          {
+            "label": "Totale investering (indicatief)",
+            "waarde": "ca. 532.000 - 574.000 euro"
+          }
+        ],
+        "conclusie": "Met een gemiddelde van ca. 2.276 euro/m2 in Els Poblets kan een gerenoveerde 210 m2-woning richting 500.000-560.000 euro gaan. De marge voor pure flip is krap; de verhuuroptie dichtbij het strand versterkt de businesscase. Scherp inkopen is nodig."
+      },
+      "vergunning": "Renovatie binnen bestaand volume vergt doorgaans een licencia de obra (ICIO ca. 4%). Voor vakantieverhuur is een licentie voor viviendas de uso turistico nodig. Controleer of het bestaande bouwvolume gelegaliseerd is voor je koopt.",
+      "overstroming": {
+        "niveau": "Middel tot verhoogd - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Els Poblets ligt in de kustvlakte nabij de rivier Racons; delen van de gemeente hebben PATRICOVA-aandacht. Controleer het exacte perceel zorgvuldig, zeker na de herziene kaarten na oktober 2024."
+      },
+      "demografie": "Els Poblets en het naastgelegen El Verger trekken veel Noord-Europese kopers en vakantiegangers; de nabijheid van de stranden Almadrava en El Verger houdt de vraag hoog.",
+      "ideeen": [
+        "Renoveren en verkopen als instapklare kustwoning",
+        "Vakantieverhuur (VUT-licentie) dichtbij het strand",
+        "Buitenruimtes en garage als verkoopargumenten uitwerken"
+      ],
+      "due_diligence": [
+        "PATRICOVA-overstromingskaart voor exact perceel checken",
+        "Legaliteit van het bestaande bouwvolume verifieren",
+        "Renovatiebegroting hard maken met lokale aannemer",
+        "Verkoop- en huurprijzen Els Poblets/El Verger onderbouwen"
+      ],
+      "eerlijk_oordeel": "Prima locatie met sterke verhuur- en verkoopmarkt, maar de instapprijs is al pittig en de renovatie duwt de totale investering tegen het budgetplafond. Werkt vooral als je onder de vraagprijs koopt of nadrukkelijk de verhuuroptie meeneemt. Overstromingscheck is hier essentieel.",
+      "contact": {
+        "bron": "idealista.com",
+        "telefoon": "onbekend (via advertentie op te vragen)",
+        "email": "onbekend",
+        "url": "https://www.idealista.com/inmueble/111196766/",
+        "referentie": "onbekend",
+        "opmerking": "Bevestigd op de idealista-overzichtspagina Els Poblets (te renoveren); 325.000 euro, 210 m2, garage."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - halfvrijstaand huis Els Poblets",
+          "url": "https://www.idealista.com/inmueble/111196766/"
+        },
+        {
+          "titel": "idealista - overzicht te renoveren woningen Els Poblets",
+          "url": "https://www.idealista.com/venta-viviendas/els-poblets-alicante/con-para-reformar/"
+        }
+      ]
+    }
+  ]
+}
