@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-18",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Onderzoek vandaag richtte zich op het achterland van Denia (Beniarbeig, El Verger, Ondara) plus horeca in Denia en bedrijfsruimte in Pego, om af te wijken van de recente Oliva/Pego-woningen. Bronnen: Kyero (4) en Fotocasa (1). De markt blijft krap: instapklare objecten met sluitende flip-marge zijn schaars, dorpen in het binnenland hebben kleine doorverkoopmarkten, en rond Pego speelt overstromingsrisico (Marjal de Pego-Oliva, PATRICOVA). Alle vijf de kansen zijn gecontroleerd via de advertentie-URL met geverifieerde vraagprijs.",
+    "disclaimer": "Geen financieel of juridisch advies. Prijzen en gegevens komen van de advertenties op de peildatum en kunnen wijzigen. Overstromings- en vergunningsinschattingen zijn indicatief; laat PATRICOVA, kadaster en het gemeentelijk bestemmingsplan altijd formeel controleren voor aankoop."
+  },
+  "kansen": [
+    {
+      "id": "ondara-bouwgrond-urbano-100m2-2026-07-18",
+      "titel": "Stedelijk perceel 100 m2 met dubbele straatzijde",
+      "type": "Bouwgrond / stedelijk perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "Ondara (kern)",
+      "regio": "Marina Alta",
+      "vraagprijs": 99000,
+      "prijs_status": "Bevestigd op advertentie",
+      "prijs_notitie": "Vraagprijs 99.000 euro (ref 001747). Kosten koper ITP 10 procent plus notaris/register/advocaat ca. 12.600 euro; totaal ca. 111.600 euro exclusief bouw.",
+      "kerngegevens": [
+        {"label": "Perceel", "waarde": "100 m2 (suelo urbano)"},
+        {"label": "Bouwrecht", "waarde": "Kelder, begane grond, 1e en 2e verdieping mogelijk"},
+        {"label": "Nutsvoorzieningen", "waarde": "Nog geen water/elektra; aansluiting via straat mogelijk"},
+        {"label": "Ligging", "waarde": "Toegang vanaf twee straten"},
+        {"label": "Makelaar", "waarde": "Pereto Grupo Inmobiliario"}
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Klein stadswoning-project: nieuwbouw van 2-3 lagen op smal perceel en verkopen, of casco realiseren en doorverkopen. Alternatief: bouwen en verhuren in Ondara-kern.",
+      "samenvatting": "Compact stedelijk perceel in de kern van Ondara met bouwrecht over meerdere lagen en dubbele straattoegang. Lage instapprijs maakt het aantrekkelijk, maar het is een ontwikkelklus: er moet nog een project, vergunning en aansluitingen komen.",
+      "voors": [
+        "Lage instapprijs (99.000 euro) met ruimte om te onderhandelen",
+        "Stedelijke bestemming (suelo urbano), dus in principe bebouwbaar",
+        "Dubbele straatzijde geeft ontwerpflexibiliteit",
+        "Ondara heeft stabiele lokale vraag en ligt centraal in de Marina Alta"
+      ],
+      "tegens": [
+        "Geen bestaand gebouw: volledige nieuwbouw nodig, langere doorlooptijd",
+        "Nog geen nuts; aansluitkosten onbekend",
+        "Smal perceel van 100 m2 beperkt de indeling",
+        "Bouwkosten 700-1100 euro/m2 bepalen of de marge sluit"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "99.000 euro"},
+          {"label": "Kosten koper (ca.)", "waarde": "12.600 euro"},
+          {"label": "Bouw ca. 150 m2 x 900 euro", "waarde": "ca. 135.000 euro"},
+          {"label": "Totale investering (indicatief)", "waarde": "ca. 246.000 euro"},
+          {"label": "Verkoopwaarde nieuwbouw Ondara (indicatief)", "waarde": "ca. 1.500-1.800 euro/m2"}
+        ],
+        "conclusie": "Bij ca. 150 m2 nieuwbouw en verkoop rond 1.700 euro/m2 (ca. 255.000 euro) is de marge dun; het rendement hangt sterk af van definitief bouwvolume en strak bouwbudget. Eerst massastudie en offertes opvragen."
+      },
+      "vergunning": "Stedelijk perceel, dus bebouwing is haalbaar mits een goedgekeurd project en gemeentelijke bouwvergunning (licencia de obra, ICIO ca. 4 procent). Bouwvolume en rooilijnen laten bevestigen bij Ayuntamiento de Ondara; aansluitingen water/elektra apart regelen.",
+      "overstroming": {
+        "niveau": "Gemiddeld",
+        "kleur": "amber",
+        "toelichting": "Ondara ligt niet in de Marjal de Pego-Oliva, maar de rivier de Girona kan bij extreme regen delen van de gemeente raken. Controleer de exacte PATRICOVA-classificatie van dit perceel voor aankoop."
+      },
+      "demografie": "Ondara (ca. 6.500 inwoners) is een verzorgingskern met winkels, station-nabijheid en veel mediterrane/expat-vraag; ligt 10 minuten van de kust en dicht bij Denia.",
+      "ideeen": [
+        "Massastudie laten maken om maximaal verkoopbaar oppervlak te bepalen",
+        "Ontwerp met commerciele ruimte op begane grond voor extra waarde",
+        "Verkoop als casco (ruwbouw) overwegen om bouwrisico te beperken"
+      ],
+      "due_diligence": [
+        "Bevestig bouwvolume en rooilijnen bij de gemeente",
+        "Vraag offertes voor aansluiting water/elektra",
+        "Check PATRICOVA-kaart voor dit kadasternummer",
+        "Laat nota simple opvragen om lasten/eigendom te controleren"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke instapprijs, maar dit is een ontwikkelproject en geen kant-en-klare flip. De marge is dun zonder scherp bouwbudget en een goed verkoopbaar ontwerp. Alleen doorgaan met betrouwbare aannemer en na bevestiging van bouwvolume.",
+      "contact": {
+        "bron": "Kyero",
+        "telefoon": "Onbekend - via makelaar",
+        "email": "Onbekend - via makelaar",
+        "url": "https://www.kyero.com/en/property/19592275-land-for-sale-ondara",
+        "referentie": "001747",
+        "opmerking": "Aangeboden door Pereto Grupo Inmobiliario S.L."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Land for sale in Ondara (ref 001747)", "url": "https://www.kyero.com/en/property/19592275-land-for-sale-ondara"}
+      ]
+    },
+    {
+      "id": "beniarbeig-flip-licencia-140m2-2026-07-18",
+      "titel": "Dorpshuis te renoveren met goedgekeurd project en vergunning",
+      "type": "Te flippen pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Beniarbeig (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 192000,
+      "prijs_status": "Bevestigd op advertentie",
+      "prijs_notitie": "Vraagprijs 192.000 euro (ref DI17295). Kosten koper ca. 24.500 euro (ITP 10 procent plus bijkomende kosten).",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "140 m2"},
+        {"label": "Indeling", "waarde": "3 slaapkamers, 2 badkamers"},
+        {"label": "Bijzonder", "waarde": "Goedgekeurd project en bouwvergunning voor 140 m2"},
+        {"label": "Type", "waarde": "Hoekpand met dubbele toegang, terras en patio"},
+        {"label": "Energielabel", "waarde": "G (renovatie nodig)"}
+      ],
+      "score": 61,
+      "score_label": "Voorzichtig",
+      "strategie": "Renoveren op basis van het al goedgekeurde project en doorverkopen, of aanhouden voor verhuur. De grootste waarde zit in de reeds verleende vergunning die het vergunningsrisico wegneemt.",
+      "samenvatting": "Te renoveren hoekhuis van 140 m2 in het centrum van Beniarbeig met - uitzonderlijk - een al goedgekeurd project en bouwvergunning. Dat verlaagt het vergunningsrisico sterk. Het risico zit in de flip-marge: Beniarbeig is een kleine binnenlandmarkt.",
+      "voors": [
+        "Goedgekeurd project en vergunning aanwezig: minder vertraging en risico",
+        "Ruime 140 m2 met 3 slaapkamers, terras en patio",
+        "Hoekpand met dubbele toegang biedt indelingsflexibiliteit",
+        "Dorpskern met basisvoorzieningen, 8 km van het strand"
+      ],
+      "tegens": [
+        "Energielabel G: volledige renovatie nodig",
+        "Beniarbeig is een kleine markt; doorverkoop kan traag zijn",
+        "Flip-marge is dun bij huidige vraagprijs plus renovatiekosten",
+        "Ligging aan de Girona-vlakte vraagt aandacht voor overstroming"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "192.000 euro"},
+          {"label": "Kosten koper (ca.)", "waarde": "24.500 euro"},
+          {"label": "Renovatie 140 m2 x ca. 900 euro", "waarde": "ca. 126.000 euro"},
+          {"label": "Totale investering (indicatief)", "waarde": "ca. 342.000 euro"},
+          {"label": "Verkoopwaarde gerenoveerd (indicatief)", "waarde": "ca. 230.000-260.000 euro"}
+        ],
+        "conclusie": "Als pure flip sluit de business case bij deze cijfers niet: totale kosten liggen boven de verwachte verkoopwaarde in dit dorp. Sterker als eigen gebruik of langdurige verhuur. Alleen als flip zinvol bij scherpere aankoop en laag renovatiebudget."
+      },
+      "vergunning": "Groot pluspunt: project en bouwvergunning zijn al goedgekeurd voor 140 m2, wat het grootste vergunningsrisico wegneemt. Controleer geldigheidsduur van de licentie en of het project aansluit bij de gewenste indeling; ICIO ca. 4 procent bij uitvoering.",
+      "overstroming": {
+        "niveau": "Gemiddeld",
+        "kleur": "amber",
+        "toelichting": "Beniarbeig ligt in het dal van de rivier de Girona, dat bij zware regen (zoals DANA) kan overstromen. Het centrum ligt hoger, maar laat de PATRICOVA-classificatie van dit adres bevestigen."
+      },
+      "demografie": "Beniarbeig (ca. 1.900 inwoners) is een rustig binnenlanddorp bij Denia, populair bij Noord-Europese kopers die landelijk maar dicht bij de kust willen wonen.",
+      "ideeen": [
+        "Vraag het volledige goedgekeurde project op en toets de indeling",
+        "Reken twee scenario's: flip versus verhuur/eigen gebruik",
+        "Onderhandel op basis van energielabel G en renovatieomvang"
+      ],
+      "due_diligence": [
+        "Controleer geldigheid en reikwijdte van de bouwvergunning",
+        "Laat een bouwkundige de staat en het vochtrisico beoordelen",
+        "Vraag een reele renovatiebegroting op bij lokale aannemer",
+        "Check PATRICOVA en verzekerbaarheid tegen overstroming"
+      ],
+      "eerlijk_oordeel": "De goedgekeurde vergunning is zeldzaam en waardevol, maar de flip-marge in een klein dorp als Beniarbeig is dun. Dit is eerder een aantrekkelijk hold-/eigen-gebruik-object dan een winstgevende flip. Reken de business case streng door voordat je instapt.",
+      "contact": {
+        "bron": "Kyero",
+        "telefoon": "Onbekend - via makelaar",
+        "email": "Onbekend - via makelaar",
+        "url": "https://www.kyero.com/en/property/20581274-town-house-for-sale-beniarbeig",
+        "referentie": "DI17295",
+        "opmerking": "Aangeboden door Denia Investissement"
+      },
+      "bronnen": [
+        {"titel": "Kyero - Town house for sale in Beniarbeig (ref DI17295)", "url": "https://www.kyero.com/en/property/20581274-town-house-for-sale-beniarbeig"}
+      ]
+    },
+    {
+      "id": "elverger-verhuur-tenant-2028-75m2-2026-07-18",
+      "titel": "Instapklaar rijtjeshuis met zittende huurder tot 2028",
+      "type": "Instapklaar verhuurobject",
+      "type_kort": "Verhuur",
+      "plaats": "El Verger",
+      "regio": "Marina Alta",
+      "vraagprijs": 249000,
+      "prijs_status": "Bevestigd op advertentie",
+      "prijs_notitie": "Vraagprijs 249.000 euro (ref RS 6863). Kosten koper ca. 31.700 euro; totaal ca. 280.700 euro.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "75 m2"},
+        {"label": "Indeling", "waarde": "3 slaapkamers, 2 badkamers"},
+        {"label": "Verhuur", "waarde": "Verkocht met zittende huurder tot 2028"},
+        {"label": "Ligging", "waarde": "500 m van zee, 8 km van Denia"},
+        {"label": "Makelaar", "waarde": "Renvida"}
+      ],
+      "score": 65,
+      "score_label": "Interessant",
+      "strategie": "Kopen als lopend verhuurobject met directe inkomsten; na afloop van het huurcontract (2028) ombouwen naar vakantieverhuur of verkopen. Rustig hold-object dicht bij zee.",
+      "samenvatting": "Rijtjeshuis van 75 m2 in El Verger, op 500 m van zee, verkocht met een zittende huurder tot 2028. Directe huurinkomsten en lage vergunningsrisico's; het rendement is gematigd en de flip-ruimte beperkt omdat het al marktconform geprijsd is.",
+      "voors": [
+        "Directe huurinkomsten vanaf dag een (huurder tot 2028)",
+        "Instapklaar: geen renovatie of vergunning nodig",
+        "500 m van zee - sterke vakantieverhuurmarkt na afloop contract",
+        "Nabij Denia en Las Marinas, gewild bij buitenlandse huurders"
+      ],
+      "tegens": [
+        "Gematigd bruto rendement bij deze vraagprijs",
+        "Zittende huurder beperkt eigen gebruik en herinrichting tot 2028",
+        "Beperkte flip-marge: prijs is al marktconform",
+        "Kustnabije ligging vraagt aandacht voor overstroming/verzekerbaarheid"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "249.000 euro"},
+          {"label": "Kosten koper (ca.)", "waarde": "31.700 euro"},
+          {"label": "Totale investering", "waarde": "ca. 280.700 euro"},
+          {"label": "Indicatieve huur", "waarde": "vraag actuele huursom op bij makelaar"},
+          {"label": "Rendement", "waarde": "afhankelijk van huurcontract - nog bevestigen"}
+        ],
+        "conclusie": "Waarde zit in directe cashflow en de optie op vakantieverhuur/verkoop vanaf 2028. Vraag de exacte huursom en contractvoorwaarden op om het netto rendement te bepalen; als flip is de marge beperkt."
+      },
+      "vergunning": "Bestaande, instapklare woning; geen bouwvergunning nodig. Voor toekomstige vakantieverhuur is een toeristische licentie (registro turistico Comunitat Valenciana) vereist - haalbaarheid vooraf checken bij de gemeente El Verger.",
+      "overstroming": {
+        "niveau": "Gemiddeld",
+        "kleur": "amber",
+        "toelichting": "El Verger ligt nabij de monding van de Girona en de kustvlakte Las Marinas; delen kennen overstromingsgevoeligheid. Controleer de PATRICOVA-classificatie en de verzekerbaarheid van dit adres."
+      },
+      "demografie": "El Verger (ca. 5.000 inwoners) grenst aan Denia en de stranden van Las Marinas; sterke en jaarrond aanwezige verhuurvraag onder Noord-Europeanen.",
+      "ideeen": [
+        "Huursom en contract opvragen om netto rendement te bepalen",
+        "Scenario vakantieverhuur vanaf 2028 doorrekenen (met licentie)",
+        "Toetsen of lichte upgrade de huur/verkoopwaarde verhoogt"
+      ],
+      "due_diligence": [
+        "Vraag huurcontract, huursom en betalingshistorie op",
+        "Check haalbaarheid toeristische licentie bij gemeente",
+        "Controleer staat van onderhoud en gemeenschapskosten",
+        "Check PATRICOVA-classificatie en overstromingsverzekering"
+      ],
+      "eerlijk_oordeel": "Solide, rustig verhuurobject met directe inkomsten en een strandnabije ligging. Geen snelle flip, maar een stabiele hold met upside na 2028. Rendement pas te beoordelen na inzage in het huurcontract.",
+      "contact": {
+        "bron": "Kyero",
+        "telefoon": "Onbekend - via makelaar",
+        "email": "Onbekend - via makelaar",
+        "url": "https://www.kyero.com/en/property/20827068-town-house-for-sale-el-verger",
+        "referentie": "RS 6863",
+        "opmerking": "Aangeboden door Renvida"
+      },
+      "bronnen": [
+        {"titel": "Kyero - Town house for sale in El Verger (ref RS 6863)", "url": "https://www.kyero.com/en/property/20827068-town-house-for-sale-el-verger"}
+      ]
+    },
+    {
+      "id": "denia-horeca-traspaso-bar-75m2-2026-07-18",
+      "titel": "Lopende bar-cafeteria-restaurant, over te nemen (traspaso)",
+      "type": "Horeca (bedrijfsoverdracht)",
+      "type_kort": "Horeca",
+      "plaats": "Denia",
+      "regio": "Marina Alta",
+      "vraagprijs": 99000,
+      "prijs_status": "Bevestigd op advertentie",
+      "prijs_notitie": "Vraagprijs 99.000 euro (ref N7209). Let op: dit is naar alle waarschijnlijkheid een traspaso (overname van de lopende zaak plus huurrecht), geen aankoop van het vastgoed zelf. Bevestig dit expliciet bij de makelaar.",
+      "kerngegevens": [
+        {"label": "Oppervlak", "waarde": "75 m2 met terras"},
+        {"label": "Type", "waarde": "Bar-cafeteria-restaurant, volledig operationeel"},
+        {"label": "Uitrusting", "waarde": "Gemeubileerd, airco, alarm, dubbel glas, opslagruimte"},
+        {"label": "Energielabel", "waarde": "C"},
+        {"label": "Makelaar", "waarde": "Nomada Properties"}
+      ],
+      "score": 58,
+      "score_label": "Voorzichtig",
+      "strategie": "Overname van een draaiende horecazaak met bestaande klantenkring, gericht op directe exploitatie-inkomsten. Dit is een ondernemingskans, geen vastgoed-flip.",
+      "samenvatting": "Volledig operationele bar-cafeteria-restaurant van 75 m2 met terras in Denia, met jaarrond klantenkring, over te nemen voor 99.000 euro. Belangrijk: dit is vrijwel zeker een traspaso (overname zaak plus huur), dus je verwerft geen vastgoed dat je later kunt doorverkopen.",
+      "voors": [
+        "Draaiende zaak met bestaande omzet en klanten vanaf dag een",
+        "Volledig uitgerust (meubilair, airco, terras), lage opstartdrempel",
+        "Denia is een sterke, jaarrond toeristische horecamarkt",
+        "Relatief lage instapprijs voor een lopende horecazaak"
+      ],
+      "tegens": [
+        "Vrijwel zeker traspaso: geen eigendom van het pand, dus geen flip-asset",
+        "Maandelijkse huur en voorwaarden verhuurder nog onbekend",
+        "Omzet/winst niet geverifieerd - cijfers opvragen en toetsen",
+        "Past minder bij het profiel (flip/verhuur van vastgoed)"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Overnamesom (traspaso)", "waarde": "99.000 euro"},
+          {"label": "Maandhuur pand", "waarde": "onbekend - opvragen"},
+          {"label": "Jaaromzet/winst", "waarde": "onbekend - laten aantonen"},
+          {"label": "Vastgoedwaarde", "waarde": "niet van toepassing (huur, geen eigendom)"}
+        ],
+        "conclusie": "Als horeca-onderneming kan dit interessant zijn bij aantoonbare winst, maar het levert geen verhandelbaar vastgoed op. Beoordeel op basis van geverifieerde boekhouding en huurcontract, niet als flip."
+      },
+      "vergunning": "Horeca-exploitatie vereist een geldige licencia de actividad (horeca) en terrasvergunning. Controleer of deze vergunningen actueel en overdraagbaar zijn en of het huurcontract overname toestaat.",
+      "overstroming": {
+        "niveau": "Gemiddeld",
+        "kleur": "amber",
+        "toelichting": "Exacte locatie binnen Denia is niet vermeld; sommige kust- en riviernabije delen van Denia zijn overstromingsgevoelig. Controleer de PATRICOVA-classificatie van het exacte adres."
+      },
+      "demografie": "Denia (ca. 45.000 inwoners) is de hoofdstad van de Marina Alta met sterke jaarrond toeristische en lokale horecavraag, veerdienst naar Ibiza en veel internationale bezoekers.",
+      "ideeen": [
+        "Vraag boekhouding van 2-3 jaar en huurcontract op",
+        "Beoordeel of het huurcontract lang genoeg doorloopt",
+        "Toets of vergunningen overdraagbaar en actueel zijn"
+      ],
+      "due_diligence": [
+        "Bevestig of het traspaso of eigendom betreft",
+        "Controleer maandhuur, looptijd en overnamevoorwaarden",
+        "Laat omzet/winst aantonen met officiele cijfers",
+        "Check actualiteit van horeca- en terrasvergunning"
+      ],
+      "eerlijk_oordeel": "Een draaiende zaak in een sterke markt, maar het is een ondernemingsovername (traspaso), geen vastgoedinvestering. Voor het flip/verhuur-profiel is de strategische fit beperkt; alleen zinvol bij aantoonbare winst en gunstige huurvoorwaarden.",
+      "contact": {
+        "bron": "Kyero",
+        "telefoon": "Onbekend - via makelaar",
+        "email": "Onbekend - via makelaar",
+        "url": "https://www.kyero.com/en/property/20226256-commercial-property-for-sale-denia",
+        "referentie": "N7209",
+        "opmerking": "Aangeboden door Nomada Properties"
+      },
+      "bronnen": [
+        {"titel": "Kyero - Commercial property for sale in Denia (ref N7209)", "url": "https://www.kyero.com/en/property/20226256-commercial-property-for-sale-denia"}
+      ]
+    },
+    {
+      "id": "pego-bedrijfspand-nave-982m2-2026-07-18",
+      "titel": "Bedrijfshal 982 m2 met dubbele straattoegang",
+      "type": "Bedrijfspand met potentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Pego",
+      "regio": "Marina Alta",
+      "vraagprijs": 500000,
+      "prijs_status": "Bevestigd op advertentie",
+      "prijs_notitie": "Vraagprijs 500.000 euro (bovenkant budget). Prijs per m2 laag (ca. 510 euro/m2), maar het betreft industrieel/bedrijfsmatig vastgoed.",
+      "kerngegevens": [
+        {"label": "Oppervlak", "waarde": "982 m2, grotendeels diafaan"},
+        {"label": "Sanitair", "waarde": "2 badkamers"},
+        {"label": "Toegang", "waarde": "Geschikt voor vrachtwagens, nabij hoofdwegen"},
+        {"label": "Gebruik", "waarde": "Werkplaats, opslag, distributie, groothandel"},
+        {"label": "Makelaar", "waarde": "Aramar Inmobiliaria"}
+      ],
+      "score": 54,
+      "score_label": "Voorzichtig",
+      "strategie": "Aanhouden en verhuren aan een bedrijf voor stabiel rendement, of exploiteren. Herbestemming naar wonen is in Pego complex en onzeker; reken daar niet op.",
+      "samenvatting": "Ruime bedrijfshal van 982 m2 in Pego met goede vrachtwagentoegang en lage prijs per m2. Geschikt voor opslag, werkplaats of distributie. De prijs zit aan de bovenkant van het budget en herbestemming naar wonen is in Pego onzeker; overstromingsrisico vraagt aandacht.",
+      "voors": [
+        "Zeer lage prijs per m2 (ca. 510 euro/m2) voor bijna 1.000 m2",
+        "Grote diafane ruimte, flexibel voor diverse bedrijfsfuncties",
+        "Goede toegang voor vrachtwagens, nabij hoofdwegen",
+        "Kan als bedrijfsruimte verhuurd worden voor stabiel rendement"
+      ],
+      "tegens": [
+        "500.000 euro: bovenkant van het budget, weinig marge voor kosten",
+        "Herbestemming naar wonen in Pego complex en onzeker",
+        "Pego grenst aan de Marjal de Pego-Oliva: overstromingsrisico",
+        "Bedrijfsvastgoed is minder liquide; doorverkoop kan traag zijn"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "500.000 euro"},
+          {"label": "Kosten koper ITP 10 procent (ca.)", "waarde": "50.000 euro"},
+          {"label": "Prijs per m2", "waarde": "ca. 510 euro/m2"},
+          {"label": "Verhuurpotentie", "waarde": "bedrijfsverhuur - opvragen"},
+          {"label": "Herbestemming naar wonen", "waarde": "onzeker/complex"}
+        ],
+        "conclusie": "Als verhuurd bedrijfspand kan het lonen bij een goede huurder, maar de instap van 500.000 euro laat weinig ruimte. De flip-/herbestemmingscase is speculatief; alleen doorgaan met concreet huurperspectief of exploitatieplan."
+      },
+      "vergunning": "Bedrijfs-/industriele bestemming. Herbestemming naar wonen of andere functies vereist wijziging van het bestemmingsplan en is in Pego niet zonder meer haalbaar. Controleer de exacte bestemming (uso) en toegestane activiteiten bij het Ayuntamiento de Pego.",
+      "overstroming": {
+        "niveau": "Verhoogd",
+        "kleur": "amber",
+        "toelichting": "Pego ligt naast de Marjal de Pego-Oliva, een gebied met hoog overstromingsrisico dat na de DANA van oktober 2024 extra aandacht kreeg. Laat voor dit exacte perceel de PATRICOVA-classificatie en herziene risicokaarten controleren; bij ligging in of nabij de marjal is dit een rode vlag."
+      },
+      "demografie": "Pego (ca. 10.000 inwoners) is een landbouw- en verzorgingskern in het binnenland van de Marina Alta, met lokale bedrijvigheid maar een beperkte markt voor bedrijfsvastgoed.",
+      "ideeen": [
+        "Zoek eerst een concrete huurder voordat je koopt",
+        "Toets de exacte bestemming en toegestane activiteiten",
+        "Onderhandel stevig gezien de illiquiditeit van bedrijfsvastgoed"
+      ],
+      "due_diligence": [
+        "Controleer PATRICOVA en herziene DANA-overstromingskaarten",
+        "Check bestemming (uso) en herbestemmingsmogelijkheden bij gemeente",
+        "Beoordeel bouwkundige staat en eventuele achterstallige lasten",
+        "Onderzoek de lokale verhuurmarkt voor bedrijfsruimte"
+      ],
+      "eerlijk_oordeel": "Grote hal voor weinig euro per m2, maar de instap is fors, de markt voor bedrijfsvastgoed in Pego is dun en het overstromingsrisico rond de marjal is reeel. Herbestemming naar wonen is speculatief. Alleen interessant met een concreet huur- of exploitatieplan en na grondige overstromingscheck.",
+      "contact": {
+        "bron": "Fotocasa",
+        "telefoon": "Onbekend - via makelaar",
+        "email": "Onbekend - via makelaar",
+        "url": "https://www.fotocasa.es/es/comprar/local-comercial/pego/pego/189861628/d",
+        "referentie": "Fotocasa 189861628",
+        "opmerking": "Aangeboden door Aramar Inmobiliaria - Real Estate"
+      },
+      "bronnen": [
+        {"titel": "Fotocasa - Nave industrial en venta en Pego", "url": "https://www.fotocasa.es/es/comprar/naves-industriales/pego/todas-las-zonas/l"}
+      ]
+    }
+  ]
+}
