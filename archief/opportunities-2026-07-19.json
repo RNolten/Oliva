@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-19",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Aanbod deze run vooral gehaald van milanuncios (particulier en makelaar), aangevuld met marktzoekopdrachten. Focus op variatie t.o.v. eerdere runs: twee objecten in Ondara (bouwrijpe casa-solar met vergunning en instapklaar dorpshuis), een centraal te renoveren appartement in Oliva pueblo, een stedelijk bouwperceel bij Oliva Nova en een horeca-traspaso in Gandia. In de bredere regio blijft PATRICOVA-overstromingsrisico (met name de Marjal de Pego-Oliva en de na de DANA van oktober 2024 herziene kaarten) het belangrijkste aandachtspunt. Prijzen en referenties komen rechtstreeks uit de advertenties; waar iets niet met zekerheid te lezen was, is dat als onbekend gemarkeerd.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle cijfers zijn indicatief en komen uit openbare advertenties die op elk moment kunnen wijzigen of verdwijnen. Verifieer altijd zelf prijs, oppervlakte, kadaster, vergunningen (ayuntamiento), PATRICOVA-overstromingsstatus en juridische status voor aankoop. Reken zelf ITP (10%), kosten (~2%) en verbouwing (700-1100 euro/m2) door."
+  },
+  "kansen": [
+    {
+      "id": "ondara-casa-solar-vergunning-2026-07-19",
+      "titel": "Casa-solar 286 m2 met goedgekeurd project en bouwvergunning - Ondara",
+      "type": "Te flippen pand / sloop-nieuwbouw met vergunning",
+      "type_kort": "Flip-pand",
+      "plaats": "Ondara",
+      "regio": "Marina Alta",
+      "vraagprijs": 160000,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "160.000 euro vraagprijs; exclusief ITP, kosten en bouw/verbouwing.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "286 m2 (casa-solar, klaar om te herbouwen)"
+        },
+        {
+          "label": "Bijzonderheid",
+          "waarde": "Project en bouwvergunning reeds goedgekeurd"
+        },
+        {
+          "label": "Ligging perceel",
+          "waarde": "Dubbele straatzijde (twee gevels), aparte garage-toegang"
+        },
+        {
+          "label": "Extra",
+          "waarde": "Binnenpatio dat woning en garage verbindt"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "C0285"
+        }
+      ],
+      "score": 74,
+      "score_label": "Sterk",
+      "strategie": "Kopen, herbouwen op basis van het al goedgekeurde project en doorverkopen als nieuwbouwwoning; verhuur is een terugvaloptie.",
+      "samenvatting": "Bouwrijpe casa-solar in Ondara waarbij de vergunning en het project al rond zijn - dat scheelt maanden gemeentelijke procedure. Twee straatgevels en garage-toegang geven flexibiliteit. De grootste onzekerheid zit in de werkelijke bouwkosten en de verkoopwaarde in Ondara.",
+      "voors": [
+        "Vergunning en project al goedgekeurd: direct starten mogelijk, laag vergunningsrisico",
+        "Twee gevels en garage-toegang: aantrekkelijk voor eindkoper en flexibele indeling",
+        "Instapprijs 160.000 euro laat ruimte voor bouwbudget binnen het maximum",
+        "Ondara ligt centraal in de Marina Alta, dicht bij Denia en Portal de la Marina"
+      ],
+      "tegens": [
+        "Bouwkosten voor 286 m2 drukken de marge; nauwkeurige aannemersbegroting nodig",
+        "Verkoopprijzen in Ondara-centrum liggen lager dan aan de kust",
+        "Staat van de bestaande constructie (sloop vs. behoud) moet ter plaatse worden bevestigd"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop",
+            "waarde": "160.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ~2%",
+            "waarde": "ca. 19.000 euro"
+          },
+          {
+            "label": "Bouw indicatief (286 m2 x ~900/m2)",
+            "waarde": "ca. 257.000 euro"
+          },
+          {
+            "label": "Totale investering indicatief",
+            "waarde": "ca. 436.000 euro"
+          },
+          {
+            "label": "Indicatieve verkoopwaarde",
+            "waarde": "ca. 500.000-520.000 euro (bij ~1.800/m2)"
+          }
+        ],
+        "conclusie": "Op papier een marge rond 15-19%. Randje van de eigen 20%-richtlijn; staat of valt met scherpe bouwkosten en een realistische verkoopprijs in Ondara. Eerst harde aannemersofferte opvragen."
+      },
+      "vergunning": "Volgens de advertentie zijn project en bouwvergunning al verleend. Laat bij de gemeente Ondara bevestigen dat de licentie nog geldig/overdraagbaar is en welke exacte bouwenvelop (bouwvolume, hoogte) is toegestaan.",
+      "overstroming": {
+        "niveau": "Middel - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Ondara ligt in het stroomgebied van de Girona/Racons en delen van de Marina Alta zijn geraakt door de DANA van oktober 2024. Controleer de exacte PATRICOVA-classificatie van dit perceel via de gemeente/Generalitat."
+      },
+      "demografie": "Ondara (ca. 6.500-7.000 inwoners) is een groeiende dienstenkern met het winkelcentrum Portal de la Marina en goede verbinding met Denia; gestage vraag naar nieuwbouwwoningen.",
+      "ideeen": [
+        "Nieuwbouw eengezinswoning met garage en patio voor verkoop aan gezin/expat",
+        "Eventueel opsplitsen in twee eenheden als de vergunning dat toelaat",
+        "Duurzame afwerking (aerothermie, zonnepanelen) om verkoopwaarde te verhogen"
+      ],
+      "due_diligence": [
+        "Aannemersofferte voor volledige (her)bouw opvragen",
+        "Geldigheid en overdraagbaarheid van de bouwvergunning bij ayuntamiento checken",
+        "Kadaster (Catastro) en Nota Simple opvragen; controleren op lasten",
+        "PATRICOVA-overstromingsstatus verifieren"
+      ],
+      "eerlijk_oordeel": "De sterkste kans van vandaag door de al verleende vergunning, maar geen zekere winnaar: de marge is krap en hangt volledig af van de werkelijke bouwkosten en de haalbare verkoopprijs in Ondara. Alleen doorpakken met een harde begroting.",
+      "contact": {
+        "bron": "milanuncios (advertentie makelaar)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.milanuncios.com/venta-de-casas-en-ondara-alicante/ondara-604463966.htm",
+        "referentie": "C0285",
+        "opmerking": "Prijs en kenmerken zoals vermeld in de advertentie op 2026-07-19; zelf verifieren."
+      },
+      "bronnen": [
+        {
+          "titel": "Milanuncios - casa-solar Ondara ref C0285",
+          "url": "https://www.milanuncios.com/venta-de-casas-en-ondara-alicante/ondara-604463966.htm"
+        },
+        {
+          "titel": "Milanuncios - overzicht casas Ondara",
+          "url": "https://www.milanuncios.com/venta-de-casas-en-ondara-alicante/"
+        }
+      ]
+    },
+    {
+      "id": "oliva-pueblo-piso-118m2-2026-07-19",
+      "titel": "Ruim centraal appartement 118 m2 om op te knappen - Oliva pueblo",
+      "type": "Te flippen / op te knappen appartement",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (pueblo, nabij Conservatori/Mercadona)",
+      "regio": "La Safor",
+      "vraagprijs": 149000,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "149.000 euro; ca. 1.263 euro/m2, onder het gemiddelde voor gerenoveerd in Oliva pueblo.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "118 m2 bouwoppervlak"
+        },
+        {
+          "label": "Indeling",
+          "waarde": "4 slaapkamers, 1 badkamer"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Centraal, bij nieuwe uitbreidingszone, Conservatori en Mercadona"
+        },
+        {
+          "label": "Extra",
+          "waarde": "Prive-berging op gemeenschappelijk dakterras; gratis buurtparkeren"
+        },
+        {
+          "label": "Aandachtspunt",
+          "waarde": "Tweede verdieping zonder lift"
+        }
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Licht tot gemiddeld renoveren en doorverkopen of aanhouden voor verhuur aan gezin/vaste huurder.",
+      "samenvatting": "Groot 4-kamerappartement in een goede, centrale zone van Oliva pueblo (buiten het casco historico - een positief signaal uit het profiel). Prijs per m2 ligt aantrekkelijk, maar het ontbreken van een lift en een dunne flipmarge maken het eerder een verhuur- dan een pure flipkans.",
+      "voors": [
+        "Lage prijs per m2 (~1.263 euro) in een gewilde, centrale zone",
+        "Buiten casco historico: haalbaardere renovatie, minder vochtrisico",
+        "Ruime plattegrond (118 m2, 4 slaapkamers) met extra berging",
+        "Dichtbij voorzieningen; strand op ca. 5 min met de auto"
+      ],
+      "tegens": [
+        "Tweede verdieping zonder lift beperkt verkoop- en huurdoelgroep",
+        "Flipmarge is dun: gerenoveerde verkoopprijzen in de pueblo (~1.500-1.800/m2) laten weinig ruimte na kosten",
+        "Slechts 1 badkamer; renovatie moet mogelijk een tweede toevoegen"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop",
+            "waarde": "149.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ~2%",
+            "waarde": "ca. 18.000 euro"
+          },
+          {
+            "label": "Renovatie indicatief (opfris/midden)",
+            "waarde": "ca. 30.000-50.000 euro"
+          },
+          {
+            "label": "Totale investering indicatief",
+            "waarde": "ca. 197.000-217.000 euro"
+          },
+          {
+            "label": "Indicatieve verkoopwaarde",
+            "waarde": "ca. 190.000-210.000 euro (118 m2 x ~1.600-1.800)"
+          }
+        ],
+        "conclusie": "Als pure flip is de marge krap tot negatief bij een volledige renovatie. Sterker als buy-to-rent: 4 slaapkamers centraal leveren een redelijk bruto huurrendement. Reken beide scenario's scherp door."
+      },
+      "vergunning": "Bestaande woning, geen splitsing nodig, dus vergunningstechnisch eenvoudig voor een renovatie. Voor structurele ingrepen een obra-vergunning bij de gemeente Oliva aanvragen.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Ligging in het stedelijk centrum van Oliva pueblo, weg van de Marjal de Pego-Oliva; overstromingsrisico doorgaans laag. Bevestig via PATRICOVA."
+      },
+      "demografie": "Oliva pueblo heeft een stabiele lokale woningmarkt; de zone rond Conservatori/Mercadona is in trek bij gezinnen door voorzieningen en parkeergemak.",
+      "ideeen": [
+        "Moderniseren tot 3 slaapkamers + 2 badkamers voor bredere verkoopmarkt",
+        "Aanhouden en langjarig verhuren aan lokaal gezin",
+        "Berging op dakterras benadrukken als extra verkoopargument"
+      ],
+      "due_diligence": [
+        "Bouwkundige staat en vocht controleren",
+        "Vergelijkbare gerenoveerde verkopen in dezelfde straat/zone opvragen",
+        "Huurpotentieel (maandhuur) lokaal toetsen",
+        "Gemeenschapskosten en staat van het gebouw checken"
+      ],
+      "eerlijk_oordeel": "Nette, betaalbare kans met een goede locatie, maar geen uitgesproken flipwinst. De business case is het sterkst als verhuurobject; als flip is de marge te dun om enthousiast van te worden.",
+      "contact": {
+        "bron": "milanuncios (advertentie makelaar)",
+        "telefoon": "696 01 39 83 (zoals vermeld in advertentie, commercial Yulia)",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.milanuncios.com/venta-de-pisos-en-oliva-valencia/oliva-598024115.htm",
+        "referentie": "D2571",
+        "opmerking": "Telefoonnummer letterlijk uit de advertentie overgenomen; zelf verifieren."
+      },
+      "bronnen": [
+        {
+          "titel": "Milanuncios - piso Oliva ref D2571",
+          "url": "https://www.milanuncios.com/venta-de-pisos-en-oliva-valencia/oliva-598024115.htm"
+        },
+        {
+          "titel": "Milanuncios - overzicht pisos Oliva",
+          "url": "https://www.milanuncios.com/venta-de-pisos-en-oliva-valencia/"
+        }
+      ]
+    },
+    {
+      "id": "oliva-nova-solar-urbano-2026-07-19",
+      "titel": "Stedelijk bouwperceel 418 m2 nabij golf Oliva Nova",
+      "type": "Bouwgrond (suelo urbano)",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (nabij Oliva Nova, dicht bij strand)",
+      "regio": "La Safor",
+      "vraagprijs": 480000,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "480.000 euro; ca. 1.148 euro/m2. Bovenkant van het budget.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte perceel",
+          "waarde": "418 m2 (suelo urbano)"
+        },
+        {
+          "label": "Bouwmogelijkheid",
+          "waarde": "Gebouw tot 5 bouwlagen; edificabilidad ~0,827 m2/m2 volgens advertentie"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Zeer dicht bij golf Oliva Nova en strand"
+        },
+        {
+          "label": "Parkeren",
+          "waarde": "1 parkeerplaats per 150 m2 bebouwing verplicht"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "VV2210030 / AICAT 8446"
+        }
+      ],
+      "score": 52,
+      "score_label": "Voorzichtig",
+      "strategie": "Ontwikkelperceel: appartementen bouwen en verkopen (promotor-aanpak) of doorverkopen aan een ontwikkelaar. Niet geschikt voor verhuur op korte termijn.",
+      "samenvatting": "Stedelijk bouwperceel in een gewilde kustzone bij Oliva Nova met vergunbare bouwenvelop voor meerdere appartementen. De vraag in deze zone is sterk, maar 480.000 euro voor de grond alleen betekent een omvangrijk ontwikkelproject - meer promotor dan klassieke flip, met bijbehorend kapitaal- en overstromingsrisico.",
+      "voors": [
+        "Suelo urbano met concrete bouwenvelop (tot 5 lagen): duidelijk ontwikkelpotentieel",
+        "Toplocatie qua vraag: dichtbij golf, jachthaven en strand van Oliva Nova",
+        "Advertentie meldt sterke verkoop van vergelijkbare nieuwbouw in de omgeving"
+      ],
+      "tegens": [
+        "480.000 euro is alleen de grond: totaal ontwikkelbudget ligt ruim boven het profielmaximum",
+        "Ontwikkelproject vraagt promotor-kennis, kapitaal en langere doorlooptijd",
+        "Kustnabije ligging: hoger PATRICOVA-aandachtspunt, verifieren",
+        "Weinig onderhandelruimte gesuggereerd; grond genereert geen inkomsten tot verkoop"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop grond",
+            "waarde": "480.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ~2%",
+            "waarde": "ca. 58.000 euro"
+          },
+          {
+            "label": "Bouwkosten volledig project",
+            "waarde": "hoog - buiten profielbudget bij eigen ontwikkeling"
+          },
+          {
+            "label": "Kapitaalbehoefte",
+            "waarde": "aanzienlijk; financiering/partner waarschijnlijk nodig"
+          }
+        ],
+        "conclusie": "Financieel het minst passend bij een individuele flip/hold-strategie: de grondprijs alleen slokt bijna het volledige budget op, terwijl de bouw nog moet komen. Alleen interessant als promotor of doorverkoop aan ontwikkelaar met marge."
+      },
+      "vergunning": "Suelo urbano met gedefinieerde edificabilidad; principieel bebouwbaar. Exacte bouwparameters, verplichte parkeerplaatsen en projectvergunning bij de gemeente Oliva laten bevestigen voordat je rekent.",
+      "overstroming": {
+        "niveau": "Middel - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Oliva Nova ligt in de kustvlakte ten zuiden van Oliva, in de bredere invloedssfeer van de Marjal de Pego-Oliva. Kust- en marjalnabije percelen kennen hoger overstromingsrisico; controleer de PATRICOVA-kaart en post-DANA herzieningen nauwkeurig."
+      },
+      "demografie": "Oliva Nova is een internationaal georienteerde toeristische/golfzone met sterke vraag naar tweede woningen; goede verkoopmarkt voor kwalitatieve nieuwbouwappartementen.",
+      "ideeen": [
+        "Klein appartementencomplex bouwen en per unit verkopen",
+        "Grond doorverkopen aan een ontwikkelaar met opslag",
+        "Joint venture met bouwer/investeerder om kapitaalrisico te spreiden"
+      ],
+      "due_diligence": [
+        "Exacte edificabilidad, bouwlagen en parkeernorm bij gemeente bevestigen",
+        "PATRICOVA-overstromingsstatus grondig controleren (kustnabij)",
+        "Haalbaarheidsberekening met actuele bouwkosten en verkoopprijzen per m2",
+        "Financierings-/partnerstructuur uitwerken gezien kapitaalbehoefte"
+      ],
+      "eerlijk_oordeel": "Interessante locatie, maar voor een individuele flipper eerlijk gezegd te groot en te duur: dit is een ontwikkelproject, geen behapbare flip. Alleen serieus als je promotor wilt spelen of een concrete doorverkoop ziet.",
+      "contact": {
+        "bron": "milanuncios (advertentie makelaar aProperties)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.milanuncios.com/solares-en-oliva-valencia/oliva-481175495.htm",
+        "referentie": "VV2210030",
+        "opmerking": "Bouwparameters zoals door adverteerder vermeld; zelf bij gemeente verifieren."
+      },
+      "bronnen": [
+        {
+          "titel": "Milanuncios - solar urbano Oliva ref VV2210030",
+          "url": "https://www.milanuncios.com/solares-en-oliva-valencia/oliva-481175495.htm"
+        },
+        {
+          "titel": "Milanuncios - overzicht terrenos Oliva",
+          "url": "https://www.milanuncios.com/terrenos-en-oliva-valencia/"
+        }
+      ]
+    },
+    {
+      "id": "ondara-dorpshuis-gerenoveerd-2026-07-19",
+      "titel": "Instapklaar gerenoveerd dorpshuis 224 m2 - centrum Ondara",
+      "type": "Instapklaar verhuur-/woonobject",
+      "type_kort": "Verhuur",
+      "plaats": "Ondara (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 340000,
+      "prijs_status": "Vraagprijs uit advertentie",
+      "prijs_notitie": "340.000 euro; volledig gerenoveerd, weinig extra investering nodig.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "224 m2 bouwoppervlak"
+        },
+        {
+          "label": "Indeling",
+          "waarde": "4 slaapkamers, 2 badkamers, Amerikaanse keuken"
+        },
+        {
+          "label": "Buitenruimte",
+          "waarde": "Terras van 44 m2"
+        },
+        {
+          "label": "Staat",
+          "waarde": "Nieuwe elektra en water, Climalit-ramen, airco"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "CPJL-340"
+        }
+      ],
+      "score": 57,
+      "score_label": "Voorzichtig",
+      "strategie": "Aanhouden voor (langjarige) verhuur; instapklaar dus nauwelijks flipwinst.",
+      "samenvatting": "Volledig gerenoveerd, ruim dorpshuis in het centrum van Ondara. Omdat het al is opgeknapt, ontbreekt de klassieke flipmarge - het is vooral een instapklaar verhuur- of woonobject. De vraagprijs is aan de hoge kant voor Ondara-centrum.",
+      "voors": [
+        "Instapklaar: nieuwe installaties, geen renovatierisico of -kosten",
+        "Ruim (224 m2) met 4 slaapkamers en groot terras: geschikt voor gezinsverhuur",
+        "Centrale ligging met voorzieningen op loopafstand"
+      ],
+      "tegens": [
+        "Geen flipmarge: object is al gerenoveerd, waarde grotendeels verzilverd door verkoper",
+        "340.000 euro is relatief hoog voor Ondara-centrum",
+        "Rendement uit verhuur is gematigd t.o.v. de aankoopprijs"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Aankoop",
+            "waarde": "340.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ~2%",
+            "waarde": "ca. 41.000 euro"
+          },
+          {
+            "label": "Totale investering indicatief",
+            "waarde": "ca. 381.000 euro"
+          },
+          {
+            "label": "Indicatieve maandhuur",
+            "waarde": "ca. 1.000-1.200 euro (te toetsen)"
+          },
+          {
+            "label": "Indicatief bruto huurrendement",
+            "waarde": "ca. 3-4%"
+          }
+        ],
+        "conclusie": "Als flip ongeschikt (geen opknapmarge). Als buy-to-hold matig: het bruto rendement is bescheiden tegenover de aankoopprijs. Onderhandeling op de prijs is bepalend voor de aantrekkelijkheid."
+      },
+      "vergunning": "Bestaande, gerenoveerde woning; vergunningstechnisch geen bijzonderheden. Voor toeristische verhuur zou een licencia turistica nodig zijn - navragen bij gemeente/Generalitat.",
+      "overstroming": {
+        "niveau": "Middel - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Ondara-centrum ligt in het stroomgebied van de Girona; delen van de Marina Alta zijn geraakt door de DANA van oktober 2024. Controleer de PATRICOVA-status van dit adres."
+      },
+      "demografie": "Ondara heeft een stabiele lokale huurvraag en profiteert van nabijheid van Denia en het winkelcentrum Portal de la Marina.",
+      "ideeen": [
+        "Langjarige verhuur aan lokaal gezin",
+        "Onderzoeken of (deel)toeristische verhuur is toegestaan voor hoger rendement",
+        "Scherp onderhandelen om instaprendement te verbeteren"
+      ],
+      "due_diligence": [
+        "Reele lokale maandhuur toetsen",
+        "Onderhandelingsruimte op de vraagprijs verkennen",
+        "Kwaliteit van de renovatie en garanties op installaties controleren",
+        "PATRICOVA-overstromingsstatus verifieren"
+      ],
+      "eerlijk_oordeel": "Mooi afgewerkt huis, maar als investering nuchter bekeken matig: de verkoper heeft de opknapwaarde al te gelde gemaakt en het huurrendement is bescheiden. Alleen interessant bij een flinke prijsconcessie.",
+      "contact": {
+        "bron": "milanuncios (advertentie makelaar)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.milanuncios.com/venta-de-casas-en-ondara-alicante/ondara-599928444.htm",
+        "referentie": "CPJL-340",
+        "opmerking": "Kenmerken zoals vermeld in de advertentie op 2026-07-19; zelf verifieren."
+      },
+      "bronnen": [
+        {
+          "titel": "Milanuncios - dorpshuis Ondara ref CPJL-340",
+          "url": "https://www.milanuncios.com/venta-de-casas-en-ondara-alicante/ondara-599928444.htm"
+        },
+        {
+          "titel": "Milanuncios - overzicht casas Ondara",
+          "url": "https://www.milanuncios.com/venta-de-casas-en-ondara-alicante/"
+        }
+      ]
+    },
+    {
+      "id": "gandia-traspaso-bar-sanblas-2026-07-19",
+      "titel": "Traspaso bar 300 m2 in zone San Blas - Gandia",
+      "type": "Horeca (traspaso, huurpand)",
+      "type_kort": "Horeca",
+      "plaats": "Gandia (zone San Blas)",
+      "regio": "La Safor",
+      "vraagprijs": 95000,
+      "prijs_status": "Traspaso-prijs uit advertentie",
+      "prijs_notitie": "95.000 euro traspaso (overname goodwill/inventaris); pand is HUUR, geen eigendom. Huur ca. 1.500 euro/maand.",
+      "kerngegevens": [
+        {
+          "label": "Type transactie",
+          "waarde": "Traspaso (overname lopend/ingericht bedrijf), geen aankoop vastgoed"
+        },
+        {
+          "label": "Oppervlakte",
+          "waarde": "300 m2"
+        },
+        {
+          "label": "Maandhuur",
+          "waarde": "ca. 1.500 euro"
+        },
+        {
+          "label": "Indeling",
+          "waarde": "4 ruimtes, apart salon met terras, grote keuken, 2 badkamers"
+        },
+        {
+          "label": "Zone",
+          "waarde": "San Blas, Gandia"
+        }
+      ],
+      "score": 55,
+      "score_label": "Voorzichtig",
+      "strategie": "Horeca-exploitatie of doorverhuur van een lopend bar-concept; dit is een business-overname, geen vastgoedflip.",
+      "samenvatting": "Traspaso van een bar van 300 m2 in de zone San Blas in Gandia, met terras en volledige keuken. Belangrijk: je koopt hier de goodwill/inventaris en neemt een huurcontract over (ca. 1.500 euro/maand) - je wordt geen eigenaar van het pand. Past dus niet in een flip- of vermogensopbouwstrategie via vastgoed, maar kan interessant zijn als horeca-onderneming.",
+      "voors": [
+        "Lage instap (95.000 euro) voor een ingerichte zaak van 300 m2 met terras",
+        "Bestaande horeca-inrichting en (te verifieren) vergunning bespaart opstartkosten",
+        "Gandia heeft sterke lokale en toeristische horecavraag"
+      ],
+      "tegens": [
+        "Geen eigendom: je koopt goodwill en neemt huur over - geen vastgoed-vermogensopbouw of flip",
+        "Maandhuur van 1.500 euro drukt op de exploitatie",
+        "Advertentie geeft weinig details (omzet, contractduur, staat vergunning onbekend)",
+        "Buiten de kern rond Oliva; Gandia-stad, ander marktprofiel"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Traspaso (overname)",
+            "waarde": "95.000 euro"
+          },
+          {
+            "label": "Maandhuur",
+            "waarde": "ca. 1.500 euro (18.000 euro/jaar)"
+          },
+          {
+            "label": "Eigendom",
+            "waarde": "Nee - huurpand"
+          },
+          {
+            "label": "Omzet/winst",
+            "waarde": "Onbekend - opvragen"
+          }
+        ],
+        "conclusie": "Financieel niet te beoordelen zonder omzet- en winstcijfers en de contractvoorwaarden. Als vastgoedinvestering ongeschikt (geen eigendom); als horeca-onderneming alleen na inzage in de boeken en het huurcontract."
+      },
+      "vergunning": "Bij een traspaso is de bestaande horeca-/openingsvergunning (licencia de actividad) vaak het waardevolste onderdeel. Laat bevestigen dat de licentie geldig en overdraagbaar is en of terrasvergunning is inbegrepen.",
+      "overstroming": {
+        "niveau": "Middel - te verifieren",
+        "kleur": "amber",
+        "toelichting": "Delen van Gandia zijn gevoelig voor wateroverlast; San Blas ligt in de stad. Voor een huurpand is dit minder bepalend, maar controleer de PATRICOVA-status voor de volledigheid."
+      },
+      "demografie": "Gandia (ca. 75.000 inwoners, sterk groeiend in zomer door Playa de Gandia) heeft een levendige horecamarkt met veel voetgangersverkeer.",
+      "ideeen": [
+        "Bestaand bar-concept voortzetten en optimaliseren",
+        "Herpositioneren naar tapas/ontbijt afhankelijk van locatie en publiek",
+        "Alleen doen na inzage boekhouding en huurcontract"
+      ],
+      "due_diligence": [
+        "Omzet- en winstcijfers van minimaal 2 jaar opvragen",
+        "Huurcontract: resterende looptijd, indexatie, borg en overdraagbaarheid",
+        "Geldigheid en overdracht van licencia de actividad en terrasvergunning",
+        "Staat van keuken/installaties en eventuele achterstallige lasten"
+      ],
+      "eerlijk_oordeel": "Eerlijk gezegd de minst passende kans bij het profiel: dit is een horeca-overname van een huurpand, geen vastgoed dat je kunt flippen of dat vermogen opbouwt. Alleen relevant als de broer bewust een lopende zaak wil runnen - en dan pas na grondige inzage in cijfers en contract. Opgenomen voor variatie, met dit voorbehoud.",
+      "contact": {
+        "bron": "milanuncios (traspaso-advertentie)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.milanuncios.com/otros-traspasos/gandia-605480697.htm",
+        "referentie": "Bar Gandia / San Blas",
+        "opmerking": "Beperkte informatie in de advertentie; omzet, contract en vergunning zelf opvragen."
+      },
+      "bronnen": [
+        {
+          "titel": "Milanuncios - traspaso bar Gandia",
+          "url": "https://www.milanuncios.com/otros-traspasos/gandia-605480697.htm"
+        },
+        {
+          "titel": "Milanuncios - overzicht traspasos Gandia",
+          "url": "https://www.milanuncios.com/traspasos-en-gandia-valencia/"
+        }
+      ]
+    }
+  ]
+}
