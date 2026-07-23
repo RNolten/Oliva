@@ -1,0 +1,557 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-22",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Deze run is bewust gespreid over verse plaatsen in La Safor (Piles, Daimus, Miramar, Gandia en La Font d'en Carros) om variatie te houden ten opzichte van de recente Oliva/Denia/Pedreguer-runs. Op meerdere panden zijn prijsverlagingen zichtbaar (Piles -16.000 euro, Gandia centrum -6 procent), wat wijst op onderhandelruimte in een krappe maar afkoelende markt. Prijzen komen rechtstreeks van fotocasa en van makelaar Grupo Corral (Gandia) en zijn geverifieerd op de advertentiepagina. Let bij alles op de PATRICOVA-overstromingskaarten (herzien na de DANA van oktober 2024) en op aankoopkosten: ITP 10 procent, notaris/register circa 2 procent, renovatie 700-1.100 euro/m2 en bij nieuwbouw ICIO circa 4 procent.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Cijfers zijn indicatief en overgenomen uit openbare advertenties op de peildatum. Verifieer prijs, oppervlakte, bestemming, vergunningen en overstromingszone altijd zelf voor je een bod doet."
+  },
+  "kansen": [
+    {
+      "id": "piles-adosada-250m2-2026-07-22",
+      "titel": "Ruime adosada 250 m2 in Piles - prijs verlaagd naar 159.000 euro",
+      "type": "Te flippen woonhuis (casa adosada)",
+      "type_kort": "Flip-pand",
+      "plaats": "Piles (kern, nabij strand)",
+      "regio": "La Safor",
+      "vraagprijs": 159000,
+      "prijs_status": "Actueel op fotocasa (peildatum 22-07-2026)",
+      "prijs_notitie": "Vraagprijs verlaagd met 16.000 euro volgens de advertentie; wijst op onderhandelruimte.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "250 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "5"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "2"
+        },
+        {
+          "label": "Prijs per m2",
+          "waarde": "ca. 636 euro/m2"
+        },
+        {
+          "label": "Staat",
+          "waarde": "Niet gemeubileerd; renovatiegraad te bevestigen"
+        }
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Groot pand tegen zeer lage prijs per m2. Kansrijk als je met een gerichte (deel)renovatie naar een familiewoning voor de doorverkoop gaat, of als verhuurpand door de omvang. Let op: bij een volledige renovatie van 250 m2 lopen de kosten hard op, dus reken de business case scherp door.",
+      "samenvatting": "Grote rijwoning van 250 m2 met 5 slaapkamers in de kern van Piles, een kustdorp net ten noorden van Oliva. De prijs is recent met 16.000 euro verlaagd naar 159.000 euro, wat neerkomt op circa 636 euro/m2 - ruim onder het regiogemiddelde voor te renoveren objecten.",
+      "voors": [
+        "Zeer lage prijs per m2 (ca. 636 euro/m2)",
+        "Recente prijsverlaging van 16.000 euro: onderhandelruimte",
+        "Groot volume (250 m2) biedt flexibiliteit: familiewoning of opdeling in wooneenheden mits toegestaan",
+        "Piles ligt dicht bij het strand en tussen Oliva en Gandia: stabiele vraag"
+      ],
+      "tegens": [
+        "Bij 250 m2 kan een volledige renovatie 175.000-275.000 euro kosten (700-1.100 euro/m2): marge onder druk",
+        "Exacte bouwkundige staat en eventueel vochtprobleem niet uit de advertentie te bevestigen",
+        "Grote panden zijn minder liquide in de doorverkoop dan compacte woningen"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "159.000 euro"
+          },
+          {
+            "label": "ITP (10%)",
+            "waarde": "ca. 15.900 euro"
+          },
+          {
+            "label": "Notaris/register (ca. 2%)",
+            "waarde": "ca. 3.180 euro"
+          },
+          {
+            "label": "Renovatie-indicatie (250 m2)",
+            "waarde": "175.000-275.000 euro bij volledige aanpak"
+          },
+          {
+            "label": "Indicatieve verkoop gerenoveerd",
+            "waarde": "ca. 1.200-1.400 euro/m2 in Piles"
+          }
+        ],
+        "conclusie": "De marge is sterk afhankelijk van de renovatiediepte. Alleen bij een beperkte, gerichte opknapbeurt (niet volledig strippen) of bij een hold/verhuur-strategie is de business case aantrekkelijk. Bij volledige renovatie is de marge dun."
+      },
+      "vergunning": "Bestaande woning met woonbestemming; standaard vergunningstraject voor renovatie. Eventuele opdeling in meerdere wooneenheden is niet gegarandeerd toegestaan - vooraf toetsen bij de gemeente Piles.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "Piles ligt op de kustvlakte van La Safor. De dorpskern ligt hoger dan de kuststrook, maar controleer de PATRICOVA-kaart (herzien na de DANA van oktober 2024) voor dit exacte perceel."
+      },
+      "demografie": "Piles is een klein kustdorp (circa 2.900 inwoners) met een sterk seizoensgebonden karakter en een toenemende belangstelling van buitenlandse kopers. Tussen Oliva en Gandia gelegen.",
+      "ideeen": [
+        "Gerichte cosmetische opknapbeurt en doorverkoop als ruime familiewoning",
+        "Splitsen in twee eenheden mits vergunbaar: een voor verkoop, een voor verhuur",
+        "Langdurige verhuur aan een gezin gezien de omvang"
+      ],
+      "due_diligence": [
+        "Bouwkundige keuring: fundering, vocht, dak",
+        "Nota simple bij het Registro de la Propiedad opvragen",
+        "Toetsen of opdeling in meerdere eenheden is toegestaan",
+        "PATRICOVA-overstromingszone controleren"
+      ],
+      "eerlijk_oordeel": "Op prijs per m2 een opvallende kans, maar de omvang is tegelijk het grootste risico: renovatiekosten schalen mee en grote panden verkopen trager. Interessant als hold/verhuur of bij lichte renovatie, minder als klassieke snelle flip.",
+      "contact": {
+        "bron": "fotocasa (makelaar Ikami)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend",
+        "url": "https://www.fotocasa.es/es/comprar/vivienda/piles/no-amueblado/187894086/d",
+        "referentie": "fotocasa 187894086",
+        "opmerking": "Vraagprijs recent verlaagd; renovatiegraad navragen bij makelaar."
+      },
+      "bronnen": [
+        {
+          "titel": "fotocasa - Casa adosada Piles (ref 187894086)",
+          "url": "https://www.fotocasa.es/es/comprar/vivienda/piles/no-amueblado/187894086/d"
+        },
+        {
+          "titel": "fotocasa - aanbod Piles",
+          "url": "https://www.fotocasa.es/es/comprar/viviendas/piles/todas-las-zonas/l"
+        }
+      ]
+    },
+    {
+      "id": "daimus-playa-apto-50m2-2026-07-22",
+      "titel": "Instapklaar strandappartement 50 m2 met zwembad in Daimus Playa",
+      "type": "Instapklaar verhuurobject",
+      "type_kort": "Verhuur",
+      "plaats": "Daimus (Playa de Daimus)",
+      "regio": "La Safor",
+      "vraagprijs": 139000,
+      "prijs_status": "Actueel op makelaarssite Grupo Corral (peildatum 22-07-2026)",
+      "prijs_notitie": "Vaste vraagprijs; site biedt optie om een tegenbod te doen.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "50 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "1"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "1"
+        },
+        {
+          "label": "Bouwjaar",
+          "waarde": "1991"
+        },
+        {
+          "label": "Staat",
+          "waarde": "Gerenoveerd (refurbished)"
+        },
+        {
+          "label": "Extra",
+          "waarde": "Lift, gemeenschappelijk zwembad, buitenkant, uitgeruste keuken"
+        }
+      ],
+      "score": 67,
+      "score_label": "Interessant",
+      "strategie": "Zuivere verhuurcase: instapklaar, gerenoveerd, met zwembad en lift op loopafstand van het strand. Direct verhuurbaar als vakantieappartement zonder investering vooraf. Weinig flipmarge, maar sterk verhuurpotentieel.",
+      "samenvatting": "Gerenoveerd appartement van 50 m2 in Playa de Daimus, een populair familiestrand bij Gandia. Met lift, gemeenschappelijk zwembad en uitgeruste keuken is het direct verhuurklaar. Vraagprijs 139.000 euro (circa 2.780 euro/m2).",
+      "voors": [
+        "Instapklaar en gerenoveerd: geen renovatierisico of -kosten",
+        "Zwembad, lift en strandligging: sterke vakantieverhuurvraag",
+        "Lage instapprijs in absolute zin (139.000 euro)",
+        "Laag onderhoud en makkelijk te beheren als verhuurunit"
+      ],
+      "tegens": [
+        "Prijs per m2 (ca. 2.780 euro) ligt al dicht bij marktniveau: weinig flipmarge",
+        "Klein (50 m2, 1 slaapkamer): beperkt doorverkooppubliek",
+        "Vakantieverhuurvergunning (licencia turistica) vereist voor korte verhuur - vooraf checken"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "139.000 euro"
+          },
+          {
+            "label": "ITP (10%)",
+            "waarde": "ca. 13.900 euro"
+          },
+          {
+            "label": "Notaris/register (ca. 2%)",
+            "waarde": "ca. 2.780 euro"
+          },
+          {
+            "label": "Renovatie",
+            "waarde": "geen (instapklaar)"
+          },
+          {
+            "label": "Totale investering",
+            "waarde": "ca. 155.700 euro"
+          }
+        ],
+        "conclusie": "Als verhuurobject aantrekkelijk door directe inzetbaarheid en strandligging. Bereken het nettorendement op basis van realistische bezetting; als flip is de marge te dun omdat de prijs al marktconform is."
+      },
+      "vergunning": "Bestaand, gerenoveerd appartement. Voor toeristische korte verhuur is een licencia turistica van de Generalitat Valenciana en akkoord van de VvE (comunidad) nodig. Langdurige verhuur kan direct.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "Playa de Daimus ligt op de kustvlakte vlak bij zee. Controleer de PATRICOVA-kaart; kuststroken in La Safor kennen aandachtszones, mede door de herziening na de DANA van oktober 2024."
+      },
+      "demografie": "Daimus (circa 3.000 inwoners) heeft een klein dorp landinwaarts en een drukke strandzone die in de zomer sterk in trek is bij Spaanse en buitenlandse vakantiegangers. Nabij Gandia.",
+      "ideeen": [
+        "Vakantieverhuur in het hoogseizoen, langere verhuur in het laagseizoen",
+        "Meubelupgrade voor hogere nachtprijs",
+        "Doorverkoop aan een buitenlandse koper die een instapklaar tweede huis zoekt"
+      ],
+      "due_diligence": [
+        "VvE-lasten (gastos de comunidad) en staat van het gebouw opvragen",
+        "Mogelijkheid en kosten van licencia turistica checken",
+        "Nota simple controleren op lasten",
+        "PATRICOVA-overstromingszone controleren"
+      ],
+      "eerlijk_oordeel": "Een nette, risicoarme verhuurkans zonder renovatiegedoe, maar de flipmarge is beperkt omdat je vrijwel op marktprijs instapt. Waarde zit in het verhuurrendement, niet in snelle doorverkoopwinst.",
+      "contact": {
+        "bron": "Grupo Corral Inmobiliaria (Gandia)",
+        "telefoon": "622 61 00 18",
+        "email": "onbekend",
+        "url": "https://www.grupocorralinmobiliaria.com/ficha/apartment/daimus/playa-daimus/10886/29586819/en/",
+        "referentie": "Grupo Corral 179640",
+        "opmerking": "Site biedt de optie een tegenbod (propose a price) te doen."
+      },
+      "bronnen": [
+        {
+          "titel": "Grupo Corral - Appartement Daimus Playa (ref 179640)",
+          "url": "https://www.grupocorralinmobiliaria.com/ficha/apartment/daimus/playa-daimus/10886/29586819/en/"
+        }
+      ]
+    },
+    {
+      "id": "miramar-bouwgrond-602m2-2026-07-22",
+      "titel": "Stedelijk bouwperceel 602 m2 in strandzone Miramar",
+      "type": "Bouwgrond (suelo urbano)",
+      "type_kort": "Bouwgrond",
+      "plaats": "Miramar (Costa de Valencia, strandzone)",
+      "regio": "La Safor",
+      "vraagprijs": 176800,
+      "prijs_status": "Actueel op makelaarssite Grupo Corral (peildatum 22-07-2026)",
+      "prijs_notitie": "Vaste vraagprijs; tegenbod mogelijk via de site.",
+      "kerngegevens": [
+        {
+          "label": "Perceeloppervlak",
+          "waarde": "602 m2"
+        },
+        {
+          "label": "Bestemming",
+          "waarde": "Stedelijk perceel (urban plot), regime libre"
+        },
+        {
+          "label": "Prijs per m2 grond",
+          "waarde": "ca. 294 euro/m2"
+        },
+        {
+          "label": "Zone",
+          "waarde": "Costa de Valencia (strandzone Miramar)"
+        }
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Bouwperceel in een gewilde strandzone. Waarde ontstaat door zelf te ontwikkelen (villa bouwen en verkopen) of het perceel met een uitgewerkt bouwplan door te verkopen. Kapitaalintensiever en met meer doorlooptijd dan een bestaand pand.",
+      "samenvatting": "Stedelijk bouwperceel van 602 m2 in de strandzone van Miramar, bij Gandia. Vraagprijs 176.800 euro, circa 294 euro/m2 grond. Als suelo urbano in principe bebouwbaar, wat het onderscheidt van (waardeloze) rustieke grond.",
+      "voors": [
+        "Stedelijke bestemming (urbano): in beginsel bebouwbaar, geen rustieke grond",
+        "Strandzone Miramar: hoge eindwaarde voor nieuwbouwvilla's (ca. 3.000-4.000 euro/m2 woning)",
+        "Relatief lage grondprijs per m2",
+        "Ruim perceel (602 m2) met ontwikkelflexibiliteit"
+      ],
+      "tegens": [
+        "Ontwikkelen vergt fors kapitaal, tijd en bouwkennis",
+        "Kustnabijheid: mogelijke beperkingen door Ley de Costas en overstromingsnormen",
+        "Bouwvergunning, ICIO (ca. 4%) en aansluitkosten komen bovenop de grondprijs",
+        "Exacte bebouwingsindex (edificabilidad) en setbacks nog te bevestigen"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs grond",
+            "waarde": "176.800 euro"
+          },
+          {
+            "label": "ITP (10%)",
+            "waarde": "ca. 17.680 euro"
+          },
+          {
+            "label": "Bouwkosten indicatie",
+            "waarde": "afhankelijk van programma; villa al snel 250.000+ euro"
+          },
+          {
+            "label": "ICIO bouwbelasting (ca. 4%)",
+            "waarde": "over bouwsom"
+          },
+          {
+            "label": "Indicatieve eindwaarde",
+            "waarde": "ca. 3.000-4.000 euro/m2 woning in strandzone"
+          }
+        ],
+        "conclusie": "Potentieel goede marge bij zelfontwikkeling in een sterke strandmarkt, maar alleen voor wie het bouwtraject aandurft. Voor een pure flipper is een uitgewerkt project doorverkopen aan een ontwikkelaar het meest realistisch."
+      },
+      "vergunning": "Suelo urbano is in principe bebouwbaar, maar toets vooraf de bebouwingsindex, hoogte en setbacks bij de gemeente Miramar en bevestig of er kust-/overstromingsbeperkingen gelden. Bouwvergunning en ICIO (ca. 4%) vereist.",
+      "overstroming": {
+        "niveau": "Aandacht - kustvlakte",
+        "kleur": "amber",
+        "toelichting": "De strandzone van Miramar ligt op de vlakke kustvlakte. Overstromingsnormen (PATRICOVA, herzien na de DANA van oktober 2024) kunnen de bebouwing en vloerpeilen beinvloeden. Verificatie is hier essentieel voor je koopt."
+      },
+      "demografie": "Miramar (circa 2.600 inwoners) is een compacte badplaats aan de Costa de Valencia, direct aan zee en dicht bij Gandia. Sterke seizoensvraag naar tweede woningen.",
+      "ideeen": [
+        "Nieuwbouwvilla ontwikkelen en verkopen aan de kustmarkt",
+        "Perceel met vergund bouwplan doorverkopen (waardestijging zonder zelf te bouwen)",
+        "Twee kleinere woningen realiseren mits index dat toelaat"
+      ],
+      "due_diligence": [
+        "Bebouwingsindex en stedenbouwkundige voorschriften opvragen (cedula urbanistica)",
+        "Ley de Costas: afstand tot de kustlijn controleren",
+        "PATRICOVA-overstromingszone en vereiste vloerpeilen checken",
+        "Aansluitkosten nutsvoorzieningen inschatten"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijk grondstuk in een dure strandmarkt, maar de haalbaarheid hangt volledig af van bebouwbaarheid en kust-/overstromingsregels. Zonder bevestiging van de edificabilidad blijft dit een kans met een groot voorbehoud.",
+      "contact": {
+        "bron": "Grupo Corral Inmobiliaria (Gandia)",
+        "telefoon": "622 61 00 18",
+        "email": "onbekend",
+        "url": "https://www.grupocorralinmobiliaria.com/ficha/urban-plot-of-land/miramar/costa-de-valencia/10886/29395245/en/",
+        "referentie": "Grupo Corral 179633",
+        "opmerking": "Bevestig bebouwingsindex en kustbeperkingen voor een bod."
+      },
+      "bronnen": [
+        {
+          "titel": "Grupo Corral - Bouwperceel Miramar (ref 179633)",
+          "url": "https://www.grupocorralinmobiliaria.com/ficha/urban-plot-of-land/miramar/costa-de-valencia/10886/29395245/en/"
+        }
+      ]
+    },
+    {
+      "id": "gandia-centro-piso-77m2-2026-07-22",
+      "titel": "Centraal appartement 77 m2 in Gandia - prijs verlaagd naar 89.000 euro",
+      "type": "Te flippen appartement (deels te renoveren)",
+      "type_kort": "Flip-pand",
+      "plaats": "Gandia (Centro)",
+      "regio": "La Safor",
+      "vraagprijs": 89000,
+      "prijs_status": "Actueel op makelaarssite Grupo Corral (peildatum 22-07-2026)",
+      "prijs_notitie": "Verlaagd van 95.000 naar 89.000 euro (-6%) volgens de advertentie.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "77 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "3"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "1"
+        },
+        {
+          "label": "Bouwjaar",
+          "waarde": "1967"
+        },
+        {
+          "label": "Staat",
+          "waarde": "Deels te renoveren (reformar parcialment)"
+        },
+        {
+          "label": "Prijs per m2",
+          "waarde": "ca. 1.156 euro/m2"
+        }
+      ],
+      "score": 62,
+      "score_label": "Interessant",
+      "strategie": "Compact, centraal en goedkoop instappen. Met een gedeeltelijke (vooral cosmetische) renovatie geschikt voor doorverkoop of langdurige verhuur in het hart van Gandia. Houd de renovatie beperkt om de marge overeind te houden.",
+      "samenvatting": "Appartement van 77 m2 met 3 slaapkamers in het centrum van Gandia, bouwjaar 1967, deels te renoveren. Prijs recent verlaagd van 95.000 naar 89.000 euro (circa 1.156 euro/m2). Centrale ligging met veel voorzieningen op loopafstand.",
+      "voors": [
+        "Lage instapprijs (89.000 euro) en recente prijsverlaging: onderhandelruimte",
+        "Slechts deels te renoveren, geen volledige strip nodig",
+        "Centrale ligging in Gandia: sterke verhuurvraag (studenten, werkenden)",
+        "3 slaapkamers op 77 m2: gunstige indeling voor verhuur"
+      ],
+      "tegens": [
+        "Bouwjaar 1967: mogelijk verouderde leidingen/elektra",
+        "Flipmarge dun - centrum Gandia ligt rond 1.400-1.700 euro/m2 gerenoveerd",
+        "Geen lift vermeld: check verdieping en bereikbaarheid",
+        "Terrazzovloer en oude afwerking: cosmetische update nodig"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "89.000 euro"
+          },
+          {
+            "label": "ITP (10%)",
+            "waarde": "ca. 8.900 euro"
+          },
+          {
+            "label": "Notaris/register (ca. 2%)",
+            "waarde": "ca. 1.780 euro"
+          },
+          {
+            "label": "Renovatie-indicatie (deels, 77 m2)",
+            "waarde": "ca. 25.000-45.000 euro"
+          },
+          {
+            "label": "Indicatieve verkoop gerenoveerd",
+            "waarde": "ca. 1.400-1.700 euro/m2 = 108.000-131.000 euro"
+          }
+        ],
+        "conclusie": "Bij een beperkte, slimme renovatie is er een bescheiden flipmarge; bij een volledige aanpak verdampt die. De sterkste case is kopen, licht opknappen en langdurig verhuren in centraal Gandia."
+      },
+      "vergunning": "Bestaand appartement met woonbestemming; alleen een renovatievergunning (licencia de obra) nodig voor de opknapbeurt. Geen herbestemming vereist.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "Het centrum van Gandia ligt landinwaarts, maar de rivier de Serpis loopt door de stad. Controleer de PATRICOVA-kaart voor dit adres; delen van Gandia kennen aandachtszones."
+      },
+      "demografie": "Gandia is met circa 75.000 inwoners de hoofdstad van La Safor, met universiteit, ziekenhuis en jaarrond economische activiteit. Het centrum kent een constante verhuurvraag.",
+      "ideeen": [
+        "Cosmetische renovatie en doorverkoop aan een starter",
+        "Opknappen en langdurig verhuren (3 kamers) aan werkenden of studenten",
+        "Kamergewijze verhuur mits toegestaan"
+      ],
+      "due_diligence": [
+        "Staat van leidingen en elektra laten beoordelen",
+        "Verdieping en aanwezigheid lift bevestigen",
+        "VvE-lasten opvragen",
+        "PATRICOVA-overstromingszone controleren"
+      ],
+      "eerlijk_oordeel": "Weinig risico door de lage instapprijs, maar ook een dunne flipmarge in de huidige markt. Vooral interessant als verhuurpand met bescheiden opknapbeurt; als snelle flip alleen bij een scherpe aankoopprijs.",
+      "contact": {
+        "bron": "Grupo Corral Inmobiliaria (Gandia)",
+        "telefoon": "622 61 00 18",
+        "email": "onbekend",
+        "url": "https://www.grupocorralinmobiliaria.com/ficha/flat/gandia/centro/10886/29377107/en/",
+        "referentie": "Grupo Corral 179632",
+        "opmerking": "Prijs recent met 6% verlaagd; tegenbod mogelijk via de site."
+      },
+      "bronnen": [
+        {
+          "titel": "Grupo Corral - Appartement Gandia Centro (ref 179632)",
+          "url": "https://www.grupocorralinmobiliaria.com/ficha/flat/gandia/centro/10886/29377107/en/"
+        }
+      ]
+    },
+    {
+      "id": "lafont-casa-1887-206m2-2026-07-22",
+      "titel": "Karakteristiek dorpshuis 206 m2 uit 1887 in La Font d'en Carros",
+      "type": "Bijzondere buitenkans (karakterpand)",
+      "type_kort": "Buitenkans",
+      "plaats": "La Font d'en Carros (kern)",
+      "regio": "La Safor / grens Marina Alta",
+      "vraagprijs": 290000,
+      "prijs_status": "Actueel op makelaarssite Grupo Corral (peildatum 22-07-2026)",
+      "prijs_notitie": "Vaste vraagprijs; tegenbod mogelijk via de site.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "206 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "4"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "2"
+        },
+        {
+          "label": "Bouwjaar",
+          "waarde": "1887"
+        },
+        {
+          "label": "Kenmerken",
+          "waarde": "Eiken binnenkozijnen, patio, terras, zolder, schouw"
+        },
+        {
+          "label": "Prijs per m2",
+          "waarde": "ca. 1.408 euro/m2"
+        }
+      ],
+      "score": 56,
+      "score_label": "Voorzichtig",
+      "strategie": "Ruim karakterpand voor wie authentieke details waardeert. De hoge vraagprijs per m2 voor een pand uit 1887 maakt de flip-business case echter kwetsbaar; alleen bij een scherpe aankoopprijs en beperkte renovatiebehoefte interessant.",
+      "samenvatting": "Karakteristiek dorpshuis van 206 m2 uit 1887 in de kern van La Font d'en Carros, met 4 slaapkamers, patio, terras en originele details. Vraagprijs 290.000 euro (circa 1.408 euro/m2), wat hoog is voor een zeer oud pand.",
+      "voors": [
+        "Ruim (206 m2) met authentieke details (eiken kozijnen, schouw, patio)",
+        "Rustig dorp met voorzieningen, nabij natuur (Marjal de Pego-Oliva) en Gandia-stranden",
+        "4 slaapkamers: geschikt als royale gezinswoning"
+      ],
+      "tegens": [
+        "Bouwjaar 1887: hoog risico op vocht, verouderde constructie en hoge renovatiekosten",
+        "Vraagprijs (1.408 euro/m2) is hoog voor een oud pand: dunne tot negatieve flipmarge",
+        "Zeer oude panden zijn lastig energetisch te verbeteren",
+        "Kleinere markt: doorverkoop kan langer duren"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "290.000 euro"
+          },
+          {
+            "label": "ITP (10%)",
+            "waarde": "ca. 29.000 euro"
+          },
+          {
+            "label": "Notaris/register (ca. 2%)",
+            "waarde": "ca. 5.800 euro"
+          },
+          {
+            "label": "Renovatie-indicatie (oud pand)",
+            "waarde": "mogelijk 100.000+ euro afhankelijk van staat"
+          },
+          {
+            "label": "Indicatieve verkoop",
+            "waarde": "ca. 1.200-1.400 euro/m2 in La Font d'en Carros"
+          }
+        ],
+        "conclusie": "Bij deze vraagprijs en de renovatiebehoefte van een 138 jaar oud pand is de flipmarge dun tot negatief. Alleen met een forse prijsverlaging of als het pand bouwkundig meevalt kan de case kloppen."
+      },
+      "vergunning": "Bestaand dorpshuis met woonbestemming. Let bij een monumentaal/oud pand op eventuele beperkingen vanuit het gemeentelijk erfgoedbeleid; toets renovatieplannen vooraf bij de gemeente La Font d'en Carros.",
+      "overstroming": {
+        "niveau": "Te verifieren",
+        "kleur": "amber",
+        "toelichting": "De dorpskern van La Font d'en Carros ligt op hoger terrein dan het nabijgelegen natuurgebied Marjal de Pego-Oliva. Controleer toch de PATRICOVA-kaart voor dit perceel, gezien de nabijheid van het overstromingsgevoelige moerasgebied."
+      },
+      "demografie": "La Font d'en Carros (circa 3.700 inwoners) is een rustig landelijk dorp op de grens van La Safor en de Marina Alta, met voorzieningen en op korte afstand van de stranden bij Gandia en Oliva.",
+      "ideeen": [
+        "Restauratie met behoud van karakter en doorverkoop aan een liefhebber",
+        "Verhuur als authentieke landelijke woning na renovatie",
+        "Bed-and-breakfast-concept mits vergunbaar"
+      ],
+      "due_diligence": [
+        "Grondige bouwkundige keuring: fundering, houtrot, vocht, dak",
+        "Erfgoed-/monumentstatus en renovatiebeperkingen navragen",
+        "Onderhandelen op de prijs gezien de ouderdom",
+        "PATRICOVA-overstromingszone controleren"
+      ],
+      "eerlijk_oordeel": "Een charmant pand, maar financieel het zwakst van deze selectie: de vraagprijs per m2 is hoog voor een woning uit 1887 en oude panden brengen forse, moeilijk te ramen renovatiekosten mee. Alleen bij stevige prijsonderhandeling het overwegen waard.",
+      "contact": {
+        "bron": "Grupo Corral Inmobiliaria (Gandia)",
+        "telefoon": "622 61 00 18",
+        "email": "onbekend",
+        "url": "https://www.grupocorralinmobiliaria.com/ficha/house/la-font-d-en-carros/comunidad-valenciana/10886/29374119/en/",
+        "referentie": "Grupo Corral 179631",
+        "opmerking": "Bouwkundige staat is bepalend; onderhandel stevig op de prijs."
+      },
+      "bronnen": [
+        {
+          "titel": "Grupo Corral - Dorpshuis La Font d'en Carros (ref 179631)",
+          "url": "https://www.grupocorralinmobiliaria.com/ficha/house/la-font-d-en-carros/comunidad-valenciana/10886/29374119/en/"
+        }
+      ]
+    }
+  ]
+}
