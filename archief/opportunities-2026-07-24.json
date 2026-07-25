@@ -1,0 +1,550 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-07-24",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Aanbod vandaag geput uit Kyero (aggregator met o.a. HogarAbitat, CASAS y Cia, Parasol Networks en Hamiltons). Kyero was primaire bron omdat individuele advertentie-URLs met prijs, referentie en makelaar direct verifieerbaar waren; een fotocasa-check op Ondara leverde enkel zoekpagina's zonder betrouwbaar te verifieren detailpagina op. Alle vijf objecten zijn stuk voor stuk op de detailpagina geverifieerd (prijs, oppervlakte, referentie). Focus vandaag op Pego en Oliva pueblo, met spreiding over flip, verhuur, bouwgrond en een buitenkans. Let op: Pego grenst aan de Marjal de Pego-Oliva; toets per object altijd de actuele PATRICOVA-kaart.",
+    "disclaimer": "Geen financieel of juridisch advies. Prijzen en gegevens komen van de advertentiepagina's op de aangegeven datum en kunnen wijzigen. Overstromings- en vergunningsinschattingen zijn indicatief; laat PATRICOVA, kadaster en gemeente altijd formeel toetsen voor aankoop."
+  },
+  "kansen": [
+    {
+      "id": "pego-vrijstaand-huis-99k-garage-2026-07-24",
+      "titel": "Ruim dorpshuis van 300 m2 met garage om te renoveren, Pego",
+      "type": "Te flippen pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 99000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "Circa 330 euro/m2 op bestaande bouw - ruim onder marktgemiddelde voor de regio, wat de flipmarge aantrekkelijk maakt.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "300 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "5"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "3"
+        },
+        {
+          "label": "Parkeren",
+          "waarde": "Garage + parkeerplaats"
+        },
+        {
+          "label": "Energielabel",
+          "waarde": "E"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "102SAB99.FPV-A/3716"
+        }
+      ],
+      "score": 74,
+      "score_label": "Sterk",
+      "strategie": "Kopen, volledig renoveren en doorverkopen; garage en drie badkamers geven optie tot splitsen in twee wooneenheden of hoofdverblijf plus verhuurstudio.",
+      "samenvatting": "Groot pand van 300 m2 in het hart van Pego met garage, patio en terras, aangeboden als casco om naar eigen smaak af te bouwen. De lage prijs per m2 laat ruimte voor een stevige renovatie en toch marge. Garage is schaars en waardevol in het centrum.",
+      "voors": [
+        "Zeer lage instapprijs per m2 (ca 330 euro/m2)",
+        "Garage en extra parkeerplaats - pluspunt in dorpskern",
+        "Groot volume (300 m2) biedt splitsings- of verhuurpotentie",
+        "Geen casco-historico-beperking gemeld: renovatie in principe rechttoe rechtaan"
+      ],
+      "tegens": [
+        "Energielabel E: installaties en isolatie vragen investering",
+        "Pego grenst aan overstromingsgevoelig gebied - PATRICOVA-check nodig",
+        "Verkoopprijzen in Pego liggen lager dan in Oliva/kust; marge afhankelijk van strakke renovatiekosten"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "99.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten ca 2%",
+            "waarde": "ca 12.000 euro"
+          },
+          {
+            "label": "Renovatie indicatief 300 m2 x 800 euro/m2",
+            "waarde": "ca 240.000 euro"
+          },
+          {
+            "label": "Totaal indicatief",
+            "waarde": "ca 351.000 euro"
+          },
+          {
+            "label": "Verwachte verkoop na renovatie",
+            "waarde": "onbekend - lokaal te toetsen"
+          }
+        ],
+        "conclusie": "Bij lichte tot gemiddelde renovatie (niet volledig 300 m2 tot topniveau) kan de businesscase kloppen. Cruciaal: bepaal welk deel echt gerenoveerd moet worden en toets realistische verkoopwaarde in Pego voordat je koopt."
+      },
+      "vergunning": "Regulier renovatiepand; geen splitsing vereist voor basisplan. Vraag bij de gemeente de bouwmogelijkheden en of splitsen in twee eenheden is toegestaan. ICIO ca 4% over verbouwingskosten en een licencia de obra zijn van toepassing.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Pego ligt tegen de Marjal de Pego-Oliva; delen van de gemeente vallen in PATRICOVA-risicozones en de kaarten zijn na de DANA van oktober 2024 herzien. Het centrum ligt hoger dan de marjal, maar controleer het exacte perceel op de actuele PATRICOVA-kaart."
+      },
+      "demografie": "Pego is een levendig binnenlands dorp (ca 10.000 inwoners) met volledige voorzieningen en een gemengde markt van lokale kopers en buitenlanders (o.a. Monte Pego). Renovatiepanden met garage zijn gewild.",
+      "ideeen": [
+        "Splitsen in hoofdwoning plus verhuurstudio met eigen ingang",
+        "Garage als verkoopargument benadrukken",
+        "Gefaseerd renoveren om budget te bewaken"
+      ],
+      "due_diligence": [
+        "Nota simple bij kadaster: eigendom, lasten en werkelijke m2",
+        "PATRICOVA-zone van het exacte perceel controleren",
+        "Bouwkundige keuring op vocht en constructie (ouder pand)",
+        "Bevestig bij gemeente of splitsen is toegestaan"
+      ],
+      "eerlijk_oordeel": "Sterkste kans van vandaag door lage prijs per m2 en garage. Grootste onzekerheid is de werkelijke verkoopwaarde in Pego en de omvang van de renovatie. Reken conservatief door voordat je biedt.",
+      "contact": {
+        "bron": "Kyero (HogarAbitat)",
+        "telefoon": "onbekend - via advertentie op te vragen",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.kyero.com/en/property/20596444-villa-for-sale-pego",
+        "referentie": "102SAB99.FPV-A/3716",
+        "opmerking": "Makelaar HogarAbitat, Engelstalig. Telefoon zichtbaar na klikken op de advertentie."
+      },
+      "bronnen": [
+        {
+          "titel": "Advertentie Kyero - Villa Pego 99.000 euro",
+          "url": "https://www.kyero.com/en/property/20596444-villa-for-sale-pego"
+        }
+      ]
+    },
+    {
+      "id": "oliva-tweewoonst-159k-n332-2026-07-24",
+      "titel": "Veelzijdig pand van 253 m2, opdeelbaar in twee eenheden, Oliva",
+      "type": "Bijzondere buitenkans",
+      "type_kort": "Buitenkans",
+      "plaats": "Oliva (entree dorp langs N332)",
+      "regio": "La Safor",
+      "vraagprijs": 159950,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "Circa 632 euro/m2; de indeling in twee losse woongedeeltes maakt gecombineerd wonen-en-verhuren mogelijk.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "253 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "3"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "4"
+        },
+        {
+          "label": "Indeling",
+          "waarde": "Twee gescheiden woongedeeltes"
+        },
+        {
+          "label": "Buitenruimte",
+          "waarde": "Terras, zonneterrassen, patio"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "za955"
+        }
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Twee eenheden: zelf een deel bewonen/verkopen en een deel verhuren, of opknappen en als flexibel meergezinsobject doorverkopen.",
+      "samenvatting": "Pand aan de entree van Oliva langs de N332, opgedeeld in twee zelfstandige woongedeeltes. Ruime opzet (253 m2), meerdere terrassen en airco. Buiten de casco historico, dus minder splitsingsbeperkingen; goede toegang per auto.",
+      "voors": [
+        "Twee losse eenheden: dubbele inkomsten- of exitstrategie",
+        "Ruim en veelzijdig (253 m2, 4 badkamers)",
+        "Buiten casco historico - flexibeler qua bestemming en splitsing",
+        "Vlotte autobereikbaarheid aan de N332"
+      ],
+      "tegens": [
+        "Ligging aan doorgaande weg kan geluid geven en topsegment-verkoop beperken",
+        "Staat van afwerking onbekend - inspectie nodig",
+        "Twee keukens/badgroepen onderhouden kost meer"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "159.950 euro"
+          },
+          {
+            "label": "ITP 10% + kosten",
+            "waarde": "ca 20.400 euro"
+          },
+          {
+            "label": "Opknappen/moderniseren indicatief",
+            "waarde": "afhankelijk van staat"
+          },
+          {
+            "label": "Verhuurpotentie",
+            "waarde": "twee eenheden - dubbele stroom"
+          }
+        ],
+        "conclusie": "Aantrekkelijk als hold-plus-flip hybride: een eenheid verhuren dekt lasten terwijl de andere wordt opgeknapt of verkocht. Marge hangt af van de huidige staat, die ter plaatse te beoordelen is."
+      },
+      "vergunning": "Object ligt buiten de casco historico, wat splitsen doorgaans eenvoudiger maakt. Bevestig bij de gemeente of de twee eenheden formeel als aparte woningen zijn geregistreerd (dubbele referentie kadaster) of dat dat nog moet gebeuren.",
+      "overstroming": {
+        "niveau": "Laag tot middel",
+        "kleur": "amber",
+        "toelichting": "Oliva pueblo ligt niet in de marjal, maar de zone langs de N332 richting laagland vraagt een PATRICOVA-check. Waarschijnlijk beperkt risico; verifieer het exacte perceel."
+      },
+      "demografie": "Oliva (ca 25.000 inwoners) heeft een stabiele lokale markt plus sterke vakantie- en expatvraag richting de kust. Flexibele objecten met verhuuroptie doen het goed.",
+      "ideeen": [
+        "Boven verhuren (lange termijn of toeristisch), beneden verkopen of bewonen",
+        "Neutraal en modern afwerken voor breed koperspubliek",
+        "Geluidwerend glas aan straatzijde overwegen"
+      ],
+      "due_diligence": [
+        "Kadaster: zijn het een of twee wooneenheden?",
+        "Bouwkundige inspectie op staat en installaties",
+        "PATRICOVA-zone perceel",
+        "Verhuurvergunning (licencia turistica) checken indien toeristische verhuur gewenst"
+      ],
+      "eerlijk_oordeel": "Solide, flexibel object met een duidelijke dubbele strategie. De ligging aan de N332 drukt het topsegment maar past prima bij verhuur en instapkopers. Staat ter plaatse verifieren is doorslaggevend.",
+      "contact": {
+        "bron": "Kyero (CASAS y Cia Estate Agents)",
+        "telefoon": "onbekend - via advertentie op te vragen",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.kyero.com/en/property/20809652-town-house-for-sale-oliva",
+        "referentie": "za955",
+        "opmerking": "Makelaar CASAS y Cia, Engelstalig."
+      },
+      "bronnen": [
+        {
+          "titel": "Advertentie Kyero - Town house Oliva 159.950 euro",
+          "url": "https://www.kyero.com/en/property/20809652-town-house-for-sale-oliva"
+        }
+      ]
+    },
+    {
+      "id": "oliva-instapklaar-198k-verhuur-2026-07-24",
+      "titel": "Volledig gerenoveerd dorpshuis van 150 m2, instapklaar, Oliva",
+      "type": "Instapklaar verhuurobject",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva (centraal, nabij voorzieningen)",
+      "regio": "La Safor",
+      "vraagprijs": 198000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "Circa 1.320 euro/m2 voor een gerenoveerd, gemeubileerd pand - marktconform voor instapklaar in Oliva pueblo.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "150 m2 over drie verdiepingen"
+        },
+        {
+          "label": "Perceel",
+          "waarde": "64 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "2"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "2"
+        },
+        {
+          "label": "Staat",
+          "waarde": "Volledig gerenoveerd, gemeubileerd, dakterras"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "PNTH2038"
+        }
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Direct verhuren (lange termijn of toeristisch) als volwaardig alternatief voor flippen; weinig werk, snel rendabel.",
+      "samenvatting": "Instapklaar, gemeubileerd dorpshuis in Oliva met open haard, dakterras, airco en houtkachel. De advertentie noemt expliciet goede verhuurpotentie. Geschikt voor wie inkomsten wil zonder verbouwtraject.",
+      "voors": [
+        "Volledig gerenoveerd en gemeubileerd - meteen verhuurbaar",
+        "Dakterras en meerdere terrassen: aantrekkelijk voor huurders",
+        "Centrale ligging nabij voorzieningen en op afstand van de kust",
+        "Advertentie vermeldt goede verhuurpotentie"
+      ],
+      "tegens": [
+        "Weinig flipmarge: pand is al gerenoveerd, waardestijging beperkt",
+        "Klein perceel (64 m2), geen eigen parkeerplaats (straatparkeren)",
+        "Instapprijs per m2 laat weinig onderhandelruimte"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "198.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten",
+            "waarde": "ca 25.200 euro"
+          },
+          {
+            "label": "Totale investering",
+            "waarde": "ca 223.000 euro"
+          },
+          {
+            "label": "Rendement",
+            "waarde": "afhankelijk van huurprijs - lokaal te toetsen"
+          }
+        ],
+        "conclusie": "Primair een hold/verhuurcase: laag risico, direct inkomsten, maar beperkte flipwinst. Reken het netto huurrendement door (toeristisch versus lange termijn) voordat je koopt."
+      },
+      "vergunning": "Geen verbouwing nodig. Voor toeristische verhuur is een licencia turistica van de Generalitat Valenciana vereist; check of het pand die al heeft of in aanmerking komt.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo ligt buiten de marjal en op hoger gelegen dorpsgrond; het overstromingsrisico is doorgaans beperkt. Verifieer het exacte adres op PATRICOVA voor de zekerheid."
+      },
+      "demografie": "Sterke en stabiele huurvraag in Oliva pueblo, zowel lokaal als toeristisch. Gemeubileerde instapklare panden vinden makkelijk huurders.",
+      "ideeen": [
+        "Toeristische verhuur in het hoogseizoen, lange termijn daarbuiten",
+        "Bestaande meubilering benutten om direct te verhuren",
+        "Dakterras als extra huurargument inzetten"
+      ],
+      "due_diligence": [
+        "Netto huurrendement doorrekenen (kosten, leegstand, beheer)",
+        "Status licencia turistica checken",
+        "Nota simple en energiecertificaat controleren",
+        "PATRICOVA-zone perceel"
+      ],
+      "eerlijk_oordeel": "Prima verhuurobject met laag risico, maar als flip weinig te halen. Past bij het verhuur-alternatief in het profiel. Alleen kopen als het huurrendement de investering rechtvaardigt.",
+      "contact": {
+        "bron": "Kyero (Parasol Networks Estate Agents)",
+        "telefoon": "onbekend - via advertentie op te vragen",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.kyero.com/en/property/20733629-town-house-for-sale-oliva",
+        "referentie": "PNTH2038",
+        "opmerking": "Makelaar Parasol Networks, Engelstalig; remote viewing beschikbaar."
+      },
+      "bronnen": [
+        {
+          "titel": "Advertentie Kyero - Village house Oliva 198.000 euro",
+          "url": "https://www.kyero.com/en/property/20733629-town-house-for-sale-oliva"
+        }
+      ]
+    },
+    {
+      "id": "pego-bouwgrond-montepego-58k-2026-07-24",
+      "titel": "Bouwrijp perceel van 1.215 m2 in urbanisatie Montepego, Pego",
+      "type": "Bouwgrond / perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "Pego (urbanisatie Montepego)",
+      "regio": "Marina Alta",
+      "vraagprijs": 58500,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "Circa 48 euro/m2 grond; bouwrijp en omheind, met elektra en water aanwezig.",
+      "kerngegevens": [
+        {
+          "label": "Perceel",
+          "waarde": "1.215 m2"
+        },
+        {
+          "label": "Status",
+          "waarde": "Bouwrijp (klaar om te bouwen), omheind"
+        },
+        {
+          "label": "Voorzieningen",
+          "waarde": "Elektriciteit en water aanwezig"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Montepego, ca 10 min van El Verger en Pego"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "HI1R0D6KQ"
+        }
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Villa (laten) bouwen voor doorverkoop of verhuur; grondaankoop nu, bouwtraject later. Kapitaalintensiever maar met eigen ontwikkelmarge.",
+      "samenvatting": "Bouwrijp, omheind perceel van 1.215 m2 in de heuvelurbanisatie Montepego met elektra en water aanwezig. Als suelo urbanizable/urbano geschikt voor een vrijstaande villa - geen rustieke-grondbeperking zoals bij veel goedkope percelen.",
+      "voors": [
+        "Bouwrijp met nutsvoorzieningen aanwezig - scheelt tijd en kosten",
+        "Ruim perceel (1.215 m2) in gewilde heuvelurbanisatie met zicht",
+        "Lage grondprijs per m2",
+        "Montepego ligt hoog: laag overstromingsrisico"
+      ],
+      "tegens": [
+        "Ontwikkeling is kapitaalintensief en duurt langer dan een flip",
+        "Bouwkosten en vergunningstraject bepalen de marge",
+        "Verkoopvraag naar nieuwbouwvilla's in Montepego moet worden getoetst"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs grond",
+            "waarde": "58.500 euro"
+          },
+          {
+            "label": "ITP 10% + kosten",
+            "waarde": "ca 7.500 euro"
+          },
+          {
+            "label": "Bouw villa indicatief 150 m2 x 1.400 euro/m2",
+            "waarde": "ca 210.000 euro"
+          },
+          {
+            "label": "Totaal indicatief",
+            "waarde": "ca 276.000 euro"
+          },
+          {
+            "label": "Verwachte verkoopwaarde villa",
+            "waarde": "onbekend - lokaal te toetsen"
+          }
+        ],
+        "conclusie": "Ontwikkelcase met eigen marge, maar hoger risico en langere doorlooptijd. Alleen interessant als de verkoopwaarde van een afgebouwde villa in Montepego duidelijk boven grond plus bouwkosten uitkomt."
+      },
+      "vergunning": "Perceel is als bouwrijp aangeboden; bevestig de bestemming (suelo urbano/urbanizable, geen suelo no urbanizable) en de bouwparameters (bebouwbaar oppervlak, hoogte) bij de gemeente Pego. Licencia de obra en ICIO ca 4% van toepassing bij bouw.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Montepego ligt op een heuvel, ruim boven de Marjal de Pego-Oliva; overstromingsrisico is beperkt. Toets desondanks het perceel op PATRICOVA en let op hellings-/afwateringsaspecten."
+      },
+      "demografie": "Montepego is een gevestigde urbanisatie met veel Noord-Europese eigenaren en vraag naar villa's met uitzicht. Aantrekkelijk voor zowel verkoop als (vakantie)verhuur.",
+      "ideeen": [
+        "Sleutelklare villa bouwen voor de expatmarkt",
+        "Verkoop met bouwproject/vergunning erbij om koper te ontzorgen",
+        "Zwembad en uitzicht als verkoopargumenten"
+      ],
+      "due_diligence": [
+        "Bestemming en bouwparameters bij gemeente bevestigen",
+        "Nota simple en werkelijke perceelgrenzen (omheining vs kadaster)",
+        "Aansluitkosten nutsvoorzieningen verifieren",
+        "PATRICOVA en afwatering perceel"
+      ],
+      "eerlijk_oordeel": "Nette bouwkavel met laag overstromingsrisico en aanwezige voorzieningen. Het is een ontwikkelcase, dus meer kapitaal en tijd dan een flip; de marge staat of valt met bouwkosten en verkoopwaarde ter plaatse.",
+      "contact": {
+        "bron": "Kyero (Hamiltons Of London)",
+        "telefoon": "onbekend - via advertentie op te vragen",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.kyero.com/en/property/20519916-land-for-sale-pego",
+        "referentie": "HI1R0D6KQ",
+        "opmerking": "Makelaar Hamiltons Of London, Engelstalig; remote viewing beschikbaar."
+      },
+      "bronnen": [
+        {
+          "titel": "Advertentie Kyero - Land Pego Montepego 58.500 euro",
+          "url": "https://www.kyero.com/en/property/20519916-land-for-sale-pego"
+        }
+      ]
+    },
+    {
+      "id": "oliva-oude-kern-199k-garage-2026-07-24",
+      "titel": "Groot pand van 250 m2 met garage in de oude kern, Oliva",
+      "type": "Te flippen pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (oude kern, nabij gemeentehuis)",
+      "regio": "La Safor",
+      "vraagprijs": 199000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "Circa 796 euro/m2; garage in de oude kern is zeldzaam en waardevol, maar de casco-ligging beperkt splitsing en marge.",
+      "kerngegevens": [
+        {
+          "label": "Woonoppervlak",
+          "waarde": "250 m2"
+        },
+        {
+          "label": "Slaapkamers",
+          "waarde": "4"
+        },
+        {
+          "label": "Badkamers",
+          "waarde": "2"
+        },
+        {
+          "label": "Parkeren",
+          "waarde": "Garage"
+        },
+        {
+          "label": "Buitenruimte",
+          "waarde": "Patio, barbecue, meerdere terrassen"
+        },
+        {
+          "label": "Referentie",
+          "waarde": "za946"
+        }
+      ],
+      "score": 58,
+      "score_label": "Voorzichtig",
+      "strategie": "Opknappen en doorverkopen als ruime gezinswoning met garage; splitsen is in de casco historico waarschijnlijk niet toegestaan, dus reken op een enkele woning.",
+      "samenvatting": "Ruim pand van 250 m2 met garage, patio en terrassen op toplocatie bij het gemeentehuis van Oliva. De garage is een sterk pluspunt, maar de ligging in de oude kern brengt de bekende beperkingen mee: splitsen vaak niet toegestaan en hoger vochtrisico bij oude bouw.",
+      "voors": [
+        "Garage in de oude kern - schaars en waardevol",
+        "Ruim (250 m2) met patio en meerdere terrassen",
+        "Toplocatie op loopafstand van alle voorzieningen"
+      ],
+      "tegens": [
+        "Casco historico: splitsen doorgaans niet toegestaan (bekend negatief signaal profiel)",
+        "Oude bouw: verhoogd vocht- en constructierisico",
+        "Prijs per m2 relatief hoog voor een op te knappen pand, beperkte onderhandelruimte onzeker"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "199.000 euro"
+          },
+          {
+            "label": "ITP 10% + kosten",
+            "waarde": "ca 25.400 euro"
+          },
+          {
+            "label": "Renovatie indicatief 250 m2 x 800 euro/m2",
+            "waarde": "ca 200.000 euro"
+          },
+          {
+            "label": "Totaal indicatief",
+            "waarde": "ca 424.000 euro"
+          },
+          {
+            "label": "Verwachte verkoop na renovatie",
+            "waarde": "onbekend - marge krap in casco"
+          }
+        ],
+        "conclusie": "De businesscase is krap: hoge instapprijs plus volledige renovatie kan de verwachte verkoopwaarde in de oude kern benaderen. Alleen bij scherpe aankoop en beperkte renovatie realistisch. Vandaar de voorzichtige score."
+      },
+      "vergunning": "Ligging in de casco historico: splitsen in meerdere eenheden is vaak niet toegestaan en er kunnen welstands- en beschermingsregels gelden. Vraag vooraf bij de gemeente naar toegestane ingrepen en of de garage behouden mag blijven.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "De oude kern van Oliva ligt op hoger gelegen dorpsgrond, ruim van de marjal; overstromingsrisico is beperkt. Verifieer het exacte adres op PATRICOVA."
+      },
+      "demografie": "De oude kern van Oliva trekt kopers die karakter en centrale ligging zoeken. Ruime panden met garage zijn zeldzaam, maar de vraag naar grote casco-panden is smaller dan naar instapklare woningen.",
+      "ideeen": [
+        "Opknappen tot ruime karakteristieke gezinswoning met garage",
+        "Garage en buitenruimtes als onderscheidende verkoopargumenten",
+        "Niet inzetten op splitsen tenzij de gemeente het uitdrukkelijk toestaat"
+      ],
+      "due_diligence": [
+        "Gemeente: toegestane ingrepen en splitsingsverbod in casco historico",
+        "Grondige bouwkundige keuring op vocht en fundering",
+        "Nota simple en werkelijke m2",
+        "Realistische verkoopwaarde vergelijkbare gerenoveerde casco-panden toetsen"
+      ],
+      "eerlijk_oordeel": "Meegenomen om de eerlijke onderkant van de markt te tonen: de garage is aantrekkelijk, maar casco-ligging en krappe marge maken dit een voorzichtige kans. Alleen doorpakken bij een fors lagere aankoopprijs en bevestigde bouwmogelijkheden.",
+      "contact": {
+        "bron": "Kyero (CASAS y Cia Estate Agents)",
+        "telefoon": "onbekend - via advertentie op te vragen",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.kyero.com/en/property/20677778-town-house-for-sale-oliva",
+        "referentie": "za946",
+        "opmerking": "Makelaar CASAS y Cia, Engelstalig."
+      },
+      "bronnen": [
+        {
+          "titel": "Advertentie Kyero - Town house Oliva oude kern 199.000 euro",
+          "url": "https://www.kyero.com/en/property/20677778-town-house-for-sale-oliva"
+        }
+      ]
+    }
+  ]
+}
