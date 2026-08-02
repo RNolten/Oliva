@@ -1,0 +1,549 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-08-01",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Aanbod te renoveren woningen in Oliva ligt gemiddeld rond 1.100 euro/m2 (idealista, aug 2026), met te-reformar objecten vanaf circa 42.000 euro. Bouwgrond in de binnenlanddorpen (Pedreguer, Sagra, Ondara) blijft ruim en relatief goedkoop. Deze run combineert idealista en kyero en spreidt over vijf verschillende types en plaatsen. Let op: na de DANA van oktober 2024 zijn PATRICOVA-overstromingskaarten herzien; controleer elk perceel afzonderlijk.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Prijzen, oppervlakten en kenmerken zijn overgenomen van de advertenties op de aankoopdatum en kunnen wijzigen. Verifieer altijd zelf de actuele status, exacte perceelgrenzen, PATRICOVA-overstromingsklasse en vergunningsmogelijkheden bij gemeente en een lokale gestor/advocaat voor aankoop."
+  },
+  "kansen": [
+    {
+      "id": "oliva-pueblo-pareado-comercial-2026-08-01",
+      "titel": "Groot pareado met commerciele begane grond en zonne-installatie",
+      "type": "Pand met herbestemmingspotentie (woning + commercieel)",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Oliva (Oliva pueblo, Carretera de Denia)",
+      "regio": "La Safor",
+      "vraagprijs": 295000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie (verlaagd van 310.000)",
+      "prijs_notitie": "5% prijsverlaging t.o.v. 310.000 euro; 615 euro/m2. Onderhandelruimte aanwezig.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "480 m2 (perceel 152 m2)"
+        },
+        {
+          "label": "Indeling",
+          "waarde": "Begane grond commercieel 138 m2 + 2 diafane verdiepingen 130 m2 + atico 59 m2"
+        },
+        {
+          "label": "Kamers",
+          "waarde": "4 slaapkamers, 1 badkamer"
+        },
+        {
+          "label": "Bouwjaar",
+          "waarde": "1995"
+        },
+        {
+          "label": "Bijzonder",
+          "waarde": "Hybride fotovoltaisch systeem met teruglevering aan net"
+        },
+        {
+          "label": "Afstand strand",
+          "waarde": "Circa 5 minuten (auto)"
+        }
+      ],
+      "score": 72,
+      "score_label": "Sterk",
+      "strategie": "Flip via herbestemming: begane grond (nu local comercial) omzetten naar woonruimte of splitsen in meerdere units, hoger verkopen of deels verhuren.",
+      "samenvatting": "Ruim pand van 480 m2 over drie bouwlagen plus atico aan de Carretera de Denia, buiten het casco historico. De begane grond is een commerciele ruimte van 138 m2 (aangepast voor mindervaliden) die naar woning kan worden omgezet; de twee verdiepingen zijn casco/diafaan. Zeer lage prijs per m2 (615 euro/m2) en een eigen zonne-installatie met teruglevering.",
+      "voors": [
+        "Zeer lage prijs per m2 (615 euro/m2) voor 480 m2",
+        "Commerciele unit op begane grond: extra bestemmings- en inkomstenflexibiliteit (positief signaal profiel)",
+        "Buiten casco historico (Carretera de Denia): splitsen/herbestemmen doorgaans haalbaarder",
+        "Reeds 5% verlaagd, dus onderhandelruimte",
+        "Eigen fotovoltaisch systeem verlaagt energielasten"
+      ],
+      "tegens": [
+        "Groot pand betekent hoge totale renovatiekosten (480 m2)",
+        "Slechts 1 badkamer en diafane verdiepingen: volledige binneninrichting nodig",
+        "Herbestemming begane grond vereist vergunning cambio de uso",
+        "Kapitaalintensief; business case hangt sterk af van renovatiediepte"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "295.000 euro"
+          },
+          {
+            "label": "ITP 10%",
+            "waarde": "circa 29.500 euro"
+          },
+          {
+            "label": "Notaris/registratie/kosten ca. 2%",
+            "waarde": "circa 6.000 euro"
+          },
+          {
+            "label": "Renovatie-indicatie",
+            "waarde": "700-1.100 euro/m2, sterk afhankelijk van scope"
+          },
+          {
+            "label": "Verkoopreferentie Oliva pueblo gerenoveerd",
+            "waarde": "circa 1.500-1.800 euro/m2"
+          }
+        ],
+        "conclusie": "Bij gedeeltelijke/gerichte renovatie en (deel)splitsing kan er marge zitten door de lage instapprijs per m2. Bij volledige renovatie van alle 480 m2 loopt het budget snel op; reken de scope nauwkeurig door voordat je biedt."
+      },
+      "vergunning": "Object ligt buiten het casco historico, wat herbestemming en splitsen makkelijker maakt dan in het beschermde centrum. Omzetten van de commerciele begane grond naar woning vereist een cambio de uso en gemeentelijke goedkeuring. Controleer bestemmingsplan (PGOU Oliva) en of meerdere wooneenheden zijn toegestaan.",
+      "overstroming": {
+        "niveau": "Laag tot matig",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo ligt landinwaarts en hoger dan de kustzone en de Marjal de Pego-Oliva. Risico doorgaans laag, maar controleer het exacte perceel in de PATRICOVA-viewer (kaarten herzien na DANA okt 2024)."
+      },
+      "demografie": "Oliva (circa 27.000 inwoners) heeft een stabiele lokale markt en groeiende buitenlandse vraag. Oliva pueblo is gewild om voorzieningen en nabijheid strand.",
+      "ideeen": [
+        "Begane grond terug naar woning en pand splitsen in 2-3 verhuur/verkoop-units",
+        "Behoud commerciele unit als winkel/kantoor en verhuur bovenwoningen",
+        "Gefaseerd renoveren om kaspositie te sparen"
+      ],
+      "due_diligence": [
+        "PGOU/bestemming en splitsbaarheid bij gemeente Oliva bevestigen",
+        "Bouwkundige keuring: staat casco, dak, leidingen",
+        "Cedula de habitabilidad en energiecertificaat status",
+        "Exacte PATRICOVA-klasse van het perceel controleren"
+      ],
+      "eerlijk_oordeel": "Interessant vanwege lage prijs/m2 en flexibiliteit, maar het is een kapitaalintensief project. De marge staat of valt met een realistische renovatiescope en bevestigde splitsbaarheid. Eerst business case hard maken.",
+      "contact": {
+        "bron": "idealista (makelaar Huspy Valencia)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.idealista.com/inmueble/111273939/",
+        "referentie": "d3dcda6b-e5c1-47b3-afcd-8de0fe7f5e1e",
+        "opmerking": "Advertentie bijgewerkt op 29 juli 2026."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - Chalet pareado Carretera de Denia, Oliva pueblo",
+          "url": "https://www.idealista.com/inmueble/111273939/"
+        }
+      ]
+    },
+    {
+      "id": "oliva-nova-adosado-strand-verhuur-2026-08-01",
+      "titel": "Adosado op 50 meter van het strand in Oliva Nova",
+      "type": "Instapklaar verhuurobject aan de kust",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva (Oliva Nova, Camino Bassetes)",
+      "regio": "La Safor",
+      "vraagprijs": 195000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "2.097 euro/m2; prijs weerspiegelt de strandligging.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "93 m2, 1 bouwlaag"
+        },
+        {
+          "label": "Kamers",
+          "waarde": "4 slaapkamers, 2 badkamers"
+        },
+        {
+          "label": "Bouwjaar",
+          "waarde": "1979"
+        },
+        {
+          "label": "Buiten",
+          "waarde": "Terras plus dakterras met vrij uitzicht"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Circa 50 m van zee, nabij golfbaan en manege"
+        },
+        {
+          "label": "Staat",
+          "waarde": "Recent geschilderd, airco, wordt as-is verkocht"
+        }
+      ],
+      "score": 70,
+      "score_label": "Interessant",
+      "strategie": "Aankopen voor (vakantie)verhuur; eventueel lichte modernisering en later doorverkopen aan kustkoper.",
+      "samenvatting": "Vrijstaand-aangebouwde woning van 93 m2 op circa 50 meter van het strand in Oliva Nova, met wit zandstrand, duinen, golf en manege in de buurt. Vier slaapkamers, twee badkamers, terras en dakterras. Gebouwd in 1979 en gedateerd, maar bewoonbaar en recent geschilderd.",
+      "voors": [
+        "Toplocatie voor vakantieverhuur (positief signaal: sterke strandvraag Oliva)",
+        "50 m van zee, nabij golf en manege: brede huurdersgroep",
+        "4 slaapkamers/2 badkamers: goede verhuurcapaciteit",
+        "Instapklaar (recent geschilderd, airco), verhuur kan snel starten"
+      ],
+      "tegens": [
+        "Hoge prijs per m2 (2.097 euro/m2) door locatiepremie: beperkte flipmarge",
+        "Bouwjaar 1979: modernisering waarschijnlijk nodig voor topsegment",
+        "Kustzone: hoger risico op vergunningsbeperkingen vakantieverhuur en overstroming",
+        "As-is verkoop: verborgen gebreken mogelijk"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "195.000 euro"
+          },
+          {
+            "label": "ITP 10%",
+            "waarde": "circa 19.500 euro"
+          },
+          {
+            "label": "Kosten ca. 2%",
+            "waarde": "circa 3.900 euro"
+          },
+          {
+            "label": "Modernisering (optioneel)",
+            "waarde": "indicatief 20.000-50.000 euro"
+          },
+          {
+            "label": "Verhuurpotentie",
+            "waarde": "Vakantieverhuur strandzone; bezetting seizoensgebonden"
+          }
+        ],
+        "conclusie": "Sterker als verhuurobject dan als flip: de locatiepremie zit al in de prijs. Rendement hangt af van vergunning voor toeristische verhuur (licencia turistica) en seizoensbezetting."
+      },
+      "vergunning": "Voor legale vakantieverhuur is een registratie/licencia turistica bij de Comunitat Valenciana nodig; controleer of het gebouw/de gemeenschap dit toestaat. Voor kustpercelen kan de Ley de Costas relevant zijn - verifieer de afstand tot het openbaar kustdomein.",
+      "overstroming": {
+        "niveau": "Matig (kustzone)",
+        "kleur": "amber",
+        "toelichting": "Oliva Nova ligt in de kustzone nabij duinen en riviermondingen. Overstromings- en kustrisico is reeler dan in het binnenland; controleer PATRICOVA en kustlijnzonering voor dit exacte perceel."
+      },
+      "demografie": "Oliva Nova is een toeristisch/resortgebied (golf, jachthaven, strand) met sterke internationale vakantievraag in het hoogseizoen.",
+      "ideeen": [
+        "Direct als vakantieverhuur exploiteren met licencia turistica",
+        "Lichte modernisering (keuken/badkamers) voor hoger huursegment",
+        "Combinatie eigen gebruik laagseizoen + verhuur hoogseizoen"
+      ],
+      "due_diligence": [
+        "Licencia turistica en gemeenschapsreglement (verhuur toegestaan?) controleren",
+        "Afstand tot openbaar kustdomein (Ley de Costas) verifieren",
+        "Bouwkundige staat 1979-woning laten keuren",
+        "PATRICOVA- en kustoverstromingsklasse checken"
+      ],
+      "eerlijk_oordeel": "Goede verhuurkans op een gewilde strandlocatie, maar reken niet op een snelle flipwinst: de prijs weerspiegelt de ligging al. Rendeert vooral als toeristische verhuur juridisch rond is.",
+      "contact": {
+        "bron": "idealista (makelaar Romer Playa Inmobiliaria, Denia)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.idealista.com/inmueble/111359977/",
+        "referentie": "O3068",
+        "opmerking": "Advertentie bijgewerkt op 1 juli 2026."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - Chalet adosado Camino Bassetes, Oliva Nova",
+          "url": "https://www.idealista.com/inmueble/111359977/"
+        }
+      ]
+    },
+    {
+      "id": "sagra-dorpshuis-dak-vernieuwd-flip-2026-08-01",
+      "titel": "Dorpshuis in Sagra met reeds vernieuwd dak",
+      "type": "Te renoveren dorpswoning",
+      "type_kort": "Flip-pand",
+      "plaats": "Sagra (Marina Alta, binnenland)",
+      "regio": "Marina Alta",
+      "vraagprijs": 90000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "Circa 938 euro/m2 op basis van 96 m2.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "96 m2 bebouwd"
+        },
+        {
+          "label": "Type",
+          "waarde": "Dorpshuis, te renoveren"
+        },
+        {
+          "label": "Pluspunt",
+          "waarde": "Dak reeds volledig vernieuwd"
+        },
+        {
+          "label": "Indeling",
+          "waarde": "Binnen open/diafaan, vrij in te delen"
+        },
+        {
+          "label": "Omgeving",
+          "waarde": "Nabij strand, golf, winkels en restaurants"
+        }
+      ],
+      "score": 61,
+      "score_label": "Voorzichtig",
+      "strategie": "Renoveren en doorverkopen of aanhouden voor verhuur; het al vernieuwde dak verlaagt kosten en risico.",
+      "samenvatting": "Traditioneel dorpshuis van 96 m2 in Sagra dat gerenoveerd moet worden, maar waarvan het dak al volledig is vervangen - een van de duurdere en risicovollere onderdelen. Het interieur is open en vrij in te delen.",
+      "voors": [
+        "Lage instapprijs (90.000 euro)",
+        "Dak al vernieuwd: minder kosten en bouwrisico",
+        "Vrij indeelbaar interieur",
+        "Rustig binnenlanddorp, laag overstromingsrisico"
+      ],
+      "tegens": [
+        "Kleine lokale markt: beperkte verkoopprijzen en vraag (dunne flipmarge)",
+        "Verkoopreferentie per m2 in dorp lager dan in Oliva/kust",
+        "Volledige binnenrenovatie nog nodig",
+        "Minder liquide dan kust- of Oliva-objecten"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "90.000 euro"
+          },
+          {
+            "label": "ITP 10%",
+            "waarde": "circa 9.000 euro"
+          },
+          {
+            "label": "Kosten ca. 2%",
+            "waarde": "circa 1.800 euro"
+          },
+          {
+            "label": "Renovatie (dak al gedaan)",
+            "waarde": "indicatief 600-900 euro/m2 binnen"
+          },
+          {
+            "label": "Totale indicatie",
+            "waarde": "circa 160.000-185.000 euro all-in"
+          }
+        ],
+        "conclusie": "Als flip is de marge dun: de verkoopprijzen in Sagra liggen relatief laag, waardoor all-in kosten dicht bij of boven de haalbare verkoopwaarde kunnen komen. Aantrekkelijker als betaalbaar aanhoud-/verhuurobject. Reken conservatief."
+      },
+      "vergunning": "Renovatie van een bestaand dorpshuis is doorgaans goed vergunbaar (licencia de obra). Controleer of Sagra bijzondere eisen stelt aan gevel/dorpsgezicht en of de woning volledig is geregulariseerd.",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Sagra ligt in het heuvelachtige binnenland van de Marina Alta, buiten de bekende overstromingszones. Risico laag; bevestig alsnog in PATRICOVA-viewer."
+      },
+      "demografie": "Sagra is een klein traditioneel dorp; markt vooral lokaal met beperkte buitenlandse instroom. Voorzieningen en strand op korte rijafstand.",
+      "ideeen": [
+        "Compacte, kostenbewuste renovatie voor starters-/tweede-woningmarkt",
+        "Aanhouden en verhuren als betaalbaar dorpshuis",
+        "Als eigen uitvalsbasis met laag instapbudget"
+      ],
+      "due_diligence": [
+        "Verkoopreferenties Sagra checken om marge te toetsen",
+        "Bouwkundige staat muren/leidingen (dak al ok)",
+        "Regularisatie/registratie woning bevestigen",
+        "Lokale bouwvoorschriften dorpsgezicht"
+      ],
+      "eerlijk_oordeel": "Prima instapobject met een belangrijk voordeel (dak al vernieuwd), maar als pure flip is de marge in de kleine Sagra-markt kwetsbaar. Alleen doen bij scherpe aankoop en strak renovatiebudget, of als verhuur-/aanhoudobject.",
+      "contact": {
+        "bron": "kyero (makelaar PERETO, Grupo Inmobiliario S.L.)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.kyero.com/en/property/20813535-town-house-for-sale-sagra",
+        "referentie": "001806PGI",
+        "opmerking": "Prijs 90.000 euro; 96 m2."
+      },
+      "bronnen": [
+        {
+          "titel": "kyero - Town house Sagra (ref 001806PGI)",
+          "url": "https://www.kyero.com/en/property/20813535-town-house-for-sale-sagra"
+        }
+      ]
+    },
+    {
+      "id": "oliva-pueblo-restaurant-inmueble-horeca-2026-08-01",
+      "titel": "Restaurant met vastgoed in Oliva (pand en zaak samen)",
+      "type": "Horeca: verkoop van pand en lopende zaak",
+      "type_kort": "Horeca",
+      "plaats": "Oliva (Oliva pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 80000,
+      "prijs_status": "Prijs pand + zaak bevestigd op advertentie",
+      "prijs_notitie": "80.000 euro inclusief vastgoed en traspaso (geen losse huur).",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "100 m2 (perceel/bebouwd)"
+        },
+        {
+          "label": "Capaciteit",
+          "waarde": "Tot 80 gasten binnen + terras circa 20 m2"
+        },
+        {
+          "label": "Keuken",
+          "waarde": "Ruime keuken met afzuiging, voorraad, magazijn, 2 toiletten"
+        },
+        {
+          "label": "Voorzieningen",
+          "waarde": "Stadsgas, elektra, airco, rookafvoer, beveiliging"
+        },
+        {
+          "label": "Bouwjaar",
+          "waarde": "2000"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Aan de straat, drukke passage, winkels rondom"
+        }
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Vastgoed + horecazaak kopen; zelf exploiteren, verpachten aan uitbater, of het pand herbestemmen.",
+      "samenvatting": "Instapklaar restaurant in een goede, drukke zone van Oliva, aangeboden inclusief het pand (100 m2) en de zaak voor 80.000 euro. Volledig uitgeruste keuken, tot 80 couverts binnen plus een terras van circa 20 m2, met stadsgas, airco en rookafvoer aanwezig.",
+      "voors": [
+        "Pand en zaak samen voor 80.000 euro (geen doorlopende huur, je bezit het vastgoed)",
+        "Volledig uitgeruste, instapklare keuken en horeca-infrastructuur",
+        "Drukke locatie met veel passage en winkels",
+        "Rookafvoer en horecavoorzieningen al aanwezig (grote plus voor herbestemming/verhuur)"
+      ],
+      "tegens": [
+        "Advertentie lijkt langer online (bijgewerkt 1 november): actuele beschikbaarheid en prijs bevestigen",
+        "Exacte adres/ligging niet publiek; kwaliteit passage per straat verschillend",
+        "Horeca-exploitatie brengt ondernemersrisico mee",
+        "Omzetcijfers niet vermeld: rendement zaak onbekend"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Prijs pand + zaak",
+            "waarde": "80.000 euro"
+          },
+          {
+            "label": "ITP/AJD (afhankelijk structuur)",
+            "waarde": "indicatief circa 8.000 euro"
+          },
+          {
+            "label": "Kosten ca. 2%",
+            "waarde": "circa 1.600 euro"
+          },
+          {
+            "label": "Model",
+            "waarde": "Eigen exploitatie, verpachting, of herbestemming pand"
+          }
+        ],
+        "conclusie": "Voor 80.000 euro het vastgoed zelf bezitten met een draaiklare horeca-inrichting is scherp. Waarde hangt af van locatiekwaliteit en of je exploiteert dan wel verpacht/herbestemt. Bevestig eerst dat de listing nog actueel is."
+      },
+      "vergunning": "Horecavergunning (licencia de actividad) is naar verwachting aanwezig aangezien de zaak operationeel is; laat dit bevestigen en controleer of de vergunning overdraagbaar is. Voor herbestemming naar bv. woning of winkel is een cambio de uso nodig.",
+      "overstroming": {
+        "niveau": "Laag tot matig",
+        "kleur": "green",
+        "toelichting": "Ligging in Oliva pueblo (landinwaarts, hoger dan de kust). Risico doorgaans laag; controleer het exacte adres in PATRICOVA zodra dat bekend is."
+      },
+      "demografie": "Oliva pueblo heeft dagelijkse lokale passage plus toeristische pieken in het seizoen, gunstig voor horeca met terras.",
+      "ideeen": [
+        "Zelf exploiteren met eigen concept (keuken staat klaar)",
+        "Pand houden en zaak verpachten aan een uitbater voor passief inkomen",
+        "Bij tegenvallende horeca: herbestemmen naar winkel/woning (cambio de uso)"
+      ],
+      "due_diligence": [
+        "Actuele status/prijs en exact adres bij Parasol Networks navragen",
+        "Overdraagbaarheid licencia de actividad bevestigen",
+        "Eventuele omzet-/lastencijfers van de zaak opvragen",
+        "Bouwkundige en installatiestaat (afzuiging, gas) checken"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijk geprijsd omdat je het vastgoed erbij krijgt, niet alleen een traspaso. Belangrijkste voorbehoud: de advertentie oogt niet vers (bijgewerkt 1 november) - eerst beschikbaarheid en exacte ligging bevestigen voordat je tijd investeert.",
+      "contact": {
+        "bron": "idealista (makelaar Inmobiliaria Parasol Networks, Oliva)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.idealista.com/inmueble/105739463/",
+        "referentie": "PNBS347",
+        "opmerking": "Advertentie bijgewerkt op 1 november; actualiteit vooraf bevestigen."
+      },
+      "bronnen": [
+        {
+          "titel": "idealista - Restaurante/bar en venta, Oliva pueblo",
+          "url": "https://www.idealista.com/inmueble/105739463/"
+        }
+      ]
+    },
+    {
+      "id": "pedreguer-bouwperceel-montesolana-1000m2-2026-08-01",
+      "titel": "Stedelijk bouwperceel 1.000 m2 in urbanisatie Montesolana",
+      "type": "Bouwgrond (suelo urbano)",
+      "type_kort": "Bouwgrond",
+      "plaats": "Pedreguer (urbanisatie Montesolana)",
+      "regio": "Marina Alta",
+      "vraagprijs": 70000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "70 euro/m2 voor stedelijk bouwperceel.",
+      "kerngegevens": [
+        {
+          "label": "Oppervlakte",
+          "waarde": "1.000 m2, stedelijk (suelo urbano)"
+        },
+        {
+          "label": "Ligging",
+          "waarde": "Circa 1 km van dorp Pedreguer"
+        },
+        {
+          "label": "Strand",
+          "waarde": "Circa 20 minuten rijden"
+        },
+        {
+          "label": "Omgeving",
+          "waarde": "Rustige urbanisatie, nabij golf"
+        }
+      ],
+      "score": 62,
+      "score_label": "Interessant",
+      "strategie": "Aanhouden en doorverkopen, of ontwikkelen (villa bouwen) voor de sterke villamarkt in Pedreguer.",
+      "samenvatting": "Stedelijk bouwperceel van 1.000 m2 in de urbanisatie Montesolana, op circa 1 km van Pedreguer en 20 minuten van de kust. Als suelo urbano is bouwen in principe toegestaan; de lokale markt bestaat voor circa 75% uit villa's.",
+      "voors": [
+        "Lage instapprijs (70.000 euro, 70 euro/m2)",
+        "Stedelijk (suelo urbano): bouwrechten in principe aanwezig - anders dan rustieke grond",
+        "Villamarkt in Pedreguer is sterk en internationaal",
+        "Rustige, gewilde urbanisatie nabij golf"
+      ],
+      "tegens": [
+        "Grond zonder opstal: flipwinst vergt ontwikkeling of langere aanhoudtijd",
+        "Ontwikkelen (villa) is kapitaalintensief en duurt",
+        "Nutsvoorzieningen/aansluitkosten en exacte bouwparameters te verifieren",
+        "Pedreguer ligt niet aan zee (20 min): minder premium dan kustplaatsen"
+      ],
+      "financieel": {
+        "regels": [
+          {
+            "label": "Vraagprijs",
+            "waarde": "70.000 euro"
+          },
+          {
+            "label": "ITP 10%",
+            "waarde": "circa 7.000 euro"
+          },
+          {
+            "label": "Kosten ca. 2%",
+            "waarde": "circa 1.400 euro"
+          },
+          {
+            "label": "Optie ontwikkelen",
+            "waarde": "villabouw indicatief vanaf circa 1.500 euro/m2 bouwkosten"
+          }
+        ],
+        "conclusie": "Als kavel-flip is de marge beperkt zonder waardetoevoeging. Het meeste rendement komt uit ontwikkelen (villa bouwen en verkopen) in een sterke villamarkt, of geduldig aanhouden. Controleer bouwparameters (edificabilidad) voordat je rekent."
+      },
+      "vergunning": "Als suelo urbano zijn er in principe bouwrechten. Vraag bij de gemeente Pedreguer de edificabilidad, bebouwingspercentage, bouwhoogte en of alle nutsvoorzieningen aan het perceel liggen. Bevestig dat het perceel volledig urbano is (geen urbanizable-restanten).",
+      "overstroming": {
+        "niveau": "Laag",
+        "kleur": "green",
+        "toelichting": "Montesolana is een hoger gelegen urbanisatie in het binnenland van de Marina Alta; overstromingsrisico laag. Bevestig in PATRICOVA-viewer."
+      },
+      "demografie": "Pedreguer trekt veel buitenlandse (villa)kopers; urbanisaties rond het dorp zijn in trek bij Noord-Europeanen.",
+      "ideeen": [
+        "Villa ontwikkelen op maat voor de internationale kopersmarkt",
+        "Perceel aanhouden als grondbank tot waardestijging",
+        "Doorverkopen aan zelfbouwer met bouwklaar dossier"
+      ],
+      "due_diligence": [
+        "Edificabilidad en bouwparameters bij gemeente opvragen",
+        "Aanwezigheid nutsvoorzieningen en aansluitkosten checken",
+        "Bevestigen dat perceel volledig suelo urbano is",
+        "PATRICOVA-klasse verifieren"
+      ],
+      "eerlijk_oordeel": "Solide, betaalbaar stuk bouwgrond met echte bouwrechten en laag overstromingsrisico. Directe flipwinst is beperkt; het loont vooral bij ontwikkeling of geduldig aanhouden. Bouwparameters eerst bevestigen.",
+      "contact": {
+        "bron": "kyero (makelaar PERETO, Grupo Inmobiliario S.L.)",
+        "telefoon": "onbekend - via advertentie",
+        "email": "onbekend - via advertentie",
+        "url": "https://www.kyero.com/en/property/7706123-land-for-sale-pedreguer",
+        "referentie": "00864",
+        "opmerking": "Stedelijk perceel 1.000 m2, urbanisatie Montesolana."
+      },
+      "bronnen": [
+        {
+          "titel": "kyero - Land Pedreguer Montesolana (ref 00864)",
+          "url": "https://www.kyero.com/en/property/7706123-land-for-sale-pedreguer"
+        }
+      ]
+    }
+  ]
+}
