@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o. - dagelijkse kansen",
+    "datum": "2026-08-09",
+    "regio": "Marina Alta / La Safor (rond Oliva)",
+    "run_type": "Dagelijkse automatische run",
+    "aantal": 5,
+    "marktcontext": "Augustus 2026: het aanbod van betaalbare objecten in Oliva en Pego blijft ruim. In Oliva staan tientallen te renoveren dorpshuizen (vanaf circa 42.000 euro) plus enkele commerciele panden en bouwkavels. Pego (binnenland, circa 7 km van de kust) is fors goedkoper per m2 dan de kuststrook en biedt ruime gezinswoningen en instapklare appartementen onder 150.000 euro. De kansen van vandaag komen alle van Kyero, met controleerbare advertentie-URL en referentie. Let op: prijzen per m2 in Pego liggen lager dan in Oliva pueblo of aan de kust, wat de flip-marge drukt; reken elke case apart door. Na de DANA van oktober 2024 zijn de PATRICOVA-overstromingskaarten herzien; de Marjal de Pego-Oliva en delen van de kuststrook blijven risicogebied.",
+    "disclaimer": "Geen financieel of juridisch advies. Prijzen, referenties en gegevens zijn overgenomen van de advertentiepagina (Kyero) op de datum van deze run en kunnen wijzigen of verlopen. Exacte ligging, overstromingsklasse (PATRICOVA), vergunningsstatus en of een horecapand met of zonder werkende licentie/traspaso wordt verkocht altijd zelf verifieren bij gemeente, notaris en makelaar voordat u handelt."
+  },
+  "kansen": [
+    {
+      "id": "oliva-restaurant-pnbs347-2026-08-09",
+      "titel": "Instapklaar restaurant 100 m2 nabij strand Oliva",
+      "type": "Horecapand, instapklaar, capaciteit circa 80 couverts binnen plus terras",
+      "type_kort": "Horeca",
+      "plaats": "Oliva (nabij strand / Platja de Oliva)",
+      "regio": "Marina Alta / La Safor",
+      "vraagprijs": 80000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "80.000 euro volgens Kyero-advertentie (ref PNBS347). Niet duidelijk uit de listing of alleen het pand of ook de lopende zaak/traspaso is inbegrepen - dit zelf navragen.",
+      "kerngegevens": [
+        {"label": "Oppervlak", "waarde": "100 m2"},
+        {"label": "Badkamers", "waarde": "2"},
+        {"label": "Staat", "waarde": "Goede staat, gerenoveerd, gemeubileerd"},
+        {"label": "Extra", "waarde": "Terras, airco, parkeren op straat, invalidentoegang"}
+      ],
+      "score": 66,
+      "score_label": "Interessant",
+      "strategie": "Verhuur aan een horeca-uitbater (stabiele huurstroom) of doorverkoop van pand plus zaak. Sterke ligging nabij strand en centrum.",
+      "samenvatting": "Bedrijfsklaar restaurant van 100 m2 in een druk bezocht gebied nabij het strand van Oliva, met terras en capaciteit voor circa 80 gasten binnen. In goede, gerenoveerde staat. Lage instapprijs voor een horecapand op deze locatie.",
+      "voors": [
+        "Lage instapprijs (80.000 euro) voor een horecapand nabij het strand",
+        "Instapklaar en gerenoveerd - weinig extra investering nodig",
+        "Sterke seizoensvraag in de strandzone van Oliva (positief signaal profiel)",
+        "Dubbele exit: verhuren aan uitbater of doorverkopen"
+      ],
+      "tegens": [
+        "Onduidelijk of horeca-/hostelrylicentie en/of lopende zaak zijn inbegrepen - cruciaal voor de waarde",
+        "Horeca is conjunctuurgevoelig; leegstandsrisico buiten seizoen",
+        "Kustligging: overstromingsklasse (PATRICOVA) verifieren",
+        "Flip-marge beperkt zolang niet vaststaat wat exact verkocht wordt"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "80.000 euro"},
+          {"label": "ITP (10%)", "waarde": "8.000 euro"},
+          {"label": "Notaris/register/advocaat (circa 2%)", "waarde": "circa 1.600 euro"},
+          {"label": "Totale instap (indicatie)", "waarde": "circa 89.600 euro"},
+          {"label": "Indicatieve verhuur aan uitbater", "waarde": "circa 800-1.200 euro/maand (te bevestigen)"}
+        ],
+        "conclusie": "Instap laag. Rendement en flip-marge staan of vallen met de vraag of een werkende horecalicentie en/of de zaak zijn inbegrepen. Bij enkel het kale pand is de businesscase zwakker."
+      },
+      "vergunning": "Als het pand al een horecabestemming en werkende licentie heeft, is dat een groot pluspunt (nieuwe licenties zijn schaars en traag). Bevestig de licentiestatus (licencia de actividad / apertura) en of die overdraagbaar is bij de gemeente Oliva.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Ligging nabij het strand van Oliva. Delen van de kuststrook staan op de herziene PATRICOVA-kaarten. Exacte overstromingsklasse per perceel verifieren voor aankoop."
+      },
+      "demografie": "Oliva heeft circa 27.000 inwoners met sterke toeristische pieken in de zomer; de strandzone trekt veel bin- en buitenlandse bezoekers, wat gunstig is voor horeca-omzet in het seizoen.",
+      "ideeen": [
+        "Verhuren aan ervaren uitbater met meerjarig huurcontract",
+        "Zelf exploiteren in hoogseizoen, verhuren in laagseizoen",
+        "Doorverkoop als turnkey horeca aan investeerder"
+      ],
+      "due_diligence": [
+        "Bevestig of licentie en/of lopende zaak zijn inbegrepen",
+        "Controleer overstromingsklasse (PATRICOVA) en verzekerbaarheid",
+        "Vraag exploitatiecijfers/omzet op indien zaak wordt meegekocht",
+        "Controleer staat van installaties (keuken, afzuiging, airco)"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke prijs en locatie, maar de waarde hangt sterk af van wat er precies wordt verkocht (pand alleen versus pand plus licentie plus zaak). Zonder werkende licentie daalt de score. Eerst dat uitzoeken voordat u verder rekent.",
+      "contact": {
+        "bron": "Kyero (makelaar: Parasol Networks Estate Agents/Inmobiliaria)",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://www.kyero.com/en/property/21177031-commercial-property-for-sale-oliva",
+        "referentie": "PNBS347",
+        "opmerking": "Contact via het formulier op de Kyero-pagina. Remote viewing beschikbaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Restaurant Oliva 80.000 euro (PNBS347)", "url": "https://www.kyero.com/en/property/21177031-commercial-property-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-bouwkavel-met-ocpl011-2026-08-09",
+      "titel": "Stedelijke bouwkavel nabij MET, golf en strand - Oliva",
+      "type": "Bouwgrond, stedelijk (suelo urbano), nabij Oliva Nova Golf en MET",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (nabij Oliva Nova, MET en strand)",
+      "regio": "Marina Alta / La Safor",
+      "vraagprijs": 90000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "90.000 euro volgens Kyero-advertentie (ref OCPL011).",
+      "kerngegevens": [
+        {"label": "Type grond", "waarde": "Stedelijk (urban)"},
+        {"label": "Bijzonderheid", "waarde": "Volgens listing: nog niet geprogrammeerd voor residentieel gebruik"},
+        {"label": "Ligging", "waarde": "Nabij MET-terrein, Oliva Nova Golf en strand"}
+      ],
+      "score": 57,
+      "score_label": "Voorzichtig",
+      "strategie": "Lange-termijn grondpositie in een gewild kustgebied. Niet geschikt voor een snelle flip zolang er geen directe bouwtitel is.",
+      "samenvatting": "Bouwkavel op korte afstand van het MET-terrein, Oliva Nova Golf en het strand - een gewilde zone. De advertentie vermeldt echter dat de grond stedelijk is maar nog niet geprogrammeerd voor residentiele bebouwing, wat directe ontwikkeling blokkeert.",
+      "voors": [
+        "Zeer gewilde ligging (golf, MET, strand) met sterke vakantieverhuurmarkt in de omgeving",
+        "Relatief lage instapprijs voor grond in deze zone",
+        "Potentie op termijn als er wel een bouwtitel/programmering komt"
+      ],
+      "tegens": [
+        "Volgens de listing niet geprogrammeerd voor residentieel gebruik - niet direct bebouwbaar",
+        "Kapitaal staat mogelijk jaren vast tot planologie rond is (raakt vergunningshaalbaarheid, zwaar gewogen)",
+        "Kustzone nabij Oliva Nova: overstromingsrisico (PATRICOVA) grondig checken",
+        "Flip-marge onzeker zonder duidelijke bouwrechten"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "90.000 euro"},
+          {"label": "ITP (10%)", "waarde": "9.000 euro"},
+          {"label": "Notaris/register/advocaat (circa 2%)", "waarde": "circa 1.800 euro"},
+          {"label": "Totale instap (indicatie)", "waarde": "circa 100.800 euro"},
+          {"label": "Bouwkosten indien later toegestaan", "waarde": "circa 1.200-1.800 euro/m2 nieuwbouw (indicatie)"}
+        ],
+        "conclusie": "Alleen zinvol als bewuste lange-termijn grondpositie. Voor een snelle flip of directe ontwikkeling ongeschikt zolang de programmering ontbreekt."
+      },
+      "vergunning": "Kernpunt: de listing meldt dat de grond stedelijk is maar niet geprogrammeerd voor residentieel gebruik. Verifieer bij de gemeente Oliva de exacte classificatie (urbano consolidado vs. no consolidado / sectorisado), of er een PAI loopt en welke bouwrechten en termijnen gelden. Zonder duidelijke bouwtitel is ontwikkeling niet mogelijk.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Ligging in de kustzone nabij Oliva Nova. Delen daarvan staan op de herziene PATRICOVA-kaarten. Overstromingsklasse per perceel verifieren."
+      },
+      "demografie": "De zone rond Oliva Nova en het strand kent een sterke internationale vraag naar vakantie- en golfwoningen, wat de grondwaarde op termijn ondersteunt mits bebouwing mogelijk wordt.",
+      "ideeen": [
+        "Aankopen en aanhouden tot programmering/bouwtitel rond is",
+        "Onderhandelen over prijs gezien de planologische onzekerheid",
+        "Alleen doorgaan na schriftelijke bevestiging van bouwrechten"
+      ],
+      "due_diligence": [
+        "Gemeente Oliva: exacte grondclassificatie en bouwrechten opvragen",
+        "Nagaan of en wanneer programmering (PAI) is voorzien",
+        "PATRICOVA-overstromingsklasse en verzekerbaarheid checken",
+        "Nota simple en kadastrale gegevens controleren"
+      ],
+      "eerlijk_oordeel": "Mooie locatie, maar de vermelding dat de grond niet geprogrammeerd is voor wonen is een serieuze rem. Dit is een geduldspel, geen flip. Bij twijfel over de bouwtitel lager scoren of laten liggen - conform de profielregel om rustieke/niet-bebouwbare grond te mijden.",
+      "contact": {
+        "bron": "Kyero (makelaar: Oliva Casas)",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://www.kyero.com/en/property/17227754-land-for-sale-oliva",
+        "referentie": "OCPL011",
+        "opmerking": "Contact via het formulier op de Kyero-pagina. Remote viewing beschikbaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Bouwkavel Oliva 90.000 euro (OCPL011)", "url": "https://www.kyero.com/en/property/17227754-land-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "pego-woning-102sfa148-2026-08-09",
+      "titel": "Ruime woning 180 m2 met garage en terras - Pego",
+      "type": "Ruime woning, 5 slaapkamers, garage, dakterras",
+      "type_kort": "Flip-pand",
+      "plaats": "Pego (binnenland Marina Alta)",
+      "regio": "Marina Alta",
+      "vraagprijs": 148000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "148.000 euro volgens Kyero-advertentie (ref 102SFA148.FPV-C/3716). De pagina toont wel de melding dat de beschikbaarheid kan zijn gewijzigd - actuele status bij de makelaar bevestigen.",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "180 m2"},
+        {"label": "Perceel", "waarde": "85 m2"},
+        {"label": "Slaapkamers", "waarde": "5"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Extra", "waarde": "Garage, terras, dakterras, airco, energielabel D"}
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Cosmetische opknap en doorverkoop, of aanhouden voor verhuur aan gezin. Waarde zit in het lage bedrag per m2 (circa 822 euro/m2 bouw).",
+      "samenvatting": "Ruime woning van 180 m2 met 5 slaapkamers, garage, terras en dakterras in Pego, aangeboden voor 148.000 euro. Met een energielabel D en veel ruimte biedt dit potentie voor een gezinswoning of een opknap-en-verkoop, mits de verbouwingsbehoefte beperkt blijft.",
+      "voors": [
+        "Laag bedrag per m2 (circa 822 euro/m2 bouw) - ruimte voor marge",
+        "Veel woonruimte (180 m2), garage en twee terrassen",
+        "Airco en label D wijzen op redelijke basisstaat (minder zware verbouwing)",
+        "Geschikt voor zowel flip als verhuur aan gezin"
+      ],
+      "tegens": [
+        "Pego is binnenland: verkoopprijzen per m2 liggen lager dan aan de kust, wat de marge drukt",
+        "Slechts 1 badkamer bij 5 slaapkamers - extra badkamer vergt investering",
+        "Advertentie meldt dat beschikbaarheid kan zijn gewijzigd - mogelijk al verkocht/onder bod",
+        "Pego ligt nabij de Marjal de Pego-Oliva - overstromingsklasse van dit perceel goed checken"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "148.000 euro"},
+          {"label": "ITP (10%)", "waarde": "14.800 euro"},
+          {"label": "Notaris/register/advocaat (circa 2%)", "waarde": "circa 2.960 euro"},
+          {"label": "Totale instap (indicatie)", "waarde": "circa 165.760 euro"},
+          {"label": "Cosmetische opknap (indicatie)", "waarde": "circa 30.000-60.000 euro afhankelijk van staat"},
+          {"label": "Indicatieve verkoop na opknap", "waarde": "circa 198.000-234.000 euro (1.100-1.300 euro/m2 Pego)"}
+        ],
+        "conclusie": "Marge is redelijk bij louter cosmetische opknap, maar wordt dun als een zware verbouwing (o.a. extra badkamer, installaties) nodig is. Eerst de werkelijke bouwstaat bezichtigen."
+      },
+      "vergunning": "Bestaande woning, dus geen bestemmingswijziging nodig. Voor een opknap volstaat doorgaans een licencia de obra menor; bij structurele ingrepen obra mayor. Controleer of de 180 m2 volledig legaal geregistreerd is (kadaster vs. werkelijkheid).",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Pego grenst aan de Marjal de Pego-Oliva, een bekend overstromingsgebied. De ligging binnen de kern bepaalt het risico; PATRICOVA-klasse van dit specifieke perceel verifieren, zeker na de DANA van 2024."
+      },
+      "demografie": "Pego (circa 10.000 inwoners) is een levendige binnenlandse marktplaats met voorzieningen en een gemengde bevolking van locals en buitenlandse bewoners; vraag naar betaalbare gezinswoningen is stabiel.",
+      "ideeen": [
+        "Cosmetische opknap plus tweede badkamer, dan doorverkopen",
+        "Verhuren aan gezin (langlopend huurcontract)",
+        "Onderhandelen op prijs gezien 1 badkamer en label D"
+      ],
+      "due_diligence": [
+        "Bevestig actuele beschikbaarheid (listing meldt mogelijke wijziging)",
+        "Bezichtig werkelijke bouwstaat en bepaal verbouwingsbudget",
+        "Controleer legale oppervlakte (kadaster/nota simple)",
+        "PATRICOVA-overstromingsklasse van het perceel checken"
+      ],
+      "eerlijk_oordeel": "Veel vierkante meters voor het geld en een dubbele exit (flip of verhuur). De marge is echter gevoelig voor de verbouwingsomvang en voor de lagere verkoopprijzen in Pego. Werkt alleen als de opknap beperkt blijft; anders dun. Eerst bezichtigen en beschikbaarheid bevestigen.",
+      "contact": {
+        "bron": "Kyero (makelaar: HogarAbitat)",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://www.kyero.com/en/property/20343126-villa-for-sale-pego",
+        "referentie": "102SFA148.FPV-C/3716",
+        "opmerking": "Contact via het formulier op de Kyero-pagina. Beschikbaarheid kan zijn gewijzigd - bevestigen."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Woning Pego 148.000 euro (102SFA148)", "url": "https://www.kyero.com/en/property/20343126-villa-for-sale-pego"}
+      ]
+    },
+    {
+      "id": "pego-appartement-ho121538-2026-08-09",
+      "titel": "Instapklaar 3-slaapkamer appartement met lift - centrum Pego",
+      "type": "Appartement, 3e verdieping met lift, instapklaar",
+      "type_kort": "Verhuur",
+      "plaats": "Pego (centrum)",
+      "regio": "Marina Alta",
+      "vraagprijs": 129000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "129.000 euro volgens Kyero-advertentie (ref HO121538). De pagina toont de melding dat de beschikbaarheid kan zijn gewijzigd - bevestigen bij de makelaar.",
+      "kerngegevens": [
+        {"label": "Bouwoppervlak", "waarde": "86 m2"},
+        {"label": "Slaapkamers", "waarde": "3"},
+        {"label": "Badkamers", "waarde": "1"},
+        {"label": "Extra", "waarde": "Lift, dubbel glas, airco, elektrische verwarming"}
+      ],
+      "score": 61,
+      "score_label": "Voorzichtig",
+      "strategie": "Instapklaar aankopen voor langlopende verhuur (of als vakantie-/tweede woning). Flip-potentie beperkt omdat het al presentabel is.",
+      "samenvatting": "Licht en instapklaar appartement van 86 m2 met 3 slaapkamers, lift en dubbel glas in het centrum van Pego. Geschikt als verhuurobject of tweede woning; weinig werk nodig, maar daardoor ook beperkte opwaardeermarge.",
+      "voors": [
+        "Instapklaar - direct verhuurbaar, geen verbouwingsrisico",
+        "Lift, dubbel glas en airco: aantrekkelijk voor huurders",
+        "Centrale ligging in Pego, dicht bij voorzieningen",
+        "Binnen budget en beheersbaar instapbedrag"
+      ],
+      "tegens": [
+        "Prijs per m2 (circa 1.500 euro/m2) is aan de hoge kant voor Pego - weinig flip-marge",
+        "Slechts 1 badkamer",
+        "Langlopende huur in binnenland Pego levert een bescheiden rendement",
+        "Advertentie meldt mogelijke wijziging in beschikbaarheid"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "129.000 euro"},
+          {"label": "ITP (10%)", "waarde": "12.900 euro"},
+          {"label": "Notaris/register/advocaat (circa 2%)", "waarde": "circa 2.580 euro"},
+          {"label": "Totale instap (indicatie)", "waarde": "circa 144.480 euro"},
+          {"label": "Indicatieve langhuur", "waarde": "circa 600-750 euro/maand (te bevestigen)"},
+          {"label": "Indicatief bruto rendement", "waarde": "circa 5-6% op instap"}
+        ],
+        "conclusie": "Als verhuurobject een redelijk, stabiel rendement met weinig gedoe. Als flip weinig kansrijk: het is al presentabel en de prijs per m2 is voor Pego relatief hoog."
+      },
+      "vergunning": "Bestaand, bewoonbaar appartement - geen bestemmingswijziging nodig. Voor toeristische verhuur een VT-registratie (Comunitat Valenciana) en toestemming van de VvE (comunidad) checken.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Pego grenst aan de Marjal de Pego-Oliva (overstromingsgebied). Ligging op de 3e verdieping beperkt de schade aan de woning zelf, maar controleer de PATRICOVA-klasse van het gebouw/perceel en de verzekerbaarheid."
+      },
+      "demografie": "Centrum Pego trekt zowel lokale huurders als buitenlandse bewoners; vraag naar instapklare, goed onderhouden appartementen is stabiel gedurende het jaar.",
+      "ideeen": [
+        "Langlopende verhuur aan lokale huurder",
+        "Toeristische verhuur (na VT-registratie) in het seizoen",
+        "Gebruik als eigen tweede woning met deelverhuur"
+      ],
+      "due_diligence": [
+        "Bevestig actuele beschikbaarheid",
+        "Check haalbare huurprijzen ter plaatse",
+        "VvE-kosten (comunidad) en staat van het gebouw opvragen",
+        "PATRICOVA-klasse en verzekering controleren"
+      ],
+      "eerlijk_oordeel": "Solide, risicoarm verhuurobject, maar geen flip: de prijs per m2 laat weinig ruimte voor waardevermeerdering. Prima als u stabiel rendement zoekt; minder passend bij het primaire flip-doel. Score daarom voorzichtig.",
+      "contact": {
+        "bron": "Kyero (makelaar: Hamiltons Of London)",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://www.kyero.com/en/property/20551454-apartment-for-sale-pego",
+        "referentie": "HO121538",
+        "opmerking": "Contact via het formulier op de Kyero-pagina. Remote viewing beschikbaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Appartement Pego 129.000 euro (HO121538)", "url": "https://www.kyero.com/en/property/20551454-apartment-for-sale-pego"}
+      ]
+    },
+    {
+      "id": "oliva-bedrijfspand-092bjafl85-2026-08-09",
+      "titel": "Groot bedrijfspand 100 m2 aan Avenida de Valencia - Oliva",
+      "type": "Commercieel pand (local), aan hoofdweg, met herbestemmingspotentie",
+      "type_kort": "Bedrijfspand",
+      "plaats": "Oliva (nabij Avenida de Valencia)",
+      "regio": "Marina Alta / La Safor",
+      "vraagprijs": 85000,
+      "prijs_status": "Vraagprijs bevestigd op advertentie",
+      "prijs_notitie": "85.000 euro volgens Kyero-advertentie (ref 092BJAFL85.FPV-B/3716).",
+      "kerngegevens": [
+        {"label": "Oppervlak", "waarde": "100 m2"},
+        {"label": "Ligging", "waarde": "Nabij Avenida de Valencia (hoofdader Oliva)"},
+        {"label": "Energie", "waarde": "Label E"},
+        {"label": "Extra", "waarde": "Virtuele 3D-tour en videotour beschikbaar"}
+      ],
+      "score": 63,
+      "score_label": "Interessant",
+      "strategie": "Verhuur als commerciele ruimte, of herbestemming naar woning/loft (mits change-of-use wordt vergund) en daarna verkoop of verhuur.",
+      "samenvatting": "Ruim commercieel pand van 100 m2 aan een drukke hoofdweg in Oliva, tegen circa 850 euro/m2. Geschikt om te verhuren als bedrijfsruimte of - indien de gemeente change-of-use toestaat - om te bouwen naar een woning/loft met meerwaarde.",
+      "voors": [
+        "Lage prijs per m2 (circa 850 euro/m2)",
+        "Zichtlocatie aan hoofdader met goede passantenstroom",
+        "Flexibele exit: commercieel verhuren of herbestemmen naar wonen",
+        "Ruime, indeelbare vloer (open ruimte)"
+      ],
+      "tegens": [
+        "Herbestemming naar woning vergt gemeentelijke goedkeuring (cambio de uso) - onzeker",
+        "Label E: verbouwing/isolatie nodig bij ombouw naar wonen",
+        "Als puur commercieel: leegstandsrisico afhankelijk van vraag",
+        "Overstromingsklasse (PATRICOVA) van de locatie verifieren"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "85.000 euro"},
+          {"label": "ITP (10%)", "waarde": "8.500 euro"},
+          {"label": "Notaris/register/advocaat (circa 2%)", "waarde": "circa 1.700 euro"},
+          {"label": "Totale instap (indicatie)", "waarde": "circa 95.200 euro"},
+          {"label": "Ombouw naar wonen (indicatie)", "waarde": "circa 70.000-100.000 euro (700-1.000 euro/m2) plus vergunningen"},
+          {"label": "Indicatieve commerciele huur", "waarde": "circa 500-800 euro/maand (te bevestigen)"}
+        ],
+        "conclusie": "Als commercieel verhuurobject een betaalbare instap met redelijk rendement. De grote waardesprong (herbestemming naar wonen) is alleen haalbaar als de gemeente change-of-use toestaat - dat eerst uitzoeken."
+      },
+      "vergunning": "Cruciaal: informeer bij de gemeente Oliva of cambio de uso (van local commercial naar vivienda) mogelijk is op deze locatie (bestemmingsplan, minimale afmetingen, licht/ventilatie-eisen, habitabilidad). Zonder change-of-use blijft het een commerciele ruimte.",
+      "overstroming": {
+        "niveau": "Middel",
+        "kleur": "amber",
+        "toelichting": "Ligging in Oliva pueblo nabij Avenida de Valencia. Doorgaans lager risico dan de kust- of marjalzone, maar de exacte PATRICOVA-klasse per adres verifieren, zeker na de herziening van 2024."
+      },
+      "demografie": "De Avenida de Valencia is een drukke invalsweg van Oliva met winkels en verkeer; goede zichtbaarheid voor commerciele functies en een gebied met stabiele lokale vraag.",
+      "ideeen": [
+        "Verhuren als winkel/kantoor/praktijkruimte",
+        "Herbestemmen naar loft/woning en verkopen (mits vergund)",
+        "Splitsen in kleinere commerciele units indien toegestaan"
+      ],
+      "due_diligence": [
+        "Gemeente Oliva: mogelijkheid en voorwaarden change-of-use opvragen",
+        "Habitabilidad-eisen (licht, ventilatie, hoogte) toetsen bij ombouw",
+        "PATRICOVA-overstromingsklasse per adres checken",
+        "Staat van installaties en aansluitingen controleren"
+      ],
+      "eerlijk_oordeel": "Betaalbaar pand op een goede zichtlocatie. De echte upside (ombouw naar wonen) is aantrekkelijk maar staat of valt met de vergunning voor change-of-use. Reken met en zonder herbestemming door; als commercieel object is het rendement bescheiden maar reeel.",
+      "contact": {
+        "bron": "Kyero (makelaar: HogarAbitat)",
+        "telefoon": "onbekend",
+        "email": "onbekend",
+        "url": "https://www.kyero.com/en/property/17588632-commercial-property-for-sale-oliva",
+        "referentie": "092BJAFL85.FPV-B/3716",
+        "opmerking": "Contact via het formulier op de Kyero-pagina. 3D- en videotour beschikbaar."
+      },
+      "bronnen": [
+        {"titel": "Kyero - Bedrijfspand Oliva 85.000 euro (092BJAFL85)", "url": "https://www.kyero.com/en/property/17588632-commercial-property-for-sale-oliva"}
+      ]
+    }
+  ]
+}
