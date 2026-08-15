@@ -1,0 +1,386 @@
+{
+  "meta": {
+    "titel": "Vastgoedradar Oliva e.o.",
+    "datum": "2026-08-11",
+    "regio": "Marina Alta / La Safor",
+    "run_type": "Dagelijkse run",
+    "aantal": 5,
+    "marktcontext": "Vandaag vooral geput uit Kyero en Habitaclia (2 platforms, conform werkwijze). Opvallend veel 'sin posesion'/okupa-aanbod in Oliva pueblo rond 52-67k - allemaal bewust overgeslagen conform profiel. Het reguliere aanbod onder 100k in Oliva bestaat vooral uit kavels en garages; te renoveren dorpshuizen met vrije oplevering rond 85k zijn schaarser geworden. In de strandzones (Oliva Playa, Piles Playa) blijft de vraag sterk; instapkavels op de tweede lijn zijn er nog onder 90k.",
+    "disclaimer": "Dit is geen financieel of juridisch advies. Alle gegevens komen van openbare advertenties en zijn niet ter plaatse geverifieerd. Prijzen, marges en rendementen zijn indicatieve schattingen; laat vergunnings-, overstromings- en eigendomssituatie altijd door een gestor/advocaat controleren voor een bod."
+  },
+  "kansen": [
+    {
+      "id": "oliva-playa-adosado-pool-garage-215k-2026-08-11",
+      "titel": "Semi-nieuw adosado met zwembad en garage vlakbij het strand - 215k",
+      "type": "Instapklaar verhuurobject (vakantieverhuur strandzone)",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva (Playa-zone)",
+      "regio": "La Safor",
+      "vraagprijs": 215000,
+      "prijs_status": "Vraagprijs bevestigd op advertentiepagina Kyero",
+      "prijs_notitie": "215.000 euro voor 143 m2 = ca 1.500 euro/m2, ruim onder de 3.000-4.000 euro/m2 die gerenoveerd vastgoed direct aan het strand doet. Let op: 2 slaapkamers plus kantoor, 1 badkamer.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "143 m2"},
+        {"label": "Indeling", "waarde": "2 slaapkamers, 1 badkamer, kantoor"},
+        {"label": "Extra", "waarde": "Gemeenschappelijk zwembad, garage, terras, balkon, alarm"},
+        {"label": "Staat", "waarde": "Semi-nieuw, energielabel D"},
+        {"label": "Ligging", "waarde": "Op loopafstand van het strand"}
+      ],
+      "score": 72,
+      "score_label": "Sterk",
+      "strategie": "Kopen en direct inzetten als vakantieverhuur in de strandzone; garage en zwembad zijn sterke troeven in de verhuurmarkt. Op termijn doorverkopen aan een eindgebruiker; de instap per m2 ligt duidelijk onder de gerenoveerde strandmarkt.",
+      "samenvatting": "Semi-nieuw rijtjeshuis van 143 m2 op loopafstand van het strand van Oliva, met gemeenschappelijk zwembad, eigen garage en terras. Verdeeld over meerdere verdiepingen, met kantoorruimte en alarminstallatie. Klaar voor gebruik, geen renovatie nodig - dit is een direct inzetbaar verhuurobject in de sterkste verhuurzone van Oliva.",
+      "voors": [
+        "Strandzone Oliva: sterke vakantieverhuurmarkt met hoge zomervraag (positief signaal uit profiel)",
+        "Garage aanwezig - sterk pluspunt (positief signaal uit profiel)",
+        "Semi-nieuw: geen renovatierisico, direct inzetbaar",
+        "Ca 1.500 euro/m2, ruim onder gerenoveerd strandniveau",
+        "Zwembad en terras verhogen verhuurwaarde; virtuele tour en 44 fotos beschikbaar"
+      ],
+      "tegens": [
+        "Slechts 2 slaapkamers en 1 badkamer beperkt de verhuurcapaciteit en de doorverkoopdoelgroep",
+        "Kustlaagte: overstromingsrisico moet per PATRICOVA-kaart gecheckt worden",
+        "Gemeenschappelijk zwembad betekent VvE-kosten (comunidad)",
+        "Flipmarge beperkt omdat het pand al af is; rendement moet vooral uit verhuur komen"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "215.000 euro"},
+          {"label": "ITP 10% + kosten ca 2%", "waarde": "ca 26.000 euro"},
+          {"label": "Totale investering", "waarde": "ca 241.000 euro"},
+          {"label": "Geschatte vakantieverhuur bruto", "waarde": "ca 15.000-18.000 euro/jaar (zomerpiek + tussenseizoen)"},
+          {"label": "Indicatief brutorendement", "waarde": "ca 6-7%"}
+        ],
+        "conclusie": "Geen klassieke flip maar een solide verhuurcase in de beste zone. Bij verkoop over enkele jaren is waardegroei in de strandzone het opwaartse scenario."
+      },
+      "vergunning": "Bestaande woning, geen verbouwvergunning nodig. Voor toeristische verhuur is in de Comunitat Valenciana een VT-registratie vereist; check of het nummer overdraagbaar is of nieuw aangevraagd moet worden (gemeente Oliva hanteert sinds 2024 strengere regels voor nieuwe VT-nummers).",
+      "overstroming": {
+        "niveau": "Te verifieren - kustzone",
+        "kleur": "amber",
+        "toelichting": "De vlakke kuststrook van Oliva kent PATRICOVA-zones met verhoogd risico; na de DANA van oktober 2024 zijn kaarten herzien. Exacte ligging opvragen en checken voor bod."
+      },
+      "demografie": "Oliva Playa trekt Spaanse gezinnen (Valencia/Madrid) en Noord-Europese overwinteraars; het huurseizoen loopt van Pasen tot oktober met een stevige winternichemarkt.",
+      "ideeen": [
+        "Kantoorruimte ombouwen tot derde slaapkamer om verhuurcapaciteit te verhogen",
+        "Winterverhuur aan overwinteraars (3-6 maanden) combineren met zomerweken",
+        "Garage apart verhuren buiten het seizoen"
+      ],
+      "due_diligence": [
+        "Exacte adres en PATRICOVA-overstromingszone opvragen",
+        "VvE-kosten en reglement (mag toeristische verhuur binnen de comunidad?)",
+        "VT-vergunningssituatie bij gemeente Oliva checken",
+        "Bouwjaar en staat installaties bevestigen (energielabel D)"
+      ],
+      "eerlijk_oordeel": "De sterkste kans van vandaag: instapklaar, garage, zwembad en strandzone - precies de signalen waar het profiel positief op scoort. De beperkte slaapkamerindeling en het feit dat de flipmarge hier klein is, houden de score net boven de 70. Dit is primair een verhuurcase.",
+      "contact": {
+        "bron": "Kyero (aanbieder: HogarAbitat)",
+        "telefoon": "Via contactformulier Kyero",
+        "email": "Via contactformulier Kyero",
+        "url": "https://www.kyero.com/en/property/16436392-town-house-for-sale-oliva",
+        "referentie": "092RAB215.FPV-A/3716",
+        "opmerking": "Virtuele 3D-tour en videotour beschikbaar op de advertentiepagina."
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero - terraced house Oliva 215k", "url": "https://www.kyero.com/en/property/16436392-town-house-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "piles-playa-bouwkavel-2elijn-82k-2026-08-11",
+      "titel": "Vlakke bouwkavel op de tweede lijn van Playa de Piles - 82,3k",
+      "type": "Bouwgrond strandzone / bijzondere buitenkans",
+      "type_kort": "Buitenkans",
+      "plaats": "Piles (Playa de Piles)",
+      "regio": "La Safor",
+      "vraagprijs": 82300,
+      "prijs_status": "Vraagprijs bevestigd op advertentiepagina Kyero",
+      "prijs_notitie": "82.300 euro voor een kavel van 240 m2 op de tweede strandlijn. Advertentie vermeldt bebouwbaarheid tot meerdere verdiepingen met deels zeezicht vanaf de 2e/3e laag.",
+      "kerngegevens": [
+        {"label": "Perceel", "waarde": "240 m2, vlak"},
+        {"label": "Ligging", "waarde": "Tweede lijn Playa de Piles, nabij Gandia"},
+        {"label": "Bebouwing", "waarde": "Villa met meerdere lagen mogelijk (volgens advertentie)"},
+        {"label": "Zeezicht", "waarde": "Deels, vanaf 2e/3e verdieping"},
+        {"label": "Makelaar", "waarde": "Azahar Properties"}
+      ],
+      "score": 68,
+      "score_label": "Interessant",
+      "strategie": "Kavel kopen, ontwerp plus vergunning realiseren en ofwel met bouwvergunning doorverkopen (papieren flip), ofwel zelf bouwen en verkopen. Tweede strandlijn bij Piles is schaars en de instap is laag voor kustgrond.",
+      "samenvatting": "Vlakke bouwkavel van 240 m2 op de tweede lijn van het strand van Piles, tussen Oliva en Gandia. Volgens de advertentie is een woning van meerdere lagen mogelijk met deels zeezicht vanaf de bovenverdiepingen. Strandkavels op dit prijsniveau zijn zeldzaam in La Safor.",
+      "voors": [
+        "Tweede strandlijn: schaarse locatie met structurele vraag",
+        "Vlak perceel: eenvoudiger en goedkoper bouwen dan hellingkavels",
+        "Lage instap voor kustgrond (82,3k)",
+        "Piles Playa profiteert van de Gandia-markt (6 km, British School vlakbij)"
+      ],
+      "tegens": [
+        "Kustlaagte van La Safor: overstromingsrisico serieus te checken (PATRICOVA, DANA-herziening)",
+        "Bouwparameters (bouwhoogte, footprint, rooilijnen) nog niet bevestigd bij gemeente Piles",
+        "Klein perceel (240 m2) beperkt het bouwvolume",
+        "Nieuwbouwtraject: ICIO 4%, bouwkosten en 1,5-2 jaar doorlooptijd"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs kavel", "waarde": "82.300 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 10.500 euro"},
+          {"label": "Nieuwbouw ca 150-180 m2", "waarde": "ca 210.000-280.000 euro (1.400-1.550 euro/m2 nieuwbouw)"},
+          {"label": "Totale investering", "waarde": "ca 305.000-370.000 euro"},
+          {"label": "Verkoopwaarde nieuwbouwvilla 2e lijn", "waarde": "indicatief 400.000-500.000 euro"}
+        ],
+        "conclusie": "Bij bevestigde bouwrechten is een marge van 20-30% haalbaar; de goedkopere route is doorverkoop met vergunning zonder zelf te bouwen."
+      },
+      "vergunning": "Eerst bij gemeente Piles het urbanistische regime bevestigen (suelo urbano, bouwhoogte, occupatie). Advertentie presenteert het als bouwkavel, maar edificabiliteit is niet gedocumenteerd in de listing. ICIO 4% over bouwsom bij realisatie.",
+      "overstroming": {
+        "niveau": "Verhoogd - kustlaagte",
+        "kleur": "amber",
+        "toelichting": "De strandstrook van Piles ligt in de vlakke kustzone van La Safor waar PATRICOVA risicozones kent; na de DANA van 2024 zijn kaarten aangescherpt. Dit is het belangrijkste afbreukrisico van deze kans."
+      },
+      "demografie": "Piles Playa is een rustige familiebadplaats die meelift op Gandia; veel Valenciaanse tweedewoningbezitters en groeiende buitenlandse interesse.",
+      "ideeen": [
+        "Papieren flip: kavel + goedgekeurd villa-ontwerp doorverkopen aan een bouwer",
+        "Villa bouwen met dakterras om het zeezicht te verzilveren",
+        "Samen optrekken met naastgelegen kavel(s) als die beschikbaar zijn"
+      ],
+      "due_diligence": [
+        "Urbanistische fiche (ficha urbanistica) opvragen bij gemeente Piles",
+        "PATRICOVA-zone en DANA-herziening voor dit perceel checken",
+        "Nutsvoorzieningen op de kavel bevestigen",
+        "Vergelijkbare nieuwbouwtransacties Piles Playa opvragen"
+      ],
+      "eerlijk_oordeel": "Aantrekkelijke instap voor kustgrond, maar de score blijft onder de 70 door twee onzekerheden: de exacte bouwrechten en het overstromingsprofiel van de kuststrook. Beide zijn met twee telefoontjes te verifieren voordat er een bod ligt.",
+      "contact": {
+        "bron": "Kyero (aanbieder: Azahar Properties)",
+        "telefoon": "Via contactformulier Kyero",
+        "email": "Via contactformulier Kyero",
+        "url": "https://www.kyero.com/en/property/19930348-land-for-sale-piles",
+        "referentie": "0250277",
+        "opmerking": "Remote viewing mogelijk via de makelaar."
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero - bouwkavel Playa de Piles", "url": "https://www.kyero.com/en/property/19930348-land-for-sale-piles"}
+      ]
+    },
+    {
+      "id": "oliva-gerenoveerd-dorpshuis-97m2-158k-2026-08-11",
+      "titel": "Gerenoveerd dorpshuis 97 m2 met terrassen, centrum Oliva - 158k",
+      "type": "Instapklaar verhuurobject",
+      "type_kort": "Verhuur",
+      "plaats": "Oliva (pueblo, centraal)",
+      "regio": "La Safor",
+      "vraagprijs": 158000,
+      "prijs_status": "Vraagprijs bevestigd op advertentiepagina Kyero",
+      "prijs_notitie": "158.000 euro voor 97 m2 gerenoveerd = ca 1.630 euro/m2, binnen de bandbreedte van 1.500-1.800 euro/m2 voor gerenoveerd in Oliva pueblo.",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "97 m2 over 3 lagen (perceel 46 m2)"},
+        {"label": "Indeling", "waarde": "2 slaapkamers, 2 badkamers (waarvan 1 en-suite)"},
+        {"label": "Buiten", "waarde": "Terrassen (deels overdekt), barbecue, bergzicht"},
+        {"label": "Staat", "waarde": "Volledig gerenoveerd, onberispelijke staat, airco"},
+        {"label": "Parkeren", "waarde": "Alleen straatparkeren"}
+      ],
+      "score": 64,
+      "score_label": "Interessant",
+      "strategie": "Kopen als direct renderende lange-termijnverhuur of casa rural-achtige vakantieverhuur in het dorp. Geen renovatiewerk of vergunningstraject; rendement en eventuele waardegroei zijn de dragers, niet een flipmarge.",
+      "samenvatting": "Volledig gerenoveerd karakteristiek dorpshuis van 97 m2 over drie lagen in het centrum van Oliva, dicht bij winkels en op fietsafstand van het strand. Twee slaapkamers met twee badkamers, zonnige (deels overdekte) terrassen met barbecue en bergzicht. De advertentie noemt expliciet goed verhuurpotentieel.",
+      "voors": [
+        "Instapklaar: renovatie- en vochtrisico van het casco historico is hier al afgekocht door de verkoper",
+        "Oliva pueblo buiten-casco prijsniveau, netjes binnen de marktbandbreedte",
+        "Twee badkamers is zeldzaam in dit segment en goed voor verhuur",
+        "Terrassen en bergzicht geven het pand karakter voor vakantieverhuur"
+      ],
+      "tegens": [
+        "Geen garage of eigen parkeerplaats - juist in het centrum een minpunt (negatief signaal uit profiel)",
+        "Ligging wordt als historische zone omschreven: doorverkoopmarkt is daar trager",
+        "Geen flipmarge: het pand is al op marktniveau geprijsd",
+        "Klein perceel (46 m2), geen uitbreidingsruimte"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "158.000 euro"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 19.000 euro"},
+          {"label": "Totale investering", "waarde": "ca 177.000 euro"},
+          {"label": "Huurpotentie lange termijn", "waarde": "ca 750-850 euro/maand"},
+          {"label": "Indicatief brutorendement", "waarde": "ca 5-5,5% (hoger bij vakantieverhuur)"}
+        ],
+        "conclusie": "Nette maar niet spectaculaire verhuurcase. Alleen interessant als de broer een low-maintenance object in het dorp wil naast de strandportefeuille."
+      },
+      "vergunning": "Geen verbouwing nodig. Voor toeristische verhuur VT-registratie vereist; in het historische centrum van Oliva kunnen aanvullende beperkingen gelden - vooraf bij de gemeente checken.",
+      "overstroming": {
+        "niveau": "Laag - dorpskern",
+        "kleur": "green",
+        "toelichting": "De kern van Oliva pueblo ligt tegen de heuvel en buiten de bekende PATRICOVA-risicozones van de kustvlakte en de Marjal. Standaardcheck blijft aan te raden."
+      },
+      "demografie": "Oliva pueblo heeft een stabiele lokale huurmarkt plus groeiende belangstelling van buitenlandse kopers die authentiek willen wonen op fietsafstand van het strand.",
+      "ideeen": [
+        "Vakantieverhuur als dorpshuis-met-terras (onderscheidend t.o.v. strandappartementen)",
+        "Lange-termijnverhuur aan expats of lokale professionals",
+        "Combineren met aankoop van een garagebox in de buurt (aanbod vanaf ca 8.000-9.500 euro gezien) om het parkeerminpunt op te lossen"
+      ],
+      "due_diligence": [
+        "Exacte ligging: valt het pand binnen het beschermde casco historico en welke regels gelden daar",
+        "Kwaliteit van de renovatie inspecteren (vocht, dak, installaties)",
+        "VT-registratiemogelijkheid checken",
+        "Gemeenschapskosten/erfdienstbaarheden nagaan"
+      ],
+      "eerlijk_oordeel": "Degelijk, af, en zonder verrassingen - maar ook zonder marge. Het profiel vraagt om aantoonbare meerwaarde door verbouwing of herbestemming en die ontbreekt hier; het ontbreken van parkeren drukt de score verder. Alleen logisch als rustige rendementsaankoop.",
+      "contact": {
+        "bron": "Kyero (aanbieder: Parasol Networks)",
+        "telefoon": "Via contactformulier Kyero",
+        "email": "Via contactformulier Kyero",
+        "url": "https://www.kyero.com/en/property/20990216-town-house-for-sale-oliva",
+        "referentie": "PNTH2072",
+        "opmerking": "28 fotos en remote viewing beschikbaar."
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero - gerenoveerd dorpshuis Oliva 158k", "url": "https://www.kyero.com/en/property/20990216-town-house-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-bellavista-kavel-672m2-77k-2026-08-11",
+      "titel": "Bouwkavel 672 m2 in urbanisatie Bellavista met bouwvergunning mogelijk - 77k",
+      "type": "Bouwgrond / perceel",
+      "type_kort": "Bouwgrond",
+      "plaats": "Oliva (urbanisatie Bellavista)",
+      "regio": "La Safor",
+      "vraagprijs": 77000,
+      "prijs_status": "Vraagprijs bevestigd op advertentiepagina Kyero",
+      "prijs_notitie": "77.000 euro voor 672 m2 (ca 115 euro/m2). Zelfde kavel lijkt elders op Kyero ook voor 73.000 euro te staan (listing 21170128) - dat suggereert onderhandelruimte.",
+      "kerngegevens": [
+        {"label": "Perceel", "waarde": "672 m2, steile helling"},
+        {"label": "Bebouwbaarheid", "waarde": "25% (ca 168 m2 footprint)"},
+        {"label": "Status", "waarde": "Advertentie vermeldt 'permission to build'"},
+        {"label": "Uitzicht", "waarde": "Berg- en landschapszicht"},
+        {"label": "Nutsvoorzieningen", "waarde": "Water 'mogelijk' - nog niet aangesloten"}
+      ],
+      "score": 62,
+      "score_label": "Interessant",
+      "strategie": "Kavel laag inkopen (dubbele listing wijst op onderhandelruimte richting 70k), villa-ontwerp met vergunning realiseren en doorverkopen aan zelfbouwer, of zelf bouwen voor de verkoopmarkt van hillside-villas met zicht.",
+      "samenvatting": "Bouwkavel van 672 m2 op een helling in de gewilde urbanisatie Bellavista boven Oliva, met 25% bebouwbaarheid en volgens de advertentie bouwtoestemming mogelijk. Berg- en landschapszicht, op enkele minuten rijden van Oliva centrum en het strand.",
+      "voors": [
+        "Bellavista is een gevestigde, gewilde urbanisatie boven het overstromingsrisico",
+        "Lage instap (77k, mogelijk 73k) voor 672 m2 urbane grond",
+        "Zicht-kavels zijn schaars en houden waarde",
+        "Advertentie vermeldt expliciet 'permission to build'"
+      ],
+      "tegens": [
+        "Steile helling: fundering en keerwanden maken bouwen 15-25% duurder",
+        "Water nog niet aangesloten ('possible')",
+        "Nieuwbouw op helling is een lang traject met vergunnings- en kostenrisico",
+        "Verkoopmarkt voor hillside-villas in Oliva is dunner dan de strandmarkt"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs kavel", "waarde": "77.000 euro (elders 73.000 - onderhandelen)"},
+          {"label": "ITP 10% + kosten", "waarde": "ca 9.500 euro"},
+          {"label": "Nieuwbouw villa ca 180 m2 op helling", "waarde": "ca 290.000-340.000 euro incl. keerwanden"},
+          {"label": "Totale investering", "waarde": "ca 380.000-430.000 euro"},
+          {"label": "Verkoopwaarde villa met zicht Bellavista", "waarde": "indicatief 450.000-550.000 euro"}
+        ],
+        "conclusie": "Marge is haalbaar maar gevoelig voor bouwkostenoverschrijding op de helling. De papieren flip (kavel + vergunning doorverkopen) is de veiligere route."
+      },
+      "vergunning": "Urbane grond in bestaande urbanisatie; bouwtoestemming volgens advertentie mogelijk, maar laat de ficha urbanistica en de 25%-parameters bevestigen door de gemeente Oliva. ICIO 4% over de bouwsom bij realisatie.",
+      "overstroming": {
+        "niveau": "Laag - hellingligging",
+        "kleur": "green",
+        "toelichting": "Bellavista ligt op hoogte boven de kustvlakte, buiten de PATRICOVA-risicozones en de Marjal de Pego-Oliva. Bij hellingbouw wel afwatering/erosie meenemen in het ontwerp."
+      },
+      "demografie": "Bellavista trekt vooral Noord-Europese kopers die een villa met zicht zoeken op korte afstand van strand en dorp; zelfbouwkavels worden er actief gezocht.",
+      "ideeen": [
+        "Beide listings (77k en 73k) gebruiken als hefboom in de onderhandeling",
+        "Architect vooraf een haalbaarheidsschets laten maken en kavel-met-plan doorverkopen",
+        "Splitlevel-ontwerp dat de helling benut voor extra volume binnen de 25% footprint"
+      ],
+      "due_diligence": [
+        "Ficha urbanistica en exacte bouwparameters bij gemeente Oliva",
+        "Kosten wateraansluiting en overige nutsvoorzieningen",
+        "Geotechnisch onderzoek helling (keerwanden, fundering)",
+        "Waarom staat de kavel dubbel geadverteerd tegen verschillende prijzen"
+      ],
+      "eerlijk_oordeel": "Goedkope urbane kavel op een goede plek, maar de steile helling eet een deel van het prijsvoordeel op via bouwkosten. Zonder bevestigde bouwparameters blijft dit een 62 - met ficha urbanistica en een scherpe aankoopprijs kan het een nette papieren flip worden.",
+      "contact": {
+        "bron": "Kyero (aanbieder: Parasol Networks)",
+        "telefoon": "Via contactformulier Kyero",
+        "email": "Via contactformulier Kyero",
+        "url": "https://www.kyero.com/en/property/21033334-land-for-sale-oliva",
+        "referentie": "PNPT181",
+        "opmerking": "Vergelijkbare/zelfde kavel ook zichtbaar als listing 21170128 voor 73.000 euro."
+      },
+      "bronnen": [
+        {"titel": "Advertentie Kyero - kavel Bellavista 77k", "url": "https://www.kyero.com/en/property/21033334-land-for-sale-oliva"},
+        {"titel": "Tweede listing zelfde zone - 73k", "url": "https://www.kyero.com/en/property/21170128-land-for-sale-oliva"}
+      ]
+    },
+    {
+      "id": "oliva-pueblo-casa-reformar-120m2-85k-2026-08-11",
+      "titel": "Te renoveren dorpshuis 120 m2 in Oliva pueblo - 85k",
+      "type": "Te flippen pand",
+      "type_kort": "Flip-pand",
+      "plaats": "Oliva (pueblo)",
+      "regio": "La Safor",
+      "vraagprijs": 85000,
+      "prijs_status": "Vraagprijs volgens rubriekpagina Habitaclia",
+      "prijs_notitie": "85.000 euro voor 120 m2 = 708 euro/m2, onder het referentieniveau van ca 988 euro/m2 voor te renoveren objecten in Oliva. Vrije verkoop via makelaar (geen okupa/sin-posesion constructie).",
+      "kerngegevens": [
+        {"label": "Woonoppervlak", "waarde": "120 m2"},
+        {"label": "Indeling", "waarde": "3 slaapkamers, 1 badkamer"},
+        {"label": "Staat", "waarde": "Volledig te renoveren, naar eigen ontwerp in te delen"},
+        {"label": "Aanbieder", "waarde": "Infinity Inmobiliaria (33 fotos + video)"},
+        {"label": "Actualiteit", "waarde": "Advertentie ca 2 weken geleden bijgewerkt"}
+      ],
+      "score": 60,
+      "score_label": "Voorzichtig",
+      "strategie": "Alleen instappen na scherpe onderhandeling (richting 70-75k) of met een gecontroleerd renovatiebudget aan de onderkant van de bandbreedte. De rekensom is op vraagprijs plus volledige renovatie te krap voor het 20%-margecriterium.",
+      "samenvatting": "Klassiek dorpshuis van 120 m2 in Oliva pueblo dat volledig gerenoveerd moet worden en vrij naar eigen smaak is in te delen. Met 708 euro/m2 ligt de instap duidelijk onder het marktgemiddelde voor renovatieobjecten, maar een volledige renovatie duwt de totaalkosten naar het niveau van de verwachte verkoopwaarde.",
+      "voors": [
+        "Instapprijs per m2 ruim onder het referentieniveau van 988 euro/m2",
+        "Vrije verkoop met bezichtiging mogelijk - geen okupa-risico zoals veel ander goedkoop aanbod vandaag",
+        "120 m2 en 3 slaapkamers is een courant formaat voor de doorverkoopmarkt",
+        "Veel beeldmateriaal beschikbaar (33 fotos, video) voor eerste beoordeling op afstand"
+      ],
+      "tegens": [
+        "Volledige renovatie (700-1.100 euro/m2) maakt de business case krap: totale kosten naderen de verwachte verkoopwaarde",
+        "Ligging binnen Oliva pueblo nog te bepalen: in het casco historico gelden splitsings- en vochtrisicos (negatief signaal uit profiel)",
+        "Geen garage of buitenruimte vermeld",
+        "Vraagprijzen voor gerenoveerd in het dorp (1.500-1.800 euro/m2) laten weinig vet over"
+      ],
+      "financieel": {
+        "regels": [
+          {"label": "Vraagprijs", "waarde": "85.000 euro"},
+          {"label": "ITP 10% + kosten ca 2%", "waarde": "ca 10.200 euro"},
+          {"label": "Renovatie 120 m2 x 800-1.000 euro", "waarde": "96.000-120.000 euro"},
+          {"label": "Totale investering", "waarde": "ca 191.000-215.000 euro"},
+          {"label": "Verkoopwaarde gerenoveerd (1.500-1.800 euro/m2)", "waarde": "180.000-216.000 euro"}
+        ],
+        "conclusie": "Op vraagprijs is de marge nul tot licht negatief; pas onder ca 72.000 euro aankoop of met een strak renovatiebudget van 800 euro/m2 en verkoop boven 1.700 euro/m2 komt de vereiste 20% in zicht. Verhuur na renovatie (ca 850-950 euro/maand) is het vangnet."
+      },
+      "vergunning": "Renovatie binnen bestaand volume vergt licencia de obra (ICIO 4% over de bouwsom). Cruciaal: eerst vaststellen of het pand in het beschermde casco historico valt - daar zijn indeling en gevelwijzigingen beperkt en is splitsen meestal niet toegestaan.",
+      "overstroming": {
+        "niveau": "Laag - dorpskern",
+        "kleur": "green",
+        "toelichting": "Oliva pueblo ligt grotendeels buiten de PATRICOVA-risicozones; de risicogebieden liggen in de kustvlakte en richting de Marjal. Adrescheck blijft nodig."
+      },
+      "demografie": "Vraag naar gerenoveerde dorpshuizen komt van lokale starters en buitenlandse kopers; het aanbod vrij opleverbare renovatiepanden onder 90k in Oliva is vandaag opvallend dun.",
+      "ideeen": [
+        "Openingsbod rond 70k, onderbouwd met de renovatieraming",
+        "Renoveren tot 2 slaapkamers + 2 badkamers voor de verhuurmarkt in plaats van door te verkopen",
+        "Dakterras toevoegen als het volume dat toelaat - sterk verkoopargument in het dorp"
+      ],
+      "due_diligence": [
+        "Exact adres en casco historico-status bij gemeente Oliva",
+        "Bouwtechnische opname (vocht, fundering, dak) voor renovatieraming",
+        "Nota simple: lasten, erfdienstbaarheden, vrije oplevering bevestigen",
+        "Offerte aannemer op basis van bezichtiging - niet op basis van fotos"
+      ],
+      "eerlijk_oordeel": "De goedkoopste vrij opleverbare flip-kandidaat van vandaag, maar de rekensom is eerlijk gezegd krap: op vraagprijs voldoet dit niet aan het 20%-margecriterium uit het profiel. Alleen interessant met flinke onderhandelwinst - vandaar bewust een score onder de 62.",
+      "contact": {
+        "bron": "Habitaclia (aanbieder: Infinity Inmobiliaria)",
+        "telefoon": "Via contactformulier Habitaclia",
+        "email": "Via contactformulier Habitaclia",
+        "url": "https://www.habitaclia.com/comprar-casa-en_oliva_pueblo-oliva-i55287000000112.htm",
+        "referentie": "i55287000000112",
+        "opmerking": "Gegevens overgenomen van de geverifieerde rubriekpagina van Habitaclia; de detailpagina laadt alleen in de browser (JavaScript)."
+      },
+      "bronnen": [
+        {"titel": "Habitaclia rubriek casas baratas Oliva (geverifieerd)", "url": "https://www.habitaclia.com/casas-baratas_baratas-oliva.htm"},
+        {"titel": "Advertentie Habitaclia - casa Oliva pueblo 85k", "url": "https://www.habitaclia.com/comprar-casa-en_oliva_pueblo-oliva-i55287000000112.htm"}
+      ]
+    }
+  ]
+}
