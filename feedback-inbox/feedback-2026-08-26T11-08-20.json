@@ -1,0 +1,69 @@
+{
+  "gegenereerd": "2026-08-26T11:08:20.384Z",
+  "run_datum": "2026-08-16",
+  "weging": {
+    "flipmarge": 20,
+    "verhuurrendement": 15,
+    "vergunningshaalbaarheid": 20,
+    "overstromingsrisico": 15,
+    "locatie": 34,
+    "instapprijs_onderhandelruimte": 36
+  },
+  "beoordelingen": [
+    {
+      "id": "oliva-local-clinica-191m2-175k-2026-08-16",
+      "titel": "Bedrijfsruimte 191 m2 met actieve zorgvergunning, centrum Oliva - 175k",
+      "type": "Bedrijfspand",
+      "plaats": "Oliva (pueblo, Paseo de Gregorio Mayans y Ciscar 40)",
+      "score": 68,
+      "interesse": null,
+      "sterren": 0,
+      "notitie": ""
+    },
+    {
+      "id": "pego-casa-pueblo-305m2-178k-2026-08-16",
+      "titel": "Ruim dorpspand 305 m2 met patio en groot terras in Pego - 178k",
+      "type": "Flip-pand",
+      "plaats": "Pego (Marina Alta, binnenland)",
+      "score": 66,
+      "interesse": null,
+      "sterren": 0,
+      "notitie": ""
+    },
+    {
+      "id": "oliva-adosada-molinell-73m2-73k-2026-08-16",
+      "titel": "Adosada 73 m2 op vijf minuten lopen van Playa Molinell, Oliva - 73k",
+      "type": "Verhuur",
+      "plaats": "Oliva (zone Playa Molinell, langs N-332)",
+      "score": 65,
+      "interesse": null,
+      "sterren": 0,
+      "notitie": ""
+    },
+    {
+      "id": "oliva-casco-urbano-400m2-3woningen-320k-2026-08-16",
+      "titel": "Casco-pand 400 m2 met nieuwe constructie, tot drie woningen mogelijk, Oliva - 320k",
+      "type": "Flip-pand",
+      "plaats": "Oliva (casco urbano, niet nader gespecificeerd)",
+      "score": 62,
+      "interesse": null,
+      "sterren": 0,
+      "notitie": ""
+    },
+    {
+      "id": "oliva-piso-san-carlos-112m2-127k-2026-08-16",
+      "titel": "Te renoveren appartement 112 m2 met lift en patio, centrum Oliva - 127,5k",
+      "type": "Flip-pand",
+      "plaats": "Oliva (pueblo, Calle San Carlos)",
+      "score": 57,
+      "interesse": null,
+      "sterren": 0,
+      "notitie": ""
+    }
+  ],
+  "samenvatting": {
+    "ja": 0,
+    "misschien": 0,
+    "nee": 0
+  }
+}
